@@ -1,19 +1,578 @@
 <!DOCTYPE html>
-<html lang="tr">
+<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>WebPageTracker</title>
-    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>BlockSense Network Monitor</title>
+
+    <!-- Ensure FontAwesome CSS is loaded correctly for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-pV+7Kf0H4C5V9BcH9Cl8h2R9K5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l......" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <!-- Hard-looking font for the whole app -->
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;600;700&display=swap" rel="stylesheet"/>
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="light.css"/> <!-- Ana CSS dosyası olarak light.css kullanılıyor -->
 </head>
 <body>
     <div class="container">
-        <h1>WebPageTracker</h1>
-        <input type="text" id="urlInput" placeholder="Track etmek istediğiniz URL">
-        <button id="checkBtn">Yenilikleri Kontrol Et</button>
-        <div id="results"></div>
+        <div class="header">
+            <div class="header-content">
+                <!-- Başlık siyah yapıldı -->
+                <h1 class="modern-header" style="color: #000000;">
+                    <img src="pirate.png" alt="BlockSense Network Monitor" class="logo-icon" id="blockIcon"/>
+                    BlockSense Network Monitor <!-- "Blocksense" -> "BlockSense" -->
+                </h1>
+                <a href="https://cdn.prod.website-files.com/685a93bdfac38ce03d82868d/68a72c43d78a25f46a2b4909_Blocksense_Lightpaper.pdf"
+                   class="litepaper-link" target="_blank" rel="noopener">
+                    LITEPAPER RELEASED
+                </a>
+            </div>
+
+            <!-- Quick Links (compact + NORMAL font weight) -->
+            <div class="quick-links compact">
+                <div class="link-item">
+                    <a href="https://blocksense.network/" target="_blank" rel="noopener"><span class="quick-link-text">Web</span></a> <!-- <strong> kaldırıldı -->
+                </div>
+                <div class="link-item">
+                    <a href="https://discord.com/invite/blocksense" target="_blank" rel="noopener"><span class="quick-link-text">Discord</span></a> <!-- <strong> kaldırıldı -->
+                </div>
+                <div class="link-item">
+                    <a href="https://t.me/BlocksenseNetwork" target="_blank" rel="noopener"><span class="quick-link-text">Telegram</span></a> <!-- <strong> kaldırıldı -->
+                </div>
+                <div class="link-item">
+                    <a href="https://docs.blocksense.network/" target="_blank" rel="noopener"><span class="quick-link-text">Docs</span></a> <!-- <strong> kaldırıldı -->
+                </div>
+                <div class="link-item">
+                    <a href="https://github.com/blocksense-network/blocksense/" target="_blank" rel="noopener"><span class="quick-link-text">Github</span></a> <!-- <strong> kaldırıldı -->
+                </div>
+                <div class="link-item">
+                    <a href="https://www.linkedin.com/company/blocksense-network/posts/?feedView=all" target="_blank" rel="noopener"><span class="quick-link-text">LinkedIn</span></a> <!-- <strong> kaldırıldı -->
+                </div>
+                <div class="link-item">
+                    <a href="https://www.youtube.com/@BlocksenseNetwork/videos?app=desktop" target="_blank" rel="noopener"><span class="quick-link-text">Youtube</span></a> <!-- <strong> kaldırıldı -->
+                </div>
+            </div>
+
+            
+        </div>
+
+        <div class="main-content">
+            <!-- BlockSense Updates Section -->
+            <div class="section shrinkable"> <!-- shrinkable eklendi -->
+                <div class="section-header">
+                    <h2><i class="fas fa-sync-alt"></i> Blocksense Web Updates</h2>
+                    <button id="checkBtn" class="primary-btn small-btn">
+                        <i class="fas fa-search"></i> Check
+                    </button>
+                </div>
+
+                <div class="input-section">
+                    <div class="url-display">
+                        <span class="url-label">Tracking:</span>
+                        <span class="url-text"><strong>https://blocksense.network</strong></span>
+                    </div>
+                </div>
+
+                <div class="loading" id="loading">
+                    <div class="spinner"></div>
+                    <p>Analyzing BlockSense network...</p>
+                </div>
+
+                <div class="results-section">
+                    <div class="results-header">
+                        <h3>Latest Changes</h3>
+                        <div class="view-options">
+                            <button class="view-btn active" data-view="list">List</button>
+                            <button class="view-btn" data-view="timeline">Timeline</button>
+                        </div>
+                    </div>
+                    <div id="results"></div>
+                </div>
+            </div>
+
+            <!-- Networks & Data Feeds Section -->
+            <div class="section shrinkable"> <!-- shrinkable eklendi -->
+                <div class="section-header">
+                    <h2><i class="fas fa-network-wired"></i> Networks & Data Feeds</h2>
+                </div>
+                <div class="networks-and-feeds-content">
+                    <!-- Gelişmiş Filtreleme ve Arama Bölümü -->
+                    <div class="advanced-filters">
+                        <div class="filter-row">
+                            <input type="text" id="feedSearchInput" class="search-input" placeholder="Search feeds (e.g., BTC, ETH, USD, 0x...)">
+                            <select id="networkFilterSelect" class="selector-dropdown">
+                                <option value="">All Networks</option>
+                                <!-- Ağlar JavaScript ile doldurulacak -->
+                            </select>
+                            <select id="pairTypeFilterSelect" class="selector-dropdown">
+                                <option value="">All Pair Types</option>
+                                <option value="/ USD">/ USD</option>
+                                <option value="/ USDT">/ USDT</option>
+                                <option value="/ USDC">/ USDC</option>
+                                <option value="BTC /">BTC /</option>
+                                <option value="ETH /">ETH /</option>
+                                <option value="Stablecoin">Stablecoin Pairs</option> <!-- Özel filtre -->
+                            </select>
+                        </div>
+                        <div class="filter-row">
+                             <button id="applyFiltersBtn" class="primary-btn small-btn">
+                                <i class="fas fa-filter"></i> Apply Filters
+                            </button>
+                            <button id="clearFiltersBtn" class="primary-btn small-btn secondary">
+                                <i class="fas fa-times"></i> Clear
+                            </button>
+                            <button id="exportFeedsBtn" class="primary-btn small-btn">
+                                <i class="fas fa-download"></i> Export Addresses
+                            </button>
+                            <div class="sort-controls">
+                                <label for="sortFeedsSelect">Sort by:</label>
+                                <select id="sortFeedsSelect" class="selector-dropdown">
+                                    <option value="id">ID</option>
+                                    <option value="name">Name</option>
+                                    <option value="address">Address</option>
+                                </select>
+                                <button id="sortOrderBtn" class="primary-btn small-btn">
+                                    <i class="fas fa-sort-amount-down"></i> <span>Asc</span>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="network-list-container">
+                        <h3>Available Networks</h3>
+                        <div class="network-list" id="networkList"></div>
+                        <div class="network-pagination" id="networkPagination"></div>
+                    </div>
+
+                    <div class="feed-list-container">
+                        <h3>Data Feeds (<span id="feedCount">0</span>)</h3>
+                        <div class="feed-list" id="feedList"></div>
+                        <div class="feed-pagination" id="feedPagination"></div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- GitHub Updates Section -->
+            <div class="section">
+                <div class="section-header">
+                    <h2><i class="fab fa-github"></i> GitHub Repository Updates</h2>
+                    <button id="checkGitHubBtn" class="primary-btn small-btn">
+                        <i class="fas fa-sync"></i> Refresh
+                    </button>
+                </div>
+
+                <div class="github-selector">
+                    <label class="selector-label">Show:</label>
+                    <select id="githubSelector" class="selector-dropdown">
+                        <option value="commits">Commits</option>
+                        <option value="issues">Issues</option>
+                        <option value="pull-requests">Pull Requests</option>
+                        <option value="releases">Releases</option>
+                    </select>
+                </div>
+
+                <div class="github-info">
+                    <div class="repo-url">
+                        <i class="fab fa-github"></i>
+                        <a href="https://github.com/blocksense-network/blocksense/" target="_blank" rel="noopener">
+                            github.com/blocksense-network/blocksense
+                        </a>
+                    </div>
+                </div>
+
+                <div class="loading" id="githubLoading">
+                    <div class="spinner"></div>
+                    <p>Loading GitHub updates...</p>
+                </div>
+                <div class="github-results" id="githubResults"></div>
+
+                <div class="github-pro-tracker-link">
+                    <a href="https://github-multi-repo-tracker.vercel.app/" target="_blank" rel="noopener" class="github-pro-link">
+                        <i class="fab fa-github"></i> Github Pro Tracker
+                    </a>
+                    <p class="github-pro-description">(For detailed GitHub analysis, use my other application.)</p>
+                </div>
+            </div>
+
+            <!-- Zincir Bağlantı Haritası (Etkileşimli Izgara) -->
+            <div class="section">
+                <div class="section-header">
+                    <h2><i class="fas fa-project-diagram"></i> Chain Connectivity Map</h2>
+                </div>
+                <div class="map-content">
+                    <div id="chainMapGrid" class="chain-map-grid">
+                        <!-- Ağ kutucukları JavaScript ile doldurulacak -->
+                    </div>
+                </div>
+            </div>
+
+            <!-- Ortak Kontratlar Hakkında Detaylı Bilgi -->
+            <div class="section shrinkable">
+                <div class="section-header">
+                    <h2><i class="fas fa-file-contract"></i> Common Contracts Details</h2>
+                </div>
+                <div class="contracts-content">
+                    <div class="common-contracts-list" id="commonContractsList">
+                        <!-- Ortak kontratlar JavaScript ile doldurulacak -->
+                    </div>
+                </div>
+            </div>
+
+             <!-- Ağ Sağlığı ve Aktivite Panosu -->
+             <div class="section shrinkable">
+                <div class="section-header">
+                    <h2><i class="fas fa-chart-line"></i> Network Health & Activity</h2>
+                </div>
+                <div class="dashboard-content">
+                    <div class="stats-grid">
+                        <div class="stat-card">
+                            <div class="stat-value" id="totalNetworksCount">-</div>
+                            <div class="stat-label">Total Networks</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-value" id="totalFeedsCount">-</div>
+                            <div class="stat-label">Total Data Feeds</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-value" id="mostUsedAssets">-</div>
+                            <div class="stat-label">Top Assets</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-value" id="lastCheckTime">-</div>
+                            <div class="stat-label">Last Check</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 1. "Zincirler Arası Yolculuk" Etkileşimli Akış Şeması -->
+            <div class="section">
+                <div class="section-header">
+                    <h2><i class="fas fa-route"></i> Cross-Chain Journey Flow</h2>
+                </div>
+                <div class="flow-content">
+                    <div class="flow-diagram">
+                        <div class="flow-step">
+                            <div class="flow-icon"><i class="fas fa-terminal"></i></div>
+                            <div class="flow-description">
+                                <h4>1. Request Initiated</h4>
+                                <p>Smart contract on Arbitrum requests "BTC/USD" price.</p>
+                            </div>
+                        </div>
+                        <div class="flow-arrow"><i class="fas fa-arrow-down"></i></div>
+                        <div class="flow-step">
+                            <div class="flow-icon"><i class="fas fa-database"></i></div>
+                            <div class="flow-description">
+                                <h4>2. AggregatedDataFeedStore</h4>
+                                <p>Request is sent to the core contract for processing.</p>
+                            </div>
+                        </div>
+                        <div class="flow-arrow"><i class="fas fa-arrows-alt-h"></i></div>
+                        <div class="flow-step">
+                            <div class="flow-icon"><i class="fas fa-project-diagram"></i></div>
+                            <div class="flow-description">
+                                <h4>3. Cross-Chain Messaging</h4>
+                                <p>Request propagated to nodes on BSC, Polygon via Hyperlane/LayerZero.</p>
+                            </div>
+                        </div>
+                        <div class="flow-arrow"><i class="fas fa-arrow-down"></i></div>
+                        <div class="flow-step">
+                            <div class="flow-icon"><i class="fas fa-calculator"></i></div>
+                            <div class="flow-description">
+                                <h4>4. Oracle Nodes Fetch & ZK Prove</h4>
+                                <p>Each node fetches data, ZK proofs validate correctness privately.</p>
+                            </div>
+                        </div>
+                        <div class="flow-arrow"><i class="fas fa-arrow-up"></i></div>
+                        <div class="flow-step">
+                            <div class="flow-icon"><i class="fas fa-cubes"></i></div>
+                            <div class="flow-description">
+                                <h4>5. zkRollup Batch & Publish</h4>
+                                <p>Proofs aggregated into a zkRollup block, published to Ethereum.</p>
+                            </div>
+                        </div>
+                        <div class="flow-arrow"><i class="fas fa-arrow-down"></i></div>
+                        <div class="flow-step">
+                            <div class="flow-icon"><i class="fas fa-reply"></i></div>
+                            <div class="flow-description">
+                                <h4>6. Result Returned</h4>
+                                <p>Verified result sent back to the requesting Arbitrum contract.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 2. "Oracle Performans Panosu" (Simülasyon) -->
+            <div class="section shrinkable">
+                <div class="section-header">
+                    <h2><i class="fas fa-tachometer-alt"></i> Oracle Performance Dashboard (Simulated)</h2>
+                </div>
+                <div class="dashboard-content">
+                    <div class="stats-grid">
+                        <div class="stat-card">
+                            <div class="stat-value">99.98%</div>
+                            <div class="stat-label">Uptime (Last 30 Days)</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-value">< 2s</div>
+                            <div class="stat-label">Avg. Response Time</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-value">100%</div>
+                            <div class="stat-label">SLA Compliance</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-value">50+</div>
+                            <div class="stat-label">Active Oracle Nodes</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-value">BTC/USD, ETH/USD</div>
+                            <div class="stat-label">Most Requested Feeds</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-value">Ethereum, BSC, Polygon</div>
+                            <div class="stat-label">Lowest Latency Chains</div>
+                        </div>
+                    </div>
+                    <div class="event-log">
+                        <h4>Recent Events:</h4>
+                        <ul>
+                            <li><i class="fas fa-check-circle highlight-success"></i> All nodes operational (2 hours ago)</li>
+                            <li><i class="fas fa-info-circle highlight-info"></i> Minor delay on Optimism feed (1 day ago)</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 3. "ZK İspat Gözlemcisi" (Basitleştirilmiş Görselleştirme) -->
+            <div class="section">
+                <div class="section-header">
+                    <h2><i class="fas fa-fingerprint"></i> ZK Proof Observer (Simplified)</h2>
+                </div>
+                <div class="zk-observer-content">
+                    <div class="zk-scenario-selector">
+                        <label for="zkScenarioSelect">Select Scenario:</label>
+                        <select id="zkScenarioSelect" class="selector-dropdown">
+                            <option value="btc">BTC Price Verification</option>
+                            <option value="vote">SchellingCoin Voting Consistency</option>
+                        </select>
+                    </div>
+                    <div class="zk-flow">
+                        <div class="zk-step">
+                            <div class="zk-box input-data">
+                                <h4>Input Data</h4>
+                                <p id="zkInputData">Oracle prices: $65000, $65100, $64950...</p>
+                            </div>
+                            <div class="zk-arrow"><i class="fas fa-arrow-right"></i></div>
+                            <div class="zk-step-middle">
+                                <div class="zk-animation">
+                                    <i class="fas fa-cogs fa-spin"></i> Proving...
+                                </div>
+                                <div class="zk-box proof">
+                                    <h4>ZK Proof</h4>
+                                    <p id="zkProofDesc">A cryptographic proof that the data is valid and votes were consistent, without revealing the data or identities.</p>
+                                    <div class="proof-icon"><i class="fas fa-lock"></i></div>
+                                </div>
+                            </div>
+                            <div class="zk-arrow"><i class="fas fa-arrow-right"></i></div>
+                            <div class="zk-box verification">
+                                <h4>Verification</h4>
+                                <p id="zkVerificationDesc">Smart contract checks the proof. Is it valid? <span class="highlight-success">Yes!</span></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zk-explanation">
+                        <p><strong>What this means:</strong> This proof guarantees the correctness of the data and the honesty of the voting process, while keeping the actual data and voter identities private.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 4. "Eşsiz Teklif" ZK ve SchellingCoin Karşılaştırma Aracı -->
+            <div class="section">
+                <div class="section-header">
+                    <h2><i class="fas fa-balance-scale"></i> Unique Offer: ZK & SchellingCoin Comparison</h2>
+                </div>
+                <div class="comparison-content">
+                    <div class="comparison-table-container">
+                        <table class="comparison-table">
+                            <thead>
+                                <tr>
+                                    <th>Feature</th>
+                                    <th>Blocksense</th>
+                                    <th>Chainlink</th>
+                                    <th>Pyth</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td><strong>Security</strong></td>
+                                    <td>ZK proofs ensure data & vote correctness without revealing identities.</td>
+                                    <td>Reputation-based system, potential for collusion.</td>
+                                    <td>Publishers can be a central point of failure.</td>
+                                </tr>
+                                <tr>
+                                    <td><strong>Decentralization</strong></td>
+                                    <td>Truly decentralized with ZK-protected SchellingCoin consensus.</td>
+                                    <td>Relies on a limited set of node operators.</td>
+                                    <td>Depends on a small set of publishers.</td>
+                                </tr>
+                                <tr>
+                                    <td><strong>Cost</strong></td>
+                                    <td>zkRollup batching for gas-efficient publishing.</td>
+                                    <td>Can be expensive on high gas fee networks.</td>
+                                    <td>Generally lower cost, but model varies.</td>
+                                </tr>
+                                <tr>
+                                    <td><strong>Latency</strong></td>
+                                    <td>Optimized for speed, with ZK for consensus.</td>
+                                    <td>Depends on node update frequency.</td>
+                                    <td>Very low latency, but relies on publisher speed.</td>
+                                </tr>
+                                <tr>
+                                    <td><strong>Customizability</strong></td>
+                                    <td>Highly programmable oracles for complex needs.</td>
+                                    <td>Limited by pre-defined feeds.</td>
+                                    <td>Good for price data, less for custom logic.</td>
+                                </tr>
+                                <tr>
+                                    <td><strong>Unique Advantages</strong></td>
+                                    <td>
+                                        <ul>
+                                            <li>ZK ensures vote correctness and privacy.</li>
+                                            <li>SchellingCoin becomes collusion-proof and bribery-resistant.</li>
+                                            <li>zkRollup for batching thousands of updates.</li>
+                                            <li>ZK for data compression and consensus.</li>
+                                        </ul>
+                                    </td>
+                                    <td>
+                                        <ul>
+                                            <li>Established and widely adopted.</li>
+                                            <li>Strong reputation system.</li>
+                                        </ul>
+                                    </td>
+                                    <td>
+                                        <ul>
+                                            <li>Extremely low latency.</li>
+                                            <li>High-quality financial data.</li>
+                                        </ul>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 5. "Senaryo Oluşturucu: Oracle Talebinizi Tanımlayın" -->
+            <div class="section">
+                <div class="section-header">
+                    <h2><i class="fas fa-edit"></i> Scenario Builder: Define Your Oracle Need</h2>
+                </div>
+                <div class="scenario-builder-content">
+                    <form id="oracleScenarioForm">
+                        <div class="form-group">
+                            <label for="appType">Application Type:</label>
+                            <select id="appType" class="selector-dropdown">
+                                <option value="lending">Lending Protocol</option>
+                                <option value="dex">DEX</option>
+                                <option value="insurance">Insurance</option>
+                                <option value="gaming">Gaming</option>
+                                <option value="custom">Custom/Other</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="dataNeed">Data Need:</label>
+                            <input type="text" id="dataNeed" class="search-input" placeholder="e.g., Custom Token Pair, Historical Volatility">
+                        </div>
+                        <div class="form-group">
+                            <label for="targetChains">Target Chain(s):</label>
+                            <input type="text" id="targetChains" class="search-input" placeholder="e.g., Ethereum, Arbitrum, BSC">
+                        </div>
+                        <div class="form-group">
+                            <label for="slaReq">SLA Requirements:</label>
+                            <select id="slaReq" class="selector-dropdown">
+                                <option value="high">High (sub-second)</option>
+                                <option value="standard">Standard (few seconds)</option>
+                                <option value="low">Low (minutes)</option>
+                            </select>
+                        </div>
+                        <button type="button" id="generateScenarioBtn" class="primary-btn small-btn">Generate Recommendation</button>
+                    </form>
+                    <div id="scenarioResult" class="scenario-result">
+                        <p>Fill out the form and click "Generate Recommendation" to see how Blocksense can meet your needs.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 6. "Blocksense Ekosistemi" Etkileşimli Haritası -->
+            <div class="section">
+                <div class="section-header">
+                    <h2><i class="fas fa-sitemap"></i> Blocksense Ecosystem Map</h2>
+                </div>
+                <div class="ecosystem-content">
+                    <div class="ecosystem-stats">
+                        <div class="stat-card">
+                            <div class="stat-value">74</div>
+                            <div class="stat-label">Supported Chains</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-value">700+</div>
+                            <div class="stat-label">Active Data Feeds</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-value">10+</div>
+                            <div class="stat-label">Key Integrations</div>
+                        </div>
+                    </div>
+                    <div class="ecosystem-details">
+                        <h4>Key Integrations & Partners:</h4>
+                        <ul>
+                            <li><i class="fas fa-handshake"></i> Hyperlane (Cross-chain messaging)</li>
+                            <li><i class="fas fa-handshake"></i> LayerZero (Cross-chain messaging)</li>
+                            <li><i class="fas fa-coins"></i> DeFi Project A (Lending Protocol)</li>
+                            <li><i class="fas fa-exchange-alt"></i> DeFi Project B (DEX)</li>
+                            <li><i class="fas fa-shield-alt"></i> Security Partner C</li>
+                        </ul>
+                        <h4>Roadmap Highlights:</h4>
+                        <ul>
+                            <li><i class="fas fa-rocket"></i> Integration with Chain D (Q3 2024)</li>
+                            <li><i class="fas fa-rocket"></i> Launch on Chain E Testnet (Q4 2024)</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+        </div> <!-- .main-content kapanışı -->
+
+        <!-- Sayfanın en altına taşınan bilgiler -->
+        <div class="footer-info">
+            <!-- Yeni eklenen subtitle -->
+            <p class="app-subtitle">Track All About Blocksense Network updates, latest posts & announcements.</p>
+            <!-- Made by yazısı -->
+            <div class="made-by">
+                Made By Laedrianus with love for Blocksense Network
+            </div>
+            <!-- App Version bilgisi -->
+            <div class="app-version">App Version: v1.1.0</div> <!-- Statik olarak tanımlandı -->
+        </div>
+
+    </div> <!-- .container kapanışı -->
+
+    <button id="themeToggle" class="theme-toggle">
+        <i class="fas fa-sun"></i> <!-- Varsayılan açık tema simgesi -->
+    </button>
+
+    <!-- Network Detail Modal -->
+    <div id="networkDetailModal" class="modal network-detail-modal" style="display:none;">
+        <div class="modal-content">
+            <span class="close" id="closeModal">&times;</span>
+            <div id="networkDetailContent"></div>
+        </div>
     </div>
 
+    <script src="data.js"></script>
     <script src="script.js"></script>
 </body>
 </html>
