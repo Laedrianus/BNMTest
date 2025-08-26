@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -5,61 +6,99 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <title>BlockSense Network Monitor</title>
 
-    <!-- Ensure FontAwesome CSS is loaded correctly for icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-pV+7Kf0H4C5V9BcH9Cl8h2R9K5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l5b5K5l......" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <!-- Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css  "/>
 
     <!-- Hard-looking font for the whole app -->
     <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;600;700&display=swap" rel="stylesheet"/>
 
     <!-- Styles -->
     <link rel="stylesheet" href="light.css"/> <!-- Ana CSS dosyası olarak light.css kullanılıyor -->
+    <style>
+        /* Info & How To yazısını kırmızı yapmak için CSS */
+        .quick-links .link-item:last-child .quick-link-text {
+            color: red !important;
+        }
+        /* Başlık ve Litepaper'i aynı satıra almak ve Litepaper'i sağa yaslamak için stil */
+        .header-top-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            width: 100%;
+        }
+        .header-top-row > h1 {
+            margin: 0; /* Başlık margin'ini sıfırla */
+        }
+        .litepaper-link {
+            margin-left: auto; /* Litepaper linkini sağa yaslar */
+            white-space: nowrap; /* Litepaper linkinin satır başı yapmasını engeller */
+        }
+        /* Quick Links'in yeni konumu için stil */
+        .quick-links {
+            margin-top: 10px;
+            display: flex !important; /* Flexbox'u zorla etkinleştir */
+            justify-content: flex-start !important; /* Sola yasla */
+            flex-wrap: wrap;
+            width: 100%; /* Tam genişlik kapla */
+        }
+    </style>
 </head>
 <body>
     <div class="container">
         <div class="header">
             <div class="header-content">
-                <!-- Başlık siyah yapıldı -->
-                <h1 class="modern-header" style="color: #000000;">
-                    <img src="pirate.png" alt="BlockSense Network Monitor" class="logo-icon" id="blockIcon"/>
-                    BlockSense Network Monitor <!-- "Blocksense" -> "BlockSense" -->
-                </h1>
-                <a href="https://cdn.prod.website-files.com/685a93bdfac38ce03d82868d/68a72c43d78a25f46a2b4909_Blocksense_Lightpaper.pdf"
-                   class="litepaper-link" target="_blank" rel="noopener">
-                    LITEPAPER RELEASED
-                </a>
-            </div>
+                <!-- Başlık ve Litepaper aynı satırda -->
+                <div class="header-top-row">
+                    <!-- Başlık siyah yapıldı -->
+                    <h1 class="modern-header" style="color: #000000;">
+                        <img src="pirate.png" alt="BlockSense Network Monitor" class="logo-icon" id="blockIcon"/>
+                        BlockSense Network Monitor
+                    </h1>
+                    
+                    <a href="  https://cdn.prod.website-files.com/685a93bdfac38ce03d82868d/68a72c43d78a25f46a2b4909_Blocksense_Lightpaper.pdf  "
+                       class="litepaper-link" target="_blank" rel="noopener">
+                        LITEPAPER RELEASED
+                    </a>
+                </div>
 
-            <!-- Quick Links (compact + NORMAL font weight) -->
-            <div class="quick-links compact">
-                <div class="link-item">
-                    <a href="https://blocksense.network/" target="_blank" rel="noopener"><span class="quick-link-text">Web</span></a> <!-- <strong> kaldırıldı -->
-                </div>
-                <div class="link-item">
-                    <a href="https://discord.com/invite/blocksense" target="_blank" rel="noopener"><span class="quick-link-text">Discord</span></a> <!-- <strong> kaldırıldı -->
-                </div>
-                <div class="link-item">
-                    <a href="https://t.me/BlocksenseNetwork" target="_blank" rel="noopener"><span class="quick-link-text">Telegram</span></a> <!-- <strong> kaldırıldı -->
-                </div>
-                <div class="link-item">
-                    <a href="https://docs.blocksense.network/" target="_blank" rel="noopener"><span class="quick-link-text">Docs</span></a> <!-- <strong> kaldırıldı -->
-                </div>
-                <div class="link-item">
-                    <a href="https://github.com/blocksense-network/blocksense/" target="_blank" rel="noopener"><span class="quick-link-text">Github</span></a> <!-- <strong> kaldırıldı -->
-                </div>
-                <div class="link-item">
-                    <a href="https://www.linkedin.com/company/blocksense-network/posts/?feedView=all" target="_blank" rel="noopener"><span class="quick-link-text">LinkedIn</span></a> <!-- <strong> kaldırıldı -->
-                </div>
-                <div class="link-item">
-                    <a href="https://www.youtube.com/@BlocksenseNetwork/videos?app=desktop" target="_blank" rel="noopener"><span class="quick-link-text">Youtube</span></a> <!-- <strong> kaldırıldı -->
+                <!-- Quick Links - Başlığın hemen altında, sola dayalı -->
+                <div class="quick-links compact">
+                    <div class="link-item">
+                        <a href="https://blocksense.network/  " target="_blank" rel="noopener"><span class="quick-link-text">Blocksense</span></a>
+                    </div>
+                    <div class="link-item">
+                        <a href="https://discord.com/invite/blocksense  " target="_blank" rel="noopener"><span class="quick-link-text">Discord</span></a>
+                    </div>
+                    <div class="link-item">
+                        <a href="https://t.me/BlocksenseNetwork  " target="_blank" rel="noopener"><span class="quick-link-text">Telegram</span></a>
+                    </div>
+                    <div class="link-item">
+                        <a href="https://docs.blocksense.network/  " target="_blank" rel="noopener"><span class="quick-link-text">Docs</span></a>
+                    </div>
+                    <div class="link-item">
+                        <a href="https://github.com/blocksense-network/blocksense/  " target="_blank" rel="noopener"><span class="quick-link-text">Github</span></a>
+                    </div>
+                    <div class="link-item">
+                        <a href="https://www.linkedin.com/company/blocksense-network/posts/?feedView=all" target="_blank" rel="noopener"><span class="quick-link-text">LinkedIn</span></a>
+                    </div>
+                    <div class="link-item">
+                        <a href="  https://www.youtube.com/@BlocksenseNetwork/videos?app=desktop" target="_blank" rel="noopener"><span class="quick-link-text">Youtube</span></a>
+                    </div>
+                    <!-- Yeni: X (Twitter) bağlantısı -->
+                    <div class="link-item">
+                        <a href="https://x.com/blocksense_" target="_blank" rel="noopener"><span class="quick-link-text">X</span></a>
+                    </div>
+                    <!-- Yeni: Info & How To bağlantısı - kırmızı -->
+                    <div class="link-item">
+                        <a href="info-howto.html" target="_blank" rel="noopener"><span class="quick-link-text">Info & How To</span></a>
+                    </div>
                 </div>
             </div>
-
-            
         </div>
 
         <div class="main-content">
             <!-- BlockSense Updates Section -->
-            <div class="section shrinkable"> <!-- shrinkable eklendi -->
+            <div class="section shrinkable">
                 <div class="section-header">
                     <h2><i class="fas fa-sync-alt"></i> Blocksense Web Updates</h2>
                     <button id="checkBtn" class="primary-btn small-btn">
@@ -70,7 +109,7 @@
                 <div class="input-section">
                     <div class="url-display">
                         <span class="url-label">Tracking:</span>
-                        <span class="url-text"><strong>https://blocksense.network</strong></span>
+                        <span class="url-text"><strong>  https://blocksense.network  </strong></span>
                     </div>
                 </div>
 
@@ -92,7 +131,7 @@
             </div>
 
             <!-- Networks & Data Feeds Section -->
-            <div class="section shrinkable"> <!-- shrinkable eklendi -->
+            <div class="section shrinkable">
                 <div class="section-header">
                     <h2><i class="fas fa-network-wired"></i> Networks & Data Feeds</h2>
                 </div>
@@ -175,7 +214,7 @@
                 <div class="github-info">
                     <div class="repo-url">
                         <i class="fab fa-github"></i>
-                        <a href="https://github.com/blocksense-network/blocksense/" target="_blank" rel="noopener">
+                        <a href="https://github.com/blocksense-network/blocksense/  " target="_blank" rel="noopener">
                             github.com/blocksense-network/blocksense
                         </a>
                     </div>
@@ -188,7 +227,7 @@
                 <div class="github-results" id="githubResults"></div>
 
                 <div class="github-pro-tracker-link">
-                    <a href="https://github-multi-repo-tracker.vercel.app/" target="_blank" rel="noopener" class="github-pro-link">
+                    <a href="https://github-multi-repo-tracker.vercel.app/  " target="_blank" rel="noopener" class="github-pro-link">
                         <i class="fab fa-github"></i> Github Pro Tracker
                     </a>
                     <p class="github-pro-description">(For detailed GitHub analysis, use my other application.)</p>
@@ -546,10 +585,8 @@
 
         </div> <!-- .main-content kapanışı -->
 
-        <!-- Sayfanın en altına taşınan bilgiler -->
-        <div class="footer-info">
-            <!-- Yeni eklenen subtitle -->
-            <p class="app-subtitle">Track All About Blocksense Network updates, latest posts & announcements.</p>
+         <!-- Sayfanın en altına taşınan bilgiler -->
+         <div class="footer-info">
             <!-- Made by yazısı -->
             <div class="made-by">
                 Made By Laedrianus with love for Blocksense Network

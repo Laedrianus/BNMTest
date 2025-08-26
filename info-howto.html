@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blocksense Info & How To</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="light.css">
+    <style>
+        /* Yeni sayfa için özel stiller */
+        .info-howto-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .info-howto-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid var(--header-border-color);
+        }
+        .language-selector {
+            display: flex;
+            gap: 10px;
+        }
+        .language-btn {
+            padding: 8px 16px;
+            border-radius: 8px;
+            border: 1px solid var(--border-color);
+            background: var(--container-bg);
+            color: var(--text-color);
+            font-weight: 700;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+        .language-btn.active {
+            background: var(--link-bg);
+            color: white;
+            border-color: var(--link-bg);
+        }
+        .tabs {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+        .tab-btn {
+            padding: 10px 20px;
+            border-radius: 8px;
+            border: 1px solid var(--border-color);
+            background: var(--container-bg);
+            color: var(--text-color);
+            font-weight: 700;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+        .tab-btn.active {
+            background: var(--link-bg);
+            color: white;
+            border-color: var(--link-bg);
+        }
+        .tab-content {
+            display: none;
+        }
+        .tab-content.active {
+            display: block;
+        }
+        .content-section {
+            background: var(--container-bg);
+            border-radius: 16px;
+            border: 1px solid var(--border-color);
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 6px 18px var(--shadow-color);
+            backdrop-filter: blur(var(--glass-blur));
+        }
+        .content-section h2 {
+            font-size: 1.5rem;
+            margin-bottom: 15px;
+            color: var(--header-color);
+        }
+        .content-section ul {
+            list-style-type: disc;
+            padding-left: 20px;
+        }
+        .content-section li {
+            margin-bottom: 10px;
+            line-height: 1.6;
+        }
+        @media (max-width: 768px) {
+            .info-howto-header {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+            .language-selector {
+                margin-top: 10px;
+            }
+            .tabs {
+                flex-direction: column;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="header-content">
+                <h1 class="modern-header" style="color: #000000;">
+                    <img src="pirate.png" alt="Blocksense Network Monitor" class="logo-icon" id="blockIcon"/>
+                    Blocksense Network Monitor
+                </h1>
+                <a href="https://cdn.prod.website-files.com/685a93bdfac38ce03d82868d/68a72c43d78a25f46a2b4909_Blocksense_Lightpaper.pdf"
+                   class="litepaper-link" target="_blank" rel="noopener">
+                    LITEPAPER RELEASED
+                </a>
+            </div>
+            <p class="subtitle"><strong>Track All About Blocksense Network updates, latest posts & announcements.</strong></p>
+        </div>
+
+        <div class="info-howto-container">
+            <div class="info-howto-header">
+                <h1>Blocksense Info & How To</h1>
+                <div class="language-selector">
+                    <button class="language-btn active" data-lang="en">English</button>
+                    <button class="language-btn" data-lang="tr">Türkçe</button>
+                </div>
+            </div>
+
+            <div class="tabs">
+                <button class="tab-btn active" data-tab="info">Info</button>
+                <button class="tab-btn" data-tab="howto">How To</button>
+            </div>
+
+            <div id="info-content" class="tab-content active">
+                <div class="content-section">
+                    <h2>Blocksense Application Features</h2>
+                    <ul id="info-list">
+                        <!-- İçerik JavaScript ile doldurulacak -->
+                    </ul>
+                </div>
+            </div>
+
+            <div id="howto-content" class="tab-content">
+                <div class="content-section">
+                    <h2>How To Use Blocksense Application</h2>
+                    <ul id="howto-list">
+                        <!-- İçerik JavaScript ile doldurulacak -->
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Dil çevirileri
+        const translations = {
+            en: {
+                infoTitle: "Blocksense Application Features",
+                howtoTitle: "How To Use Blocksense Application",
+                infoItems: [
+                    "Checks for updates on the Blocksense website.",
+                    "Displays changes on the Blocksense website in a list or timeline format.",
+                    "Lists supported networks and data flows.",
+                    "Provides search, filter, and export options for networks and data flows.",
+                    "Shows recent commits, issues, pull requests, and releases from GitHub repos.",
+                    "Displays network details and contract addresses in a modal window.",
+                    "Allows light/dark theme switching.",
+                    "Shows an interactive grid of cross-chain connections.",
+                    "Lists details of widely used contracts.",
+                    "Displays network health and activity statistics (total networks/data flows, most used assets).",
+                    "Explains cross-chain data flow step by step.",
+                    "Shows Oracle performance via a simulated dashboard.",
+                    "Observes the ZK proof process with a simplified flowchart.",
+                    "Compares BlockSense ZK and SchellingCoin technologies with other oracle solutions.",
+                    "Provides a scenario builder for users to define custom oracle needs.",
+                    "Shows the BlockSense ecosystem map and integrations.",
+                    "Displays application statistics and last check timestamps."
+                ],
+                howtoItems: [
+                    "Open the application in your browser.",
+                    "Use the 'Check' button to manually check for updates on the Blocksense website.",
+                    "View the latest changes in either list or timeline format using the view options.",
+                    "Navigate to the 'Networks & Data Feeds' section to see all supported networks and data feeds.",
+                    "Use the search bar to find specific networks or data feeds.",
+                    "Apply filters to narrow down the list of networks or data feeds.",
+                    "Export the list of data feeds to a CSV file using the 'Export Addresses' button.",
+                    "Check the 'GitHub Repository Updates' section to see recent activity on GitHub.",
+                    "Click on any network in the 'Chain Connectivity Map' to view its details.",
+                    "Explore the 'Common Contracts Details' section to learn about key smart contracts.",
+                    "Review the 'Network Health & Activity' dashboard for statistics on network performance.",
+                    "Follow the 'Cross-Chain Journey Flow' diagram to understand how data moves across chains.",
+                    "Use the 'Oracle Performance Dashboard (Simulated)' to see performance metrics.",
+                    "Examine the 'ZK Proof Observer (Simplified)' to understand the ZK proof process.",
+                    "Compare BlockSense with other oracles using the 'Unique Offer: ZK & SchellingCoin Comparison'.",
+                    "Define your oracle needs with the 'Scenario Builder: Define Your Oracle Need'.",
+                    "Explore the 'Blocksense Ecosystem Map' to see integrations and partners.",
+                    "Switch between light and dark themes using the theme toggle button in the bottom right corner."
+                ]
+            },
+            tr: {
+                infoTitle: "Blocksense Uygulama Özellikleri",
+                howtoTitle: "Blocksense Uygulaması Nasıl Kullanılır",
+                infoItems: [
+                    "Blocksense web sitesindeki güncellemeleri kontrol eder.",
+                    "Blocksense web sitesindeki değişiklikleri liste veya zaman çizelgesi şeklinde gösterir.",
+                    "Desteklenen ağları ve veri akışlarını listeler.",
+                    "Ağlar ve veri akışları için arama, filtreleme ve dışa aktarma seçenekleri sunar.",
+                    "GitHub repolarından son işlemler, sorunlar, çekme istekleri ve sürümleri gösterir.",
+                    "Ağ ayrıntılarını ve sözleşme adreslerini modal penceresinde görüntüler.",
+                    "Açık/koyu tema geçişine izin verir.",
+                    "Zincirler arası bağlantıların etkileşimli bir ızgarasını gösterir.",
+                    "Yaygın olarak kullanılan sözleşmelerin ayrıntılarını listeler.",
+                    "Ağ sağlığı ve etkinlik istatistiklerini gösterir (toplam ağlar/veri akışları, en çok kullanılan varlıklar).",
+                    "Zincirler arası veri akışını adım adım açıklar.",
+                    "Oracle performansını simüle edilmiş bir gösterge paneliyle gösterir.",
+                    "ZK kanıt sürecini basitleştirilmiş bir akış şemasıyla gözlemler.",
+                    "BlockSense ZK ve SchellingCoin teknolojilerini diğer oracle çözümleriyle karşılaştırır.",
+                    "Kullanıcıların özel oracle ihtiyaçlarını tanımlamaları için bir senaryo oluşturucu sağlar.",
+                    "BlockSense ekosistem haritasını ve entegrasyonlarını gösterir.",
+                    "Uygulama istatistiklerini ve son kontrol zaman damgalarını görüntüler."
+                ],
+                howtoItems: [
+                    "Uygulamayı tarayıcınızda açın.",
+                    "Blocksense web sitesindeki güncellemeleri manuel olarak kontrol etmek için 'Check' (Kontrol Et) butonunu kullanın.",
+                    "Görünüm seçeneklerini kullanarak en son değişiklikleri liste veya zaman çizelgesi biçiminde görüntüleyin.",
+                    "Desteklenen tüm ağları ve veri akışlarını görmek için 'Networks & Data Feeds' (Ağlar ve Veri Akışları) bölümüne gidin.",
+                    "Belirli ağları veya veri akışlarını bulmak için arama çubuğunu kullanın.",
+                    "Ağ veya veri akışı listesini daraltmak için filtreleri uygulayın.",
+                    "'Export Addresses' (Adresleri Dışa Aktar) butonunu kullanarak veri akışı listesini bir CSV dosyasına aktarın.",
+                    "GitHub'daki son etkinlikleri görmek için 'GitHub Repository Updates' (GitHub Depo Güncellemeleri) bölümüne bakın.",
+                    "'Chain Connectivity Map' (Zincir Bağlantı Haritası)'ndaki herhangi bir ağa tıklayarak ayrıntılarını görüntüleyin.",
+                    "Temel akıllı sözleşmeler hakkında bilgi edinmek için 'Common Contracts Details' (Ortak Sözleşme Ayrıntıları) bölümüne bakın.",
+                    "Ağ performansı istatistikleri için 'Network Health & Activity' (Ağ Sağlığı ve Etkinlik) kontrol panelini inceleyin.",
+                    "Verilerin zincirler arasında nasıl hareket ettiğini anlamak için 'Cross-Chain Journey Flow' (Zincirler Arası Yolculuk Akışı) diyagramını takip edin.",
+                    "Performans ölçümlerini görmek için 'Oracle Performance Dashboard (Simulated)' (Oracle Performans Panosu (Simüle Edilmiş)) özelliğini kullanın.",
+                    "ZK kanıtı sürecini anlamak için 'ZK Proof Observer (Simplified)' (ZK Kanıtı Gözlemcisi (Basitleştirilmiş)) özelliğini inceleyin.",
+                    "BlockSense'u diğer oracle'larla karşılaştırmak için 'Unique Offer: ZK & SchellingCoin Comparison' (Benzersiz Teklif: ZK ve SchellingCoin Karşılaştırması) özelliğini kullanın.",
+                    "'Scenario Builder: Define Your Oracle Need' (Senaryo Oluşturucu: Oracle İhtiyacınızı Tanımlayın) ile oracle ihtiyaçlarınızı tanımlayın.",
+                    "Entegrasyonları ve ortakları görmek için 'Blocksense Ecosystem Map' (Blocksense Ekosistem Haritası)'nı keşfedin.",
+                    "Sağ alt köşedeki tema geçiş butonunu kullanarak açık ve koyu temalar arasında geçiş yapın."
+                ]
+            }
+        };
+
+        // DOM elementlerini seç
+        const languageButtons = document.querySelectorAll('.language-btn');
+        const tabButtons = document.querySelectorAll('.tab-btn');
+        const infoContent = document.getElementById('info-content');
+        const howtoContent = document.getElementById('howto-content');
+        const infoList = document.getElementById('info-list');
+        const howtoList = document.getElementById('howto-list');
+        const infoTitle = document.querySelector('#info-content h2');
+        const howtoTitle = document.querySelector('#howto-content h2');
+
+        // Varsayılan dil ve sekme
+        let currentLang = 'en';
+        let currentTab = 'info';
+
+        // Dil değiştirme fonksiyonu
+        function switchLanguage(lang) {
+            currentLang = lang;
+            // Aktif dil butonunu güncelle
+            languageButtons.forEach(btn => {
+                if (btn.dataset.lang === lang) {
+                    btn.classList.add('active');
+                } else {
+                    btn.classList.remove('active');
+                }
+            });
+            // Sekme içeriğini güncelle
+            updateTabContent();
+        }
+
+        // Sekme değiştirme fonksiyonu
+        function switchTab(tab) {
+            currentTab = tab;
+            // Aktif sekme butonunu güncelle
+            tabButtons.forEach(btn => {
+                if (btn.dataset.tab === tab) {
+                    btn.classList.add('active');
+                } else {
+                    btn.classList.remove('active');
+                }
+            });
+            // Sekme içeriklerini göster/gizle
+            if (tab === 'info') {
+                infoContent.classList.add('active');
+                howtoContent.classList.remove('active');
+            } else {
+                infoContent.classList.remove('active');
+                howtoContent.classList.add('active');
+            }
+        }
+
+        // Sekme içeriğini güncelle
+        function updateTabContent() {
+            const t = translations[currentLang];
+            
+            // Info sekmesi içeriğini güncelle
+            infoTitle.textContent = t.infoTitle;
+            infoList.innerHTML = '';
+            t.infoItems.forEach(item => {
+                const li = document.createElement('li');
+                li.textContent = item;
+                infoList.appendChild(li);
+            });
+
+            // How To sekmesi içeriğini güncelle
+            howtoTitle.textContent = t.howtoTitle;
+            howtoList.innerHTML = '';
+            t.howtoItems.forEach(item => {
+                const li = document.createElement('li');
+                li.textContent = item;
+                howtoList.appendChild(li);
+            });
+        }
+
+        // Olay dinleyicilerini ekle
+        languageButtons.forEach(btn => {
+            btn.addEventListener('click', () => {
+                switchLanguage(btn.dataset.lang);
+            });
+        });
+
+        tabButtons.forEach(btn => {
+            btn.addEventListener('click', () => {
+                switchTab(btn.dataset.tab);
+            });
+        });
+
+        // Sayfa yüklendiğinde varsayılan içeriği göster
+        document.addEventListener('DOMContentLoaded', () => {
+            updateTabContent();
+        });
+    </script>
+</body>
+</html>
