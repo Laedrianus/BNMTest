@@ -22,6 +22,9 @@ const githubResultsDiv = document.getElementById('githubResults');
 const themeToggle = document.getElementById('themeToggle');
 const githubSelector = document.getElementById('githubSelector');
 
+// Yeni: "Yukarı Çık" butonu
+const scrollToTopBtn = document.getElementById('scrollToTopBtn');
+
 // Yeni: Gelişmiş Filtreleme ve Arama için DOM elementleri
 const feedSearchInput = document.getElementById('feedSearchInput');
 const networkFilterSelect = document.getElementById('networkFilterSelect');
@@ -70,6 +73,19 @@ checkGitHubBtn.addEventListener('click', () => {
 themeToggle.addEventListener('click', toggleTheme);
 githubSelector.addEventListener('change', loadGitHubUpdates);
 
+// Yeni: "Yukarı Çık" butonu olayı
+window.onscroll = function() {
+    if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+        scrollToTopBtn.style.display = "flex";
+    } else {
+        scrollToTopBtn.style.display = "none";
+    }
+};
+scrollToTopBtn.addEventListener('click', () => {
+    document.body.scrollTop = 0; // Safari için
+    document.documentElement.scrollTop = 0; // Chrome, Firefox, IE ve Opera için
+});
+
 // Yeni: Gelişmiş Filtreleme ve Arama Olay Dinleyicileri
 applyFiltersBtn.addEventListener('click', () => loadFeedList(1)); // Her zaman 1. sayfadan başlat
 clearFiltersBtn.addEventListener('click', clearFilters);
@@ -83,7 +99,7 @@ generateScenarioBtn.addEventListener('click', generateScenario);
 // Initialize on load
 document.addEventListener('DOMContentLoaded', () => {
     // Set the theme based on saved preference or default to 'light'
-    setTheme(currentTheme);
+    setTheme(currentTheme); // <-- DÜZELTİLDİ: Tema yükleme eklendi
     populateNetworkFilter(); // Yeni: Ağ filtresini doldur
     loadNetworkList();
     loadFeedList(); // Yeni: İlk veri akışı listesini yükle
@@ -512,14 +528,14 @@ function showNetworkDetailsModal(network) {
     }
 }
 
-// Yeni: Veri Akışı Listesi ve Sayfalama
+// Yeni: Veri Akışı Listesi ve Sayfalama (DÜZELTİLDİ)
 function loadFeedList(page = 1) {
     if (!feedListDiv || !DATA_FEEDS) {
         console.error("Feed list container or data not found.");
         return;
     }
 
-    let feedsToDisplay = DATA_FEEDS;
+    let feedsToDisplay = [...DATA_FEEDS]; // Orijinal diziyi değiştirmemek için kopyala
 
     // 1. Filtreleri uygula
     feedsToDisplay = applyFilters(feedsToDisplay);
@@ -534,7 +550,7 @@ function loadFeedList(page = 1) {
 
     if (page < 1) page = 1;
     if (page > totalPages && totalPages > 0) page = totalPages;
-    currentFeedPage = page;
+    currentFeedPage = page; // <-- DÜZELTİLDİ: currentFeedPage doğru şekilde ayarlandı
 
     const startIndex = (page - 1) * FEEDS_PER_PAGE;
     const endIndex = Math.min(startIndex + FEEDS_PER_PAGE, totalFeeds);
@@ -576,17 +592,22 @@ function setTheme(theme) {
     document.documentElement.setAttribute('data-theme', theme);
 
     const icon = themeToggle.querySelector('i');
-    if (theme === 'dark') {
-        icon.classList.remove('fa-sun');
-        icon.classList.add('fa-moon');
-        // If you have a separate dark CSS file, you would link it here
-        // document.getElementById('theme-stylesheet').href = 'style-dark.css';
-    } else {
-        icon.classList.remove('fa-moon');
-        icon.classList.add('fa-sun');
-        // Switch back to light theme CSS
-        // document.getElementById('theme-stylesheet').href = 'light.css';
+    if (icon) { // Icon'un var olduğundan emin ol
+        if (theme === 'dark') {
+            icon.classList.remove('fa-sun');
+            icon.classList.add('fa-moon');
+        } else {
+            icon.classList.remove('fa-moon');
+            icon.classList.add('fa-sun');
+        }
     }
+    // CSS dosyasını değiştirmek yerine, CSS değişkenlerini kullanarak temayı uyguluyoruz.
+    // Bu nedenle light.css dosyasında :root ve [data-theme="dark"] tanımları yapılmalı.
+    // Aşağıdaki satırlar artık gerekli değil çünkü CSS dosyası değişmiyor.
+    // const themeStylesheet = document.getElementById('theme-stylesheet');
+    // if (themeStylesheet) {
+    //     themeStylesheet.href = theme === 'dark' ? 'dark.css' : 'light.css';
+    // }
 }
 
 

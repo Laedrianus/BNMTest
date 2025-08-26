@@ -16,6 +16,7 @@
     --border-color: #cbd5e0; /* Light border */
     --header-border-color: #a0aec0; /* Slightly darker header border */
     --header-color: #2b6cb0; /* Primary blue for header text */
+    --header-text-color: #000000; /* Siyah koyu başlık rengi */
     --link-bg: #3182ce; /* Primary blue for buttons/links */
     --link-hover-bg: #2c5282; /* Darker blue on hover */
     --quick-links-bg: #e2e8f0cc; /* Light blue-gray for quick links background */
@@ -47,6 +48,49 @@
     --github-pro-text-weight: 700; /* Koyu font */
     --made-by-text-color: #000000; /* Made by yazısı için siyah renk */
 }
+
+/* Dark Theme Variables */
+[data-theme="dark"] {
+    /* Dark Theme Colors */
+    --bg-color: #1a202c; /* Dark background */
+    --text-color: #e2e8f0; /* Light text for contrast */
+    --container-bg: #2d3748cc; /* Dark card with slight transparency */
+    --border-color: #4a5568; /* Darker border */
+    --header-border-color: #718096; /* Slightly lighter header border */
+    --header-color: #63b3ed; /* Lighter blue for header text */
+    --header-text-color: #000000; /* Bu değişken artık kullanılmıyor, aşağıda özel kural var */
+    --link-bg: #4299e1; /* Lighter blue for buttons/links */
+    --link-hover-bg: #3182ce; /* Slightly darker blue on hover */
+    --quick-links-bg: #2d3748cc; /* Dark background for quick links */
+    --quick-links-border: #4a5568;
+    --url-display-bg: #2c5282; /* Darker blue for URL display */
+    --github-info-bg: #2c5282; /* Darker blue for GitHub info */
+    --update-item-bg: #2d3748; /* Dark for update items */
+    --update-item-title-color: #63b3ed; /* Lighter blue for titles */
+    --update-item-content-color: #cbd5e0; /* Lighter gray for content */
+    --update-item-source-color: #90cdf4; /* Even lighter blue for sources */
+    --shadow-color: rgba(0, 0, 0, 0.3);
+    --shadow-hover-color: rgba(0, 0, 0, 0.5);
+    --spinner-border: #4a5568;
+    --spinner-border-top: #4299e1;
+    --glass-blur: 5px;
+    --section-hover-bg: #4a5568; /* Darker hover effect for sections */
+    --timeline-color: #718096; /* Color for timeline line */
+    --timeline-dot-color: #4299e1; /* Color for timeline dots */
+    --modal-bg: #2d3748;
+    --modal-border: #4a5568;
+    --pagination-btn-bg: #4a5568; /* Darker background for pagination buttons */
+    --pagination-btn-hover-bg: #718096; /* Hover state for pagination buttons */
+    --stat-card-bg: #2d3748; /* Background for stat cards */
+    --highlight-color: #68d391; /* Highlight color for important stats */
+    --highlight-success: #68d391;
+    --highlight-info: #63b3ed;
+    --quick-link-text-color: #ffffff; /* Beyaz renk */
+    --github-pro-text-color: #ffffff; /* Beyaz renk */
+    --github-pro-text-weight: 700; /* Koyu font */
+    --made-by-text-color: #ffffff; /* Made by yazısı için beyaz renk */
+}
+
 
 body {
     background:
@@ -85,16 +129,22 @@ body {
     gap: 16px;
     margin-bottom: 14px;
 }
+/* GÜNCELLENDİ: Açık ve koyu tema için farklı renkler */
 .modern-header {
     font-size: 2.6rem;
     font-weight: 700;
-    /* color: var(--header-color); Renk artık inline style ile veriliyor */
+    /* Renk artık tema değişkenlerinden gelir */
+    color: var(--header-text-color); /* Varsayılan (açık tema) */
     display: flex;
     align-items: center;
     gap: 12px;
     letter-spacing: 0.2px;
     text-transform: uppercase;
     filter: drop-shadow(0 1px 0 rgba(0, 0, 0, 0.1));
+}
+/* GÜNCELLENDİ: Koyu tema için başlık rengi */
+[data-theme="dark"] .modern-header {
+    color: #ffffff; /* Koyu tema için beyaz */
 }
 .logo-icon {
     height: 36px;
@@ -494,6 +544,33 @@ body {
 }
 .theme-toggle i {
     font-size: 1.2rem; /* İkon boyutunu ayarla */
+}
+
+/* Scroll to Top Button */
+.scroll-to-top {
+    position: fixed;
+    bottom: 90px; /* Theme toggle'in üstünde olsun */
+    right: 20px;
+    z-index: 1000;
+    background: var(--link-bg);
+    color: #fff;
+    border: none;
+    border-radius: 50%;
+    width: 52px;
+    height: 52px;
+    display: none; /* Başlangıçta gizli */
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
+    transition: all 0.25s ease;
+}
+.scroll-to-top:hover {
+    transform: scale(1.07);
+    background: var(--link-hover-bg);
+}
+.scroll-to-top i {
+    font-size: 1.2rem;
 }
 
 /* Github selector */
@@ -1218,6 +1295,9 @@ body {
 ::-webkit-scrollbar-thumb {
     background: #cbd5e0;
     border-radius: 8px;
+}
+[data-theme="dark"] ::-webkit-scrollbar-thumb {
+    background: #718096;
 }
 ::-webkit-scrollbar-track {
     background: transparent;
