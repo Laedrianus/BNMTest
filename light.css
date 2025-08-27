@@ -1425,3 +1425,41 @@ i[class^="fa"], i[class*=" fa"] {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
+
+@media (max-width: 768px) {
+    /* Başlık ve Litepaper linki */
+    header .header-content {
+        display: grid !important;
+        grid-template-columns: 1fr auto !important;
+        align-items: center !important;
+        width: 100% !important;
+        gap: 20px !important;
+    }
+
+    header .modern-header {
+        text-align: left !important;
+        font-size: 1.6rem !important;
+        white-space: nowrap !important;
+    }
+
+    header .litepaper-link {
+        justify-self: end !important;
+        margin-top: 20px !important; /* Başlık ile Litepaper arasındaki boşluk */
+    }
+
+    /* Quick Links kutusu */
+    .quick-links.compact {
+        display: grid !important;
+        grid-template-columns: repeat(3, 1fr) !important;
+        gap: 10px !important;
+        text-align: center !important;
+        padding: 10px !important;
+        justify-items: stretch !important;
+        width: 100% !important;
+    }
+
+    .quick-links.compact .link-item {
+        border: none !important;
+        padding: 8px 4px !important;
+    }
+}
