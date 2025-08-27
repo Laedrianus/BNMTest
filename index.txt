@@ -614,6 +614,6 @@
     </div>
 
     <script src="data.js"></script>
-    <script src="script.js"></script> <!-- Güncellenmiş script.js -->
+    <script src="script.js"></script>
 </body>
 </html>

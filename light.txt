@@ -1,4 +1,3 @@
-
 /* Modern Reset */
 * {
     margin: 0;
@@ -239,12 +238,6 @@ body {
     border-color: #90cdf4;
     box-shadow: 0 10px 28px var(--shadow-hover-color);
     transform: translateY(-2px);
-}
-
-/* İlk 3 sütunu büyüt - DOĞRU KURAL */
-.main-content > .section:nth-child(-n+3) {
-    max-height: 60vh; /* Yüksekliği %60 viewport height ile sınırla (BÜYÜTMEK İÇİN) */
-    overflow-y: auto; /* Taşan içeriğe kaydırma çubuğu ekle */
 }
 
 /* Section Header */
