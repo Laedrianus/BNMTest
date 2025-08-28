@@ -4,13 +4,10 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <title>BlockSense Network Monitor</title>
-
     <!-- Icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"/>
-
     <!-- Hard-looking font for the whole app -->
     <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;600;700&display=swap" rel="stylesheet"/>
-
     <!-- Styles -->
     <link rel="stylesheet" href="light.css"/> <!-- Ana CSS dosyası olarak light.css kullanılıyor -->
     <style>
@@ -32,7 +29,8 @@
         .quick-links {
             margin-top: 10px;
             display: flex !important; /* Flexbox'u zorla etkinleştir */
-            justify-content: flex-start !important; /* Sola yasla */
+            /* Sorun 2: Bu satır kaldırıldı çünkü CSS'de !important ile ezilecek */
+            /* justify-content: flex-start !important; /* Sola yasla */
             flex-wrap: wrap;
             width: 100%; /* Tam genişlik kapla */
         }
@@ -49,13 +47,11 @@
                         <img src="pirate.png" alt="BlockSense Network Monitor" class="logo-icon" id="blockIcon"/>
                         BlockSense Network Monitor
                     </h1>
-                    
                     <a href="https://blocksense.network/resources/litepaper#litepaper"
                        class="litepaper-link" target="_blank" rel="noopener">
                         LITEPAPER RELEASED
                     </a>
                 </div>
-
                 <!-- Quick Links - Başlığın hemen altında, sola dayalı -->
                 <div class="quick-links compact">
                     <div class="link-item">
@@ -84,8 +80,9 @@
                         <a href="https://x.com/blocksense_" target="_blank" rel="noopener"><span class="quick-link-text">X</span></a>
                     </div>
                     <!-- Yeni: Info & How To bağlantısı - kırmızı ve kalın (CSS ile) -->
+                    <!-- Sorun 3: target="_blank" kaldırıldı -->
                     <div class="link-item">
-                        <a href="info-howto.html" target="_blank" rel="noopener"><span class="quick-link-text">Info & How To</span></a>
+                        <a href="info-howto.html" rel="noopener"><span class="quick-link-text">Info & How To</span></a>
                     </div>
                     <!-- YENİ: Sadece mobilde görünen Litepaper bağlantısı -->
                     <div class="link-item mobile-only-link">
@@ -94,7 +91,6 @@
                 </div>
             </div>
         </div>
-
         <div class="main-content">
             <!-- BlockSense Updates Section -->
             <div class="section shrinkable">
@@ -104,19 +100,16 @@
                         <i class="fas fa-search"></i> Check
                     </button>
                 </div>
-
                 <div class="input-section">
                     <div class="url-display">
                         <span class="url-label">Tracking:</span>
                         <span class="url-text"><strong>https://blocksense.network</strong></span>
                     </div>
                 </div>
-
                 <div class="loading" id="loading">
                     <div class="spinner"></div>
                     <p>Analyzing BlockSense network...</p>
                 </div>
-
                 <div class="results-section">
                     <div class="results-header">
                         <h3>Latest Changes</h3>
@@ -128,7 +121,6 @@
                     <div id="results"></div>
                 </div>
             </div>
-
             <!-- Networks & Data Feeds Section -->
             <div class="section shrinkable">
                 <div class="section-header">
@@ -176,13 +168,11 @@
                             </div>
                         </div>
                     </div>
-
                     <div class="network-list-container">
                         <h3>Available Networks</h3>
                         <div class="network-list" id="networkList"></div>
                         <div class="network-pagination" id="networkPagination"></div>
                     </div>
-
                     <div class="feed-list-container">
                         <h3>Data Feeds (<span id="feedCount">0</span>)</h3>
                         <div class="feed-list" id="feedList"></div>
@@ -190,7 +180,6 @@
                     </div>
                 </div>
             </div>
-
             <!-- GitHub Updates Section -->
             <div class="section">
                 <div class="section-header">
@@ -199,7 +188,6 @@
                         <i class="fas fa-sync"></i> Refresh
                     </button>
                 </div>
-
                 <div class="github-selector">
                     <label class="selector-label">Show:</label>
                     <select id="githubSelector" class="selector-dropdown">
@@ -209,7 +197,6 @@
                         <option value="releases">Releases</option>
                     </select>
                 </div>
-
                 <div class="github-info">
                     <div class="repo-url">
                         <i class="fab fa-github"></i>
@@ -218,13 +205,11 @@
                         </a>
                     </div>
                 </div>
-
                 <div class="loading" id="githubLoading">
                     <div class="spinner"></div>
                     <p>Loading GitHub updates...</p>
                 </div>
                 <div class="github-results" id="githubResults"></div>
-
                 <div class="github-pro-tracker-link">
                     <a href="https://github-multi-repo-tracker.vercel.app/" target="_blank" rel="noopener" class="github-pro-link">
                         <i class="fab fa-github"></i> Github Pro Tracker
@@ -232,7 +217,6 @@
                     <p class="github-pro-description">(For detailed GitHub analysis, you can use this application.)</p>
                 </div>
             </div>
-
             <!-- Zincir Bağlantı Haritası (Etkileşimli Izgara) -->
             <div class="section">
                 <div class="section-header">
@@ -244,7 +228,6 @@
                     </div>
                 </div>
             </div>
-
             <!-- Ortak Kontratlar Hakkında Detaylı Bilgi -->
             <div class="section shrinkable">
                 <div class="section-header">
@@ -256,7 +239,6 @@
                     </div>
                 </div>
             </div>
-
              <!-- Ağ Sağlığı ve Aktivite Panosu -->
              <div class="section shrinkable">
                 <div class="section-header">
@@ -283,7 +265,6 @@
                     </div>
                 </div>
             </div>
-
             <!-- 1. "Zincirler Arası Yolculuk" Etkileşimli Akış Şeması -->
             <div class="section">
                 <div class="section-header">
@@ -341,7 +322,6 @@
                     </div>
                 </div>
             </div>
-
             <!-- 2. "Oracle Performans Panosu" (Simülasyon) -->
             <div class="section shrinkable">
                 <div class="section-header">
@@ -383,7 +363,6 @@
                     </div>
                 </div>
             </div>
-
             <!-- 3. "ZK İspat Gözlemcisi" (Basitleştirilmiş Görselleştirme) -->
             <div class="section">
                 <div class="section-header">
@@ -426,7 +405,6 @@
                     </div>
                 </div>
             </div>
-
             <!-- 4. "Eşsiz Teklif" ZK ve SchellingCoin Karşılaştırma Aracı -->
             <div class="section">
                 <div class="section-header">
@@ -502,7 +480,6 @@
                     </div>
                 </div>
             </div>
-
             <!-- 5. "Senaryo Oluşturucu: Oracle Talebinizi Tanımlayın" -->
             <div class="section">
                 <div class="section-header">
@@ -543,7 +520,6 @@
                     </div>
                 </div>
             </div>
-
             <!-- 6. "Blocksense Ekosistemi" Etkileşimli Haritası -->
             <div class="section">
                 <div class="section-header">
@@ -581,9 +557,7 @@
                     </div>
                 </div>
             </div>
-
         </div> <!-- .main-content kapanışı -->
-
          <!-- Sayfanın en altına taşınan bilgiler -->
          <div class="footer-info">
             <!-- Made by yazısı -->
@@ -593,18 +567,14 @@
             <!-- App Version bilgisi -->
             <div class="app-version">App Version: v1.1.0</div> <!-- Statik olarak tanımlandı -->
         </div>
-
     </div> <!-- .container kapanışı -->
-
     <!-- Yukarı Çık Butonu -->
     <button id="scrollToTopBtn" class="scroll-to-top">
         <i class="fas fa-arrow-up"></i>
     </button>
-
     <button id="themeToggle" class="theme-toggle">
         <i class="fas fa-sun"></i> <!-- Varsayılan açık tema simgesi -->
     </button>
-
     <!-- Network Detail Modal -->
     <div id="networkDetailModal" class="modal network-detail-modal" style="display:none;">
         <div class="modal-content">
@@ -612,7 +582,6 @@
             <div id="networkDetailContent"></div>
         </div>
     </div>
-
     <script src="data.js"></script>
     <script src="script.js"></script> <!-- Güncellenmiş script.js -->
 </body>

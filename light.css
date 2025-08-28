@@ -6,7 +6,6 @@
     /* Force the hard-looking font everywhere */
     font-family: 'Oswald', sans-serif !important;
 }
-
 /* Light Theme Variables */
 :root {
     /* Light Theme Colors */
@@ -48,7 +47,6 @@
     --github-pro-text-weight: 700; /* Koyu font */
     --made-by-text-color: #000000; /* Made by yazısı için siyah renk */
 }
-
 /* Dark Theme Variables */
 [data-theme="dark"] {
     /* Dark Theme Colors */
@@ -90,8 +88,6 @@
     --github-pro-text-weight: 700; /* Koyu font */
     --made-by-text-color: #ffffff; /* Made by yazısı için beyaz renk */
 }
-
-
 body {
     background:
         radial-gradient(1200px 600px at -10% -10%, #e6fffa 0%, transparent 60%),
@@ -104,7 +100,6 @@ body {
     line-height: 1.5;
     transition: background-color 0.3s, color 0.3s, background 0.4s ease;
 }
-
 /* Container */
 .container {
     width: 100%;
@@ -114,7 +109,6 @@ body {
     display: flex;
     flex-direction: column;
 }
-
 /* Header */
 .header {
     margin-bottom: 20px;
@@ -141,6 +135,12 @@ body {
     letter-spacing: 0.2px;
     text-transform: uppercase;
     filter: drop-shadow(0 1px 0 rgba(0, 0, 0, 0.1));
+    /* Sorun 1: Mobilde metin kırpılmasını engellemek için bu satırlar kaldırıldı */
+    /*
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    */
 }
 /* GÜNCELLENDİ: Koyu tema için başlık rengi */
 [data-theme="dark"] .modern-header {
@@ -152,7 +152,6 @@ body {
     border-radius: 50%;
     object-fit: cover;
 }
-
 .litepaper-link {
     backdrop-filter: blur(var(--glass-blur));
     background: linear-gradient(180deg, var(--link-bg), var(--link-hover-bg));
@@ -169,7 +168,6 @@ body {
     transform: translateY(-2px) scale(1.02);
     box-shadow: 0 6px 16px rgba(49, 130, 206, 0.35);
 }
-
 /* Quick Links - compact & NORMAL font weight */
 .quick-links.compact {
     display: flex;
@@ -213,16 +211,13 @@ body {
     color: red !important;
     font-weight: bold !important;
 }
-
 /* Grid - 3 sütun düzeni */
 .main-content {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 24px;
     align-content: start; /* Grid öğelerini üstten başlat */
-
     align-items: stretch;}
-
 /* Cards */
 .section {
     background: var(--container-bg);
@@ -237,7 +232,6 @@ body {
     /* Yeni: İçeriğe göre boyutlan ve fazladan boşluk bırakma */
      /* Yüksekliği içeriğe göre ayarla */
      /* İç içe flex/grid öğeleri için taşmayı önlemek için */
-
     height: 100%;}
 .section:hover {
     background: var(--section-hover-bg);
@@ -245,13 +239,11 @@ body {
     box-shadow: 0 10px 28px var(--shadow-hover-color);
     transform: translateY(-2px);
 }
-
 /* İlk 3 sütunu büyüt - DOĞRU KURAL */
 .main-content > .section:nth-child(-n+3) {
     max-height: 60vh; /* Yüksekliği %60 viewport height ile sınırla (BÜYÜTMEK İÇİN) */
     overflow-y: auto; /* Taşan içeriğe kaydırma çubuğu ekle */
 }
-
 /* Section Header */
 .section-header {
     display: flex;
@@ -275,7 +267,6 @@ body {
     color: var(--link-bg);
     font-size: 0.95rem;
 }
-
 /* Buttons */
 .primary-btn.small-btn {
     padding: 10px 16px;
@@ -306,7 +297,6 @@ body {
     background: var(--pagination-btn-hover-bg);
     color: var(--link-hover-bg);
 }
-
 /* URL display */
 .input-section {
     margin-bottom: 18px;
@@ -329,7 +319,6 @@ body {
     font-weight: 800;
     font-size: 0.85rem;
 }
-
 /* Github info */
 .github-info {
     margin-bottom: 18px;
@@ -356,7 +345,6 @@ body {
 .repo-url a:hover {
     text-decoration: underline;
 }
-
 /* Loading */
 .loading {
     display: none;
@@ -381,7 +369,6 @@ body {
         transform: rotate(360deg);
     }
 }
-
 /* Results */
 .results-section {
     margin-top: 12px;
@@ -426,7 +413,6 @@ body {
 .view-btn i {
     margin-right: 4px; /* İkonlarla metin arasına boşluk */
 }
-
 #results,
 #githubResults {
     display: flex;
@@ -435,7 +421,6 @@ body {
     overflow-y: auto; /* Sonuçlar fazlaysa kaydırma */
     flex-grow: 1; /* Alanı doldursun */
 }
-
 /* Update cards */
 .update-item {
     background: var(--update-item-bg);
@@ -492,7 +477,6 @@ body {
 .update-item-source a:hover {
     text-decoration: underline;
 }
-
 /* Timeline */
 .timeline-view {
     position: relative;
@@ -530,7 +514,6 @@ body {
     border: 3px solid white; /* White border for contrast */
     box-shadow: 0 0 0 2px var(--timeline-color);
 }
-
 /* Theme toggle */
 .theme-toggle {
     position: fixed;
@@ -557,7 +540,6 @@ body {
 .theme-toggle i {
     font-size: 1.2rem; /* İkon boyutunu ayarla */
 }
-
 /* Scroll to Top Button */
 .scroll-to-top {
     position: fixed;
@@ -584,7 +566,6 @@ body {
 .scroll-to-top i {
     font-size: 1.2rem;
 }
-
 /* Github selector */
 .github-selector {
     margin-bottom: 14px;
@@ -612,7 +593,6 @@ body {
     border-color: var(--link-bg);
     box-shadow: 0 0 0 2px rgba(49, 130, 206, 0.25);
 }
-
 /* Networks & Feeds - Gelişmiş Filtreleme */
 .advanced-filters {
     margin-bottom: 20px;
@@ -657,7 +637,6 @@ body {
     font-weight: 700;
     font-size: 0.85rem;
 }
-
 /* Networks & Feeds - Listeler */
 .networks-and-feeds-content {
     display: flex;
@@ -720,7 +699,6 @@ body {
     margin-top: 4px;
     word-break: break-all;
 }
-
 .network-pagination,
 .feed-pagination {
     display: flex;
@@ -754,7 +732,6 @@ body {
     font-weight: 800;
     color: var(--text-color);
 }
-
 /* Modal */
 .modal {
     display: none;
@@ -805,7 +782,6 @@ body {
 .close:hover {
     color: var(--link-bg);
 }
-
 .network-detail-content h3 {
     font-size: 1.35rem;
     font-weight: 800;
@@ -874,7 +850,6 @@ body {
     border-color: var(--link-bg);
     box-shadow: 0 0 0 2px rgba(49, 130, 206, 0.25);
 }
-
 /* Dashboard & Stats */
 .dashboard-content,
 .app-stats-content {
@@ -933,7 +908,6 @@ body {
 .event-log li {
     margin-bottom: 5px;
 }
-
 /* Chain Map - Etkileşimli Izgara */
 .chain-map-grid {
     display: grid;
@@ -974,7 +948,6 @@ body {
     text-decoration: none;
     display: block;
 }
-
 /* Contracts Details */
 .contracts-content {
     padding: 10px 0;
@@ -1013,7 +986,6 @@ body {
 .contract-functions li {
     margin-bottom: 3px;
 }
-
 /* GitHub Pro Tracker Link - Ortalı ve Siyah Koyu */
 .github-pro-tracker-link {
     text-align: center;
@@ -1040,9 +1012,7 @@ body {
     font-size: 0.9rem;
     margin: 0;
 }
-
 /* --- Yeni Fonksiyonlar için Stiller --- */
-
 /* 4. Karşılaştırma Tablosu */
 .comparison-content {
     overflow-x: auto; /* Geniş tablolar için kaydırma */
@@ -1076,7 +1046,6 @@ body {
 .comparison-table td li {
     margin-bottom: 5px;
 }
-
 /* 1. Zincirler Arası Yolculuk Akış Şeması */
 .flow-content {
     padding: 10px 0;
@@ -1130,7 +1099,6 @@ body {
 .flow-arrow i.fa-arrows-alt-h {
      transform: rotate(90deg);
 }
-
 /* 3. ZK İspat Gözlemcisi */
 .zk-observer-content {
     padding: 10px 0;
@@ -1202,7 +1170,6 @@ body {
     box-shadow: 0 2px 6px var(--shadow-color);
     flex-shrink: 0;
 }
-
 /* 5. Senaryo Oluşturucu */
 .scenario-builder-content {
     padding: 10px 0;
@@ -1233,7 +1200,6 @@ body {
     margin-top: 0;
     color: var(--update-item-title-color);
 }
-
 /* 6. Ekosistem Haritası */
 .ecosystem-content {
     padding: 10px 0;
@@ -1267,7 +1233,6 @@ body {
     text-align: center;
     color: var(--link-bg);
 }
-
 /* Sayfanın en altına taşınan bilgiler */
 .footer-info {
     text-align: center;
@@ -1298,8 +1263,6 @@ body {
     font-weight: normal; /* Sade font */
     margin: 0; /* Margin sıfırlandı */
 }
-
-
 /* Scrollbar */
 ::-webkit-scrollbar {
     width: 8px;
@@ -1314,7 +1277,6 @@ body {
 ::-webkit-scrollbar-track {
     background: transparent;
 }
-
 /* Animations */
 @keyframes fadeIn {
     from {
@@ -1326,7 +1288,6 @@ body {
         transform: translateY(0);
     }
 }
-
 /* Responsive */
 @media (max-width: 1200px) {
     .main-content {
@@ -1382,7 +1343,6 @@ body {
         border-bottom: none;
     }
 }
-
 /* Modern Reset & Base Font */
 * {
     margin: 0;
@@ -1391,13 +1351,11 @@ body {
     /* Ana yazı tipi: Oswald. Ancak ikon fontlarını bastırmamak için !important kullanılmaz. */
     /* font-family: 'Oswald', sans-serif !important; */ /* Bu satırı silin veya yorumlayın */
 }
-
 /* Ana yazı tipini body'ye uygula, böylece genel kalıtım sağlanır */
 body {
     font-family: 'Oswald', sans-serif;
     /* ... diğer body stilleri ... */
 }
-
 /* FontAwesome ikonları için doğru font-family'nin kullanılmasını zorla */
 /* Bu, ikon fontlarının düzgün yüklenmesini sağlar */
 .fab, .fad, .fal, .far, .fas, .fa-brands, .fa-duotone, .fa-light, .fa-regular, .fa-solid {
@@ -1409,7 +1367,6 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-
 /* Eğer yukarıdaki yöntem yeterli olmazsa, doğrudan i etiketi için de tanımlayabilirsiniz */
 i[class^="fa"], i[class*=" fa"] {
     font-family: 'Font Awesome 6 Free', 'Font Awesome 6 Brands', 'Font Awesome 6 Duotone', 'Font Awesome 6 Pro', sans-serif !important;
@@ -1420,46 +1377,42 @@ i[class^="fa"], i[class*=" fa"] {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-
-
 /* ----- YENİ EKLENEN/DEĞİŞTİRİLEN RESPONSIVE AYARLARI ----- */
-
 /* Varsayılan olarak mobil Litepaper linkini gizle */
 .mobile-only-link {
     display: none !important;
 }
-
 @media (max-width: 768px) {
     .header-top-row {
         gap: 15px; /* Başlık ve link arasına boşluk ekle */
     }
-
-    /* GÜNCELLEME: Başlık küçültüldü ve tek satırda kalması sağlandı */
+    /* GÜNCELLEME: Başlık küçültüldü ve mobilde tam görünmesi için nowrap kaldırıldı */
     .modern-header {
         font-size: 1.5rem !important; /* Başlık fontunu küçült */
+        /* Sorun 1: Mobilde metin kırpılmasını engellemek için bu satırlar kaldırıldı */
+        /*
         white-space: nowrap;       /* Başlığın alt satıra inmesini engelle */
-        overflow: hidden;            /* Taşmayı gizle */
-        text-overflow: ellipsis;     /* Taşarsa ... koy */
+        /* overflow: hidden;            /* Taşmayı gizle */
+        /* text-overflow: ellipsis;     /* Taşarsa ... koy */
+        */
         flex-shrink: 1; /* Başlık gerektiğinde küçülebilsin */
     }
-
     /* GÜNCELLEME: Masaüstü Litepaper linkini mobilde gizle */
     .header-top-row .litepaper-link {
         display: none;
     }
-
     /* GÜNCELLEME: Quick Links şablonuna eklenen Litepaper linkini mobilde göster */
     .mobile-only-link {
         display: block !important;
     }
-
-    /* GÜNCELLEME: Quick Links için 4x3 grid yapısı */
+    /* Sorun 2: Quick Links için 4x3 grid yapısı ve ORTALAMA */
     .quick-links.compact {
         display: grid !important;
         grid-template-columns: repeat(4, 1fr) !important;
         gap: 5px !important;
+        /* Burası eklendi: Grid'i ortala */
+        justify-content: center !important;
     }
-
     .quick-links.compact .link-item {
         border-right: none !important;
         border-bottom: none !important;
