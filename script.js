@@ -949,3 +949,145 @@ function displayGitHubUpdates(data, type) {
     }
     githubResultsDiv.innerHTML = html;
 }
+// Community Calls functionality
+function initCommunityCalls() {
+    const communityCallsList = document.getElementById('communityCallsList');
+    if (!communityCallsList) return;
+    
+    // Community Call tarihleri
+    const callDates = [
+        "12 August 2024",
+        "8 November 2024",
+        "7 December 2024",
+        "11 January 2025",
+        "6 February 2025",
+        "7 March 2025",
+        "3 April 2025",
+        "5 May 2025",
+        "30 May 2025",
+        "2 July 2025",
+        "31 July 2025"
+    ];
+    
+    for (let i = 1; i <= 11; i++) {
+        const callItem = document.createElement('a');
+        callItem.href = `community-calls.html?call=${i}`;
+        callItem.className = 'community-call-item';
+        callItem.textContent = `Community Call ${i} (${callDates[i-1]})`;
+        communityCallsList.appendChild(callItem);
+    }
+}
+// Sayfa yüklendiğinde community calls'u başlat
+document.addEventListener('DOMContentLoaded', function() {
+    initCommunityCalls();
+    
+    // Community Calls sayfası için tema değiştirme
+    const themeToggle = document.getElementById('themeToggle');
+    if (themeToggle) {
+        themeToggle.addEventListener('click', function() {
+            const currentTheme = document.documentElement.getAttribute('data-theme');
+            const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+            document.documentElement.setAttribute('data-theme', newTheme);
+            localStorage.setItem('theme', newTheme);
+            
+            // İkonu güncelle
+            const icon = themeToggle.querySelector('i');
+            icon.className = newTheme === 'dark' ? 'fas fa-moon' : 'fas fa-sun';
+        });
+    }
+    
+    // Yukarı çık butonu
+    const scrollToTopBtn = document.getElementById('scrollToTopBtn');
+    if (scrollToTopBtn) {
+        window.addEventListener('scroll', function() {
+            if (window.pageYOffset > 300) {
+                scrollToTopBtn.style.display = 'flex';
+            } else {
+                scrollToTopBtn.style.display = 'none';
+            }
+        });
+        
+        scrollToTopBtn.addEventListener('click', function() {
+            window.scrollTo({
+                top: 0,
+                behavior: 'smooth'
+            });
+        });
+    }
+});
+// Community Calls functionality
+function initCommunityCalls() {
+    const communityCallsList = document.getElementById('communityCallsList');
+    if (!communityCallsList) return;
+    
+    // Community Call tarihleri
+    const callDates = [
+        "12 August 2024",
+        "8 November 2024",
+        "7 December 2024",
+        "11 January 2025",
+        "6 February 2025",
+        "7 March 2025",
+        "3 April 2025",
+        "5 May 2025",
+        "30 May 2025",
+        "2 July 2025",
+        "31 July 2025"
+    ];
+    
+    // Önce mevcut içeriği temizle (yinelenmeyi önlemek için)
+    communityCallsList.innerHTML = '';
+    
+    for (let i = 1; i <= 11; i++) {
+        const callItem = document.createElement('a');
+        callItem.href = `community-calls.html?call=${i}`;
+        callItem.className = 'community-call-item';
+        callItem.textContent = `Community Call ${i} (${callDates[i-1]})`;
+        communityCallsList.appendChild(callItem);
+    }
+}
+// Sayfa yüklendiğinde community calls'u başlat
+document.addEventListener('DOMContentLoaded', function() {
+    initCommunityCalls();
+    
+    // Tema değiştirme butonu
+    const themeToggle = document.getElementById('themeToggle');
+    if (themeToggle) {
+        // Mevcut temayı kontrol et
+        const savedTheme = localStorage.getItem('theme') || 'light';
+        document.documentElement.setAttribute('data-theme', savedTheme);
+        
+        // İkonu ayarla
+        const icon = themeToggle.querySelector('i');
+        icon.className = savedTheme === 'dark' ? 'fas fa-moon' : 'fas fa-sun';
+        
+        themeToggle.addEventListener('click', function() {
+            const currentTheme = document.documentElement.getAttribute('data-theme');
+            const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+            document.documentElement.setAttribute('data-theme', newTheme);
+            localStorage.setItem('theme', newTheme);
+            
+            // İkonu güncelle
+            icon.className = newTheme === 'dark' ? 'fas fa-moon' : 'fas fa-sun';
+        });
+    }
+    
+    // Yukarı çık butonu
+    const scrollToTopBtn = document.getElementById('scrollToTopBtn');
+    if (scrollToTopBtn) {
+        window.addEventListener('scroll', function() {
+            if (window.pageYOffset > 300) {
+                scrollToTopBtn.style.display = 'flex';
+            } else {
+                scrollToTopBtn.style.display = 'none';
+            }
+        });
+        
+        scrollToTopBtn.addEventListener('click', function() {
+            window.scrollTo({
+                top: 0,
+                behavior: 'smooth'
+            });
+        });
+    }
+});
