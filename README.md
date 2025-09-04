@@ -1,4 +1,4 @@
-# BlockSense Network Monitor
+# Blocksense Network Monitor
 
 This application provides a comprehensive dashboard to monitor the BlockSense network, its data feeds, and related GitHub activity. It offers real-time updates, advanced filtering, and insightful visualizations to understand the network's health and performance.
 
