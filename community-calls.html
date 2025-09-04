@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <title>Blocksense Community Calls - BlockSense Network Monitor</title>
+    <title>Blocksense Community Calls - Blocksense Network Monitor</title>
     <!-- Icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"/>
     <!-- Hard-looking font for the whole app -->
@@ -18,12 +18,12 @@
             height: 100%;
             width: 100%;
             background: var(--bg-color);
-            overflow: hidden;
+            /* overflow: hidden; REMOVED THIS LINE TO ENABLE SCROLLING */
         }
         
         .container {
             width: 100%;
-            height: 100vh;
+            min-height: 100vh; /* Changed from height: 100vh to min-height */
             padding: 0;
             display: flex;
             flex-direction: column;
@@ -71,8 +71,9 @@
             display: flex;
             padding: 15px;
             gap: 20px;
-            overflow: hidden;
-            height: calc(100vh - 100px);
+            /* overflow: hidden; REMOVED THIS LINE */
+            height: auto; /* Changed from fixed height to auto */
+            min-height: 0; /* Allow content to determine height */
         }
         
         .video-section {
@@ -83,8 +84,8 @@
             border-radius: 12px;
             padding: 15px;
             box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
-            overflow: hidden;
-            height: 100%;
+            /* overflow: hidden; REMOVED THIS LINE */
+            height: auto; /* Changed from 100% to auto */
             transform: scale(0.9);
             transform-origin: center;
         }
@@ -95,9 +96,9 @@
             flex-direction: column;
             background: var(--container-bg);
             border-radius: 12px;
-            overflow: hidden;
+            /* overflow: hidden; REMOVED THIS LINE */
             box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
-            height: 100%;
+            height: auto; /* Changed from 100% to auto */
             margin-right: 40px; /* Transcript panelini 40px sola kaydır */
         }
         
@@ -241,7 +242,7 @@
         @media (max-width: 1200px) {
             .main-content {
                 flex-direction: column;
-                height: auto;
+                height: auto; /* Changed from auto to allow content to expand */
             }
             
             .video-section {
@@ -253,7 +254,7 @@
             }
             
             .transcript-section {
-                height: 40vh;
+                height: auto; /* Changed from 40vh to auto */
                 min-height: 300px;
                 margin-right: 0; /* Mobilde margin'i sıfırla */
             }
@@ -276,12 +277,13 @@
             .main-content {
                 padding: 10px;
                 gap: 15px;
+                overflow: visible; /* Ensure content can overflow */
             }
             
             .video-section,
             .transcript-section {
                 padding: 12px;
-                height: auto;
+                height: auto; /* Ensure sections can expand */
             }
             
             .transcript-buttons {
@@ -336,6 +338,14 @@
                 font-size: 1rem;
             }
         }
+
+        /* NEW: Add a wrapper to allow scrolling on mobile */
+        .content-wrapper {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            overflow-y: auto; /* Enable vertical scrolling */
+        }
     </style>
 </head>
 <body>
@@ -344,7 +354,7 @@
             <div class="header-content">
                 <div class="title-container">
                     <h1 class="modern-header">
-                        <img src="pirate.png" alt="BlockSense Network Monitor" class="logo-icon" id="blockIcon"/>
+                        <img src="pirate.png" alt="Blocksense Network Monitor" class="logo-icon" id="blockIcon"/>
                         Blocksense Community Call #<span id="callNumberDisplay"></span>
                     </h1>
                     <div class="call-date" id="callDateDisplay"></div>
@@ -357,36 +367,38 @@
             </div>
         </div>
         
-        <div class="main-content">
-            <div class="video-section">
-                <div class="video-container-wrapper">
-                    <div class="video-container">
-                        <iframe id="youtubePlayer" width="100%" height="100%" src="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <div class="content-wrapper"> <!-- NEW: Added wrapper for scrolling -->
+            <div class="main-content">
+                <div class="video-section">
+                    <div class="video-container-wrapper">
+                        <div class="video-container">
+                            <iframe id="youtubePlayer" width="100%" height="100%" src="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="transcript-section">
+                    <div class="transcript-links">
+                        <h3>Transcripts:</h3>
+                        <div class="transcript-buttons">
+                            <button id="engTranscriptBtn" class="primary-btn small-btn">
+                                <i class="fas fa-file-alt"></i> English Transcript
+                            </button>
+                            <button id="trTranscriptBtn" class="primary-btn small-btn">
+                                <i class="fas fa-file-alt"></i> Türkçe Transcript
+                            </button>
+                        </div>
+                    </div>
+                    <div class="transcript-panel" id="transcriptPanel">
+                        <div class="transcript-placeholder">
+                            <i class="fas fa-file-alt"></i>
+                            <h3>Transcript Panel</h3>
+                            <p>Select a transcript language to view the content here.</p>
+                        </div>
                     </div>
                 </div>
             </div>
-            
-            <div class="transcript-section">
-                <div class="transcript-links">
-                    <h3>Transcripts:</h3>
-                    <div class="transcript-buttons">
-                        <button id="engTranscriptBtn" class="primary-btn small-btn">
-                            <i class="fas fa-file-alt"></i> English Transcript
-                        </button>
-                        <button id="trTranscriptBtn" class="primary-btn small-btn">
-                            <i class="fas fa-file-alt"></i> Türkçe Transcript
-                        </button>
-                    </div>
-                </div>
-                <div class="transcript-panel" id="transcriptPanel">
-                    <div class="transcript-placeholder">
-                        <i class="fas fa-file-alt"></i>
-                        <h3>Transcript Panel</h3>
-                        <p>Select a transcript language to view the content here.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+        </div> <!-- END: content-wrapper -->
     </div>
     
     <button id="themeToggle" class="theme-toggle">
@@ -440,7 +452,7 @@
                 // Call tarihini göster
                 document.getElementById('callDateDisplay').textContent = callDates[callNumber - 1];
                 
-                document.title = `Blocksense Community Call #${callNumber} - BlockSense Network Monitor`;
+                document.title = `Blocksense Community Call #${callNumber} - Blocksense Network Monitor`;
                 
                 // Transcript butonlarına tıklama olaylarını ekle
                 document.getElementById('engTranscriptBtn').addEventListener('click', function() {
@@ -527,7 +539,7 @@
                     // Örnek içerik göster
                     const sampleContent = language === 'ENG' 
                         ? `<p>This is a sample English transcript for Blocksense Community Call #${callNumber}.</p>
-                           <p>In this call, we discussed the latest developments in the BlockSense network, including:</p>
+                           <p>In this call, we discussed the latest developments in the Blocksense network, including:</p>
                            <ul>
                              <li>New feature updates</li>
                              <li>Network performance metrics</li>
@@ -536,7 +548,7 @@
                            </ul>
                            <p>The full transcript will be available here once it's prepared.</p>`
                         : `<p>Bu, ${callNumber}. Blocksense Topluluk Görüşmesi için örnek bir Türkçe transkripttir.</p>
-                           <p>Bu görüşmede, BlockSense ağındaki son gelişmeleri tartıştık,包括:</p>
+                           <p>Bu görüşmede, Blocksense ağındaki son gelişmeleri tartıştık,包括:</p>
                            <ul>
                              <li>Yeni özellik güncellemeleri</li>
                              <li>Ağ performans metrikleri</li>
