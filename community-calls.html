@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -5,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <title>Blocksense Community Calls - Blocksense Network Monitor</title>
     <!-- Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css  "/>
     <!-- Hard-looking font for the whole app -->
     <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;600;700&display=swap" rel="stylesheet"/>
     <!-- Styles -->
@@ -202,6 +203,7 @@
         
         .loading-spinner i {
             font-size: 2rem;
+            color: var(--text-color);
         }
         
         .error-message {
@@ -236,6 +238,7 @@
             flex: 1;
             margin: 0;
             border-radius: 8px;
+            cursor: pointer;
         }
         
         /* Responsive düzenlemeler */
@@ -381,10 +384,10 @@
                     <div class="transcript-links">
                         <h3>Transcripts:</h3>
                         <div class="transcript-buttons">
-                            <button id="engTranscriptBtn" class="primary-btn small-btn">
+                            <button id="engTranscriptBtn" class="primary-btn small-btn" type="button">
                                 <i class="fas fa-file-alt"></i> English Transcript
                             </button>
-                            <button id="trTranscriptBtn" class="primary-btn small-btn">
+                            <button id="trTranscriptBtn" class="primary-btn small-btn" type="button">
                                 <i class="fas fa-file-alt"></i> Türkçe Transcript
                             </button>
                         </div>
@@ -412,17 +415,17 @@
         
         // Community Call YouTube linkleri
         const youtubeLinks = [
-            "https://www.youtube.com/embed/SEUy0ZWxz2k",
-            "https://www.youtube.com/embed/Ur97X-0d0fs",
-            "https://www.youtube.com/embed/iDeHWx3oyXU",
-            "https://www.youtube.com/embed/VKhyEBkCIOE",
-            "https://www.youtube.com/embed/VKhyEBkCIOE",
-            "https://www.youtube.com/embed/VGjcGeAJNlc",
-            "https://www.youtube.com/embed/DxzUVY6kODk",
-            "https://www.youtube.com/embed/V_bggpmFq1c",
-            "https://www.youtube.com/embed/mKBtSR0oO64",
-            "https://www.youtube.com/embed/a3e1oFF_NIo",
-            "https://www.youtube.com/embed/dyPuiiOh7KY"
+            "  https://www.youtube.com/embed/SEUy0ZWxz2k  ",
+            "https://www.youtube.com/embed/Ur97X-0d0fs  ",
+            "https://www.youtube.com/embed/iDeHWx3oyXU  ",
+            "https://www.youtube.com/embed/VKhyEBkCIOE  ",
+            "https://www.youtube.com/embed/VKhyEBkCIOE  ",
+            "https://www.youtube.com/embed/VGjcGeAJNlc  ",
+            "https://www.youtube.com/embed/DxzUVY6kODk  ",
+            "https://www.youtube.com/embed/V_bggpmFq1c  ",
+            "https://www.youtube.com/embed/mKBtSR0oO64  ",
+            "https://www.youtube.com/embed/a3e1oFF_NIo  ",
+            "https://www.youtube.com/embed/dyPuiiOh7KY  "
         ];
         
         // Community Call tarihleri
@@ -455,11 +458,15 @@
                 document.title = `Blocksense Community Call #${callNumber} - Blocksense Network Monitor`;
                 
                 // Transcript butonlarına tıklama olaylarını ekle
-                document.getElementById('engTranscriptBtn').addEventListener('click', function() {
+                document.getElementById('engTranscriptBtn').addEventListener('click', function(e) {
+                    e.preventDefault();
+                    this.blur();
                     loadTranscript(callNumber, 'ENG');
                 });
                 
-                document.getElementById('trTranscriptBtn').addEventListener('click', function() {
+                document.getElementById('trTranscriptBtn').addEventListener('click', function(e) {
+                    e.preventDefault();
+                    this.blur();
                     loadTranscript(callNumber, 'TR');
                 });
             } else {
@@ -531,6 +538,10 @@
                             ${formatTranscript(data)}
                         </div>
                     `;
+                    // Transcript yüklendiğinde video bölümünün konumunu sabitle (sadece büyük ekranlarda)
+                    if (window.innerWidth > 1200) {
+                        document.querySelector('.video-section').style.alignSelf = 'flex-start';
+                    }
                 })
                 .catch(error => {
                     // Hata durumunda kullanıcıyı bilgilendir
@@ -567,6 +578,10 @@
                             <p class="error-message">Note: This is sample content. The actual transcript file could not be loaded from: ${transcriptPath}</p>
                         </div>
                     `;
+                    // Hata durumunda da video bölümünün konumunu sabitle (sadece büyük ekranlarda)
+                    if (window.innerWidth > 1200) {
+                        document.querySelector('.video-section').style.alignSelf = 'flex-start';
+                    }
                 });
         }
         
@@ -586,6 +601,10 @@
                     <p>Select a transcript language to view the content here.</p>
                 </div>
             `;
+            // Transcript paneli kapatıldığında video bölümünün konumunu eski haline getir (sadece büyük ekranlarda)
+            if (window.innerWidth > 1200) {
+                document.querySelector('.video-section').style.alignSelf = '';
+            }
         }
     </script>
 </body>
