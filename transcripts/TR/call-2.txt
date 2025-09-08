@@ -1,0 +1,212 @@
+00:00:00 - 00:01:25
+Tam zamanında başlamak için herkes kendi her zamanki yerinde, iyi konumlanmış. Seni görmek güzel kardeşim. Ayrıca, toplulukla bu şekilde bağlantı kurmak ve bu anı ve ayrıca bilgiyi birlikte paylaşmak aslında harika, gerçekten harika. Bunu organize ettiğin için çok teşekkürler. Evet, ben de çok heyecanlıyım, teşekkürler Cho. Şey demeliyim, um, topluluktan özür dilerim, bir öncekini kaçırdık ama gerçekten üzerinde çalıştığımız çok şey vardı ve evet, işler üst üste geldi. İlerlemeyi görebilirsiniz ama aynı zamanda çoğu hala iletilmiş değil diyebilirim.
+
+00:00:42 - 00:01:58
+O halde, ekibin ne yaptığına daha fazla ışık tutmaya çalışalım. Tamam, um, ajandama bakıyorum, tabii ki, yani herkesin bir ajandası olmalı ama önce, ekibi tanımayanlar ve şu an aramızda olanlar için kısa bir tanıtım yapalım. Ben kendim başlayayım, topluluk lideriyim, beni tanıyorsunuz zaten Crystal. Bu projede ilk günden beri olduğum için mutluyum ve sizlerin yardımıyla büyüdüğünü görüyorum ve bu harika
+
+00:01:21 - 00:02:46
+beyefendi sonradan aramıza katıldı ama herkes Blocksense'ın başarısı için eşit şekilde katkıda bulunuyor. Seninle, süper arkadaşım Rail ile organize etmekten çok mutluyum, onun da az önce katıldığını görüyorum, bir sürü topluluk etkinliğine katılıyor ama buna biraz sonra değineceğim ve evet, sözü kendini tanıtmak isteyen herkese vereceğim. Stan, kendin hakkında birkaç kelime söylemek ister misin? Tabii, kronolojik olarak gidelim ya da en azından benim için resimlerdeki sırayla. Ekranda aynı sıra bende de var, iyi, en azından bu senkronize.
+
+00:02:03 - 00:03:18
+Blocksense'a Nisan ayında yazılım mühendisi olarak katıldım ve şu anda biraz koordinasyon rolüm var, um, herkesin aynı yolda ilerlemesine yardımcı oluyorum. Bu çok heyecan verici. Ondan önce bir süre Google için çalıştım, doktora yaptım ve bir gömlek ve kravat giyiyorum çünkü bir yazılım mühendisi olarak fazla şık giyinmenin komik olduğunu düşünüyorum, işte buradayız. Evet, Stan kesinlikle ofiste herkes onu gördüğünde müthiş görünüyor, çok ciddi. Onu bu şekilde görmeyi seviyorum.
+
+00:02:40 - 00:03:59
+İstanbul Blockchain Week için İstanbul'dayken onunla da harika eğlendik. Takım elbisesiyle herkesin önünde dans ediyordu, tabii ki Blocksense'ı temsilen. Blocksense için her şeyi yaparız, bunu bilmelisiniz, çok adanmışız. Evet, harika. Öyleyse devam edelim, evet, bu şekilde devam edelim. Magnus, sen nasılsın? Sanırım sıra bende. Aslında, aslında kareler benim için de o tarafta, yani herkes için öyle sanırım, sadece bana özel değil. Ama iyi ki sizler hizalısınız. Sen geç katıldın, belki hazır olmalıydın Martin hazır olmalıydım, şaka yapıyorum.
+
+00:03:22 - 00:04:49
+Um, evet, herkese merhaba, burada olmak gerçekten çok güzel. Ben Magnus, ürün yöneticisiyim. Bu harika ekibe bu yazın başında katıldım. Ondan önce, merkeziyetsiz kimlik alanında üç yıl geçirdim, gizliliği koruyan yapay zeka asistanları ve yeniden kullanılabilir KYC (müşterini tanı) gibi problemler üzerine çalıştım. Ondan önce Amazon'da uzun bir süre çalıştım. Web3'te çok uzun süredir değilim henüz,
+
+00:04:07 - 00:05:26
+ama çok da kısa sayılmaz. Ve evet, aslen İngiltere'denim, ama Berlin'de yaşıyorum, bu konuyla ilgili mi bilmiyorum, um, ya da kendim hakkında çok fazla bilgi mi veriyorum, ama işte gidiyoruz. Bu yepyeni bir dünya. Evet, bu bilgi mi yoksa dezenformasyon mu? Belki de sadece bize bir VPN kullandığını söylüyorsundur, böylece IP'imden anlayamazsın. Harika adamım, harika. Fazla paylaşımı orada bırakalım o zaman. Biz tamamen doxxlanmış bir ekibiz kardeşim, yani endişe yok, kimse... Yani, hepimiz gurur duyuyoruz.
+
+00:04:52 - 00:06:13
+Yani, yaptığımız şeyden gurur duyuyorum, o yüzden neden yüzümü saklayayım? Ekran karşısında yüzümüzü saklayarak o kadar çok saat geçirdik ki, şimdi bu fırsatı değerlendirip toplulukla sohbet edebilir ve herkesin nasıl olduğunu görebiliriz. Bu harika. Ve evet, Martin'e geçelim. Onun nerede olduğunu bilmiyorum ama benim ekranımda o burada. Hey millet, topluluğu burada görmek güzel. Um, bir sürü tanıdık profil resmi görüyorum burada. Hey T-neck, Z_sard, Jack, hey Ivan ya da Ivan demeliyim.
+
+00:05:35 - 00:06:51
+Katıldığınız için teşekkürler. Adım Martin, geçmişim teknoloji şirketleri kurmak üzerine. Bunu 12 yıldır yapıyorum. 2010'ların ortalarında, vahşi bir yolculuk olan, doğal dil işleme ve makine öğrenimi şirketi kurdum ve sattım. Um, arkadaş olan birkaç VC şirketine, portföy şirketlerine danışmanlık yapıyorum. Ve um, blok zinciri bağlamından önce yaptığım en son şey, Docker'ın eski CFO'luğuydu. Eğer teknoloji sektöründe çalışıyorsanız -insanlar ellerini kaldırabilseydi keşke, kaç kişi aslında mühendis veya
+
+00:06:12 - 00:07:21
+geliştirici- eğer teknoloji sektöründe çalışıyorsanız, muhtemelen Docker'ın ne olduğunu biliyorsunuzdur. Docker'ın eski CFO'suyum, yeni bir startup kurdum, Draper Adventure'dan 5 milyon dolar fon topladım. Onlara pazara giriş stratejisi oluşturmalarında yardım ettim. Blocksense'tayım ve şu ana kadar çalışırken en çok eğlendiğim zamanı geçiriyorum ve tutarlı bir şekilde 12 saatlik iş günleri yapabileceğimi bilmiyordum.
+
+00:06:47 - 00:07:48
+Ve hala günü iyi hislerle bitirebiliyorum. Yani bu inanılmaz bir ekip ve büyük bir misyon. 12 yıldır teknoloji şirketleri kuruyorum, artık sadece işim olsun diye iş almak zorunda kalmama lüksüne sahibim. Buna sahip olduğum için çok şanslıyım ama burada inanılmaz insanların olduğunu, büyük bir vizyonun olduğunu ve her şeyin bir araya geldiğini hissediyorum. Ve sizler, topluluk ve bu görüşmedeki bu beyefendiler bunu gerçekleştiriyorsunuz. Yani çok heyecan verici bir zaman ve çok heyecan verici bir bağlam.
+
+00:07:17 - 00:08:44
+Um, Magnus fazla paylaşım yapmamamız gerektiğini söylüyordu ama bence bir noktada, belki bu topluluk görüşmesinde değil, kendimiz hakkında daha fazla bilgi paylaşmak için iki doğru bir yalan gibi bir şey yapabiliriz. Evet, belki S sandviç yaklaşımıdır. Evet, bunu yapabiliriz. Aslında bu görüşmeleri düzenli olarak, ayda bir yapmayı ve bu seviyede duygu ve heyecanı korumayı dört gözle bekliyorum. Son görüşmeye katılacağım için gerçekten heyecanlıydım.
+
+00:08:02 - 00:09:25
+Geçen sefer hepimiz ofiste, kurucularla birlikte, kameralar üzerimize dönük bir şekilde ciddi ciddi oturuyorduk. Şimdi herkes kendi evinin veya ofisinin konforunda. Seni görüyorum. Evet, evet, bazılarımız şanslıyız, evden çalışabiliyoruz, bu da Martin'in dediğine ekleniyor. Günde 12 saat ama hafta sonlarını da içeriyor, değil mi? Evet, bunu gerçekleştirmek için şu anda gereken bu, çünkü rekabetçi bir piyaramız var ve zamanında kaliteli işler teslim etme konusunda avantajlarımız var.
+
+00:08:44 - 00:10:03
+Evet, gündeme, sadece herkesi tanıtmak isteyerek bir nevi el koyduğum gündeme atlamak istiyorum. Ve bugün nelerden bahsedeceğimizi söylemek için: Bazı proje güncellemelerinden geçeceğiz, son görüşmemizden bu yana neler oldu? Tabii ki, birçoğunuz bazı haberleri takip etmiş olabilirsiniz ama bazı büyük duyuruları kaçırmış olabilirsiniz, bu yüzden tekrar üzerinden geçmekten mutluluk duyuyorum. Ve hangi etkinlikler... Yani, bu güncellemeler bir nevi bizim için çok önemli olan etkinlikler.
+
+00:09:23 - 00:10:40
+Ayrıca topluluk tarafında neler yaptığımız, toplulukta ne yapmayı planladığımız, bu sefer neleri başarılı olarak işaretleyebileceğimiz -neredeyse iki ay oldu diyeceğim-. Ayrıca pazarlama tarafında ve sonrasında sizlerden gelen hızlı sorulara atlayacağız. Konuşmadan sonra neler olup bittiğini öğrenmek için netleştirmek istediğiniz bir şey varsa. Ve ben, devam etmemizi sağlayan çok önemli olan önemli olaylarla başlayacağım.
+
+00:10:02 - 00:11:05
+Onlardan biri, fon toplama (fundraising). Martin bununla en çok ilgilenen kişi ve ayrıca New York'ta olduğu için kuruculara çok yakın. Biraz daha paylaşabilir misin, neden bu kadar önemli, orada neler oluyor ve sektörde neler dönüyor? Özür dilerim, ajandayı son anda değiştirdim ama umarım iyisindir. İyiyim. Peki, son topluluk görüşmemizi ne zaman yaptık? Fon toplamayı yapmadan önceydi, değil mi? Ya da en azından fon toplama duyurusunu yapmadan önce.
+
+00:10:33 - 00:11:47
+Sanırım buradaki çoğu kişi bunu zaten öğrenmiştir. Eğer öğrenmediyseniz, bu hoş bir sürpriz olacak. 4 milyon dolarlık bir seed funding (tohum yatırım) turu duyurduk. Yani bu grupta, bu fonlamayı bir süre önce güvence altına almıştık. Um, ve aslında stratejik bir karardı, şimdi duyurmak. Aslında ben ekibe katılmadan önce bile zaten çok fazla talep vardı. Yani kurucuların kapılarını çalıp daha fazla para yatırmak isteyen insanlar vardı.
+
+00:11:10 - 00:12:30
+Bu yüzden ilk turu bu kapasitede tutmak stratejik bir karardı. Aslında fon miktarına bakarsanız -tabii ki o turdaki değerlemeyi açıklayamam- ama fon miktarına operasyonumuz bağlamında bakarsanız, Blocksense'ın fon miktarına göre projeler arasında üst sıralarda olduğunu düşünüyorum. Özellikle bu aşamada, işletme için bu fon miktarının yüzde kaçı olduğuna bakarsak. Yani yatırımcılardan çok fazla iştah var ve fon duyurusunu yapmadan önce de çok fazla iştah vardı.
+
+00:11:51 - 00:13:05
+Şimdi fon duyurusunu yaptığımıza göre, ve bu demo gününe yol açıyor, insanlar bizimle günlük/haftalık olarak iletişime geçiyor. Yani ZK ve Oracle bağlamında ismi bilinmeyen birisi olmaya başladık ve bunu görmek gerçekten harika çünkü daha yeni başlıyoruz. Topluluk tarafında bununla ne kadar aşina olduğunuzu bilmiyorum ama çok ama çok yetenekli bir teknik ekibimiz var.
+
+00:12:26 - 00:13:43
+Kurucu, son Topluluk görüşmesinde olan Zahari, Nim programlama dilinin yaratıcılarından biriydi. Bu alanda iki kampa ayrıldığınızı hissediyorum: Ya gerçekten derin araştırma odaklı ekipleriniz vardır ve bu ekipler en iyi sosyal varlığa sahip olmayabilir, ya da çok sert meme yapan ve gerçekten Topluluk Odaklı insanlar vardır. Sizler hem burada olduğunuz için hem de süper şanslısınız, biz de sizlere sahip olduğumuz için şanslıyız çünkü um, inanılmaz yetenekli teknik bir ekibin ve bu araştırma odaklı organizasyonun bir parçasısınız.
+
+00:13:06 - 00:14:11
+Bu yüzden daha sakin kalmış olsak da, fon toplamadan önce bile üzerimizde çok fazla ilgi vardı ve şimdi um, daha da fazla var. Fon toplamayı bir ay önce duyurduk, o 4 milyon dolarlık turu. Ve a16z crypto'nun CSX hızlandırıcı programına katıldık. Diğer şirketler hakkında daha fazla bilgi edinmek isterseniz, aslında bunu araştırabilirsiniz. CSX fall 2024'ü aratabilirsiniz, orada gerçekten çok iyi temalar var. 21 şirket var.
+
+00:13:38 - 00:14:41
+Yani çoğunuz topluluğa nasıl geldiniz bilmiyorum ama bu sizi etkileyebilir veya takip etmeye değer diğer projeler hakkında size fikir verebilir. Kesinlikle hem yatırımcı perspektifinden hem de genel olarak sektörde ZK Teknolojisi üzerine çok fazla ilgi var. Bunu bir yıl öncesine göre daha fazla hissediyorum. Ve son nokta: Cuma günü New York'a uçuyorum, yani kurucu ekiple birlikte olacağım ve um, bir demo günü yapacağız.
+
+00:14:10 - 00:15:32
+Yani temelde, eğer önemli bir kripto yatırımcısıysanız ve Cuma günü New York'taysanız -ki bir sürü insan oraya uçuyor- orada olacaksınız ve insanlar Blocksense kurucu ekibinin sunumlarını yaparken duyacaklar. Yani bu çok heyecan verici bir zaman ve evet, bunlar getirmek istediğim güncellemelerdi. Yani geçen ayki fon toplama duyurusu, a16z crypto CSX hızlandırıcı programına katılım ve diğer şirketler hakkında size bilgi vermek.
+
+00:14:50 - 00:16:14
+Yani tekrar, CSX fall 2024 ve demo günü tam olarak önümüzdeki hafta Perşembe günü, yani bir hafta sonra. Evet, teşekkürler Martin. Martin bunu oldukça iyi bir şekilde ifade etti elbette, ama sadece fon bulduk ve birinden para için yalvarmadık, bizi destekleyen çok iyi şirketler ve fonlar vardı. Bu, Blocksense'ın vaadinin tanınmasını gerçekten gösteriyor. Ve bu vaat ve şu an bulunduğumuz yer hakkında konuşarak, Magnus'a atlamak istiyorum.
+
+00:15:33 - 00:17:04
+Geçen seferden bu yana başardığımız ve bu kadar gurur duyduğumuz şeylere genel bir bakış paylaşabilir misin? Bize biraz daha anlatabilir misin? Buradaki ışığı kapatacağım. Evet, um, işler gerçekten ilerlemeye başlıyor ve son görüşmeden bu yana ciddi bir ilerleme kaydettiğimiz için gerçekten heyecanlıyız. Artık EVM zincirleri üzerinde 18 farklı test ağında canlı sözleşmelerimiz var. Um, bu yılın sonlarına doğru SVM zincirlerine doğru ilerliyoruz, um, ve gelecek yıl Move VM.
+
+00:16:18 - 00:17:26
+Bu döngüde çıkan en iyi L1 ve L2'lerden bazılarıyla çok sert bir şekilde ortaklıklar peşindeyiz, özellikle de yeni olanlar -ki hepiniz duymuşsunuzdur- um, ama aynı zamanda mevcut büyük oyunculardan bazılarıyla da. Ve onlara önerdiğimiz şey, ilk ürünümüz. Bunu aşamalar halinde görüyoruz. İlk ürünümüz esasen bir Chainlink yedeği, ki birçoğunuz Chainlink ile bu şekilde oyunlu bir ilişkimiz olduğunu biliyorsunuz.
+
+00:16:52 - 00:18:00
+Chainlink Deniz Piyadeleri var, biz de korsanlarız ve bir şekilde yapmaya çalıştığımız şey, korsan gemilerimizi Chainlink'in oynadığı oyuna getirip onu altüst etmek. Bu yüzden, daha önce Chainlink ile çalıştıysanız geçiş yapmanın çok kolay olduğu bir ürün inşa ettik, çünkü arayüzler aynı ve Chainlink'te alacağınız aynı veri beslemelerine, aynı fiyat beslemelerine erişebilirsiniz, ancak zincirlere entegrasyon konusunda çok daha hızlıyız.
+
+00:17:26 - 00:18:48
+Yani Chainlink ile bir L1 veya L2'nin onları entegre etmesi altı ay veya bir yıl sürebilir ve çok büyük anlaşma boyutları gerektirirken, biz bunu, bilirsiniz, bazı durumlarda o zincirle görüşme yaptığımız gün test ağına başlatıyoruz. Bu yüzden herhangi bir yeni zincire Oracle verisi almanın önündeki engeli büyük ölçüde azaltmaya çalışıyoruz ve bu çok yıkıcı olacak. Um, yapılanma açısından, hem o test ağlarında hem de nihayetinde yıl sonuna doğru ana ağda (mainnet) veri yayınlayabilmek için son rötuşları yapıyoruz.
+
+00:18:07 - 00:19:16
+Yani ekip, um, Düğüm yazılımı üzerindeki son rötuşları yapıyor, um, veriyi sıralayıcımızla (sequencer) yayınlama yeteneğimiz. Ve aslında bunu son birkaç haftadır canlı olarak test ediyoruz. İki farklı hackathon yaptık, um, biri Doğu Sofya'da ve biri de geçen hafta sonu Londra'da, InCode London'da. Çok eğlenceliydiler. Gerçek geliştiricilerin ürünü ellerine alıp denemeleri için ilk şans oldu.
+
+00:18:42 - 00:19:54
+Ve şu ana kadar geri bildirimler iyiydi. Bu hackathonlarda hack yapan, gerçekten ilginç kullanım durumları inşa eden birkaç takımımız oldu. Bence bu hackathonlardan benim için ana çıkarım, bunun kilidini açtığı yaratıcılık. Az önce beni mevcut bir Oracle Ağı ile bir karşılaştırma yaparken duydunuz ve yapabildiği her şeyle. Bence inşa ettiğimiz şeyle ilgili gerçekten harika olan şey, izin gerektirmeyen SDK'mızla kilidini açtığı kullanım durumları.
+
+00:19:18 - 00:20:25
+İnsanlar kendi Oracle betiklerini oluşturabilir ve bu veri oluşturucular için büyük bir kolaylaştırıcıdır, çünkü önceden zincirde sadece sınırlı miktarda fiyat verisi alabilirken, şimdi bir API'den elde edilebilen herhangi bir veriyi bir oracle betiğine yazabilirsiniz ve ağımız gerisini halleder. Ve böylece hava durumu, um, hava durumu ve uçuş takip verilerini kullanarak tahmin piyasası sigortaları oluşturmak gibi kullanım durumları gördük.
+
+00:19:51 - 00:20:58
+Yani devam eden uçuşların sigorta talepleri üzerine bahse girebilirsiniz. Um, benzer şekilde, tarım sektörü için hava durumu verilerini kullanarak talepleri ele almak gibi. Ve bunlar, diğer oracle'larla yapamayacağınız, gerçekten ilginç, tuhaf kullanım durumları. O veriyi çevrimiçi hale getirmek için işi kendiniz yapmak zorunda kalırdınız ve bu zincir üzerinde gerçekten iyi bir seçenek değil. Onu merkeziyetsiz ve güvenli hale getirmek için bir oracle üzerinden gitmek istersiniz.
+
+00:20:25 - 00:21:29
+Ve böylece, um, evet, sanırım ekibi, bilirsiniz, bu farklı kullanım durumlarına olan talep olduğunu ve alana getirebileceğimiz daha fazla yaratıcılık olduğunu bilerek gerçekten motive ettiler. Um, evet, sanırım dediğim gibi, bunu aşamalar halinde inşa ediyoruz ve bu yüzden başlangıçta o fiyat beslemelerine sahibiz ve bazı gerçekten harika projelerle, dağıtım ortaklarımız olarak çalışıyoruz ve onlar bizi kendi ekosistemlerine tanıtıyorlar.
+
+00:20:56 - 00:22:23
+Ve um, özel veri beslemeleri oluşturulmasını isteyen ve onlara bunları oluşturmalarında yardım eden birden fazla farklı projemiz zaten var. Muhtemelen daha uzun süre devam edebilirim, çok fazla zaman almak istemiyorum. Um, evet, yani şu anda üzerinde çalıştığımız o kadar çok farklı şey var ki, gerçekten ilginç buluyorum ama onu, bilirsiniz, şu anda olanlara odaklı tutmaya çalışıyorum. Um, ama uzun lafın kısası, her şey test ağlarında başlatılıyor ve ilk ana ağlara bu yılın sonlarına doğru geçeceğiz.
+
+00:21:39 - 00:23:03
+Ve oradan çok daha fazla zincire genişlediğimizi göreceksiniz. Stan, teşekkürler, teşekkürler Magnus. Ayrıca eklemek ister misin Stan? Sen gitmek istiyorsun ama ben koordinatörlük rolümü üstleneyim ve evet, teknik ekibin başardıklarının ve bu beyefendilerin gerçekten çok sıkı çalıştığının izini sürmenin harika olduğunu söylemek istiyorum. Onları kodları parçalarken görebilirsiniz ve bu kısa sürede başarılanlar harika.
+
+00:22:25 - 00:23:36
+Ve arkasındaki teknoloji ve zorluklar nelerdir ve belki Stan biraz daha paylaşabilir. Magnus'un ele aldığı konuları benim ele almamı umuyordum, şimdi biraz farklı oldu ama sorun değil. Um, evet, bakalım, her zaman kendi perspektifinizi ekleyebilirsiniz, çünkü birden fazla perspektifimiz var, bu yüzden bir araya gelip bir şeyler hakkında konuşuyoruz ve işleri nasıl gerçekten iyileştirebileceğimizi görmeye çalışıyoruz, değil mi?
+
+00:23:00 - 00:24:14
+Yani hackathon hakkında ekleyecek bir şeyin varsa, çünkü sen de oradaydın ve ekiplere ve her şeyin kurulmasına yardım ediyordun, bu bilgiyi de paylaşabilirsin. Bence bu gidişatta yaptığımız en önemli şey toplulukla paylaşmak, çünkü dürüst olalım, bu beyefendiler gerçek iş. Yani sizleri seviyorum çocuklar, çünkü ilk günden beri bizi destekliyorsunuz ve perde arkasında neler olduğunu gerçekten bilmiyorsunuz.
+
+00:23:37 - 00:24:47
+Bu inanılmaz teknolojiyi getirmek için gerçekten motiveyiz, ama sadece içerde bir şeyler olduğunu hissediyorsunuz. Belki de Blocksense topluluğu sensörlerdir ya da korsanlardır, bunun için gidebiliriz. Ama ve bu bilgiyi paylaştığımız için çok mutluyum, ne inşa ettiğimizi ve belli ki zaman aldığını, çünkü bu, um, evet, yapması zor bir şey, çünkü teknolojinin ön saflarındayız, kesinlikle yeni teknolojiler geliştiriyoruz. Ama Stan'in teknik perspektifinden ve süreçle ilgili kendi deneyiminden daha fazlasını paylaşmasına izin verelim.
+
+00:24:12 - 00:25:23
+Elbette, ikinize de katılıyorum ve çoğunlukla hackathon hakkında konuşmak istiyorum. Magnus'un zaten söylediği şeyler, teknolojiden çok heyecan duyan bir sürü insan gördük ve bu da senin söylediğin şey Christo, aynı şey, değil mi? Topluluk burada ve şahsen karşılaştığımız topluluk aynı topluluk. Bazıları yapımcı, bazıları sadece hayran ve bu bizi gerçekten motive eden şey.
+
+00:24:48 - 00:26:03
+Ve hackathondan önceki haftalarda, ofiste, insanların bir araya gelmek ve insanların inşa etmesi için gerçekten gurur duyabileceğimiz bir şeyler sunmak istediğine dair tüm enerjiyi hissedebiliyordunuz. Ve bence ekip içinde en azından, bununla gurur duyabileceğimiz bir noktaya gerçekten ulaştığımıza dair hiç şüphe yok ve buna saygıyla, geliştirdiğimiz Teknolojilerin üzerine inşa edilmiş bazı ilginç fikirler gördük.
+
+00:25:25 - 00:26:42
+Ve Magnus'un yine bahsettiği şeyler, evet, uçak biletleri üzerine tahmin piyasasıyla ilgili şey gerçekten sıra dışıydı ama aslında harika, yeni bir fikir. İşte bu yüzden topluluğun çeşitliliğine ihtiyacımız var, bu fikirlerle ortaya çıksınlar. İşte bu yüzden bu çok havalı. Teknoloji hakkında derinlemesine gitmenin ne kadar önemli olduğundan emin değilim. İlginç şeylerimiz var. Her şeyi çalışır hale getirme şeklimiz, bir buzzword olarak söyleyebileceğimiz şey, web assembly kullanıyoruz.
+
+00:26:04 - 00:27:23
+Yani şu anki kurulumla bile, bu, programlama dili olarak Rust kullanmamız gerektiği anlamına geliyor, bu herhangi bir şekilde engelleyici değil. Ve daha bugün, insanlarla bir toplantıdaydım -seyircide olmasına rağmen Seçkin'den bahsediyorum, ekibin bir üyesi, onu çağırıyorum- onunla, Rust yerine wasm uygulamaları yazmak için assembly script üzerinde çalışması hakkında tartıştık. Sadece inşa edilebilecek şeylerin yeteneklerini genişletmek ve üzerine inşa etmek için.
+
+00:26:44 - 00:28:12
+Ve yanımıza almak istediğimiz daha geniş bir geliştirici topluluğuna ulaşmak için. Yani yine, um, onu kullanımını mümkün olduğunca kolay ve aynı zamanda mümkün olduğunca çok insan için faydalı hale getirmeye çalışıyoruz, bu yüzden tüm bu ağlara dağıtım yapıyoruz ve şu anda test aşamasındayız, hala son adımlardayız ve mümkün olan en kısa sürede ana ağa geçmeyi umuyoruz, o ne zaman olursa olsun. Teşekkürler Stan. Evet, iyi olan şey, aynı zamanda çılgın olan şey, süper karmaşık bir teknolojimiz var.
+
+00:27:27 - 00:28:54
+Ve onu kullanımını süper kolay, süper geliştirici dostu yapıyoruz. Ve ikinizin de bahsettiği gibi, daha yeni başlıyoruz ve geliştiricilerin ortaya çıkardığı kullanım durumlarıyla şaşırıyoruz. Bu teknolojinin sihri bu, değil mi? Eğer sadece bir ekip olarak bir araya gelip otursaydık, belki de bu kadar harika fikirler bulamazdık. Ve bunun dünyanın dört bir yanındaki harika geliştiriciler tarafından kullanıldığını ve hackathon'da olduğu gibi birkaç saat veya birkaç gün içinde fikirlerinin gerçeğe dönüştüğünü görmek gerçekten inanılmaz, değil mi?
+
+00:28:11 - 00:29:17
+Süper, kesinlikle. Teşekkürler, teşekkürler beyler. Yani, eklemek istediğiniz bir şey yoksa, biraz güncelleme paylaşabilirim ve belki topluluk içinde herkes biliyordur ama son görüşmeden bu yana elde ettiğimiz şeyden süper mutluyum. Topluluk, yaklaşık 3.000 kişiden şimdi neredeyse 15.000 kişiye büyüdü. Bunun çok fazla olduğunu söylemiyorum çünkü bence 50.000, 100.000 ve 150.000'i çok kolay aşarız.
+
+00:28:44 - 00:29:49
+Sadece çabamız daha çok kaliteli üyeler ve geliştiriciler çekmek gibi ve odak noktasının çoğu burada. Özür dilerim araya girdim, sadece söylemek istedim, bu beni gerçekten etkileyen bir şey çünkü senin gibi bir topluluk uzmanı değilim Christo, ama bot olmadığından veya spam yapan veya herhangi bir şey yapan insanlar olmadığından emin olmak için çok çaba harcadığını fark ediyorum. Yani bu 15.000 gerçekten bir başarı, değil mi? Çünkü aslında onu senin dediğin gibi yapıyoruz, o kadar zor ki, motive olmayan gerçek bir insan bile
+
+00:29:16 - 00:30:32
+sunucudan ayrılabilir. Ve Martin'in önemli bir kişiyle katılmaya çalışmasıyla bunu deneyimledik ve sadece 'Nasıl doğrulanabilirim, bu ne anlama geliyor, şimdi bu botla mı konuşmam gerekiyor?' diye bakıyorlardı. Ve bu, her zaman orada olan ve 3 dakika içinde yanıt veren tüm harika modlara (moderatörler) seslenme zamanı. Sizler harikasınız. Burada TeiC'i görüyorum, Fox Parade, sizler gerçekten müthiş iş çıkarıyorsunuz. Sizsiz ne yapabilirdik ki? Bu gerçekten çok önemli, herkesin gemide olması.
+
+00:29:55 - 00:31:09
+Ve evet, küçük komik bir hikaye, tech ekibinden bir kişi topluluğa katılmanın çok zor olduğunu düşünüyordu, bu da moderasyonun üst düzey olduğunu gerçekten gösteriyor. Yolunuzu hack'leyerek geçmek. Biliyorsunuz, motive olmak istedik ve aslında Rai, bunu mümkün kılmak için tüm bu zor işi yapıyor. En iyi uygulamaları takip ediyor. Başlangıçtan beri bizimle olanlarınız, birçok değişiklik ve iyileştirme uyguladığımızı biliyorsunuz ve durmuyoruz, bunun son versiyon olduğunu söylemiyoruz.
+
+00:30:32 - 00:31:38
+Önerilere açığız ve mümkün olan en kısa sürede her şeyi uygulamaya çalışıyoruz, böylece gerçekten güzel, güzel bir Topluluğumuz olsun. Büyüdükçe yapacağımız bir şey, gerçekten aktif bir topluluğa sahip olmaktan çok mutlu olacağım. Yani aktif olmayan üyeler için sadece hoşça kal deriz, çünkü eğer katkıda bulunmuyorsanız bir Discord Kanalında takılmanın anlamı nedir? Ve fikirleri paylaşabildiğimiz ve ayrıca çılgın şeyler inşa etmek, birbirimizi desteklemek için bu teknolojiyi kullanabildiğimiz bu topluluğun gücü bu.
+
+00:31:04 - 00:32:16
+Bunu çok erken günlerden beri söylüyorum. Telegram grubunu kaydırırsanız, bu sunucuya sahip olmadan önce bile, şimdi neredeyse tüm dikkatimizi buraya odakladık çünkü bu bizim ana üssümüz ve bilginin çoğunu en verimli şekilde paylaşabileceğimiz yer. Yani evet, gerçek insanlarımız var, bazıları çok aktif değil ve biliyorum ki daha büyük haberleri bekliyorlar, bu yüzden bu güncellemeleri ve mevcut gelişmelerle insanları bilgilendirmeye devam etmemiz önemli.
+
+00:31:40 - 00:33:02
+Aslında birçoğu davet kampanyasıyla katıldı, paylaşmak istediğim buydu, çok başarılıydı. Arkadaşlarınızı davet ettiğiniz için herkese teşekkürler. Um, 100'den fazla kişi davet edenler özel rolü aldı, tebrikler. 100'den az kişi davet edenler, siz unutulmadınız. Bunu duyurmadık ama siz hala oradasınız, listede kalıyorsunuz. Yani her katkıya, her katkıda bulunana gözümüz var, yani unutulmadınız, bunu belirtmek çok önemli.
+
+00:32:21 - 00:33:37
+Yaşadığımız ve benim açımdan çok başarılı olan bir diğer kampanya da, birçok KS'nin (?) desteği sayesinde, bazen neredeyse organik olarak gerçekleşiyor çünkü insanlar bu Pro'yu fark ediyor ve topluluklarına anlatacakları gerçekten iyi bir şey. İnteraktif quest bir'imiz vardı ve herkes quest two'yu çok soruyordu, ne oluyor ve odak noktamızı yakın zamanda yayınladığımız dokümanlara daha çok vermek istedik.
+
+00:32:59 - 00:34:20
+Bu yüzden sizi, bu görüşmeden sonra İkinci Görevin başlayacağı konusunda bilgilendirmek istiyorum. Gidip görevi kontrol edebilir, dokümanları okuyabilir ve orada neler olduğuna bakabilir, bu harika protokolün anlamını çıkarmak için gerçekten özellikleri hakkında biraz daha bilgi edinebilirsiniz. Yani topluluk tarafında, elçi programını hala aklımızda tuttuğumuzu söyleyebilirim, unutulmadı, sadece topluluğumuz biraz daha büyüdüğünde daha iyi bir an bekliyoruz.
+
+00:33:39 - 00:35:02
+Yerel kanallarımızı yavaş yavaş büyütmeye başlıyoruz ve yine, bir yerel kanalda moderatör olan herkese teşekkürler, bu, o kanallarda neler olup bittiğini bilmek, o kanalları büyütmek için çok yardımcı oluyor. Ve yavaş yavaş motivasyon, her bölgede, her dilde, ayrıca fiziksel etkinlikler düzenleyerek, her türlü etkinliği organize ederek bizi dünyanın her yerinde temsil edecek elçiler edinmek. Bu noktaya geleceğiz, bu yol haritasında. Yani evet, söyleyebileceğim bu ve yaptığımız şeylerin çoğu.
+
+00:34:22 - 00:35:41
+Yani, vay be, yaklaşık 40 dakikada söyledik, aylar süren hazırlık gerektiren işi paylaşabilirdik. Ama çoğu bu. Şimdi bazı sorular için olasılığı açmaktan mutluluk duyuyorum. Elbette, konuştuğumuz şeylerin bazılarını netleştirmek için geri dönebiliriz. Sohbette sorabilirsiniz veya cesur hissediyorsanız elinizi de kaldırabilirsiniz. Size mikrofonu veririm aileniz. Herkesin sesini duymaktan mutluluk duyarım. Aksi takdirde ajandama bakarım.
+
+00:35:02 - 00:36:22
+Bonus sözlerim var mı diye. Sen patronsun Crystal. Ama kişisel olarak katıldığımız yaklaşan etkinliklerden hiç bahsetmediğimizi görüyorum. Martin Martin Martin kısaca Devconnect'tan bahsetti, belki birkaç kelime söyleyebilir, neden bu kadar önemli? Herkes devconnect'ın ne olduğunu bilir, değil mi? Ama orada neler oluyor? Yani ayrıca Token2040'a da gittik ve onun hakkında konuşmadık, ve Token2040 harika bir etkinlikti. Martin orada şahsen bulundu. Biraz daha paylaşmak isteriz. Evet, teşekkürler Christo. Magnus da Singapur'da Token2040'daydı, yani çok yoğun bir zamandı.
+
+00:35:42 - 00:36:56
+Ben Bulgaristan'lıyım, lisans derecemi İngiltere'de yaptım, Almanya'da çalıştım, Montreal'e taşındım, sonra Toronto'ya. Blocksense ile çalışmadan önce ekiplerim tipik olarak Doğu Yakası Batı Yakası, tipik olarak California, San Francisco, um, Palo Alto olurdu, ama aynı zamanda Boston, Miami'de de bazı ekiplerim olurdu. Yani her yerden geliyorum gibi ve ailem Dubai'de yaşıyor. Ama gerçekten harika çünkü bu alan etkinliklerinde insanları dünyanın her yerinden bir araya getiriyor.
+
+00:36:19 - 00:37:37
+Ve en havalı şeyleri inşa eden, en iyi yapımcılara bağlı olan, sermaye sahipleriyle ilişkileri olan kişilerle gerçekten bağlantı kurabiliyorsunuz. Çünkü biliyorsunuz, havalı şeyler inşa edebilirsiniz ama bağlantılı olmak, ilişkiler kurmak ve sermaye sahipleriyle itibarınızı oluşturmak burada önemli. Yani Token2040 harikaydı. Um, ve çok komikti çünkü bir noktada, Magnus'un tanıdığı biri aracılığıyla, Mandarin Oriental'ın F1 pistine bakan penthouse'una davet edildik.
+
+00:36:58 - 00:38:17
+F1 arabaları etrafta dolaşırken. Ve orada fon yöneten veya alanda bazı gerçekten önemli ve büyük projeler inşa eden insanlarla tanışıyorsunuz ve herkes çok zeki, çok sıkı çalışıyor ama aynı zamanda çok kibar. Yani sadece harika bir vibe ve enerji artırıcı. Um, bence bu bizim devam etmemize ve süper yüksek performansı sürdürmemize gerçekten yardımcı olan bir şey. Yani sıradaki, Devconnect. Önümüzdeki hafta New York'a gidiyorum, ondan sonraki hafta ben, Magnus, Stan ve aynı zamanda kurucu ortaklardan biri olan Gorgi.
+
+00:37:37 - 00:38:45
+Ve bir mühendis daha, um, Stefan, Devconnect'a gidiyor. Eğer Devconnect'ın ne olduğunu bilmiyorsanız, devconnect.org'a göz atın. Bu bir konferans, bu seferki 12-15 Kasım'da Bangkok'ta olacak. Ve orada bir etkinliğe sponsor oluyoruz. Yani aslında Magnus, sponsor olduğumuz modüler bir etkinlikte bir konuşma yapacak. Ve venue'yu (mekan) ayarladınız ve orada büyük zincirlerden ve protokollerden çok büyük konuşmacılar var.
+
+00:38:12 - 00:39:21
+Um, gerçekten heyecan verici. Şans eseri herhangi biriniz Devconnect'a gidiyor mu bilmiyorum. Eğer gidiyorsanız, lütfen buradaki herhangi birine mesaj atın, sadece Discord'da bize mesaj atın. Um, ve bir davet linki paylaşabiliriz. Ayrıca diğer zamanlarda da buluşabiliriz veya gideceğimiz diğer yerleri söyleyebiliriz. Yani yüz yüze görüşmek gerçekten harika olur. Etkinlikler hakkında Twitter'da da bilgi paylaşıyoruz ama cidden, sadece iletişime geçin.
+
+00:38:46 - 00:40:01
+Birine DM atın, arkanıza bakmayın, kime mesaj attığınıza bağlı. Ayrıca kanalda herkese açık olarak da sorun, çünkü biliyorum ki herkes işlerin üstünde kalmaya çalışıyor, ama şu anda çok fazla, özellikle de demo günü yaklaşırken. Yani evet, Devconnect heyecan verici olacak. Ve daha fazla hackathon organize etmeye çalışıyoruz. Yani önümüzdeki yıl bizden çok daha fazla organizasyon ve konuşma slotu göreceğinizi düşünüyorum.
+
+00:39:24 - 00:40:42
+Ayrıca etkinlikler ve hackathonlar için hazırlık. Bunu tüm fonksiyonlar boyunca inşa ediyoruz, yani herkes çok sıkı çalışıyor. Çok doğru, teşekkürler Martin. Topluluğun bu harika hissine eklemek istedim. Bu yıl birkaç etkinliğe gittim, Paris Blockchain Week, İstanbul'daki Blockchain Week, ayrıca Doğu Sofya'da. Ve her seferinde, alanda harika şeyler inşa eden bu harika insanları görmek ısıtıcı.
+
+00:40:02 - 00:41:22
+Herkesin yüksek kalibreli olduğunu, harika topluluklara ve projelere sahip olduğunu, ama aynı zamanda gerçekten harika insanlar olduğunu gerçekten seviyorum. Ayrıca PSG'den, Binance'dan bazı harika harika adamlarla takılma şansım oldu. Sofya'yı tepeden gören bazı çılgın yerlerde son bulduk. Ben Sofya'da birkaç yıldır yaşıyorum ve Sofya'yı bu perspektiften hiç görmemiştim. Aslında harika, harika bir deneyim.
+
+00:40:41 - 00:41:56
+Ve bahsettiğiniz, hakkında konuşmadığımız bir şey, Manta ile ortaklığımız. Bu, en başından beri birlikte olduğumuz bir şey, çünkü bazılarınız biliyor olabilir ki aslında Gorgi, Manta'nın kurucu ekibinin bir parçası değil ama ilk çalışanlarından biri. Hem L1 hem de L2'de, evet. Şimdi ben onun pozisyonundayım, Blocksense'ın ilk çalışanıyım. Evet, evet, bu yüzden başlangıçtan beri pek çok farklı, farklı şapka takmaya devam ediyorum.
+
+00:41:20 - 00:42:26
+Topluluk, BD (İş Geliştirme) ve biraz pazarlama ve biraz PM yapıyorum. Aslında günüm her zaman farklı çoklu görev olasılıklarıyla dolu, her zaman iyi eğlendirildiğimi söyleyebilirim. Evet. Ve ortaklığın yanı sıra, yani, sadece duyurmadık ama bizim için oldukça önemli, değil mi? Evet, yani görüşmedeki insanların kaçı Manta'yı tanıyor bilmiyorum. Orada çok akıllı şeyler inşa eden çok akıllı ve düşünceli bir ekip.
+
+00:41:53 - 00:43:07
+Yani kurucu ekip kadar onlarla da çok yakınız. Ve dürüst olmak gerekirse, York'un farklı bölgelerindeki insanlarla. Ve bu ilişki gerçekten Gorgi üzerinden geliyor. Yani Manta Vakfı, kapattığımız o 4 milyon dolarlık turun yatırımcılarından biri aslında. Ve mevcut ilişkilerimiz ve Manta ekosistemi hakkındaki bilgimiz nedeniyle, bu hafta itibarıyla test ağında entegre olduğumuz ilk yerlerden biri. İyi iş Stan ve ekip.
+
+00:42:30 - 00:43:35
+Ve orada, hem onlara yedek olarak destek olabileceğimiz veya protokolleri genişletmek için özel beslemeler oluşturabileceğimiz mevcut ekosistem projeleriyle, hem de Manta ekosistemine gelmek isteyen ve zincir link değişimi ve yerine geçme veya insanlar için yeni özel beslemeler oluşturarak yeteneklerin kilidini açabileceğimiz protokollerle görüşüyoruz. Yani çok heyecan verici bir zaman. Büyüme konusunda şu anda nasıl düşündüğümüzü gerçekten görüyorum, BD tarafından.
+
+00:43:03 - 00:44:08
+Bu mevcut ağlarla ve yeni zincirlerle etkileşime geçmek ve insanların önündeki engelleri kaldırarak gerçekten iyi bir iş çıkarmak. Yani özel beslemeler oluşturmak, protokolün başarılı olmasına yardım etmek, çünkü eğer bir zincirdeki en bağlantılı ve en umut verici protokollere başarılı olmalarında yardım ederseniz, gerisi gelecektir. İşte Manta ile aldığımız yaklaşım ve düşünce bu. Ve bu ortaklık çok elverişli ve çok önemli çünkü bir şeyler inşa ediyoruz.
+
+00:43:35 - 00:44:48
+Bu, otoyolda giderken araba yapmak gibi, onu yükseltiyorsunuz. Bu yüzden yakın ortaklarla çalışabilmek ve mümkün olduğunca çok hatayı ortadan kaldırabilmek ve işbirliği yapabilmek önemli. Bu yakın ortaklığın önemli olduğunu gerçekten düşünüyorum. Ve aslında bu, bir noktada topluluğa getireceğimiz bir şey. Size getireceğiz, moderatörlere de getireceğiz. Bence bir grup modla birlikte gitmek önemli olurdu. Elbette bunun üzerine bir yapı oluşturacağız ama işbirliği yapmayı çok isterim.
+
+00:44:11 - 00:44:14
+Böylece entegre olduğumuz önemli zincirlerde sizler bizi destekleyebilirsiniz ve ayrıca orada gözlerimiz ve kulaklarımız olabilirsiniz, çünkü topluluk bir protokolün kilit parçasıdır. Bu yüzden BD tarafında işleri yürütebiliriz, ancak size daha iyi destek olabiliriz ve sonra sizden de daha fazla destek alabiliriz. Yani bu ileride gelecek, bu ilişkileri daha da ilerletmek için hala önemli işlerimiz var, ama bence bu toplulukla, moderatörlerimizle, bu alanı bizim için yöneten insanlarla daha iyi işbirliği yapmanın harika bir yolu olabilir. Evet, teşekkürler Martin, harika bir nokta.

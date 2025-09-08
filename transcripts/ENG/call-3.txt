@@ -1,0 +1,325 @@
+00:00:00 - 00:00:25
+Okay guys, great. Thank you so much for your patience. It's super that the team is here, there are many people, founders and so on. I can see some of them. There's someone in the dark too. Okay, perfect. I also really liked how we got branded with these great t-shirts from Thailand. I grabbed one from the office the other day, some things were really super. Anyway guys, what can I say?
+
+00:00:30 - 00:00:59
+I'm so glad we could get together again, and as you can see, we have even more founders with us. Really great. This month was full of nice events and good news, and it makes me happy that there are people who experienced it firsthand, so they can share a bit more with us. Come on then, let me look at what they've prepared. Also, seeing great people makes me very happy.
+
+00:01:04 - 00:01:33
+For the community. I have good news for some of you, and actually for all of us. The reason is your contributions. Some who did really great work will be promoted. We are very excited about this. We are happy to have the opportunity to say it. I just need to adjust my mic a bit more. Okay, perfect, perfect, perfect. Then we can start.
+
+00:01:35 - 00:02:03
+Let me give you a bit more information about the agenda. What happened this month? Actually, I can say it was one of the most eventful months. We did a CXS demo and the founders were there. They were introducing Blocksense in front of investors. I will ask them to give me a bit more information about these 40 days or five, six weeks. Not a demo? Five, six weeks? Actually, adding one more week makes it eight weeks in total.
+
+00:02:08 - 00:02:40
+And you are the only one who stayed there the whole time. You are also the one who told the most stories from space, right? Wow, that was great. For eight weeks, we had the chance to meet the A16Z team, we talked with them about product-market fit, go-to-market strategies, brand strategies, different topics, we covered all parts of the sector. And I think finally...
+
+00:02:43 - 00:03:13
+The demo day went super well. Zahari presented Blocksense wonderfully. We received quite a few compliments after the presentation at dinner. Yes, actually, I had the chance to watch the video of Zahari talking, and I had never seen him so excited. Seeing him like that, full of energy, was really very nice. Let me briefly talk about the general agenda. So, what can we expect from this meeting, and we...
+
+00:03:15 - 00:03:41
+Let's go back a bit to the stories about what you experienced, what you felt, what were the most valuable things you learned from the New York experience and meeting great teams? Let's also talk about the other events. This event, DEVCON, and what happened there. Half the team was there, so a lot happened.
+
+00:03:43 - 00:04:13
+We also have some collaborations on the ecosystem side, and some of our friends were on stage, together with super people from different projects. I won't spoil the surprise now, I won't mention names. At the very end, there are also some technical things that are almost ready to be released, we can share those too. So, this is first-hand news, important. It's not ready yet, but we can talk about it.
+
+00:04:14 - 00:04:38
+Let's talk about this topic. Also, we can give a bit more of an update on the community side. Some of you might have seen it, we finally put out some explanations about the roles and how to get them. We can talk about this topic too. In the end, greetings to those who will introduce it. So stay until the end. Maybe you want to hear your name, if you've been active, of course, you know.
+
+00:04:41 - 00:05:08
+You deserve it. You are great, guys. Yes, this and finally there will be a Q&A. So if we don't skip your questions or if you especially want to ask something, we are here to answer, because we don't always have time in the chats or, you know, I try to be there as much as I can. Rahil is also a very active one. So whatever is on your mind, we want to learn.
+
+00:05:09 - 00:05:33
+More things about the future of the box, your own future, the future of the family and the state. You know, what happened with the election of the new president in the USA. Now we will live in a very positive world. Also China. I don't know if you followed such news, but China now legally accepts crypto, which is great news for all of us.
+
+00:05:34 - 00:06:08
+And yes, finally, maybe we're making some jokes and planning for the next meeting. I'm going back to the top of my list and I'm very glad Zahary is here with us. It's really an honor. Big sensei, if you want, I promise you the floor to share a few words with the people here. The journey we've walked together so far and the people needed there with the CSX accelerator...
+
+00:06:10 - 00:06:41
+How interesting, what perspectives? Yes, what was the general feedback you got from it? And what we learned... Is there anything else that comes to your mind? Thanks. (microphone off) Unfortunately, Zahary is having the same problem as me. No, I fixed it myself. Yes, great. Thanks. CSX was a great experience for us and it took the company to a completely different level. And
+
+00:06:44 - 00:07:16
+When we talk to partners, we say that being part of CSX opened many doors for us. But I think Dimo should tell the story because he was actually only in New York for about two weeks. And he has much more interesting stories to tell. Actually, someone, because CSX was behind us, was happy. This was a bit distracting and didn't allow us to focus completely.
+
+00:07:17 - 00:07:48
+We are focusing on building our own product. And now that we are back in the office, we are working on our next version. This is more exciting for me. And the really important one is the next version because we set ourselves a goal: to put Blocksense into production before the year ends. Many people here might be wondering exactly what this means. This does not mean that we
+
+00:07:50 - 00:08:19
+are already launching the blocksense token. But this means that certain users of the protocol will rely on data provided by blocksense for mainnet use cases. The way it works could be like this; initially, we will rely on a few reliable blockchain infrastructure operators to run the first version of the blocksense reporting system.
+
+00:08:21 - 00:08:49
+So the network is not yet open for everyone to join. But we are giving this to pilot operators who will use the blocksense software first. They will also help us make the software more stable, more mature, etc., before we open the operator role to everyone. The reason we chose this path is our belief in our other main product.
+
+00:08:52 - 00:09:19
+The Bloksense SDK is actually a big revolution for the blockchain ecosystem because it gives everyone the opportunity to add new data to the chain. That's why we want to get the SDK into the hands of developers as soon as possible. And we think choosing this shortcut is worth it. So people can start using the SDK, we can start getting feedback,
+
+00:09:23 - 00:09:53
+We can do this and improve their capabilities. And it continues like that. Actually, essentially the logo was possible. This is our approach. Yes, great. This is definitely a great way to start, to begin testing, to build relationships with valuable partners and to start sending parts of what we do, fundamentally to build and develop, right?
+
+00:09:58 - 00:10:26
+So, from what I understand, that's what you're trying to say. And again, really, I can say this, you have to be ambitious to set these goals. But this Blocksense team, if we weren't ambitious, we wouldn't have made this technology. Very good. Thank you. I see Dimo is impatient, he wants to share something about CSX, the microphone keeps blinking.
+
+00:10:29 - 00:11:05
+Okay, yes, CSX definitely helped broaden my perspective on how different parts of the sector work, not just the development side. This was useful for me. But I agree with what Zahary said, now that I'm back in the office, I can focus on the real work and help blocksense succeed. Yes, I think so.
+
+00:11:07 - 00:11:33
+Great. Eight weeks, it broadened my perspective. Can you tell, I mean, this is interesting for everyone, for example, first you go to New York. Well, you know, you can tell a bit more about this crazy story of going from one place to another. It starts like this. This is what founder life is like, you try to solve something and you find yourself somewhere.
+
+00:11:35 - 00:11:59
+Some difficulties arise, of course. And I think you always have to deal with it somehow, I can say that. I'll say something like this; you can talk about something you liked and something you didn't like during your stay. Or you can talk about the important connections, people you met there. Also, something about the hacker house you did there, whatever comes to your mind. Yes.
+
+00:12:02 - 00:12:34
+The most interesting person I talked to during the program was actually Sreeram, the founder of Eigenlayer. We had a really nice conversation. It was one of the things that stayed with me the most at that moment. Overall, I was surprised by the state of New York City because I had imagined something completely different in my head before going there.
+
+00:12:35 - 00:13:00
+It was like a mix of Western First World Country and Third World Country, it was very different. It's like living the world in one place, my friend. What do you think? I mean, this question also goes to those going to Bangkok, because I don't know, it's not exactly a Third World Country, but it's like a mix.
+
+00:13:03 - 00:13:29
+You have such a crazy experience there that you can't have anywhere else. Come on guys, say something about it. Okay. Yes, actually, when talking about Bangkok, my next topic is this. At the modular accelerator day, while Magnus was speaking with our partners and friends from Manta. Can you share this with us? Maybe some have seen the posts and photos but
+
+00:13:31 - 00:14:04
+Nothing can match your experience, that's clear. Yes, of course. Thanks. We came with the full squad to Manta's modular acceleration day, which was DEFCON's last day, Friday. We had a stand there. We met a lot of people, our partners, new projects, had interesting conversations with people in the RWA field, those who created RWAL, DeFi applications, everything actually. There
+
+00:14:06 - 00:14:31
+There were all kinds of people at the stand, especially those trying to sell us product agreements. Many people thought we were their ML2 collection. This was a lesson. Based on our slogan, we thought about how to reflect this in our marketing and how to prevent people from thinking we are a general-purpose L2, we are positioning ourselves more as a programmable Oracle.
+
+00:14:35 - 00:15:09
+About the future network line. I think this was a good learning experience. I sat on a panel with an interesting group, from StarkWare's Nuffle Labs, AltLayer to Newbit. The panel's topic was mainly Ethereum's roll-up or roll-up-centric roadmap; whether it works or not, whether it's good or bad. It was also discussed whether we would adopt modularity or not.
+
+00:15:11 - 00:15:43
+A failed project? There were quite interesting comments there, but I think the main takeaway is that essentially the only way out is to continue. It is accepted that Ethereum has not performed very well in this cycle, especially in terms of price. That's why many people are investing in Ethereum. And usually, most of the fees going to Ethereum are currently taken by L2s because
+
+00:15:44 - 00:16:11
+They take the fees closest to the order transactions. This is a bad sign for Ethereum. I think the result here is this: this is a short-term situation and modularity helps L1s like Ethereum to continue developing and rising. Also, there are newer, brighter L1s in the market that we are interested in collaborating with and we are already working.
+
+00:16:17 - 00:16:42
+We are definitely not just Ethereum maximalists or tied only to Ethereum. But yes, I think there are different approaches and it makes sense to find ways to continuously improve the performance of L1s that already have a large security and liquidity share, like Ethereum. Rather than starting from scratch. But overall, I think it was a really fun day for us.
+
+00:16:43 - 00:17:08
+We met a lot of interesting people. This is also part of our close collaboration and partnership with Manta. We love the Manta team, they are our very close partner. It will probably be the first chain we launch on mainnet or at least one of our first mainnet launches. So this is just one of many collaborations we have with them and we will continue these collaborations in the future.
+
+00:17:11 - 00:17:37
+Yes, this is great. We have very good friends. We talked about Eigen there. Now we are talking about Manta. There are also a few other projects, small and growing projects, we have already established these kinds of partnerships and collaborations. This is really a very good, beautiful sign for us. That's all I can say. Also, you mentioned the modular topic.
+
+00:17:39 - 00:18:01
+Any difficulty or trouble. And I was talking to someone, and he said: "This business has nothing to do with crypto. Actually, it's an interesting story that happens in the animal kingdom. Most animals run away when there is a storm. We generally try to deal with problems like this. We try to run away, but actually this is not the best way."
+
+00:18:04 - 00:18:33
+Solution. And the only animal that can handle this situation effectively is to go through the bison. This animal is a symbol of wisdom or I don't know, in some North American cultures I'm going to. I hope to learn more about this, but it affected me. The idea of going through it, that is, when you encounter a difficult situation, go straight through it, yes,
+
+00:18:35 - 00:19:01
+<the storm passes more quickly. Maybe this is a nice way to get through the situation with L1s and L2s.> <Do you know what they call a male buffalo, Histo? <What? - Bull> <What? Yes. And we are currently in a bull market. It's a good market. Actually, since you've already shared some things, maybe we can continue with you on organization.>
+
+00:19:04 - 00:19:29
+You seemed a bit shy about what you did in Bangkok, you didn't mention anything about the Hacker House collaboration with R-Corp and Oxford Blockchain Society. Yes. Oh, I thought the question was only about the modular acceleration day, Risto. I didn't know I could talk about other fun things. Please continue. Yes, we also, yes, together with our friends at Oxford Blockchain...
+
+00:19:30 - 00:19:57
+We organized a five-day hacker house event in Bangkok as a community, it was very fun. We brought a few students from Oxford and other universities. There were a total of about 10 hackers and they all completed different challenges. We organized this Hacker House with some friends, actually again with Manta. We always love working with Manta. And actually...
+
+00:19:57 - 00:20:26
+One of the challenges was to build Block Sense on top of Manta, which was really great because we recently deployed it to their testnet. There is also a very cool new project called PIN AI, you should definitely check it out. They were one of our projects in the same cohort at CSX, a16z CSX. Yes, they are developing personalized large language models (LLM) on personal computer devices. So I think an LLM...
+
+00:20:28 - 00:20:58
+On your phone, which has access to all your personal data. And actually, there was a really cool project that came out of the hacker house, using all three services; that is, Manta, BlockSense and P&M. They even made the front end of a working trading application that gets prices from BlockSense's data stream, runs on MantaNet and uses a kind of artificial intelligence.
+
+00:20:59 - 00:21:24
+An assistant that would help define protective measures like stop losses, for transactions, using Pin AI. So seeing everything connected like that was really very nice. Yes, we got great presentations from different partners. The students really liked it. There was dinner on the first night of the hacker house, which was also a very nice thing, we invited
+
+00:21:26 - 00:21:50
+Some of our other partners, investors and project friends were also there. For example, ZK Sync was there. Lei Yang from MegaETH came by, had long conversations with the students, it was really very nice. Daedalus Angels from our investors were also there. Yes, there were quite a few people. So it was very fun. Super, super cool, my friend. Almost when I was about to get on the plane, someone
+
+00:21:53 - 00:22:19
+They were planning to send it by DHL but I don't know. It didn't work for us. I was also thinking about coming back but then I heard that eight or so people were going there. I said okay, you handle it. I relaxed. Martin flew from the other end of the world. I think it was the craziest, most insane period of his life. He hopes to catch the connecting flights and arrive on time.
+
+00:22:20 - 00:22:45
+It's necessary to bring everyone together to support them there. This conference business is really a big job, I mean you meet so many people that it's hard to remember who is who. I love the tactic of taking photos with everyone because otherwise it's impossible to remember. It takes weeks to go through all the communications, then you figure out who those guys are and, as you said, try to build something meaningful.
+
+00:22:47 - 00:23:19
+It's really great to organize a hackathon together with our partners. Everyone is not doing their own job, but combining our technologies and building something on top of it. Yes, we also talked about the crazy journey of marketing. Do you want to talk a bit more about new experiences and DEVCON in general? What are your impressions of this big event?
+
+00:23:22 - 00:23:48
+Open up. Ah, it happened. Sorry, this kind of thing can happen in between. Actually, I'm going to the doctor on Saturday. As for my general impressions, I am really grateful to be here. Not just this, if you look at the crypto world, there is a general four-year cycle, and we are now approaching it. There is a year-end cycle. There is also Trump's election.
+
+00:23:53 - 00:24:22
+Trump's election. Now we can say that the cycles are quite overlapping, but I don't think this has anything to do with things for the village. It's related to being here and having smart, ambitious, curious people around. People who want to solve things. All these travels have really been tiring. Since September, I've been to New York twice, Singapore, Bangkok, Dubai three times,
+
+00:24:23 - 00:24:46
+I went back and forth four times, but it was a great experience. So I think the first thing, when I think about the experiences, I'm very happy to be here, there are great people and a big mission. You are telling me what you think about DevCon, instead of me telling you, let me do this, I can share my screen, let's see.
+
+00:24:49 - 00:25:20
+That would be great. Please take us there. Can I see my screen? You can see my screen, right? Yes, we can see it. Okay, super. I collected a few photos. So, Hristo, Emil, Martin, Magnus, thank you for helping us put these together. This is the first photo. I don't remember who took it. Actually, it was you, Stan. Could be. Yes. So this is the city. Sorry Magnus.
+
+00:25:30 - 00:25:58
+<I did this, I take credit. I think this is mine.> <Nice.> <Mine, I mean.> <I can see you guys. If you want to jump in, don't hesitate to stop me. Here, Keoni and Magnus are. One of the best things about these conferences is that people from all over the world come there. After attending a few, you realize that...>
+
+00:26:02 - 00:26:28
+Everyone is there. And you can meet people who seem famous in the crypto world, they are walking around and they are very relaxed. This is actually what the DEFCON main area looks like. It's really a very relaxed environment. It reflects the Ethereum vibe, that is, calm and peaceful. There is another photo from the main menu.
+
+00:26:29 - 00:27:04
+Here Emil, Stan and Martin are at the DEFCON7 entrance point. Roshik is also here. It was really great to meet him. Because I think he, Keoni, Kenny, from Manta, represent the heart of this kind of founder-focused growth and conversation. They are very inspiring because they are incredibly humble and sincere. And they encourage you to go out and do your job. So no matter who you are,
+
+00:27:05 - 00:27:31
+In this group chat that is currently listening to the community call, you can put yourself forward. The most important thing is not to be afraid of making mistakes. You will make mistakes, that's for sure. But the important thing is this: if you do something great, you have revealed yourself. If you share things that no one pays attention to, no one will remember you. So you have nothing to lose, you have a lot to gain.
+
+00:27:31 - 00:27:58
+You are putting yourself forward. So it was really very nice to get to know him. This was quite interesting actually, this is a DAO confession booth. You go inside, record an anonymous confession and you get proof that you were there. Then the governance father comes and forgives your sins. Moreover, thanks to AI, the confessions are categorized. For example, greed...
+
+00:27:59 - 00:28:23
+35 people talked about greed, secret management, wrong incentives, resisting decentralization, being a dinosaur, that is, just being DAO in name only. I hope there is no ill-intentioned person recording these conversations because then which project was discussed or who is connected to which project would come out. But these are fun, somewhat confusing things that people do at conferences.
+
+00:28:27 - 00:28:54
+Here, this was our dinner. The first dinner of the Oxford hackathon. The event that Magnus mentioned. You can understand from the number of bald heads that there is really a very strong crypto heavy atmosphere there. And we are walking towards the hackathon. I am inside, Emil is giving a speech and preparing them. Stan is here. I don't know
+
+00:28:55 - 00:29:20
+You already knew, but Stan used to teach at university. And he also did a doctorate. So he has a style of explaining topics step by step, systematically. Here you can see a similar method applied to adapting the CoinMarketCap report to blockchain architecture. This was a hackathon. Magnus was also here. And this was the end of the hackathon.
+
+00:29:21 - 00:29:44
+The people presented. These are also some cool photos. Central feeds for insurance claim verification. This was an interesting idea. Advanced Oracle features. This guy did quite a few things during the hackathon. This modular acceleration day. Magnus is speaking here. This is the Outlier CEO. And this was Stan. Also his...
+
+00:29:46 - 00:30:10
+He was chatting in a huge place. And a senior engineer from Coinbase was leading, and finally this photo exists. This was our poster at our stand. So we opened a stand for the first time at such a big event. And actually we did these. You see this t-shirt. People came and took the t-shirts. We were having fun like this.
+
+00:30:13 - 00:30:37
+There were conversations. Our stand was really very crowded. Georgi is running around right there. This was little Manta. You follow Manta. You have seen Little Manta. Manta is really very cool, good team. If you don't know what they do, you should definitely check it out. They are innovating in many ways. It's not opening for me right now. We have time to examine.
+
+00:30:39 - 00:31:04
+Of course. Yes my friend, of course. If you've trained, this is a very good vertical jump. Thanks. This is only thanks to blocks and steam. People can jump, they can jump very high. We should actually hold a jumping competition, let's do it the next time we all get together. It would be very fun. Maybe this becomes a habit. You guys, I don't know if you recognize this guy's face. If you don't, everyone here...
+
+00:31:06 - 00:31:30
+You should search, I met him about 13 years ago. He was the president of the Oxford Isaac Society. This association is a non-profit organization. This guy has been working at Citadel since then and is founding Kaito AI. Kaito is an intelligence tool for the crypto field. And it's really great, it did very good sessions. I think some of the best side event sessions were here. I'll show you.
+
+00:31:32 - 00:31:57
+A few photos in a moment. I'm Ekram, from Celestia's GTM con, there were really impressive presentations on strong brands or ideologies in the crypto market. If you are looking at my screen right now, if you want to play bigger on Twitter, take a screenshot of this. These were tips from the chain's mother player. He manages marketing at Adstack. He is a super smart person with very strong connections that you need to follow.
+
+00:31:59 - 00:32:28
+Really smart people. But this is a bit like creating your own brand and progressing one-on-one on Twitter. If you want to grow there, I recommend taking a screenshot immediately. I just gave a perfect example in our team of growing a Twitter account 10 times in two and a half months. I can't say it grew 10 times maybe, but yes, this place is full of very good people. That's why I love it.
+
+00:32:31 - 00:32:56
+I'm looking at the group right now. I see that many of you jumped immediately. Actually, the point is to support each other and be curious. I really love this energy, it gives me power. Seeing the people here is great. I'm also looking at some comments, I'll rejoin the chat. By the way, this is Emily from Hype. She is a total professional, talking about analysis and marketing. If you are on the marketing side...
+
+00:32:57 - 00:33:23
+If you are on the PD side and you are in this chat right now, you should definitely follow Emily from hype. We are in the year of attention. This is an analysis from Yu Hu and here is Shuyao from MegaEth, we are very good friends with the team. Of course, this is also Smokey. I finally saw Smokey without his mask. So okay, now I can sleep peacefully knowing what this legend looks like.
+
+00:33:23 - 00:33:52
+Actually, this was a dinner. I think there are a few, this is a photo I took of Emil and Stan while they were on the move. Arbitrum has a really good operational team. These guys do their jobs super solidly. And I think they will collaborate with us a lot. Similarly, with the Arbitrum team too. This was the Berachain event. It was taken on the rooftop, the light is not very good.
+
+00:33:53 - 00:34:17
+This is quite cool. This is one of the highest rooftops. There is a rooftop bar in Bangkok. There are a few funny things. I'm not sure where everyone is right now in this conversation. But in very few countries I've lived in, there is a washing machine on the balcony. It definitely happens in Canada. It's minus 10 degrees outside right now. The other thing is...
+
+00:34:19 - 00:34:42
+They really care about Christmas trees. You can see a Christmas ornament here. So much so that there was a Christmas tree even on the construction crane. I really appreciated it. There were lights and stuff. Some of my people are surprised when they see such a thing. And of course, taking photos is a must. If you go to Thailand one day, the food is one of the best things. I really recommend it. So you were asking my thoughts
+
+00:34:46 - 00:35:07
+About Thailand. I wanted to show you with pictures. 10 out of 10. I was happy that DEFCON was there, even though we usually run around, meet people and look after our business, we still had a chance to experience. It was really very cool, my friend. Thank you. Thank you so much. It felt like you teleported me to a completely different place. I even forgot we were in a meeting.
+
+00:35:10 - 00:35:46
+This is special. Enough. And we need to continue. So Thailand is really great. I went to Thailand a few times when I was a student. I really liked it. I can say I like the second city, Chiang Mai, more. I spent more time there. But Bangkok is also super. Actually, no matter where people are, when we come together, it's nice. There is always a feeling, if people are there...
+
+00:35:47 - 00:36:15
+They are curious about what the community is doing. And if you are into these blockchain things, to be honest, the best thing when going to conferences is to take photos of this guy. He's a great person. You see him in public and although he looks a bit harsh, everyone is very eager to work. Really very good and helpful people. That's why I can easily make good connections.
+
+00:36:16 - 00:36:44
+Everyone here is very supportive. So I'm happy. We are also very supportive. And I want to eliminate this situation. We have a very supportive community. So thank you very much, friends. I see that Stan is a bit bored. Let me bring him. Actually, Stan is constantly working. So you could say he rests while working. But I don't know how he feels when he's not working.
+
+00:36:46 - 00:37:14
+Excuse me, I'm interrupting you. Can you tell us how it was? How was your experience being on stage at the Ondo Zive event? As far as I know. Ah, today is a busy day. What can you tell us? Please. No, it's not because of that parking spot, is it? Together with the other people on stage. Yes, to be honest, it was a bit intimidating.
+
+00:37:16 - 00:37:43
+These smart people around me know so much about space. But our topic was the infrastructure of the future. So yes, it was fun. It was exciting. Like you just said, everyone was very sincere. Being on stage there was not like a competition. On the contrary, it was like a very constructive conversation. When someone said something, the others also...
+
+00:37:43 - 00:38:16
+Actually, I got into it and continued from there. What happened was a very natural conversation, it was really very fun. Yes, I enjoyed it. At the same time, it was a nice break. It was very exciting. Overall, it was good times. I think I did a good job. I thought so, I have no doubt that I did a good job. I see you dancing in Istanbul,
+
+00:38:18 - 00:38:50
+But there is no real way to do this. One of the best sides of all these events and the places we went to is being able to put this group forward in front of others. People get a chance to learn what we do. Also, the timing was very positive. People say, "Wow, your guys are really doing crazy things." The technological feedback I got was like this. Very interesting, very...
+
+00:38:50 - 00:39:19
+Promising. Also, it's interesting to see how this layered technology structure works together. Of course, on this topic, the big sensei knows much more than us. We are just learning patiently. So if you want too, I have this part, at least I want to share a crazy story from Bangkok? What surprised you the most? I'm sure there is because
+
+00:39:20 - 00:39:43
+I saw a few in the chat. Some people are really surprised by the driving style there. Can you tell me a story about this? Then I'll leave it to you. This will be the last thing I ask you about these events. Do you want to talk? I just wanted to offer. Of course, because I have a ready story. And actually like this:
+
+00:39:44 - 00:40:04
+I had a positive shock. I was shocked because this is a huge city. I didn't know at first that the population was 12 million. So it might be bigger than most places I've been to so far. But everyone is very sweet. You expect people to frown. The city is crowded, but people treat each other well. This was not something I was used to. You know, it's generally not like this in big places,
+
+00:40:05 - 00:40:25
+in small places you expect things like this. In the village, when people talk to each other, you understand. There, people weren't talking much, but they were still trying to get around each other, they were very kind and careful. This was really a very positive experience. It was very unexpected for me. I wasn't thinking there would be bad people anyway, but it was nice. Thank you.
+
+00:40:26 - 00:40:51
+I love hearing positive things. Everyone loves to complain, but I love positive things. This is great. Magnus, please. I feel like I'm in class. Now I'm giving you permission to speak. Because we were talking about first and third world, I have something that surprised me. Well, they have such a saying; the first world is where rich people prefer to use public transportation.
+
+00:40:54 - 00:41:15
+In Bangkok, I felt like there was a process for everyone. The first day or two, you call a taxi like Uber or Grab, they call it Grab there, and it takes an hour to get somewhere. In the end, you are very late for your event. You miss dinner. It's complete chaos, because the streets in Bangkok are always in traffic.
+
+00:41:17 - 00:41:38
+Constantly clogged, 24/7. There is no peaceful moment. Then you slowly start to accept that you need to get on a motorcycle, get on the back, put your hands, your life in your own hands or actually hand it over to someone else's hands and get somewhere on time. At first, you think you're going to die, then you do it 10 times.
+
+00:41:38 - 00:42:01
+After these trips, you also start to relax a bit on the bicycle. But for me, the real last few days were when I realized what the train was. The trains in Bangkok are amazing. They come almost every minute or two minutes, there is air conditioning, you go cheaply. They take you to where you want to go on time. I was stuck in a cafe at that time,
+
+00:42:02 - 00:42:25
+There was a storm-like rain on Friday. I had been trying to call Grab for an hour. It didn't come, I couldn't find it, I looked for a motorcycle, it didn't come either, I couldn't walk. Finally, I said okay, let me go by train. And from the moment I decided to go by train, everything was absolutely perfect. You know, I arrived at the train station...
+
+00:42:26 - 00:42:49
+I had to go to dinner. Moreover, I arrived on time. This made me realize; Bangkok is a city and the traffic is really bad. But even in this bad traffic, they found a way to overcome traffic, which is really a good public transportation system, especially the train and MRT system. So in this sense, I can say it's quite advanced, because even the rich...
+
+00:42:50 - 00:43:18
+will prefer the train in Bangkok. Yes. Makes sense, buddy. I'd like to start like that too. Yes. What? Here's a fun fact: The concept of first world, second world comes from the Cold War. First world, capitalist and American-leaning countries, second world is countries aligned with the Soviet Union and communism. So this whole ranking...
+
+00:43:21 - 00:43:46
+First, second, third things are like ideological propaganda, fundamentally a structure. If you ask me about the atmosphere, food and people's vibe in Bangkok, it's a very nourishing experience. And I have the right to say this, as someone who is currently sitting in Toronto at minus 10 degrees. So, don't forget that these distinctions are very interesting, just like this.
+
+00:43:48 - 00:44:15
+We look at the rankings. Where do the things we read come from? It gives us a perspective. Yes, of course. We love this, don't we? I mean, numbers, rankings, everything. But this is actually important. Look, friends, we've been talking like this for a full hour and we are trying to keep it on time. I will announce a few things quickly. We are not going into details. Some of you may have
+
+00:44:18 - 00:44:41
+I saw that we have a partnership with Citrea. I'm just leaving it like that, we're not commenting. Okay, go see what happens. I'm saying this because we don't have much time. So we're not going into details. But good things are happening. So, I'm really very happy. Actually, we're not talking about all the tests we've done and everyone might have been wondering why.
+
+00:44:42 - 00:45:07
+We don't talk much about those things. We are working a bit in the background. When big things come out, everyone will start to notice and this is how it will be, I think we are very confident in the work we do. So we can explain it like this. We don't share everything. This is one thing. Another one is next week an update or upgrade is coming, or part of it.
+
+00:45:09 - 00:45:34
+Stan can say something about the documentation. But we promise we won't go into details. He just told me it's coming next week. So wait patiently for next week. This event, throughout the month, to summarize what has happened so far. Whatever is not live, you can say it will be released very soon. So I'm very happy that we have made progress on this issue.
+
+00:45:35 - 00:46:03
+The other sections of this document will come over time. For now, we are building the most important thing. So people, our projects, our partners can start using our protocol and what we do more fully. This is one thing. What else was there? Let me see, let me see. Yes. I'm very happy to see some people here. I need to scroll.
+
+00:46:05 - 00:46:24
+You may have seen new roles, but there is no new role. Just the definitions are clearer. If you want to get the role, don't wonder how it works. Just be very active and see which role you can get based on your activity. And most roles are based on long-term commitment. If you don't stick to some roles, you lose your role, but it may sound strange
+
+00:46:24 - 00:46:44
+roles, you lose your role but it may sound harsh roles, you lose your role but it may sound harsh hard but that's how it is because we value the honest and long-term support of the community. we value the honest and long-term support of the community. And I see that many people are doing this. I see it, I never stop mentioning Rahil the person I love to work with
+
+00:46:44 - 00:47:05
+Big brain on a secret mission. He doesn't like to talk much but actually he does great work. Hazmania, Abdullah, gateway of truths, I see great guys. I'm looking to see if I know anyone else here. There are also people I haven't worked with much recently, but yes, I'm not focusing much anyway.
+
+00:47:07 - 00:47:30
+I see people who contribute a lot. And I will tell you the new five champions. This is really great. I'm very happy that I can share this. I took time. misha1985, congratulations. Yes. Great. larryclues, sorry, I may not be able to pronounce your name correctly but I hope you understand. And you will see that your role has automatically changed after this meeting.
+
+00:47:31 - 00:48:00
+Champion. Yes. Champion chat. And we need to be together, technik4950. This guy is great. He definitely deserves it. Uh, dishun03. Thanks buddy. You can see him here with this great picture on a yellow background. And zef1rzefir. This was the last person we decided on. So we're not just guessing, you know, this is not a polygon market and this is completely based
+
+00:48:01 - 00:48:23
+on your contributions. That's all I can say. And for the others who are motivated, we are very happy to join the team because the middle is growing and we are very happy with everything we do together. We are really very happy to receive support and the support from you is great. I see people from the Vietnamese community. People from there
+
+00:48:26 - 00:48:52
+There are other communities too. Turkish community. I'm very happy. Everything is going great. That's all I can say. Now I will say what I need to say. Well, yes. Ah, after this meeting, there is something I can share in the chat but I also want to hear your opinions. What do you think about the work we do for the community, to get feedback? So we prepared a form.
+
+00:48:56 - 00:49:21
+Well, maybe I can share it here. Jack should be here. I can't see Jack but maybe I'll share it. I'll just share it in the channel, Please answer honestly, I think everyone should do that. So, this way we can learn what you think about what we do. If there is something missing, I don't know, I started talking like Trump.
+
+00:49:23 - 00:49:46
+A little bit, but you know, we are trying to do the best we can. And we are always open to development. Please, I mean, give us your feedback, your honest feedback. That's all I can say. I would like to leave room for one or two questions. Some people have them, I know our time is tight and we are trying to wait for everyone. But if you have a question, maybe you can write it here in the chat or...
+
+00:49:51 - 00:50:21
+You can't mute yourself or I don't know. Maybe you need to raise your hands. This is a way. Otherwise, when you prepare your questions, I will ask my great colleagues. This is really a magnificent journey, it's great to be together. This is the difficult part, but at the same time, working with these gentlemen and ladies is a great pleasure, including those who are not online here. Now it's a great pleasure for me. Thanks friends. Thanks to my team too.
+
+00:50:22 - 00:50:44
+Thanks everyone, thank you. Does everyone want to share something before leaving? Because I don't see any questions. I want to thank everyone again. I want to do this together and we will. I'm looking forward to the next one impatiently. Perfect. Thank you for taking the time, I mean, for me, yes, it was important to find time. I wanted to set aside this hour.
+
+00:50:53 - 00:51:16
+It was earlier but everyone's calendars are so busy in meetings and stuff, thank you everyone for taking this time. I even had to talk to Stan, ask him to come in person. I asked him for notes so I could present what he did, but I think the most important thing is everyone's experience. For example, of course I can tell how it was in New York, who I met and stuff
+
+00:51:16 - 00:51:37
+Hello everyone. So, my job is not to tell everyone's experience. But everyone's experience is valuable. Thanks guys. Thank you for listening. It's always very fun to be with you. Thanks to the community too. We had a great evening, let's continue to do good work. Okay? Thanks friends. Goodbye.
+00:51:46 - 00:51:46 
+Goodbye.
