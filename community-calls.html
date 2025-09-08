@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <title>Blocksense Community Calls - Blocksense Network Monitor</title>
     <!-- Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css  "/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"/>
     <!-- Hard-looking font for the whole app -->
     <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;600;700&display=swap" rel="stylesheet"/>
     <!-- Styles -->
@@ -18,12 +18,11 @@
             height: 100%;
             width: 100%;
             background: var(--bg-color);
-            /* overflow: hidden; REMOVED THIS LINE TO ENABLE SCROLLING */
         }
         
         .container {
             width: 100%;
-            min-height: 100vh; /* Changed from height: 100vh to min-height */
+            min-height: 100vh;
             padding: 0;
             display: flex;
             flex-direction: column;
@@ -39,30 +38,55 @@
         .header-content {
             display: flex;
             justify-content: space-between;
-            align-items: center;
+            align-items: flex-start;
+            flex-wrap: wrap;
+            gap: 15px;
         }
         
         .back-button {
             margin: 0;
+            order: 2;
         }
         
         /* Başlık ve tarih düzenlemesi */
         .title-container {
             display: flex;
-            align-items: center;
-            gap: 15px;
+            flex-direction: column;
+            gap: 5px;
+            flex: 1;
+            min-width: 0;
         }
         
-        .title-with-date {
+        .title-row {
             display: flex;
-            flex-direction: column;
+            align-items: center;
+            gap: 10px;
+            min-width: 0;
+        }
+        
+        .modern-header {
+            margin: 0;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            min-width: 0;
+            font-size: 1.5rem;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+        
+        .logo-icon {
+            height: 40px;
+            width: auto;
+            flex-shrink: 0;
         }
         
         .call-date {
             font-size: 1.2rem;
             color: var(--update-item-content-color);
             font-weight: 500;
-            margin-left: 10px;
+            white-space: nowrap;
         }
         
         /* Ana içerik - tam ekran video ve transcript */
@@ -71,9 +95,8 @@
             display: flex;
             padding: 15px;
             gap: 20px;
-            /* overflow: hidden; REMOVED THIS LINE */
-            height: auto; /* Changed from fixed height to auto */
-            min-height: 0; /* Allow content to determine height */
+            height: auto;
+            min-height: 0;
         }
         
         .video-section {
@@ -84,8 +107,7 @@
             border-radius: 12px;
             padding: 15px;
             box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
-            /* overflow: hidden; REMOVED THIS LINE */
-            height: auto; /* Changed from 100% to auto */
+            height: auto;
             transform: scale(0.9);
             transform-origin: center;
         }
@@ -96,10 +118,9 @@
             flex-direction: column;
             background: var(--container-bg);
             border-radius: 12px;
-            /* overflow: hidden; REMOVED THIS LINE */
             box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
-            height: auto; /* Changed from 100% to auto */
-            margin-right: 40px; /* Transcript panelini 40px sola kaydır */
+            height: auto;
+            margin-right: 40px;
         }
         
         /* Video konteyneri - boyut ayarı */
@@ -244,7 +265,7 @@
         @media (max-width: 1200px) {
             .main-content {
                 flex-direction: column;
-                height: auto; /* Changed from auto to allow content to expand */
+                height: auto;
             }
             
             .video-section {
@@ -256,9 +277,9 @@
             }
             
             .transcript-section {
-                height: auto; /* Changed from 40vh to auto */
+                height: auto;
                 min-height: 300px;
-                margin-right: 0; /* Mobilde margin'i sıfırla */
+                margin-right: 0;
             }
             
             .video-container {
@@ -269,6 +290,35 @@
             .transcript-links {
                 padding: 15px;
             }
+            
+            /* Mobilde başlık ve tarih düzenlemesi */
+            .header-content {
+                flex-direction: row;
+                align-items: flex-start;
+                gap: 10px;
+            }
+            
+            .back-button {
+                align-self: center;
+            }
+            
+            .title-container {
+                width: 100%;
+                min-width: 0;
+            }
+            
+            .modern-header {
+                font-size: 1.2rem;
+                gap: 8px;
+            }
+            
+            .logo-icon {
+                height: 30px;
+            }
+            
+            .call-date {
+                font-size: 1rem;
+            }
         }
         
         @media (max-width: 768px) {
@@ -276,16 +326,31 @@
                 padding: 10px 15px;
             }
             
+            .header-content {
+                flex-direction: column;
+                align-items: stretch;
+                gap: 10px;
+            }
+            
+            .back-button {
+                align-self: flex-end;
+                order: 2;
+            }
+            
+            .title-container {
+                order: 1;
+            }
+            
             .main-content {
                 padding: 10px;
                 gap: 15px;
-                overflow: visible; /* Ensure content can overflow */
+                overflow: visible;
             }
             
             .video-section,
             .transcript-section {
                 padding: 12px;
-                height: auto; /* Ensure sections can expand */
+                height: auto;
             }
             
             .transcript-buttons {
@@ -306,16 +371,6 @@
                 font-size: 14px;
             }
             
-            .header-content {
-                flex-direction: column;
-                align-items: flex-start;
-                gap: 10px;
-            }
-            
-            .back-button {
-                align-self: flex-end;
-            }
-            
             .video-section {
                 transform: scale(0.95);
             }
@@ -328,16 +383,25 @@
                 padding: 10px;
             }
             
-            /* Mobilde başlık ve tarih düzenlemesi */
-            .title-container {
-                flex-direction: column;
-                align-items: flex-start;
-                gap: 5px;
+            .modern-header {
+                font-size: 1.1rem;
+                gap: 6px;
+                white-space: nowrap;
+                overflow: hidden;
+                text-overflow: ellipsis;
+            }
+            
+            .logo-icon {
+                height: 28px;
             }
             
             .call-date {
-                margin-left: 0;
-                font-size: 1rem;
+                font-size: 0.95rem;
+            }
+            
+            /* MOBİL İÇİN BAŞLIK DÜZENLEMESİ - "Blocksense" kelimesini gizle */
+            .hide-on-mobile {
+                display: none;
             }
         }
 
@@ -346,25 +410,25 @@
             flex: 1;
             display: flex;
             flex-direction: column;
-            overflow-y: auto; /* Enable vertical scrolling */
+            overflow-y: auto;
         }
         
         /* YENİ: Büyük ekranlarda video bölümünü sabitlemek için */
         @media (min-width: 1201px) {
             .video-section.fixed-video {
                 position: sticky;
-                top: 15px; /* Padding miktarı kadar */
+                top: 15px;
                 align-self: flex-start;
-                height: fit-content; /* Yüksekliği içeriğe göre ayarla */
+                height: fit-content;
             }
             
             .video-container {
-                height: auto; /* Sticky için otomatik yükseklik */
-                max-height: none; /* Sticky için max-height kaldır */
+                height: auto;
+                max-height: none;
             }
             
             .video-container-wrapper {
-                height: auto; /* Wrapper'ın da otomatik yüksekliği olmalı */
+                height: auto;
             }
         }
     </style>
@@ -374,10 +438,13 @@
         <div class="header">
             <div class="header-content">
                 <div class="title-container">
-                    <h1 class="modern-header">
-                        <img src="pirate.png" alt="Blocksense Network Monitor" class="logo-icon" id="blockIcon"/>
-                        Blocksense Community Call #<span id="callNumberDisplay"></span>
-                    </h1>
+                    <div class="title-row">
+                        <h1 class="modern-header">
+                            <img src="pirate.png" alt="Blocksense Network Monitor" class="logo-icon" id="blockIcon"/>
+                            <span class="hide-on-mobile">Blocksense </span><span>Community Call #</span>
+                            <span id="callNumberDisplay"></span>
+                        </h1>
+                    </div>
                     <div class="call-date" id="callDateDisplay"></div>
                 </div>
                 <div class="back-button">
@@ -388,7 +455,7 @@
             </div>
         </div>
         
-        <div class="content-wrapper"> <!-- NEW: Added wrapper for scrolling -->
+        <div class="content-wrapper">
             <div class="main-content">
                 <div class="video-section">
                     <div class="video-container-wrapper">
@@ -419,7 +486,7 @@
                     </div>
                 </div>
             </div>
-        </div> <!-- END: content-wrapper -->
+        </div>
     </div>
     
     <button id="themeToggle" class="theme-toggle">
@@ -433,17 +500,17 @@
         
         // Community Call YouTube linkleri
         const youtubeLinks = [
-            "  https://www.youtube.com/embed/SEUy0ZWxz2k  ",
-            "https://www.youtube.com/embed/Ur97X-0d0fs  ",
-            "https://www.youtube.com/embed/iDeHWx3oyXU  ",
-            "https://www.youtube.com/embed/VKhyEBkCIOE  ",
-            "https://www.youtube.com/embed/VKhyEBkCIOE  ",
-            "https://www.youtube.com/embed/VGjcGeAJNlc  ",
-            "https://www.youtube.com/embed/DxzUVY6kODk  ",
-            "https://www.youtube.com/embed/V_bggpmFq1c  ",
-            "https://www.youtube.com/embed/mKBtSR0oO64  ",
-            "https://www.youtube.com/embed/a3e1oFF_NIo  ",
-            "https://www.youtube.com/embed/dyPuiiOh7KY  "
+            "https://www.youtube.com/embed/SEUy0ZWxz2k",
+            "https://www.youtube.com/embed/Ur97X-0d0fs",
+            "https://www.youtube.com/embed/iDeHWx3oyXU",
+            "https://www.youtube.com/embed/VKhyEBkCIOE",
+            "https://www.youtube.com/embed/VKhyEBkCIOE",
+            "https://www.youtube.com/embed/VGjcGeAJNlc",
+            "https://www.youtube.com/embed/DxzUVY6kODk",
+            "https://www.youtube.com/embed/V_bggpmFq1c",
+            "https://www.youtube.com/embed/mKBtSR0oO64",
+            "https://www.youtube.com/embed/a3e1oFF_NIo",
+            "https://www.youtube.com/embed/dyPuiiOh7KY"
         ];
         
         // Community Call tarihleri

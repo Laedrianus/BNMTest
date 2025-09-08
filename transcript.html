@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Transcript - BlockSense Network Monitor</title>
+    <!-- Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"/>
+    <!-- Hard-looking font for the whole app -->
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;600;700&display=swap" rel="stylesheet"/>
+    <!-- Styles -->
+    <link rel="stylesheet" href="light.css"/>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="header-content">
+                <div class="header-top-row">
+                    <h1 class="modern-header">
+                        <img src="pirate.png" alt="BlockSense Network Monitor" class="logo-icon" id="blockIcon"/>
+                        Monthly Community Call Transcript
+                    </h1>
+                </div>
+                <div class="back-button">
+                    <a href="javascript:history.back()" class="litepaper-link">
+                        <i class="fas fa-arrow-left"></i> Back to Call
+                    </a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="main-content">
+            <div class="section">
+                <div class="section-header">
+                    <h2><i class="fas fa-file-alt"></i> Transcript for Monthly Community Call #<span id="callNumber"></span> (<span id="language"></span>)</h2>
+                </div>
+                <div id="transcriptContent">
+                    <div class="transcript-info">
+                        <h3>How to Add Transcripts:</h3>
+                        <p>To add English and Turkish transcripts for community calls:</p>
+                        <ol>
+                            <li>Create a folder named <code>transcripts</code> in your project directory</li>
+                            <li>Inside it, create two subfolders: <code>ENG</code> and <code>TR</code></li>
+                            <li>Add transcript files in the format: <code>call-[number].txt</code></li>
+                            <li>For example: <code>transcripts/ENG/call-1.txt</code> and <code>transcripts/TR/call-1.txt</code></li>
+                            <li>Update the JavaScript code in <code>community-calls.html</code> to fetch and display these files</li>
+                        </ol>
+                        <p>For now, this is a standalone transcript page. In the community calls page, transcripts appear in a panel next to the video.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="footer-info">
+            <div class="made-by">
+                Made By Laedrianus with love for Blocksense Network
+            </div>
+            <div class="app-version">App Version: v1.1.0</div>
+        </div>
+    </div>
+    
+    <button id="scrollToTopBtn" class="scroll-to-top">
+        <i class="fas fa-arrow-up"></i>
+    </button>
+    <button id="themeToggle" class="theme-toggle">
+        <i class="fas fa-sun"></i>
+    </button>
+    
+    <script>
+        // URL'den call ve lang parametrelerini al
+        const urlParams = new URLSearchParams(window.location.search);
+        const callNumber = urlParams.get('call');
+        const language = urlParams.get('lang');
+        
+        // Sayfa yüklendiğinde
+        document.addEventListener('DOMContentLoaded', function() {
+            if (callNumber && language && (language === 'ENG' || language === 'TR')) {
+                document.getElementById('callNumber').textContent = callNumber;
+                document.getElementById('language').textContent = language;
+                
+                document.title = `Monthly Community Call #${callNumber} Transcript (${language}) - BlockSense Network Monitor`;
+            } else {
+                document.getElementById('transcriptContent').innerHTML = `
+                    <div class="error-message">
+                        <p>Invalid transcript request. Please select a valid transcript from the community call page.</p>
+                        <a href="index.html" class="primary-btn">View Community Calls</a>
+                    </div>
+                `;
+            }
+            
+            // Tema değiştirme butonu
+            const themeToggle = document.getElementById('themeToggle');
+            if (themeToggle) {
+                // Mevcut temayı kontrol et
+                const savedTheme = localStorage.getItem('theme') || 'light';
+                document.documentElement.setAttribute('data-theme', savedTheme);
+                
+                // İkonu ayarla
+                const icon = themeToggle.querySelector('i');
+                icon.className = savedTheme === 'dark' ? 'fas fa-moon' : 'fas fa-sun';
+                
+                themeToggle.addEventListener('click', function() {
+                    const currentTheme = document.documentElement.getAttribute('data-theme');
+                    const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+                    document.documentElement.setAttribute('data-theme', newTheme);
+                    localStorage.setItem('theme', newTheme);
+                    
+                    // İkonu güncelle
+                    icon.className = newTheme === 'dark' ? 'fas fa-moon' : 'fas fa-sun';
+                });
+            }
+            
+            // Yukarı çık butonu
+            const scrollToTopBtn = document.getElementById('scrollToTopBtn');
+            if (scrollToTopBtn) {
+                window.addEventListener('scroll', function() {
+                    if (window.pageYOffset > 300) {
+                        scrollToTopBtn.style.display = 'flex';
+                    } else {
+                        scrollToTopBtn.style.display = 'none';
+                    }
+                });
+                
+                scrollToTopBtn.addEventListener('click', function() {
+                    window.scrollTo({
+                        top: 0,
+                        behavior: 'smooth'
+                    });
+                });
+            }
+        });
+    </script>
+</body>
+</html>

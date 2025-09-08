@@ -135,12 +135,6 @@ body {
     letter-spacing: 0.2px;
     text-transform: uppercase;
     filter: drop-shadow(0 1px 0 rgba(0, 0, 0, 0.1));
-    /* Sorun 1: Mobilde metin kırpılmasını engellemek için bu satırlar kaldırıldı */
-    /*
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    */
 }
 /* GÜNCELLENDİ: Koyu tema için başlık rengi */
 [data-theme="dark"] .modern-header {
@@ -193,13 +187,11 @@ body {
 .link-item a {
     color: var(--header-color);
     text-decoration: none;
-    /* font-weight: 800; Kalın yazı kaldırıldı */
     letter-spacing: 0.2px;
 }
 /* Yeni: Hızlı bağlantı metinleri siyah koyu */
 .quick-link-text {
     color: var(--quick-link-text-color) !important;
-    /* font-weight: var(--github-pro-text-weight) !important; Kalın yazı kaldırıldı */
 }
 .link-item a:hover {
     color: var(--link-bg);
@@ -229,9 +221,6 @@ body {
     backdrop-filter: blur(var(--glass-blur));
     display: flex;
     flex-direction: column;
-    /* Yeni: İçeriğe göre boyutlan ve fazladan boşluk bırakma */
-     /* Yüksekliği içeriğe göre ayarla */
-     /* İç içe flex/grid öğeleri için taşmayı önlemek için */
     height: 100%;}
 .section:hover {
     background: var(--section-hover-bg);
@@ -1348,16 +1337,12 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    /* Ana yazı tipi: Oswald. Ancak ikon fontlarını bastırmamak için !important kullanılmaz. */
-    /* font-family: 'Oswald', sans-serif !important; */ /* Bu satırı silin veya yorumlayın */
 }
 /* Ana yazı tipini body'ye uygula, böylece genel kalıtım sağlanır */
 body {
     font-family: 'Oswald', sans-serif;
-    /* ... diğer body stilleri ... */
 }
 /* FontAwesome ikonları için doğru font-family'nin kullanılmasını zorla */
-/* Bu, ikon fontlarının düzgün yüklenmesini sağlar */
 .fab, .fad, .fal, .far, .fas, .fa-brands, .fa-duotone, .fa-light, .fa-regular, .fa-solid {
     font-family: 'Font Awesome 6 Free', 'Font Awesome 6 Brands', 'Font Awesome 6 Duotone', 'Font Awesome 6 Pro', sans-serif !important;
     font-weight: 900; /* Genellikle 'fas' için gereklidir */
@@ -1367,7 +1352,6 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-/* Eğer yukarıdaki yöntem yeterli olmazsa, doğrudan i etiketi için de tanımlayabilirsiniz */
 i[class^="fa"], i[class*=" fa"] {
     font-family: 'Font Awesome 6 Free', 'Font Awesome 6 Brands', 'Font Awesome 6 Duotone', 'Font Awesome 6 Pro', sans-serif !important;
     font-weight: 900;
@@ -1386,15 +1370,12 @@ i[class^="fa"], i[class*=" fa"] {
     .header-top-row {
         gap: 15px; /* Başlık ve link arasına boşluk ekle */
     }
-    /* GÜNCELLEME: Başlık küçültüldü ve mobilde tam görünmesi için nowrap kaldırıldı */
+    /* GÜNCELLEME: Başlık mobilde tek satırda kalacak ve taşarsa kısaltılacak */
     .modern-header {
         font-size: 1.5rem !important; /* Başlık fontunu küçült */
-        /* Sorun 1: Mobilde metin kırpılmasını engellemek için bu satırlar kaldırıldı */
-        /*
         white-space: nowrap;       /* Başlığın alt satıra inmesini engelle */
-        /* overflow: hidden;            /* Taşmayı gizle */
-        /* text-overflow: ellipsis;     /* Taşarsa ... koy */
-        */
+        overflow: hidden;            /* Taşmayı gizle */
+        text-overflow: ellipsis;     /* Taşarsa ... koy */
         flex-shrink: 1; /* Başlık gerektiğinde küçülebilsin */
     }
     /* GÜNCELLEME: Masaüstü Litepaper linkini mobilde gizle */
@@ -1405,13 +1386,12 @@ i[class^="fa"], i[class*=" fa"] {
     .mobile-only-link {
         display: block !important;
     }
-    /* Sorun 2: Quick Links için 4x3 grid yapısı ve ORTALAMA */
+    /* GÜNCELLEME: Quick Links kutusu tam genişlikte ve 4xN grid yapısında */
     .quick-links.compact {
         display: grid !important;
         grid-template-columns: repeat(4, 1fr) !important;
         gap: 5px !important;
-        /* Burası eklendi: Grid'i ortala */
-        justify-content: center !important;
+        width: 100%; /* Çerçevenin tam genişlikte olmasını sağlar */
     }
     .quick-links.compact .link-item {
         border-right: none !important;
@@ -1556,11 +1536,6 @@ i[class^="fa"], i[class*=" fa"] {
     margin-bottom: 25px !important;
 }
 
-.header-content {
-    padding-bottom: 20px;
-    border-bottom: 2px solid var(--header-border-color);
-}
-
 /* Transcript sayfası için ek stiller */
 .transcript-placeholder, .loading-transcript {
     text-align: center;
@@ -1583,21 +1558,6 @@ i[class^="fa"], i[class*=" fa"] {
     margin-top: 20px;
     display: inline-block;
 }
-/* Community Calls sayfası için ek stiller */
-.back-button {
-    margin-top: 20px;
-    margin-bottom: 15px;
-}
-
-.call-header {
-    margin-bottom: 25px !important;
-}
-
-.header-content {
-    padding-bottom: 20px;
-    border-bottom: 2px solid var(--header-border-color);
-}
-
 /* İki sütunlu düzen için stiller */
 .call-content-container {
     display: flex;
