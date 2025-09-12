@@ -1558,6 +1558,84 @@ i[class^="fa"], i[class*=" fa"] {
     margin-top: 20px;
     display: inline-block;
 }
+/* Notification System Styles */
+.notification-container {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 10000;
+    max-width: 400px;
+    pointer-events: none;
+}
+
+.notification {
+    background: var(--container-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 15px;
+    margin-bottom: 10px;
+    box-shadow: 0 4px 12px var(--shadow-color);
+    animation: slideInNotification 0.3s ease-out;
+    cursor: pointer;
+    pointer-events: auto;
+    backdrop-filter: blur(var(--glass-blur));
+    transition: all 0.2s ease;
+}
+
+.notification:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 16px var(--shadow-hover-color);
+}
+
+.notification-success {
+    border-left: 4px solid var(--highlight-success);
+}
+
+.notification-error {
+    border-left: 4px solid #e53e3e;
+}
+
+.notification-warning {
+    border-left: 4px solid #ed8936;
+}
+
+.notification-info {
+    border-left: 4px solid var(--highlight-info);
+}
+
+.notification .notification-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: var(--text-color);
+    font-weight: 500;
+}
+
+.notification .notification-close {
+    background: none;
+    border: none;
+    color: var(--text-color);
+    cursor: pointer;
+    padding: 4px;
+    border-radius: 4px;
+    transition: background-color 0.2s ease;
+}
+
+.notification .notification-close:hover {
+    background: var(--pagination-btn-hover-bg);
+}
+
+@keyframes slideInNotification {
+    from {
+        transform: translateX(100%);
+        opacity: 0;
+    }
+    to {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
 /* İki sütunlu düzen için stiller */
 .call-content-container {
     display: flex;
