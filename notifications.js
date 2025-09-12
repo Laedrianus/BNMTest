@@ -36,12 +36,12 @@ class NotificationManager {
         `;
         
         notification.innerHTML = `
-            <div style="display: flex; justify-content: space-between; align-items: center;">
-                <div>
-                    <i class="fas ${this.getTypeIcon(type)}" style="color: ${this.getTypeColor(type)}; margin-right: 8px;"></i>
-                    <span>${message}</span>
+            <div class="notification-content">
+                <div style="display: flex; align-items: center;">
+                    <i class="fas ${this.getTypeIcon(type)}" style="color: ${this.getTypeColor(type)}; margin-right: 8px; font-size: 1.1em;"></i>
+                    <span style="font-weight: 500;">${message}</span>
                 </div>
-                <button onclick="this.parentElement.parentElement.remove()" style="background: none; border: none; color: var(--text-color); cursor: pointer;">
+                <button class="notification-close" onclick="this.parentElement.parentElement.remove()" title="Close">
                     <i class="fas fa-times"></i>
                 </button>
             </div>
