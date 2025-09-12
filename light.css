@@ -230,8 +230,24 @@ body {
 }
 /* İlk 3 sütunu büyüt - DOĞRU KURAL */
 .main-content > .section:nth-child(-n+3) {
-    max-height: 60vh; /* Yüksekliği %60 viewport height ile sınırla (BÜYÜTMEK İÇİN) */
+    max-height: 50vh; /* Yüksekliği %50 viewport height ile sınırla */
     overflow-y: auto; /* Taşan içeriğe kaydırma çubuğu ekle */
+}
+
+/* Diğer sütunları da sınırla - daha kısa */
+.main-content > .section:nth-child(n+4) {
+    max-height: 40vh; /* Diğer sütunlar daha kısa */
+    overflow-y: auto;
+}
+
+/* Özel olarak uzun sütunları daha da kısalt */
+.main-content > .section:nth-child(5), /* Cross-Chain Journey Flow */
+.main-content > .section:nth-child(6), /* Oracle Performance Dashboard */
+.main-content > .section:nth-child(7), /* ZK Proof Observer */
+.main-content > .section:nth-child(8), /* Comparison Table */
+.main-content > .section:nth-child(9), /* Scenario Builder */
+.main-content > .section:nth-child(10) /* Ecosystem Map */ {
+    max-height: 35vh; /* En uzun sütunları daha da kısalt */
 }
 /* Section Header */
 .section-header {
@@ -1312,6 +1328,11 @@ body {
         transform: rotate(90deg);
         margin: 10px 0;
     }
+    
+    /* Tablet'te sütun yüksekliklerini ayarla */
+    .main-content > .section {
+        max-height: 45vh;
+    }
 }
 @media (max-width: 992px) {
     .main-content {
@@ -1330,6 +1351,11 @@ body {
     }
     .link-item:last-child {
         border-bottom: none;
+    }
+    
+    /* Mobilde sütun yüksekliklerini ayarla */
+    .main-content > .section {
+        max-height: 60vh; /* Mobilde biraz daha yüksek */
     }
 }
 /* Modern Reset & Base Font */
