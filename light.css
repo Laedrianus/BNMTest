@@ -230,8 +230,24 @@ body {
 }
 /* İlk 3 sütunu büyüt - DOĞRU KURAL */
 .main-content > .section:nth-child(-n+3) {
-    max-height: 60vh; /* Yüksekliği %60 viewport height ile sınırla (BÜYÜTMEK İÇİN) */
+    max-height: 50vh; /* Yüksekliği %50 viewport height ile sınırla */
     overflow-y: auto; /* Taşan içeriğe kaydırma çubuğu ekle */
+}
+
+/* Diğer sütunları da sınırla - daha kısa */
+.main-content > .section:nth-child(n+4) {
+    max-height: 40vh; /* Diğer sütunlar daha kısa */
+    overflow-y: auto;
+}
+
+/* Özel olarak uzun sütunları daha da kısalt */
+.main-content > .section:nth-child(5), /* Cross-Chain Journey Flow */
+.main-content > .section:nth-child(6), /* Oracle Performance Dashboard */
+.main-content > .section:nth-child(7), /* ZK Proof Observer */
+.main-content > .section:nth-child(8), /* Comparison Table */
+.main-content > .section:nth-child(9), /* Scenario Builder */
+.main-content > .section:nth-child(10) /* Ecosystem Map */ {
+    max-height: 35vh; /* En uzun sütunları daha da kısalt */
 }
 /* Section Header */
 .section-header {
@@ -1312,6 +1328,11 @@ body {
         transform: rotate(90deg);
         margin: 10px 0;
     }
+    
+    /* Tablet'te sütun yüksekliklerini ayarla */
+    .main-content > .section {
+        max-height: 45vh;
+    }
 }
 @media (max-width: 992px) {
     .main-content {
@@ -1330,6 +1351,11 @@ body {
     }
     .link-item:last-child {
         border-bottom: none;
+    }
+    
+    /* Mobilde sütun yüksekliklerini ayarla */
+    .main-content > .section {
+        max-height: 60vh; /* Mobilde biraz daha yüksek */
     }
 }
 /* Modern Reset & Base Font */
@@ -1558,6 +1584,84 @@ i[class^="fa"], i[class*=" fa"] {
     margin-top: 20px;
     display: inline-block;
 }
+/* Notification System Styles */
+.notification-container {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 10000;
+    max-width: 400px;
+    pointer-events: none;
+}
+
+.notification {
+    background: var(--container-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 15px;
+    margin-bottom: 10px;
+    box-shadow: 0 4px 12px var(--shadow-color);
+    animation: slideInNotification 0.3s ease-out;
+    cursor: pointer;
+    pointer-events: auto;
+    backdrop-filter: blur(var(--glass-blur));
+    transition: all 0.2s ease;
+}
+
+.notification:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 16px var(--shadow-hover-color);
+}
+
+.notification-success {
+    border-left: 4px solid var(--highlight-success);
+}
+
+.notification-error {
+    border-left: 4px solid #e53e3e;
+}
+
+.notification-warning {
+    border-left: 4px solid #ed8936;
+}
+
+.notification-info {
+    border-left: 4px solid var(--highlight-info);
+}
+
+.notification .notification-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: var(--text-color);
+    font-weight: 500;
+}
+
+.notification .notification-close {
+    background: none;
+    border: none;
+    color: var(--text-color);
+    cursor: pointer;
+    padding: 4px;
+    border-radius: 4px;
+    transition: background-color 0.2s ease;
+}
+
+.notification .notification-close:hover {
+    background: var(--pagination-btn-hover-bg);
+}
+
+@keyframes slideInNotification {
+    from {
+        transform: translateX(100%);
+        opacity: 0;
+    }
+    to {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
 /* İki sütunlu düzen için stiller */
 .call-content-container {
     display: flex;
