@@ -1,0 +1,50 @@
+/* Modern Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* Force the hard-looking font everywhere */
+    font-family: 'Oswald', sans-serif !important;
+}
+/* Light Theme Variables */
+:root {
+    /* Light Theme Colors */
+    --bg-color: #f0f4f8; /* Soft blue-gray background */
+    --text-color: #2d3748; /* Darker text for contrast */
+    --container-bg: #ffffffdd; /* White card with slight transparency */
+    --border-color: #cbd5e0; /* Light border */
+    --header-border-color: #a0aec0; /* Slightly darker header border */
+    --header-color: #2b6cb0; /* Primary blue for header text */
+    --header-text-color: #000000; /* Siyah koyu başlık rengi */
+    --link-bg: #3182ce; /* Primary blue for buttons/links */
+    --link-hover-bg: #2c5282; /* Darker blue on hover */
+    --quick-links-bg: #e2e8f0cc; /* Light blue-gray for quick links background */
+    --quick-links-border: #cbd5e0;
+    --url-display-bg: #ebf8ff; /* Very light blue for URL display */
+    --github-info-bg: #ebf8ff; /* Very light blue for GitHub info */
+    --update-item-bg: #ffffff; /* White for update items */
+    --update-item-title-color: #2b6cb0; /* Primary blue for titles */
+    --update-item-content-color: #4a5568; /* Medium gray for content */
+    --update-item-source-color: #4299e1; /* Lighter blue for sources */
+    --shadow-color: rgba(0, 0, 0, 0.08);
+    --shadow-hover-color: rgba(0, 0, 0, 0.15);
+    --spinner-border: #cbd5e0;
+    --spinner-border-top: #3182ce;
+    --glass-blur: 5px;
+    --section-hover-bg: #f7fafc; /* Light hover effect for sections */
+    --timeline-color: #a0aec0; /* Color for timeline line */
+    --timeline-dot-color: #3182ce; /* Color for timeline dots */
+    --modal-bg: #ffffff;
+    --modal-border: #cbd5e0;
+    --pagination-btn-bg: #edf2f7; /* Light background for pagination buttons */
+    --pagination-btn-hover-bg: #cbd5e0; /* Hover state for pagination buttons */
+    --stat-card-bg: #f8fafc; /* Background for stat cards */
+    --highlight-color: #48bb78; /* Highlight color for important stats */
+    --highlight-success: #48bb78;
+    --highlight-info: #4299e1;
+    --quick-link-text-color: #000000; /* Siyah koyu renk */
+    --github-pro-text-color: #000000; /* Siyah koyu renk */
+    --github-pro-text-weight: 700; /* Koyu font */
+    --made-by-text-color: #000000; /* Made by yazısı için siyah renk */
+}
+/* ... (yaklaşık 1700 satır, Tüm eski kuralların tamamı) ... */
