@@ -1492,7 +1492,7 @@ i[class^="fa"], i[class*=" fa"] {
         border: 1px solid var(--quick-links-border);
         border-top: none;
         border-radius: 0 0 10px 10px;
-        z-index: 1000;
+        z-index: 10000; /* Çok yüksek z-index ile sütunların üstünde görünmesini sağla */
         box-shadow: 0 4px 12px var(--shadow-color);
     }
     
