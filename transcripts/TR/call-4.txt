@@ -1,0 +1,250 @@
+00:00:00 - 00:01:24
+Hadi başlayalım. Bir saniye, sürekli kaybediyorum, teknik elemanım kameranızı başlatmak isteyip istemediğinizi soruyor, size kalmış. Ah evet, bir saniye. Evet, yapayım. Google hazırlanırken, aranızda onu tanımayanlar olabilir. Ben CST Topluluk Lideriyim, belki beni tanıyorsunuzdur, yeni arkadaşlar var, sizi burada selamlamaktan mutluluk duyuyorum, hoş geldiniz arkadaşlar, ailemiz büyüyor, güzel ortaklıklarımız var ve topluluğumuz da büyüyor, ama Gugi'yi tanımayanlarınız için o,
+
+00:00:42 - 00:01:58
+kurucu ortaklardan biri ve en başından beri en çok çalıştığım kişi. Burada başardığımız şeyin, onun "Manta asla durmaz" zihniyetinden gelen sıkı çalışmasına dayandığını söyleyebiliriz. Görünüşe göre Gugi de hiç durmuyor. Şahsen onunla günün her saatinde konuşuyorum, yani her zaman aktif ve evet, bugün bu yıl neler yaptığımızı ve gelecek yıl neleri başarmayı hedeflediğimizi konuşmak için katıldı.
+
+00:01:20 - 00:02:40
+Bence çok önemli güncellemeler ve şimdiye kadar başardıklarımızın bir özeti, yani yönümüzü ve evet, kilometre taşlarını belirlemek için. Kısa bir görüşme olacak. Bitirdiğimiz an gidip sorularınızı sorabilirsiniz ama biliyoruz ki tatil arasında bir zaman. Evet, burada olmanız güzel ve evet, ne kadar sürerse sürsün zaman ayırabiliriz ama yine de geçen yılı düşünüyordum, aslında bir sürü şey yaptık, biliyorsunuz, oldukça telaşlı ve oldukça ilginç bir yıldı. Yani, 2023'ün sonlarına doğru başladık ve sanırım gittiğimiz ilk büyük yer ve ilk yatırımcı taahhütlerimizi aldığımız yer 2023'ün sonundaki İstanbul'daki Def-Connect'ti ve o zamandan beri, biliyorsunuz, oldukça ilginçti. Sanırım tek tek yaptıklarımızı anlatacağım. İlk olarak,
+
+00:02:42 - 00:03:54
+yaptığımız ilk şey, önceki projelerimizden birinden 10 mühendisi ekibe dahil etmek ve zamanla 10 kişi daha işe almaktı. Şimdi bir ZK ekibimiz, bir frontend ekibimiz, bir backend ekibimiz, bir araç geliştirme (tooling) ekibimiz var ve hatta yeni bir iş geliştirme (BD) ve pazarlama kolu kurduk, ki şirkette bu hiç yoktu çünkü bu mühendislerin çoğu geçmişte birlikte çalışmıştı ama zamanla bu 10 kişilik pazarlama ve BD ekibini kurduk.
+
+00:03:18 - 00:04:44
+Magnus'u, Martin'i ve birçok topluluk ve pazarlama çalışanımızı gördünüz. Yani insan tarafında 10 kişiden yaklaşık 30 kişiye çıktık ki bu oldukça çılgınca. Bunu tohum yatırım turumuzla finanse ettik, biliyorsunuz a16z crypto CSX gibi gerçekten harika fonlardan katılım aldık, ki bu a16z crypto'nun hızlandırıcı programı, ve public goods ve ta adventures gibi ve VC Builder gibi harika melek yatırımcılardan ve Manta'dan Kenny gibi gerçekten iyi danışmanlardan destek aldık ve bu bizi başlattı.
+
+00:04:00 - 00:05:27
+Evet, bahsettiğim gibi a16z crypto hızlandırıcı programından geçtik ve hatta tohum yatırım turumuz 4 milyon dolardı ama ayrıca ortaklarımızdan oldukça iyi bir miktar nakit, hibe ve farklı teşvikler de aldık.
+
+00:04:44 - 00:06:05
+Şu anda finansal olarak çok güçlüyüz ve çok iyi gidiyoruz. Bu da önemli gelişmelerden bazıları ve bizi bugüne getiriyor sanırım. Bu noktalardan ürüne geçmeden önce, sanırım durup belki sorularınız veya yorumlarınız varsa alabilirim, eğer bir şey mantıklı gelmiyorsa, sonra size ürünler hakkında çok şey anlatacağım. Evet, temel olarak arkadaşlar sorularınızı sohbete yazabilir veya son kısma bırakabilirsiniz, bu daha uygun olur.
+
+00:05:25 - 00:06:34
+Sadece dizüstü bilgisayarınızın kapağını yavaşça hareket ettirmenizi rica edeceğim, böylece... teknik elemanlar böyle söylüyor, bilmelisiniz ki arka planda her zaman sesin iyi, kaydın kalitesinin iyi olmasını sağlayan bir teknik elemanımız var, bu yüzden bu kayıtları kaçıranlarınız için saklıyoruz, geri dönüp izleyebilirler, ne yaptığımıza dair harika bir bilgi kaynağı.
+
+00:05:59 - 00:07:00
+Sanırım bu noktaları hızlıca özetlemek gerekirse; bu fonu aldık ve ardından yaklaşık 30 kişilik, mühendisler, iş geliştirme ve pazarlamadan oluşan gerçekten iyi bir ekip kurduk. Ortaklarımızdan iyi hibeler ve airdroplar aldık ve şimdi 2025'e girmeye ve temel olarak inşa ettiklerimizle pazara çıkmaya gerçekten hazırız. Evet, size ürünlerden bahsedeceğim. Evet, kesinlikle devam edebiliriz.
+
+00:06:31 - 00:07:55
+Pekala, ürün. Evet, ürünler. Şimdi neredeyse üretime geçmeye hazır bir ürünümüz var. Bu, yeni DeFi ekosistemleri için bir arayüz. Temel olarak Chainlink, Redstone veya hatta Pith gibi oyuncuların destekleyebileceği her şeyi, ortaya çıkan yepyeni zincirlere sağlayabiliyoruz. Ve bu neredeyse hazır olan bir şey.
+
+00:07:13 - 00:08:25
+Sanırım mainnet'e geçmeye neredeyse hazır olan üç zincirimiz var ve testnet'te yaklaşık 18 tane var. Bunların büyük çoğunluğu EVM zincirleri ama yakında SVM desteğimiz de olacak. Bunlar boru hattındaki zincirlerden bazıları. Morph, Berachain, Trea, Aztec, Monad gibi gerçekten iyi zincirler var ve boru hattında çok daha fazlası var. Ve Arbitrum ve ZKsync ve OP Stack gibi en iyi platformlarla çalışıyoruz.
+
+00:07:49 - 00:09:07
+Yani yeni zincirlerin bir DeFi ekosistemi kurmasına yardımcı olan ve bizim ilk oracle sağlayıcısı olabileceğimiz bu ürün, neredeyse hazır ve onunla, en az iki veya üç zincirde, belki Ocak sonu Şubat başı gibi, en geç birinci çeyreğin sonunda canlıya geçeceğiz. Yani bu üründe iyi bir çekiş görüyoruz ve yakında canlıda olacağız. Bir sonraki inşa ettiğimiz ürün ise bu çok düşük gecikmeli, bilirsiniz, pool oracle veya daha çok bir pool oracle. Buradaki temel nokta, çok düşük gecikmeli olması.
+
+00:08:29 - 00:09:46
+Burada bunu ya protokole yerleşik hale getirebiliriz (enshrine) ya da bir pool oracle yapabiliriz ama bunu potansiyel olarak kendi protokollerine yerleştirmek isteyecek çok yüksek seviyeli, yani birinci katman bir projemiz var. Ve umarım bu anlaşmayı kazanır ve gelecek yıl bunu uygularız. Detaylara girmek istemiyorum ama eğer olursa, bu bizim için çok büyük bir kazanç olacak.
+
+00:09:06 - 00:10:18
+O yüzden parmaklarımızı çaprazlayalım arkadaşlar. İşte bu düşük gecikmeli ürün bu. Ve bu ilk iki ürünle birlikte, bu her yeni zincirin ihtiyaç duyacağı ve bizim sağlayacağımız bir tür ikili darbe. Ayrıca son birkaç ayda bu yapay zeka yeteneklerini geliştirmek için de zaman ayırdık. Bunlardan en önemlisi doğrulanabilir çıkarım (verifiable inference) sağlamak. Bunu geliştirmede epey yol kat ettik, bir nevi Ora veya Ritual gibi rakiplerimizden bahsedebiliriz.
+
+00:09:44 - 00:10:54
+Ama bunu geliştirmenin ortasındayız, umarım birkaç ay içinde, ya da iki üç ay içinde hazır oluruz çünkü özellikle şimdi ortaya çıkan tüm bu yapay zeka ajanlarıyla ilgili bu heyecanı gördüğümüzde, bu altı ay önce ne geliştirmemiz gerektiğini düşünürken üzerine bahis oynadığımız bir şeydi. Umarım birkaç ay içinde hazır oluruz ve bu dalgayı yakalayabiliriz. Yani bu da çok yakında gelecek.
+
+00:10:18 - 00:11:29
+Evet, bu oracle ürünü bu şekilde. Bunun üzerine, ZK işleri için bazı dahili araçlar da geliştirdik. Bu araçlar Aztec'in programlama dili olan Noir etrafında dönüyor. Ve bu araçlar, biliyorsunuz, her türden diğer geliştiriciler, ZK geliştiricileri tarafından kullanılabilir ve bunun olmasını umuyoruz. Bu da bize en azından çok popülerlik ve en iyi geliştiricilerden çok fazla takdir kazandıracaktır.
+
+00:10:54 - 00:12:09
+Bu çok ilginç bir iş. Örneğin, Noir için plonky2 veya expander veya diğer kanıtlama sistemleri gibi plonk'tan farklı özel arka uçlar (custom backends) sağlamak veya resmi doğrulama (formal verification) yetenekleri sağlamak ya da dil için hata ayıklama (debugging) araçları sağlamak gibi şeyler. Bu tür şeyleri son 9 ayda geliştirmeyi başardık.
+
+00:11:30 - 00:12:42
+Evet, geniş topluluğun bunu nasıl takdir edeceğini göreceğiz. Hatta bunun da ötesinde, bu ürün tarafında yaptığımız son şey, bizi sistemlerinde bir oracle olarak kullanmak isteyen ekosistem projeleriyle iki çok güçlü ortaklık geliştirmemizdi. Biri bu LLM yönlendiricisi, diğeri ise bu tür bir DeFi toplayıcısı. Her ikisinde de çok derin bir ilişkimiz var, eğer bu projeler iyi giderse, onlara çok fazla güveniyoruz.
+
+00:12:07 - 00:13:18
+Bu yüzden biraz çaba harcadık ve yakında, belki önümüzdeki iki veya üç ay içinde onları sergileyebileceğiz. Ürün tarafında durum bu. Yeni zincirler için olan ve Chainlink ile Redstone'un yerini alan push oracle'ımız var. Ve daha çok Pith'in yerini alan düşük gecikmeli bir pool oracle'ımız var. Bu ikisi de yeni zincirlerin faaliyete geçmesine yardımcı oluyor ve boru hattında neredeyse hazır olan bir sürü anlaşmamız var.
+
+00:12:43 - 00:13:48
+Ve bunun üzerine, biraz çekiş kazanan bu yapay zeka ve araç geliştirme ürün serilerimiz var. Ve BlockSense ile inşa eden bazı projelere çok fazla yatırım yaptığımız bu geçici ekosistem kuluçka merkezimiz var. Evet, ürün cephesinde durum bu. Evet, özetlememe izin verirseniz, harika, siz oldukça iyi ifade ettiniz ama herhangi bir karışıklığı gidermek için, bakın bu bir oracle'dan çok daha fazlası ve oracle alanında da farklı ürünler inşa ediyoruz.
+
+00:13:15 - 00:14:31
+Yani BlockSense'e şöyle bakabilirsiniz, evet, alanda ve şirketlere hizmet edebilecek farklı ürünler geliştiriyoruz. Oracle'ı olmayan erken aşama protokollerden, onlara bir tane sağlamayı çok kolaylaştırıyoruz ve aynı zamanda programlanabilir bir tane, böylece ihtiyaç duydukları her türlü kullanım senaryosunu yapabilirler. Ve bu kesinlikle bir niş pazar. Konuştuğumuz birçok proje ve Gugi de beni düzeltebilir eğer yanılıyorsam ama şimdiye kadar 120'den fazla veya 130 projeyle konuştuk.
+
+00:13:53 - 00:15:06
+Geri bildirim şu ki, bu şirketlerin birçoğu bu özelliği çok beğeniyor çünkü BlockSense'in programlanabilir kısmı, hayal ettiğiniz ve uygun bir çözüm bulamadığınız kullanım senaryosunu yapmanıza olanak tanıyor. Ama aynı zamanda farklı ürünlere de odaklanıyoruz çünkü geliştirdiğimiz teknoloji buna izin veriyor ve BlockSense'i bir oracle'dan çok daha geniş bir şeye bağlarken geniş bir olasılık yelpazemiz var.
+
+00:14:30 - 00:15:49
+Ayrıca çıkarım (inference) kısmı, alanda nasıl büyüdüğünü ve olgunlaştığını görmek için çok ilginç. Çünkü oldukça yeni ve şimdilik olgunlaşması için zamana ihtiyacı olduğunu söyleyebiliriz. Ama farklı ürünler geliştirerek ve farklı ortaklarla bu fırsatları keşfederek birden çok hatta çalışıyoruz. Bu yüzden bu oldukça harika. Topluluğu bu konuda güncellediğiniz için teşekkürler. Evet, yani tüm bu ürünler için, o kategorilerdeki en iyi pazar katılımcılarıyla çalışmaya gerçekten çabalıyoruz.
+
+00:15:08 - 00:16:20
+Dediğim gibi, boru hattımızdaki zincirlerle Morph, Berachain, Trea, Aztec, Monad gibi isimlerle çalışıyoruz. Sonra bu tür yapay zeka kullanım durumları için sistemimizi a16z'nin AI Framework'leri veya Rituals gibi çerçevelere entegre etmeye çalışıyoruz. Ve bu araç geliştirme için gerçekten Noir gibi, yani oradaki en iyi ZK dili, tek dil olan Noir ile çalışmaya çalışıyoruz.
+
+00:15:44 - 00:16:50
+Böylece en iyi geliştiricilerin hepsi onu kullanıyor ve bu alanların hepsinde gerçekten değer sağlıyoruz. Böylece oradaki en iyi insanlar sistemlerimizi ve araçlarımızı kullanıyor ve umarım bu bir iz, bir etki bırakır ve insanlar bu konuda daha çok konuşur. Bu da bizi 2025 için çok iyi bir konuma getirir. Kesinlikle inşa ediyoruz ve topluluk tarafında yavaş görünebilir,
+
+00:16:17 - 00:17:34
+ama burada uzun ömürlü ve çok başarılı bir ürün ve proje için süper sağlam bir temel atıyoruz. Ve evet, Gugi'nin birkaç noktada belirttiği gibi, bir şirketi beş kişiden şimdi 35 kişiye ve belki bir sonraki turda 60'a çıkarmak başlı başına bir zorluk. Ürünü geliştirmek, pazar uyumunu bulmak ve tüm bu şeyler kendi başlarına birer zorluk. Bu yüzden bu adımların her biri çok önemli ve keşfetmek ve işleri mümkün olan en iyi şekilde yapmak için çok çaba sarf ediyoruz.
+
+00:16:56 - 00:18:20
+Eski Google çalışanları gibi süper parlak profesyonellerden oluşan bir ekibimiz var ve ekipteki tüm havalı şirketleri saymak istemiyorum ama kesinlikle değerli yaşam zamanlarını bile bu işe adayan çok akıllı insanlar var. Cidden 7/24 çalışan bir ekibiz. Sanırım BlockSense asla uyumaz, bu bizim sloganımız olmalı çünkü dünyanın her yerinde ulaşılabiliriz. Bu aynı zamanda çok dağıtık bir ekip. Evet, evet, ekip, sanırım en çok gurur duyduğumuz şey bu.
+
+00:17:38 - 00:19:03
+Gerçekten harika bir ekip kurduk. Chris'in dediği gibi Google'dan, Uber'den, derleyiciler üzerine doktora yapmış, milyarlarca dolarlık sistemler kurmuş insanlar var. Yani ekip çılgın. Neyse, şimdi size söylemek istediğim bir sonraki şey, daha çok "Tamam, başka bir ekipten belirli bir teknolojiye veya bir şeye ihtiyacımız var, sonra onu kullanırız" şeklinde olan birkaç ortaklık da yaptık.
+
+00:18:21 - 00:19:39
+Örneğin, EigenLayer ile çok güçlü bir ortaklık kurduk. Bir AVS (Actively Validated Service) olup, EigenLayer üzerinde restake yapan risk alıcıların ekonomik güvenliğinden faydalanacağız. Bu, sistemimizin güvenliği için çok önemli ve bunu ilk günden itibaren önceliklendirdik. Bunu başardığımız için çok mutluyuz. Bunun da ötesinde, bu düşünce çizgisini ek olarak güçlendirmeye ve Symbiotic gibi diğer restaking protokollerinden ek güvenlik katmanları eklemeye çalışıyoruz.
+
+00:19:00 - 00:20:13
+Birkaç tanesiyle görüşüyoruz ve umarım 2025'te bu ortaklardan birkaç tane daha listemize ekleyebiliriz. Açıkçası ZK tarafında Nebra, Succinct, cisc ve hatta Fhenix gibi ekiplerle yakın çalışıyoruz.
+
+00:19:36 - 00:20:42
+Ve tabii ki Noir ekibi ve diğerleriyle çok iyi bağlantılarımız var. Keşfettiğimiz ancak henüz tam olarak hayata geçirmediğimiz ve umarım 2025'te hayata geçireceğimiz bir diğer ortaklık da bir veri kullanılabilirliği (data availability) ortağıyla. Hive gibi isimlerle ön görüşmelerimiz oldu ama bunu ilerletmemiz gerekiyor ve umarım bunu oldukça yakında yaparız. Yani restaking, ZK ve veri kullanılabilirliği olmak üzere üç ana teknoloji ortaklığı bu şekilde.
+
+00:20:09 - 00:21:44
+2024 için üçte iki fena değil ve umarım önümüzdeki altı ay içinde DA (veri kullanılabilirliği) işini de hallederiz. Evet, teknoloji ortaklıkları açısından durum bu. Şimdi ilk altyapı ortaklarımızı, node operatörlerimizi ve veri sağlayıcılarımızı da ayarlamayı başardık. %60-70 oranında tamamlandık ve kurulduk diyebilirim, bu da Ocak sonu veya Şubat başı gibi planladığımız mainnet lansmanı için zamanında olacak. Bu iyi bir haber.
+
+00:20:56 - 00:22:15
+İlk sette çok saygın node operatörlerinin yer almasını sağladık ve ayrıca borsalar veya piyasa yapıcılar gibi gerçekten iyi bir veri sağlayıcı çeşitliliğimiz var. Bu anlamda iyi bir çeşitliliğe sahibiz. Ve evet, ortaklıklar açısından durum bu. Son olarak değineceğim şey ise pazarlama tarafında yaptıklarımız. Evet, ama belki bu ortaklıklar için sorularınız vardır. Üzgünüm arkadaşlar, bağlantımda bazı sorunlar yaşadım, konuşmanın bir kısmını kaçırdım.
+
+00:21:41 - 00:23:01
+Ama Gugi çevrimiçi olduğuna göre işler kontrol altında. Sadece nerede olduğumuzu söyleyebilir misin? Az önce kullandığımız teknoloji ortaklıklarımızı ve ilk node operatörlerimizle veri sağlayıcılarımızın kurulumunun da neredeyse tamamlandığını anlattım. Ve son olarak değineceğim şey pazarlama tarafında yaptıklarımız. Muhtemelen Chris ve ben bunun üzerinde en uzun süredir çalışıyoruz. En erken buna başladık. Benim dikkatim özellikle son 6 ayda daha çok iş geliştirme ve diğer bazı operasyonel şeylere odaklanmıştı, bu yüzden belki biraz daha az katkım oldu.
+
+00:22:24 - 00:23:48
+Neyse, başlangıçta gerçekten sahip olduğumuz bu küçük topluluğu kurmaya odaklandık. Burada bulunan bazılarınız gibi harika insanlarla tanışmayı başardık, Ar Hill gibi. Yayınlar, farklı buluşmalar gibi bir sürü şey denedik ve sanırım hala çözmeye çalışıyoruz. Umarım 2025'te gerçekten çok daha yakınlaşırız. Dediğim gibi, güçlü bir başlangıç yapmaya çalıştım ve son 6 ayda topluluk oluşturma konusunda biraz gevşedim, gevşemek değil de gerçekten başka bir şeye odaklanmıştım.
+
+00:23:43 - 00:24:58
+Ama şimdi umarım bu anlaşmalardan birkaçını kazanırız ve birkaç gerçekten iyi zincirde dağıtım yaparız, o zaman topluluk oluşturmaya çok daha fazla çaba gösterebileceğim. Ve evet, umarım daha iyi hale getiririz. Ve burada planladığımız büyük şeyler var, gerçekten büyük şeyler. Açıkçası diğer ekiplerle olanları görüyorsunuz, yani piyasa duyarlılığı açısından rüzgarın nereye estiğini görüyorsunuz. Evet, yani kendimizden büyük şeyler bekliyorum ve siz de topluluk tarafında büyük şeyler bekleyebilirsiniz.
+
+00:24:22 - 00:25:34
+Gerçekten de sizleri dahil etmeye, bu işte pay sahibi olmanıza ve bu şeyi kendinizin olarak benimsemenize, kalbinizi ve ruhunuzu bizim gibi bu işe koymanıza inanıyoruz. İstediğimiz bu ve umarım oraya ulaşırız. Bu tür bir topluluk ve kültür olacağız ve denediğimizi düşünüyorum ve umarım oraya varırız.
+
+00:24:57 - 00:26:22
+Ve şahsen söz veriyorum ki, iş geliştirme tarafında bazı kazançlar elde ettiğimizde veya umarım elde ederiz, artık çok daha fazla zaman harcayacağım. Neyse, yaklaşık 15-20 bine ulaştık, sanırım çoğu insan pek aktif değil ama aktif olanlar oldukça aktif. Ve şimdi Monad ve Van gibi farklı topluluklarla yeni bir ortaklık dalgamız var ve umarım bunları keşfetmeye ve her türden farklı yerden daha fazla insan getirmeye devam ederiz.
+
+00:25:40 - 00:26:52
+Ve evet, büyük bir olay EthSofia'ydı. Bu, birkaç aydır planladığımız bir etkinlikti ve sponsorları ve ekipleri getirmeye yardımcı olduk, organize ettik. Bütün ekip dahil oldu ve bence çok iyi sonuçlandı. Ekip olarak çok şey öğrendik. Bu, ekibin ilk büyük sınavıydı; bir testnet çıkarıp çıkaramayacağımız, bir MVP (Minimum Uygulanabilir Ürün) çıkarıp çıkaramayacağımız, bazı insanların bunu gerçekten kullanıp kullanamayacağı, onlara teknik destek sağlayıp entegre olmalarına yardımcı olup olamayacağımız ve uçtan uca çalışan bir şey olup olmayacağı gibi konularda.
+
+00:26:16 - 00:27:32
+Ve işe yaradı, değil mi? Bu yüzden çok mutluyduk. Ondan sonra birkaç hackathon daha gerçekleştirdik, Cold Club ile, Oxford Blockchain Society ile ve birkaç başka proje ortağıyla. Yani evet, taktik karışık sonuçlar verdi ama bence EthSofia özellikle çok iyiydi. Ve evet, neyse, şimdi büyük bir yeniden markalaşma da yapıyoruz. Yeniden markalaşma değil de projenin görsel kimliğini buluyoruz.
+
+00:26:53 - 00:28:06
+Bunu bir süreliğine arka plana atmıştık ve şimdi elimizde var. Sanırım neredeyse tamamlandı ve bir ay içinde açıklayacağız. Ve evet, bir diğer şey de özellikle son altı ayda, son üç ayda halka açık konuşmaları artırmaya çalıştık. Birkaç etkinlikte, birkaç podcast'te konuştuk, özellikle Zakaria ve özellikle Martin gibi arkadaşlar Twitter'da süper aktifti.
+
+00:27:30 - 00:28:34
+Umarım bu, insanların hakkımızda konuşmaya başlamasına yardımcı olur. Neyse, buna çok çaba harcıyoruz. Şahsen ben de Twitter'da çok fazla paylaşım yapmaya başladım ve umarım Stan ve Beo gibi arkadaşlar da çok paylaşım yapar. Daha fazla halka açık konuşma, daha fazla Twitter ve tüm ekibin bir nevi KOL (kanaat önderi) olması.
+
+00:28:02 - 00:29:17
+Ve sizlerin de KOL olmanıza yardımcı oluyoruz ve bu da tüm projeyi ileri taşıyor. Sanırım önümüzdeki yıl da buna çok çaba sarf edeceğiz. Pazarlama tarafında durum bu. Başladık, özellikle topluluğun iyi, çekirdek katkıda bulunanlarına odaklanmaya çalıştık. Bir sürü hackathon düzenledik ve EthSofia özellikle iyiydi. Yeni görünüm ve yeni görsel kimlik neredeyse bitti.
+
+00:28:40 - 00:30:01
+Ve özellikle son üç ayda bir sürü etkinlik ve halka açık konuşma yaptık. 2024'te olanlar bunlar. Sanırım 2025'i anlatmak bir 30 dakika daha sürer ama asıl beklememiz gereken şey ne olmalı? Sanırım daha önce bahsettiğim o gerçekten iyi zincirlerde dağıtımlar, her ürün için en az bir tane çok iyi bir zincirde dağıtım ve araçlarımızı en iyi geliştiricilerin eline vermek.
+
+00:29:21 - 00:30:48
+SVM'nin hazır olması, AVS'imizin hazır olması, özellikle DA (veri kullanılabilirliği) gibi daha fazla teknoloji ortaklığı ve zamanla ilk operatör ve veri sağlayıcı setimizi yavaşça genişletmek. Ve pazarlamada, özellikle topluluk ve topluluk oluşturma konusunda daha da sert gitmek. Sanırım daha yerelleştirilmiş etkinlikler ve bütçeler sağlamak istiyoruz. Ve evet, fikir bu. Bir soru vardı, elçilik programı ve nasıl gittiği hakkında.
+
+00:30:03 - 00:31:14
+Gugi'nin anlattığı her şey, topluluk tarafında yapacaklarımızın temelini oluşturuyor. Pazarlama tarafında da, övünecek, hakkında konuşulacak bir şeye sahip olmanız gerektiğine inanan bir ekibiz ve bu şeyin gerçekten iyi bir şey olması gerektiğine inanıyoruz. Bu yüzden tüm odak, geliştirmeye ve aynı zamanda güçlü ekosistem ortakları geliştirmeye, ürünün kendisini geliştirmeye gitti.
+
+00:30:39 - 00:32:01
+Ve tabii ki topluluğa da odaklanmak zorundaydık ama topluluğu genişletmek... Kesinlikle topluluk büyüdüğünde ve şimdi ulaştığımız belli bir noktaya geldiğinde bunu yapacağız. Sanırım 20 bin kişilik topluluk çok sağlıklı bir seviye. O zaman bu yerel üyeleri harekete geçirmeye ve yerel etkinliklerle başlamaya başlayabiliriz. Elçilik programının kendisi çok uzun zamandır, belki sekiz dokuz aydır pişiyor ama ortaya çıkmadı çünkü topluluğun hazır olduğunu görmedik.
+
+00:31:20 - 00:32:32
+Şahsen bu görüşmelere üç kat daha fazla insanın katılmasını istiyorum ve bu insanların neden katılmadığını bilmek istiyorum, eğer geliştirebileceğimiz bir şey varsa. Birçoğunuz gönderdiğimiz geri bildirim anketine katıldınız ve bunu görmek harikaydı. Şimdi bunu birlikte inşa ediyoruz ve sizden geri bildirim almak bizim için çok önemli. Elçilik programıyla ilgili olarak, sadece takipte kalın ama kesinlikle geliyor. Sanırım gelecek yılın ilk çeyreğinin sonunda yerel seviyelerde, özellikle sanal etkinliklerle veya doğrudan yüz yüze etkinliklerle bir şeyler yapıyor olacağız.
+
+00:31:55 - 00:33:09
+Bunlar çözmemiz gereken şeyler. Ve topluluğun büyümesi gerektiğini söyledim ve şimdiden 30 kişinin katıldığını görüyorum, harika. Evet, yani arkadaşlar, bunu resmileştirmemiz gerekirdi ve elçilik programını resmileştireceğimize söz verdik, böylece tam olarak ne olduğunu bilirsiniz. Ama genel olarak, gerçekten olmasını istediğim bir şey, farklı bölgelerde, küçük bir etkinlik veya küçük bir hackathon düzenleyebilecek ve bunu yürütebilecek insanlar bulmak ve çok yerelleşmiş topluluklar oluşturmak.
+
+00:32:35 - 00:33:49
+Bu, yoğun bir şekilde teşvik edeceğimiz bir şey. Ve evet, gerçekten zorlamaya ve yardım etmeye hazırız. Ve gerçekten ihtiyacımız olan diğer bir şey de, eğer sizler yeni zincirlerin veya protokollerin topluluklarına gidip bir oracle gibi bir şeye ihtiyaçları olup olmadığını anlar ve bize bildirirseniz. Eğer bir oracle'a ihtiyaç duyan yeni protokoller veya yeni zincirler duyarsanız, bize bildirin. Bu süper yardımcı olur.
+
+00:33:12 - 00:34:26
+Eğer bize potansiyel müşteri bulursanız, bu da yoğun bir şekilde teşvik edilecektir. Sanırım bu en önemli iki şey. Ayrıca, ürün hakkında nasıl konuşabileceğinizi ve diyelim ki Twitter'da bizden nasıl bahsedebileceğinizi anlamanız için bazı eğitimsel şeyler de yapacağız ve bu da teşvik edilebilir. Ama kolay olan şeyler, bize zincir ve protokollerden potansiyel müşteriler bulun, bu harika olurdu.
+
+00:33:49 - 00:34:58
+Evet, evet, bu şeyleri bizim için yapabilirseniz, bu herhangi bir elçilik programından çok daha değerli olur. Çünkü esasen istediğimiz şey, bir sorunumuz olduğunda, bir ihtiyacımız olduğunda, yardım için gideceğimiz ilk yerlerden birinin sizler, yani topluluğumuz olması. Belki bu konuda bize yardım edebilirsiniz. Şu anda ana ihtiyacımız, daha fazla zincir bulmak, oracle'ımızı dağıtabileceğimiz ve ana oracle sağlayıcılarından biri olabileceğimiz erken aşamadaki zincirleri bulmak ve bu şekilde biraz iş kazanmak.
+
+00:34:23 - 00:35:35
+En büyük ihtiyacımız bu. Ve sonra bizi kullanacak iyi geliştiriciler bulmak, ya protokol kurucuları ya da sadece ZK araçlarımızı kullanacak iyi geliştiriciler.
+
+00:34:59 - 00:36:21
+Bize bu konuda yardım edin. Sanırım biraz zaman ayırıp belki size yardımcı olabileceğiniz bazı acil veya o kadar da acil olmayan ihtiyaçları listeleyeceğim. Siz bize yardım edersiniz, biz de bunu teşvik ederiz. Kullanıcı tarafından oluşturulan içerik veya parçalar konusunda, çok aktif olan birkaç kişi var, onlar verdiğimiz rollerle her zaman tanındılar ve teşvik edildiler. Lao Shi rolü, ki bu aslında Çince'de öğretmen anlamına geliyor. Yani sizler BlockSense için bilgi yayıyorsunuz.
+
+00:35:40 - 00:36:51
+Ve topluluktaki en aktif insanlar bu rolü alıyor. Bu ay bir kişinin terfisi var, bu işlerin nasıl gidebileceğine dair çok iyi bir örnek çünkü topluluğumuza yeni katıldı ve bu ay terfi alıyor. Sadece adını bulmam gerekiyor, sonra anons edeceğim. Ama evet, o çok iyi örneklerden biri. Diğeri ise sohbette de gördüğüm Versus. Sürekli aktivitesi nedeniyle onu bir Korsan'a (Pirate) terfi ettirmeye karar verdik.
+
+00:36:15 - 00:37:37
+Çünkü Korsanlar, gerçekten nasıl desem, sıkı bir BlockSense ekibi. Onlar her zaman aktif olan, başkalarının bir şeyleri çözmesine yardımcı olan insanlar. Ve esasen bu çekirdek topluluğu, gelen diğerlerine yardım eden daha büyük bir insan topluluğuna dönüştürmek istiyoruz. Şimdi V var, onlar gerçekten harika çocuklar. Bütün ekibi, onlarla çalışan herkesi sevdim, iletişim harikaydı.
+
+00:16:56 - 00:38:12
+İşleri bu seviyede görmeyi seviyorum. Yani bu tür katkılarla devam edin, ödülleri alırsınız. İçerik tarafında, ne tür içerik olduğu konusunda işleri daha net hale getirmeye çalışacağız ama Gugi'nin dediği gibi, acil öncelikler de var. Eğer potansiyel müşteriler bulursanız, bir projenin bizim için uygun olduğunu düşünüyorsanız, bana DM atın veya ortaklık önerileri dediğimiz bölümde de yazabilirsiniz. Discord'da bir bilet açabilirsiniz. Onlara ben bakıyorum, Rael de bakıyor ve her şeyi kurucu ekibe iletiyoruz.
+
+00:37:37 - 00:38:51
+Onlar da şu anda hangi fırsatların bizim için iyi olduğunu ve onlarla nasıl etkileşim kuracağımızı görüyorlar. Ekip, tüm potansiyel ortaklara baktıklarından ve daha önce bahsettiğimiz ürünlere dayanarak orada hangi giriş noktalarımız olduğunu gördüklerinden emin olmak için gerçekten çok çalışıyor. Ve çalışmanızın her zaman görüldüğünü ve takdir edildiğini bilmelisiniz. O yüzden iyi çalışmaya devam edin çocuklar. Evet, yani 2025'te sevkiyata başlamak üzereyiz, umarım yani,
+
+00:38:17 - 00:39:49
+çok hızlı bir şekilde ivmelenmesi gerekiyor. Ocak sonu veya Şubat başında sevkiyat yaparız, birden fazla zincirde dağıtım yaparız, sonra bir sonraki ürünü, bir sonraki ürünü piyasaya süreriz ve ondan kısa bir süre sonra bir tür TGE (Token Üretim Etkinliği) olur. Ve evet, umarım her şey gelecek yıl, yani 2025'te çözülür. 2025 BlockSense'in yılı gibi görünüyor, değil mi? Yani tüm bu hazırlıklar, evet, çok iyi kurulduk, evet, bunun için çalışıyoruz.
+
+00:39:05 - 00:40:12
+Tüm yatırımcılardan aldığımız destek, şu anda geliştirdiğimiz harika ortaklıklar, çok önemli dokümantasyon sürümü ve Gugi'nin de söylediği gibi, bunları hackathon'larda test etmeye ve denemeye başladık. İnsanlar, daha önce mümkün olmayan BlockSense kullanarak kullanım senaryoları geliştirmeye başladı. Bloga gidip AgriShield veya tarım sigortası ya da uçak bileti sigortası gibi bazı makaleleri okuyabilirsiniz. Bunlar zaten aracılara ihtiyaç duymayan ve BlockSense ile çok kolay ve verimli bir şekilde uygulanabilen şeyler.
+
+00:39:39 - 00:40:48
+İşte bunlar inşa ettiğimiz şeyler. Ve şimdi tabii ki 18 testnet'te dağıtımdayız, bu da o testnet'lerle zaten bir çalışma ilişkimiz olduğu ve oradaki fırsatları ve onların üzerine inşa edilen tüm projeleri araştırdığımız anlamına geliyor. Ve bahsettiği harika haber, 25'te olacak büyük şeyler, çok yakında onların mainnet'lerinde dağıtıma başlayacağız, bu da V1 üretimiyle kesinlikle yola çıkmaya hazır olduğumuz anlamına geliyor, değil mi?
+
+00:40:13 - 00:41:30
+Çünkü üretimimizin bir sonraki adımı tamamen merkeziyetsiz olmak ve kendi izinsiz doğrulayıcı (permissionless validator) setimize sahip olmak olacak, değil mi? Böylece herkes bir doğrulayıcı olabilecek ama başlangıçta izinli (permissioned) olarak başlayacağız, Luganodes veya Blockdaemon gibi. Evet, kesinlikle. Yani, özellikle muhtemelen 2025'in ikinci yarısına doğru, sistemi daha fazla merkezsizleştirmek için gerçekten çok çaba göstereceğiz. Daha fazla doğrulayıcı, daha fazla veri sağlayıcı, onu izinsiz hale getirmek, oracle dağıtım komut dosyasını izinsiz hale getirmek.
+
+
+00:40:51 - 00:42:11
+Ve o zaman ZK mekanizmasını da dağıtacağız. Ve sistem merkeziyetsiz hale geldiğinde token'ı da o noktada çıkaracağız. Evet, çok iddialı bir planımız var ama adım adım hayata geçiriliyor. Ve bu şekilde test edip işlerin yürüdüğünü kanıtlıyoruz. En azından evet, MVP'miz var, onu göndereceğiz ve sonra önümüzdeki altı ay içinde birkaç ürün daha göndereceğiz.
+
+00:41:32 - 00:42:52
+Sonra sistemi, ZK mekanizmasını merkeziyetsizleştireceğiz ve token'ımız olacak. Bu da 2025 olmalı. 2025 bizim için çok heyecan verici bir yıl gibi görünüyor arkadaşlar. Topluluğumuzun büyümesinden de mutluyum. Bu, yaklaşık 35 kişinin katıldığı ilk sefer sanırım. Herkese teşekkürler, bunu görmek harika. Ve ben olaylara her zaman şöyle bakarım: şimdi 35 kişiyiz, yarın 335 oluruz. Biliyorum ki daha fazla insana ulaşacağız ve evet, ürünümüz büyüyecek.
+
+00:42:14 - 00:43:27
+Bu kesin. Ve anons etmek istediğim kişiyi görüyorum, Smith, Ajan Smith. Katkıların için teşekkürler. Bu ayki katılımın sayesinde Lao Shi rolünü alıyorsun. Sunucudaki en aktif kişi, henüz rolü olmayanlar arasında en aktif olan. Çünkü tamam, eski arkadaşlar, harikasınız çocuklar, yapmaya devam ediyorsunuz. Katılımınız için çok teşekkürler. Ve May burada, T de burada, Abdullah da burada, harika çocuklar. Çalışmalarınızı ve birlikte çalışmayı gerçekten seviyorum.
+
+00:42:51 - 00:44:17
+Çok teşekkürler. Parade, harika birini görüyorum ve Versus şimdi neredeyse tüm rollerle donatılmış durumda. Bakmadım ama bu aslında nispeten kısa bir sürede katılabileceğinizi ve ailede etki yaratabileceğinizi gösteriyor. Aktif kalın, katkıda bulunun, birbirinize yardım edin, birbirinize iyi davranın. Ve evet, yol bu çocuklar. Ne diyelim, bu görüşmeyi 30 dakika olarak planlamıştım ama gördüğünüz gibi bir yılda o kadar çok şey oluyor ki, tabii ki daha uzun sürdü.
+
+00:43:34 - 00:44:46
+Ama bence bunlar hakkında konuşabileceğimiz ana noktalar. Bahsettiğimiz yükseliş, ortaklıklar, katıldığımız tüm etkinlikler ve geliştirdiğimiz ürün, dokümantasyonun yayınlanması, topluluğun büyümesi ve devam eden topluluk programları, ayrıca topluluğun büyüklüğüne ve aktivitesine bağlı olarak geliştirdiğimiz ve yakında çıkacak olanlar. Ve evet, eğer varsa sorular için sahneyi açmak istiyorum.
+
+00:44:09 - 00:45:19
+Doğrudan bana, Gugi'ye veya genel olarak ekibe. Eğer bir şeyiniz varsa sohbete de yazabilirsiniz. Ne düşünüyorsunuz, 2025 bizim için nasıl olacak sizce? Ne diyorsunuz arkadaşlar? Aslında 2025'te ne görmek istersiniz? Merak ediyorum, geçen yıl ne olmasını bekliyordunuz ve gerçekte ne oldu? Merak ediyorum, daha fazlasını mı bekliyordunuz? Çünkü Man sohbete yazıyor, neredeyse bir yıldır birlikte çalışıyoruz. Doğru kardeşim, çok zaman geçirdik.
+
+00:44:47 - 00:46:11
+Birlikte ve çok iş yaptık. Ve çok daha fazlası da gelecek. Ama biliyorsun, dağıtık sistemin güzelliği bu. Ne kadar çok olursak, iş yükünü o kadar dağıtırız ve işler kolaylaşır. O zaman büyüyebilir ve daha fazla insana ulaşabiliriz. Yani 2025 BlockSense için anlamlı olacak. Evet, gerçek. Çok şaşırtıcı. Eğer biri sesini açmak isterse, yoksa sohbette de olur. Biliyorum, bu görüşmeleri Korsanlarla da yapıyoruz, yavaş yavaş iletişim kurmayı öğreniyoruz. Ama Gugi'nin dediği gibi ve biz bu vizyonu en başından beri destekliyoruz, biliyorsunuz, herkesin kendisinin daha iyi bir versiyonu olmasına ve KOL (kanaat önderi) veya yarı KOL olma yolculuğunuzda sizi desteklemek istiyoruz.
+
+00:45:30 - 00:46:51
+Hatta bizimle çalışırken bir şeyler öğrenmenizi istiyoruz. Yani o kadar çok olasılık var ki. Ben Rael'den çok şey öğrendim ama sanırım o da bizimle çalışırken bir şeyler öğreniyor. Bu alışverişin güzelliği bu. Rekabet etmiyoruz, bunu hep birlikte yapıyoruz. Sohbete bakayım başka yorum var mı? Herkes oldukça heyecanlı görünüyor. Bu korsan yüzlerini de seviyorum.
+
+00:46:10 - 00:47:41
+İlham verici, ilham verici. Ekleyecek çok bir şeyim yok. Eğer sen de uygunsan Gugi, bitirebiliriz diyebiliriz. Ah, Martin de katılıyor. Dayanamadın, lütfen. Selam arkadaşlar, kayınvalidemin evindeyim, o yüzden sadece kısa bir süreliğine sahneye çıkmak istedim. Herkesi burada görmek güzel. Eğer diğer oracle projelerinin tarihine bakarsanız, hey Technic, hey Smith. Eğer diğer birçok projenin tarihine bakarsanız, ekiplerin faaliyete geçmesi çok uzun zaman aldı.
+
+00:46:58 - 00:48:25
+4 milyon dolarlık yatırımı Eylül'de duyurduk, Aralık ayında 18 testnet'te hazırdık ve gelecek yılın başlarında ana ağlara geçmeyi planlıyoruz ki bu gerçekten çılgınca arkadaşlar. Bu ekibin hareket etme hızı gerçekten şaşırtıcı. Ve içerideyken yeterince hızlı hareket etmiyormuşuz gibi hissediyoruz ama Gugi'nin verdiği ekip büyüme rakamlarına bile bakın. Şerefe Stack, hepinizi takdir ediyorum. Sadece gerçeklere bakıyorum, Parade, Hasia, H burada. Yani işler hızlı ilerliyor.
+
+00:47:42 - 00:48:43
+Gidişata bakarsanız, işler bizim hedeflediğimiz şeye benzer bir şey yapan veya aynı alanda faaliyet gösteren hemen hemen herkesten çok daha hızlı ilerliyor. Bu yüzden yaklaşan topluluk görüşmelerinden birinde biraz zaman ayırıp size temel olarak bunun ne kadar büyük olduğunu, neden yaptığımızı anlatmak istiyorum. Zamanla parçaları birleştiriyordunuz. Şimdi öyle bir noktadayız ki,
+
+00:48:12 - 00:49:16
+bu 30 kişilik grupta size bu hediyeyi vermek, büyük vizyonun ne olduğunu ve oracle'ları neden ve nasıl demokratikleştirdiğimizi anlatmak isterim. Bu, sektör için devasa olacak ve siz de bizimle doğru zamanda bu işin içindesiniz. Elçilik programı kesinlikle olacak, daha fazla topluluk çalışması olacak ama nedenini anlamanızı istiyorum, değil mi? Birçok proje topluluktan bahsediyor, birçok proje "perakendeyi pompalamalıyız" diye bakıyor.
+
+00:48:45 - 00:49:51
+Bu bununla ilgili değil. Bu çok daha büyük bir şey. Gugi'nin size anlattıklarını dinlemekten, Risto'yu dinlemekten ve 27 Aralık'ta bu toplantıya katılan topluluğu görmekten dolayı çok heyecanlıyım. Sizi gerçekten takdir ettiğimi söylemek için sahneye çıkmak istedim. Gelecek oturumlardan birinde, size süper üst düzey bir özet sunmak istiyorum ki nedenini anlayasınız. Nedeni o seviyede anladığınızda, sizin için gerçekten yerine oturacak.
+
+00:49:18 - 00:50:30
+Eminim ondan sonra başka bir topluluk görüşmesini kaçırmak istemeyeceksiniz. Çünkü buraya geldiğinizi görüyorum, size bunu da vermek istiyorum. Risto'nun dediklerine göre bir sonraki mi yoksa ondan sonraki topluluk görüşmesi mi olacağına karar vereceğiz ama size bunu anlatmayı ve bunu gelecek yıla taşımayı gerçekten dört gözle bekliyorum. Hepinizi gerçekten takdir ediyorum, süper harikasınız. Teşekkürler Martin ve bu fikri gerçekten beğendim. Biliyorsun, BlockSense'in kapsamını ve neden bu kadar önemli olduğunu, aslında ne yaptığımızı anlamamız benim bile biraz zamanımı aldı.
+
+00:49:54 - 00:51:04
+Sadece bunun harika bir şey olduğuna dair iyi bir hissimiz vardı ama iş hareket edip büyüdükçe ne kadar önemli olduğunu anlamaya başlıyorsun. Ve bence şimdi ana ağlarda dağıtıma başlamaya hazır olduğumuz bu anda, yaptığımız işin neden bu kadar havalı olduğunu ve neden buna bu kadar inandığımızı ve neden bu kadar çok çalıştığımızı iletmek için çok iyi bir an.
+
+00:50:29 - 00:52:00
+Teşekkürler Martin, bize katıldığın ve bu bilgiyi paylaşma fırsatı verdiğin için. Bunu ya böyle bir görüşmeye dahil ederiz ya da belki seninle, hatta başka bir kişiyle bir AMA (Bana Her Şeyi Sor) yapabilirim. Ve evet, bunun hakkında konuşuruz. Bu çok önemli. Çok teşekkürler. Harika arkadaşlar. Gugi, bir şey eklemek ister misin? Hayır, iyiyim, temel olarak teşekkürler. Bize katıldığınız ve yıl boyunca bu işi çözmemize yardım ettiğiniz için gerçekten minnettarız.
+
+00:51:19 - 00:52:29
+Desteğinizi hak ettiğimizi göstermek ve size de karşılığını vermek için elimizden gelenin en iyisini yapacağız. Evet, çünkü dürüst olmak gerekirse, bu şirketle başladığımız ilk şey, mühendisler katılmadan önce, bazı fikirler geliştirilmeden önce, gerçekten topluluğu oluşturmakla başladık. Ve bir noktada ürünleri oluşturmak gibi diğer tüm şeyler devreye girdi ve buna çok daha fazla çaba sarf etmek zorunda kaldık.
+
+00:51:55 - 00:53:14
+Video işleri yapmak gibi ve belki de son altı ayda topluluğu biraz ihmal ettik. Ama bence arkanızda size ihtiyacımız olacak ve bu ürünü blockchain dünyasına dağıtmamıza, en iyi zincirlere, en iyi geliştiricilere girmemize yardım etmenize ihtiyacımız olacak. Ve evet, umarım bizimle kalırsınız. Gelecek yıl çılgınca olacak. Kesinlikle oraya varıyoruz.
+
+00:52:34 - 00:53:55
+Geriye dönüp bir yıllık sıkı çalışmaya baktığımda, Martin'in gelip bu perspektifi sunmasını gerçekten takdir ediyorum. Yılın ortalarında bize katıldı ama büyük bir hızla atıldı. Ve ekibe katılan her kişi, topluluğa katılan her kişi gibi, hızlanmamıza ve iş akışını dağıtarak işleri mümkün kılmamıza yardımcı oluyor. Geriye baktığımda, çok fazla çalışmayla dolu harika bir yıldı. Her yerden, her zaman çalışmayı öğrendim, bu oldukça çılgınca ama bu sonuçları görmeyi seviyorum.
+
+00:53:15 - 00:54:33
+Ve her ekibin inşa ettiğini ve her ekibin teslim ettiğini görüyorum. Ayrıca birlikte çalıştığım tüm insanlara sıkı çalışmaları için teşekkür etmek istiyorum. Hepimiz en iyi şekilde yapmaya ve çözmeye çalışıyoruz. Buna çok fazla çaba ve zaman harcıyoruz ve 2025'in BlockSense yılı olacağına şüphe yok. Bizi desteklediğiniz, bizimle olduğunuz ve evet, bugün katıldığınız için herkese teşekkürler. Yeni yıl için güzel bir kutlama dilerim ve hadi başlayalım. Yani ben şimdiden heyecanlıyım.
+
+00:53:54 - 00:55:00
+25'e girecek şeylerin çok çok büyük şeyler olacağını hissediyorum. Bir yıldır bizimle olan bir topluluğa sahip olmak güzel. Projeye gerçekten inananlar var. Teşekkürler, herkese teşekkürler. Birlikte iyi çalışmaya devam etmeyi dört gözle bekliyorum. Evet arkadaşlar, görüşürüz. Görüşürüz ve harika bir yeni yıl geçirin. Gelecek yıl görüşürüz arkadaşlar. Sunucuda görüşürüz. Hoşça kalın. Bay bay. Evet.
+

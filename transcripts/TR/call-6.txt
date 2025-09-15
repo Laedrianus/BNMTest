@@ -1,0 +1,177 @@
+00:00:01 - 00:01:28
+Herkese merhaba, sizleri görmek ne güzel, vay canına, ne macera ama! Burada bazı ayarlarla boğuşuyordum. Yeni bir kulaklık aldım çünkü geçen sefer teknik ekipteki arkadaş kulaklıklarımın çok güçlü olduğunu söyledi, bu yüzden bir çözüm bulmam gerekiyordu ama sonuçta bunlar daha iyi değil. Ve evet, şimdi devam edebileceğimiz için mutluyum. Bizi destekleyen en iyi dostlarımızı burada görüyorum ama aynı zamanda yeni yüzler de var. Biliyorsunuz, topluluk büyüyor ve yeni yüzlerinizi görmekten mutluluk duyuyorum. Hadi başlayalım.
+
+00:00:44 - 00:02:12
+Gündemle devam edelim. Evet, nedense tamam. Bugün teknik detayları göreceğiz ama herkes bir konferansta ve çok meşgul olduğu için çok detaya girmeden üzerinden geçeceğim. Sonra entegre ettiğimiz yeni zincirlerden ve üzerlerinde dağıttığımız sözleşmelerden bahsedeceğiz. Bundan sonra, uluslararası etkinliklerde ne yaptığımıza, Blocksense'i nerede sunduğumuza, harika projemiz hakkındaki haberleri nasıl yaydığımıza geçeceğiz. Ardından toplulukta şu anda olan tüm güzel şeylere, tüm kampanyalara, neler olup bittiğine bakacağız.
+
+00:01:31 - 00:02:55
+Geçen hafta uyguladığımız şeylerden bahsedeceğiz, üzerinde çalıştık ama hepsi sizin önerilerinize dayanıyor, bu yüzden bu konuda tavsiye vererek katıldığınız için çok mutluyuz. Korsanlar harika ve biz de dinleyip, doğru anı bulduğumuzda olabildiğince çabuk uygulamaya çalışıyoruz. Bence proje şimdi bunun gerçekleşmesi ve bu katılım etkinliklerinin uygulanması için mükemmel bir zaman ve mekanda.
+
+00:02:13 - 00:03:51
+Ve son olarak, katkıda bulunan tüm insanlara teşekkürlerimi sunacağım ve ayrıca yeni roller alan insanları ve şimdiye kadarki etkinliklere ve kampanyalara katıldıkları için zaten rol almış olanları söyleyeceğim. Bu yüzden sonuna kadar kalın, belki sizin adınız da oradadır. Bu görüşme sırasında size şunu söylemek istiyorum, görüşmeye katıldığınız için sizi XP ile ödüllendirmeye başlayacağız, bu yüzden anlık görüntü sırasında puanlarınızı alabilmeniz için dinlediğinizden ve kaldığınızdan emin olun.
+
+00:03:01 - 00:04:17
+Ve evet, bu görüşmenin sonunda her zamanki gibi size soru sorma imkanı vereceğim ve evet, belki de net olmayan herhangi bir şeyin burada bir cevap bulmasını sağlayacağım. Bu, bizim için iletişim kurma ve bu görüşmeler sırasında sorularınızı yanıtlama fırsatı. Her zaman süper heyecanlıyım, bunu açıklayamam, bu, ay içinde geriye dönüp bu ay boyunca ne yaptığımıza baktığımız an. Çünkü her gün küçük şeyler üzerinde çalışıyoruz ama sonunda geriye bakıp "Tamam, bu gerçekten harika" diyoruz.
+
+00:03:40 - 00:04:59
+Yaptığımız şey bu, bu şekilde ilerliyoruz. Ve evet, ekibin üzerinde çalıştığı teknik konulara kısaca değineyim. Bir yanda Noir resmi doğrulama ve hata ayıklama araçlarının piyasaya sürülmesi var. Sanırım teknik ekipten bunun genel olarak geliştiriciler için neden önemli olduğunu ve gelecekte blok zinciri için nasıl önemli olacağını daha fazla duyma fırsatımız olacak, ne zaman uygun bir teknik kişi aramıza katılabilirse.
+
+00:04:19 - 00:05:46
+Ben kendim detaylara çok hakim değilim ama Aztec ile olan bu ilişkimizin ve ekibimizin gerçekten iyi olduğunu biliyorum. Bir kişi, Pinking, bir konferansa katıldı ve son zamanlarda Noir'daki ürünlerimizi de sundu. Ve tüm bu etkinliklerden döndüklerinde, daha fazlasını paylaşma fırsatı olacak. Bu araçlarla, geliştiricilerin gelecekte daha güvenli uygulamalar geliştirebilmeleri için işlerini kolaylaştırmalarına yardımcı oluyoruz. Ve evet, bu, teknik çalışmanın bir parçası.
+
+00:05:05 - 00:06:31
+Diğer yandan, büyüme motivasyonumuz ve hedefimiz doğrultusunda sürekli olarak yeni ağlarda dağıtım yapıyoruz. Ve sadece geçen ay içinde yedi farklı ağda dağıtım yaptık. Aslında altı taneydi ve bunlar, uygulanan sözleşmelerin birinci versiyonuydu. Ve şimdi ekip aslında dağıtım maliyetini iyileştirecek olan ikinci versiyon üzerinde çalışıyor ve bu haftadan itibaren bu yeni versiyonu dağıtmaya başlayacaklar.
+
+00:05:47 - 00:07:39
+Halihazırda dağıtım yaptığımız ağlar ve test ağları şunlar: Gobi Network'te dağıtılan Horizen, Injective testnet'i. Ayrıca Mantle'a da yaklaştık, biliyorsunuz Mantle'cılar giderek daha popüler oluyor, Bitcoin üzerinde inşaat yaparak oraya daha fazla likidite getiriyorlar. Ayrıca opBNB Network, Scroll, Shardeum ve Linea Sepolia'da da dağıtım yaptık. Yani bir ay içinde, odaklanıldığında ne kadar çok şey yapılabileceğini görüyorsunuz. Bu dağıtımlar, iş geliştirme ve diğer ekiplerle yapılan iletişimin bir sonucudur. Bu da demek oluyor ki birçok alanda varız.
+
+00:06:42 - 00:08:20
+Blocksense'in çoklu zincir olma ve zincirden bağımsız olma vizyonunu takip ederek bu hafta Base, Polygon ve Mantle v2 ve Supersede Sepolia'da sözleşmenin yeni versiyonunu dağıtmaya başladık. Daha önce de belirttiğim gibi, bu dağıtımlar, bu versiyon daha iyi ve daha verimli sözleşme dağıtımlarına olanak tanıyor. Bu yeni sözleşmelerde yaklaşık %11 daha iyi bir performansımız var, bu gerçekten kutlanacak bir şey. Ekip, zaten inşa ettiğimiz şeyleri geliştirmenin yollarını buluyor ve ikinci bir versiyonu dağıtmaya başlamak gerçekten harika.
+
+00:07:32 - 00:08:55
+Herkesin korsan bayrağıyla tepki vererek bu desteği göstermesinden, nereye yelken açtığımızı ve neyi başardığımızı görmekten mutluyum. Ve bugün ilk kez yalnızım, ekip beni yüzüstü bırakmadı ama herkes gerçekten dünya çapında meşgul. Hong Kong'dan yeni geldiler, bu arada bir de... ve doğrudan Denver'a gittiler. Aslında iş ekibinin büyük bir kısmı, teknik insanlar da orada, harika insanlarla tanışıyorlar.
+
+00:08:13 - 00:09:38
+Hong Kong'da konuştuğumuz projelerin tam listesini güncelleme fırsatım olmadı ama yeni ağlarda dağıtım için yeni taleplerin akın ettiğini görüyorum ki bu çok olumlu. Ve yakında bir güncelleme alacağız. Hatta belki ay içinde, bir sonraki güncellemeyi beklemeden bu konularda bir iletişim yapabiliriz ama bakalım nasıl gidecek, herkesin programı nasıl, bunun için ne zaman vakit ayırabiliriz. Ve Hong Kong'da gerçekleşen gerçekten büyük bir etkinlik olan Consensus'un yanı sıra, nihayet evimizde bir etkinliğimiz oldu: Sofya Kripto Buluşması.
+
+00:08:55 - 00:10:19
+Birçok kişi katıldı, insanlar konuyla gerçekten ilgileniyorlardı. Geliştiricilerimizden biri, Jordan ya da Yordan, genel olarak kriptoyla ilgilenen insanlara bu farkındalığı kazandırmak ve onların dikkatini projeye çekmek için oracle'ların öneminden bahsetti. Bu etkinlik çoğunlukla uzayda iyi fırsatlar arayan yatırımcılardan oluşuyordu. Yani bir şekilde onların haritasında ve radarındayız. Bir projenin token listelemesini ve işlem görmeye başlamasını bekliyorlar, bu Blocks token'larından edinmeye başlamak için.
+
+00:09:37 - 00:10:59
+Bununla ilgili net bir tarih yok, bunu henüz bildirmedik ama hepsi devam eden geliştirme süreciyle ilgili. Bildiğiniz gibi, ana ağda (mainnet) dağıtıma başlama planlarımız biraz daha zaman alıyor. İyimser olduğumuzu söyleyebilirim, hani Elon Musk gibi iyimseriz. Biliyorsunuz, bu adam kendi kendine giden arabaları vadetti, bu beş yıl geçti ve hala tam kapasiteye ulaşmadı.
+
+00:10:19 - 00:12:32
+Ama biz kesinlikle sözümüze ve vizyonumuza ulaşmakta o kadar yavaş değiliz. Nasıl ilerlediğimiz inanılmaz. Martin, sanırım Aralık ayında, yıl sonunda yaptığımız görüşmelerden birinde, Blocksense'in neden bu kadar hızlı ilerlediğine ve bunu diğer projelere kıyasla nasıl yaptığımıza dair size genel bir bakış sunmak istemişti. Ve bu fırsatı, bunu paylaşmak için kullanacağız çünkü diğer projelere göre kendimizi konumlandırmak, onlarla nasıl rekabet ettiğimizi görmek gerçekten önemli.
+
+00:10:59 - 00:12:32
+Onlarla nasıl karşılaştırıldığımızı ve bir proje olarak var olma nedenimizin ne olduğunu, neden bu kadar motive olduğumuzu ve bu kadar sıkı çalıştığımızı söyleyebilirim. Ve bahsettiğim gibi, Consensus ve ETHDenver'ın yanı sıra, evet, aslında Sofya Kripto'dan sonra ekip şu anda Denver'da, biliyorsunuz oradaki en büyük etkinliklerden biri. Orada olmayan bir şirket yok. Ekibin programı süper yoğun. Bu görüşme için bir saat ayırabilir miyim diye takvimlerini açtım ama kesinlikle imkansız. Sanırım toplantıdan toplantıya, etkinlikten etkinliğe koşturuyorlar.
+
+00:11:46 - 00:12:59
+Bu, daha fazla insana ulaşmamız, insanların proje hakkında duymaya başlaması için bizim için çok önemli. Ve evet, iş geliştirme ekibi ve teknik insanlar bunu yapıyor, işlerini çoğunlukla arka planda sizler için yapıyorlar. Siz bunu görmüyorsunuz. Dokümanlar bölümünde dağıtılan sözleşmeleri görebilirsiniz ve orada bahsettiğim üzerinde çalıştığımız yeni ağların eklendiğini takip edebilirsiniz. Ama dağıtım o kadar hızlı ilerliyor ki, bu ağların ikonlarını bile eklemeye yetişemiyorlar.
+
+00:12:22 - 00:13:43
+Burada yapılan işin ne olduğunu, bunlardan bazılarını paylaşarak size bildirmenin önemli olduğunu hissettim. İnanılmaz, aslında Zahary bize katılıyor. Sana söz hakkı veriyorum, evet harika. Katılabileceğinden emin değildim, gerçekten harika. Aslında, topluluk kısmına devam etmeden önce, Zahary aramıza katıldığı için, ilk kısma, teknik geliştirmelerden bahsettiğim yere geri dönmekten mutluluk duyarım. Belki de sen bizim resmi doğrulama hakkındaki şeylerimizi söyleyebilirsin.
+
+00:13:03 - 00:14:21
+Hata ayıklama araçları. Hey herkese, burada olmak güzel. Sadece önerinin ne olduğunu duyamadım. Bu bir öneri değildi. Katılabileceğinden emin olmadığım için genel bir bakış sunduğumu söylüyordum. Teknik tarafta, Noir resmi doğrulama, hata ayıklama araçları, katılmayı başarırsan paylaşabileceğini söylediğimiz şeyler hakkında genel bir bakış sundum. Ama detaya giremeyeceğimi söyledim, o yüzden bir dahaki sefere bıraktık. Ama beklemeye gerek yok, eğer buradaysan sana söz veriyorum.
+
+00:13:45 - 00:15:17
+Bu ilerlemeleri teknik açıdan paylaşabilirsin. Belki ekranımı paylaşmayı deneyebilirim, bu ilginç olabilir. Süper. Ekranımı görüyor musunuz? Bağlanıyor. Hazır olduğunda haber verir misin? Evet, başlayabiliriz. Tamamdır. Aslında bu hafta birkaç açık kaynak sürümü oldu. Sadece birkaç dakika önce, Blocksense'in tüm akıllı sözleşmelerini, Noir yazılımını ve benzerlerini açık kaynaklı hale getirdik. Yani bunu GitHub'da blog sense, blog sense Network / blog sense adresinde bulabileceksiniz.
+
+00:14:48 - 00:16:09
+Bundan sonra geliştirmeye açık bir şekilde devam edeceğiz. Yani teknik yönleri daha çok merak eden, kodu incelemek isteyen insanlar için artık bu seçeneğiniz var. Christo'nun belirttiği gibi, planımız Noir programlama dilinden yararlanmak ve Blocksense'in piyasadaki en güvenli şekilde uygulanmış protokollerden biri olarak kalmasını sağlamak. Ekibimiz oldukça benzersiz çünkü ekip içinde birkaç derleyici mühendisimiz var.
+
+00:15:28 - 00:16:42
+Bazılarınız benim Noir programlama diline çok sayıda katkı yaptığımı biliyor olabilir. Google'da D programlama dili gibi konularda çalışmış olan Stan Manov'a sahibiz. Kendisi Sofya'daki yerel bir üniversitede, buranın en iyi üniversitelerinden birinde Derleyici Yapımı dersi veriyordu. Bu yüzden, Blocksense ağını oluşturan devreleri resmi olarak doğrulamamıza olanak tanıyacak Noir programlama diline bazı uzantılar geliştirmek için kendi iç derleyici ekibimizden yararlandık.
+
+00:16:07 - 00:17:45
+Noir'ın kendisiyle işbirliği yapıyoruz. Büyük ihtimalle bizim araç zincirimiz gelecekte standart Noir'ın bir parçası olacak. Ancak şu anda bunu GitHub'da blog sense Network / no-over-here adresindeki bir depoda barındırıyoruz. Resmi doğrulamanın yanı sıra, sıfır bilgi ispatlarının bir diğer harika cephesi de, hata ayıklamanın devre geliştirmenin en acı verici yönlerinden biri olduğunu size söyleyebilir. Araçlar, modern bir geliştiricinin diğer alanlarda sahip olduğu standart araçlarla karşılaştırılabilir.
+
+00:16:59 - 00:18:20
+Bu durum bir dereceye kadar, ne kadar iddialı projelerin takip edilebileceğini sınırlıyor. Çünkü bu hata ayıklama araçlarına sahip olmadığınızda, bu resmi doğrulama araçlarına sahip olmadığınızda, devre mantığınıza bir hata eklemek çok daha kolay oluyor ve bu da sonuçta bir güvenlik açığına yol açabiliyor. Noir için geliştirdiğimiz hata ayıklayıcı aslında Metagraph adında başka bir şirketle yapılan bir işbirliği.
+
+00:17:40 - 00:18:58
+Bu, benim Blocksense'ten birkaç yıl önce kurduğum bir şirket ve bu hata ayıklayıcı üzerinde oldukça uzun bir süredir çalışıyor. Bu haftanın diğer önemli duyurusu ise, Noir için geliştirdiğimiz hata ayıklayıcımızın artık açık kaynaklı olması. Adı Code-Tracer ve bunu metacraft labs / Code-Tracer deposunda bulabilirsiniz. Harika bir demosu var. Burada gerçekten geliştirici olan arkadaşlar var mı? Elinizi kaldırın arkadaşlar, burada hiç geliştirici var mı?
+
+00:18:27 - 00:19:57
+Sohbeti göremiyorum ama toplulukta geliştirici rolü alan 500'den fazla insanımız olduğunu biliyorum, bu yüzden onlar için bunu duymak ilginç olacaktır. Pekala, neyi yanlış yaptığımı anlamaya çalışayım. Evet, sanırım sadece yanlış ekranı seçtim. Başka ne yapabiliriz, bahsettiğin depo linklerini paylaşabiliriz. Evet, sanırım en ilginç link, bu hata ayıklayıcının bir video demosunu paylaşacağım ve herkesi bir göz atmaya teşvik ediyorum.
+
+00:19:34 - 00:20:55
+Ekran kaydı üzerinden akışı alacaksınız, bu kaliteyi biraz düşürecektir, bu yüzden bu demoyu kendi bilgisayarınızda izlemek aslında daha iyi. İşte bu kadar. Sanırım bu hafta bir açık kaynak sürümümüz daha var. Yani şimdiye kadar oldukça yoğun bir hafta oldu. Temel olarak, bahsedeceğim üçüncü proje Alpaca Core adlı bir şirket. Bu şirketle çok yakın işbirliği yapıyoruz. Aslında blok zinciri alanı dışında bir ürün geliştiriyor.
+
+00:20:18 - 00:21:48
+Herkesin en son üretken yapay zeka modellerini kullanan uygulamalar geliştirmesini kolaylaştıracak gerçekten çok yönlü bir yapay zeka çıkarım motoru veya çıkarım SDK'sı (yazılım geliştirme kiti) oluşturmaya çalışıyor. Bu, dil modelleri, üretken görüntü modelleri, video modelleri, konuşma modelleri ve benzeri olabilir. Peki, neden Alpaca Core ile bu işbirliğini yapıyoruz diye merak edebilirsiniz. Birkaç çok ilginç olasılık var. Öncelikle, bazı bilgi birikimi ve uygulama kodu katkısında bulunuyoruz.
+
+00:21:03 - 00:22:30
+Bu SDK'daki çıkarımı tamamen deterministik hale getirmek için. Bu, Alpaca Core'a eklenen her yeni modelin, Blocksense'te zincir üzerinde çıkarım hizmetleri sağlamak için hemen kullanılabileceği anlamına gelir. Ve bu demek oluyor ki, Alpaca Core ekibi yeni modeller ekledikçe, bunlar gelecekte Blocksense'ten ürünler için zincir üzerinde doğrudan doğrulanmış yapay zeka çıkarımı olarak mevcut olacak. Alpaca Core ekibinin sunmaya çalıştığı bir diğer şey ise aslında gizliliği koruyan yapay zeka modelleri.
+
+00:21:49 - 00:23:15
+Pratikte bunun anlamı şudur: Kişisel yaşamınızda olup bitenlerden çok iyi haberdar olan kişisel bir asistanınız olduğunu hayal edin. Belki tüm e-postalarınıza, çeşitli hizmetlerdeki sohbet geçmişinize ve benzeri şeylere erişimi var. Ve sizin için bazı yararlı görevler yerine getirebilir. "İki hafta önce belirli bir e-postada tartışılan bir şeyi özetleyerek bir iş arkadaşına e-posta oluştur" gibi şeyler söyleyebilirsiniz. Böyle bir yapay zeka sistemi oldukça güçlü olabilir.
+
+00:22:32 - 00:24:01
+Ama kesinlikle hayatınızdaki her şeyi bir üçüncü taraf şirkete teslim etmek istemezsiniz, değil mi? Dolayısıyla bu gizlilik endişesi var. Ve Alpaca Core ile inşa ettiğimiz şey, Intel, AMD ve Nvidia'dan temin edilebilen en son donanımlardan yararlanarak gizliliğiniz hakkında bazı garantiler sağlayacak bir sistem. Bu donanımlarda, şifrelenmiş bellekle çalışan şifrelenmiş programları çalıştırmasına olanak tanıyan "güvenilir yürütme ortamı" adlı bir işlevsellik bulunuyor.
+
+00:23:16 - 00:24:48
+Sonuç olarak, donanımın sahibi -örneğin bir bulut, bir veri merkezi işleten bir operatör- temel olarak makinelerinde neyin hesaplandığına erişemez. Bu sistemin işleyiş şekli şöyledir: Bu sunucularla iletişim kuran istemci, sunucuların üzerinde oynanmamış orijinal bir yazılım çalıştırdığını ve bu yazılımın şifreli program yürütme modunda yapılandırıldığını, tamamen halka açık ve açık kaynaklı, denetlenmiş olduğunu ve herhangi bir sır sızdırmadığının bilindiğini doğrulayabilmelidir.
+
+00:24:02 - 00:25:26
+Alpaca Core ekibine bu çözümü oluşturmada yardımcı oluyoruz ve merak edebilirsiniz, tamam, bunun amacı ne ve bu tür operatör veri merkezi işletme hizmetlerini kim sağlayacak? Cevap şu: Blocksense ağındaki staker'lar, staker olarak kaydolduklarında ve doğru donanıma sahiplerse, otomatik olarak bu hizmete dahil olacaklar. Bu da onlara ek gelir getirecek.
+
+00:24:44 - 00:26:05
+Blocksense'teki staking faaliyetleri ve oracle raporlama faaliyetlerinin yanı sıra, blok zinciri ekosistemleri dışındaki kullanıcılara, tarif ettiğim şekilde her türlü farklı yapay zeka çıkarım görevlerinde veya son kullanıcılar için veri yönetimi görevlerinde hizmet verebilecekler. Ve bu, onlar için bu ek gelir kaynağını yaratacak. Özetlemek gerekirse, bu, ilk gizliliği koruyan bulut tabanlı yapay zeka çözümlerinden biri olacak ve Blocksense ağı tarafından desteklenecek. Pekala, bu gerçekten harika.
+
+00:25:28 - 00:26:48
+Zahary'nin bize katılmasına ve bir şeyler paylaşmasına çok sevindim. Alpaca Core'un web sitesini belirtmeyi unuttum, yorumlara bırakacağım ama adresi alpacacore.com. Ve sözünü kestiğim için üzgünüm, devam edebilirsin. Hiç sorun değil, hiç sorun değil. Evet, söylediğim şey, bu linkleri mutlaka kontrol edin arkadaşlar ve keşfettiğimiz çok yönlü ve çoklu olasılıkları görün. Bunu Zahary'den duymak süper harika. Bilmeyenler için Zahary bizim CEO'muz ve diyeceğim ki büyük beyin.
+
+00:26:14 - 00:27:31
+Tüm bu teknolojilerin ve uyguladıklarımızın arkasındaki isim. Ben kendim bu projeye, arkadaşlığımızdan dolayı, Zahary'yi uzun yıllardır tanıyor olmam ve ondan bu daveti almam sayesinde katıldım. Ve ilk başta projeyi anlatırken, bütün resmi gözümde canlandırmaya çalışıyordum ve "Vay canına, bu çok büyük" dedim. Tam olarak anlamıyorum ama bir parçası olmak istiyorum. Ve şimdi çok mutluyum, bir yılı aşkın süredir çalışıyoruz ve belirttiğim gibi, tüm bu çalışmanın meyvelerini görmeye başlıyoruz.
+
+00:26:52 - 00:28:14
+Bizi güncellediğin için, sürekli büyüyen topluluğa bu bilgileri verdiğin için teşekkürler Zach. Ve yeni katılan insanların, uzay hakkında gerçekten fütüristik bir vizyona sahip, sağlam bir projeye katıldıklarını bilmeleri çok iyi bir haber. Sadece genel olarak blok zinciriyle sınırlı değil ve tek bir blok zinciriyle de sınırlı değil. Blocksense ve geliştirdiğimiz teknoloji etrafında pek çok olasılık var. Bu kesinlikle harika.
+
+00:27:34 - 00:28:52
+Daha önce bahsettiğim topluluk büyümesi kısmına geçiyorum, buradaki planımı takip ederek. Birçoğunuz topluluğun büyüdüğünü gördünüz. Sadece bu ay 2.000'den fazla kişi bize katıldı ve bu, davet kampanyasını takip ederek arkadaşlarınızı davet etmeye karar vermeniz sayesinde oldu. Ve bu gerçekten iyi. Birçok kişi bunun için ödüllendirildi. Buna geleceğim ama ödüllendirilmeyenleriniz cesaretiniz kırılmasın, sadece liderlik tablosunda tırmanmaya devam edin. Şimdilik devam ediyor, durdurmayı düşünmüyoruz.
+
+00:28:12 - 00:29:32
+Bu kadar iyi gittiği ve burada yeni yüzler gördüğümüz sürece buna devam edeceğiz. Ve bu büyümenin amacı ne? Bu sayılara sahip olmanın yanı sıra genel sohbette yerel kanalların da büyümesinden çok memnunum. Vizyonumuz, yavaş yavaş tüm içeriği çevirmeye ve tüm ülkelerinizdeki insanlara ulaşmaya başlamak. Burada Vietnam'dan, Rusya'dan, Ukrayna'dan ve dünyanın dört bir yanından insanlar görüyorum. Hepinizin nerelerden olduğunu bile bilmiyorum ama bu gerçekten önemli.
+
+00:28:52 - 00:30:10
+Haberleri okumamız ve bu içeriği çevirerek ve arkadaşlarınızla paylaşmaya devam ederek yerelleştirmemize yardımcı olmanız önemli. Birçok insan zaten harika işler yapıyor. Ve yaptığınız bu iş için, tüm aktivitenizin Korsanların tavsiyelerine göre ödüllendirilmesi için, sunucuda ne kadar aktif olduğunuzu ve nasıl katkıda bulunduğunuzu izleyen deneyim ve katılım botunu da uyguladık. Bir içerik paylaştığınızda, bir içerikle etkileşime girdiğinizde... ve az önce biri yanımdan geçti.
+
+00:29:31 - 00:30:45
+Ne kadar duyuluyor emin değilim, belki bir saniyeliğine kendimi sessize alayım. Tamam, geçmiş gibi görünüyor. Hayat, hayat burada canlı diyebilirim, şu an bulunduğum dünyanın bu kısmında. Ve bu aslında, genel olarak blok zincirinin sunabileceği finans inovasyonuna çok ihtiyaç duyan bir dünya parçası. Bu yüzden burada olmaktan ve yerel insanlarla tanışmaktan çok mutluyum. Ve bu, İspanyolca konuşan bölgede, bu bölgede de büyümeye başlama fikrinin bir parçası.
+
+00:30:13 - 00:31:38
+Tüm Latin Amerika bölgesi, bu ülkelerin karşı karşıya olduğu istikrarsızlık nedeniyle blok zinciri alanı için gerçekten önemli. Yani bu evet, bir fırsat, biliyorsunuz para birimi olan her ülke faydalanabilir. Belirttiğim gibi, şimdi sunucuya katılarak, içerik paylaşarak bu XP'leri kazanıyor, bu programın seviyelerini tırmanıyorsunuz. 20. seviyeye kadar ulaşabilirsiniz. Ve eğer memler oluşturmak veya oyunlara katılmak gibi diğer etkinliklere de katılırsanız...
+
+00:30:56 - 00:32:18
+bu rol, yani blok sanatçısı ve blok oyuncusu rolleriyle birleştiğinde, en çok istenen rollerden biri olan Laoshi rolünü alabilirsiniz. Bu, Çince'de öğretmen anlamına gelir. Ve bunu ben buldum çünkü içerik paylaşan herkes bir nevi diğerlerini eğitiyor. Ve bu kadar aktif olduğunuzu kanıtladığınızda bu rolü alıyorsunuz. Şu anda çok az kişide var, sadece 63 kişi. Gerçekten değerli bir rol, elde etmesi zor. Ve davet lideri rolünü 100 kişiyi davet ederek alabilirsiniz. Eğer tırmanmaya devam ederseniz...
+
+00:31:37 - 00:33:02
+hatta Korsan rolüne bile ulaşabilirsiniz. Bu bizim topluluk çekirdek ekibimizdir; onlarla fikirleri tartışır, topluluğun nasıl gittiği hakkında geri bildirim alırız. Ayrıca yerel kanallarda bize yardımcı oluyorlar. Tani gibi son derece önemli insanlar, onu burada görüyorum ama aslında bugün o kadar çok kişi var ki, 50 kişinin bize katıldığını görmek harika, gerçekten harika. Evet, ve Laoshi rolünü almanın diğer yolu, bahsettiğim gibi bu XP'leri kazanmak, seviyeleri tırmanmak, 20. seviyeye ulaşmak ve aynı zamanda Ra'nın düzenlediği oyunlara katıldığınız için bir role sahip olmak.
+
+00:32:19 - 00:33:50
+Yakında tanıtmaya başlayacağımız diğer oyun türleri hakkında da fikirleriniz var, böylece sunucuda birlikte vakit geçirirken daha fazla eğlenebilirsiniz. Ve bu, bu role ulaşmanın diğer yolu, bu rol bizim için ve uzun vadede size getirecekleri açısından gerçekten süper değerli. Yani evet, herkese teşekkür ederim. Ve notlarıma geri dönüp katkıda bulunan tüm insanlar için, şimdiden çok teşekkür etmek istiyorum çünkü yeni gelenlerin projenin ne hakkında olduğunu anlamalarına yardımcı oluyorsunuz.
+
+00:33:05 - 00:34:30
+Ve işiniz gerçekten harika. Bizi Twitter'da destekliyorsunuz, retweet yapıp beğenmeyi unutmayın, bu süper kolay. Ayrıca sahip olduğumuz tüm aktif insanları özel bir listeye ekledik ve ekipten herkes de buna bakıyor. Siz bizi desteklediğinizde, biz de sizi geri destekliyoruz. Bahsettiğimiz gibi, bu sosyal varlığı giderek daha fazla nasıl büyütebileceğimizin fikri bu. İnsanların isimlerini görmek istiyorum, birkaç tane var, böylece söyleyebilirim.
+
+00:33:48 - 00:35:13
+MZ cat, 1.000'den fazla kişiyi davet ettiği için Korsan rolünü aldı, bu kesinlikle inanılmaz. Bu, önceki davet kampanyasındaydı ama bu kişinin çalışması için onu ödüllendirme şansını kaçırmıyoruz. Ve teşekkür ettiğim diğer kişi Jane, çok uzun zamandır bizimle ve kendi topluluğundan 500'den fazla kişiyi davet etmeyi başardı, ki bu arada, birbirimizi tanıdığımız bu süre içinde neredeyse iki katına çıktı. Bu yüzden bunu görmek oldukça harikaydı. Ve daha aktif bir katılımcı olduğu için rol alan diğer insanlar...
+
+00:34:30 - 00:35:58
+sürpriz değil, Smith geçen ay Laoshi rolünü almıştı ve şimdi topluluktaki sürekli çabası ve katkısı için onu bir Korsan olarak aramızda görmekten çok mutluyuz. Ve diğer kişi, iletişimimden bulayım, belki Ra sohbete yazabilir çünkü Dima ile ilgili bir şeydi, senin... Evet. Yani temel olarak bu kişi, ayın en aktif kişisi ve Laoshi rolünü alıyor çünkü XP'nin yanı sıra herkesin aktivitesini izleyen bir botumuz var.
+
+00:35:14 - 00:36:41
+ve bu kişi sunucudaki en aktif ve yardımsever kişi oldu. Bu yüzden haklı olarak bu rolü alıyor. Söyleyebileceğim şey bu kadar. Ve görüyorsunuz arkadaşlar, sadece katkıda bulunarak, devam eden kampanya ile arkadaşlarınızı davet ederek ve ayrıca sunucuda iletişim kurarak, onu daha canlı ve dostane bir yer haline getirerek bu puanları alabilir ve ayrıca bu rollere erişebilirsiniz. Sizinle paylaştığım yollarla... veya aslında adı burada, belgeme yazdım: t_s_d.
+
+00:35:56 - 00:37:11
+Tamam, görüşmeden sonra yeni rolünü alacaksın ve kim olduğunu biliyorsun, diğerleri de seni aldığın yeşil etiketten görecek. Katkın için çok teşekkür ederim. Ve herkesin katkıda bulunması memnuniyetle karşılanır, belirttiğim gibi, özellikle şu anda yerel kanalların gelişimini ve bunun etrafında bir strateji geliştirmeyi görmekten çok memnunum. Şimdilik gördüğüm en verimli yol, her birinizin bir "cevap adamı" olması. Bu, sadece Blocksense hakkında bağırmakla kalmayıp, genel olarak oracle'ların önemi hakkında bir şeyler söyleyerek kişisel markalarınızı büyütmenize de yardımcı oluyor.
+
+00:36:34 - 00:38:02
+Birçoğunuz bunu zaten hesaplarınızda yapıyor ve desteklenmeye değer diğer projeleri destekliyorsunuz ve bu harika. Sadece doğru insanları takip ettiğinizden, onlarla etkileşim kurmaya çalıştığınızdan emin olun. Kripto dünyasında olan biten her şey bu. Ayrıca şimdi airdrop farmı yapan insanlar için, biliyorsunuz birçok insan sırf Twitter'da yaptıkları şey yüzünden, çok zaman harcadıkları için büyük miktarda para kazandı.
+
+00:37:19 - 00:38:34
+İnsanlarla etkileşim kuruyorlar, bir sürü airdrop aldılar ve hatta bizim ekibimizden insanlar bile sadece varlık gösterip projeleri duyurarak ve evet, kendilerini ifade ederek 2.000 dolara kadar kazandılar. Sizi kendinizi özgürce ifade etmeye, özellikle oracle'lar, Blocksense ve gelecek hakkındaki sohbetlere katılmaya davet ediyorum. Ve çok yakında piyasaya süreceğimiz ürünleri görmeye başladığınızda sizin için daha kolay olacak. Zahary'nin bahsettiği şey zaten harika bir haber.
+
+00:37:57 - 00:39:30
+Projenin açık kaynaklı hale getirilmesiyle ilgili bu haberi bugün alacağımızı beklemiyordum. Bu yüzden sizlerin bununla nasıl etkileşime gireceğini ve bundan ne çıkacağını dört gözle bekliyorum. Harika. Hoş geldin Smith. Çalışkan insanları severim, yani biz çalışkan insanlardan oluşan bir ekibiz ve bu alanda hepimiz böyle bağlandık, birbirimizi tanıdık diyelim. Evet arkadaşlar, hepsi bu kadar. Eğer varsa sorularınız için sözü size bırakıyorum. Yoksa, sadece daha önce ele aldıklarımızı söyleyebilirim.
+
+00:38:42 - 00:40:01
+Biliyorsunuz, Zahary'nin bahsettiği teknik ilerlemeler, gelecek haftadan itibaren dağıtılmaya başlanacak ve verimlilikte önemli iyileştirmeler getiren, yani bu sözleşmeleri işletmenin artık daha ucuz olduğu geliştirilmiş sözleşmelerle dağıtım yaptığımız yeni ağlar. Ve ekibin şu an ziyaret ettiği etkinliklerden döndüklerinde onlardan bilgi alacağız. Bu, yaptığımız işle, nasıl bir ilişki kurduğumuzla da görülecektir.
+
+00:39:22 - 00:40:46
+Bu gerçekten önemli. Topluluk girişimleri devam ediyor, davet kampanyası da öyle. Sadece süresi dolmayan kendi davet linkinizi oluşturduğunuzdan emin olun, bunların nasıl yapılacağına dair bir açıklama var. Ayrıca sohbete katılın, puanlarınızı alın ve bu seviyeleri tırmanın. Ve evet, toplulukta ilerleyin. Bugün bu kadar çok insanı görmekten çok mutluyum. Bu benim vizyonum, her seferinde ikiye katlamak ve bu sefer bunu gerçekten başardık. Katıldığınız için hepinize teşekkür ederim.
+
+00:40:05 - 00:41:44
+Sohbeti açıp soru var mı diye bakayım. Evet, burada bir yorum görüyorum, dinlediğiniz için teşekkürler. Evet, harika. Sizlerin de çalışmalarımızı takdir etmenizden ve Blocksense'te yaptığımız işin değerini görmenizden çok mutluyum. Bu kadar destekleyici bir topluluğa sahip olmak harika. Ve yavaş ama emin adımlarla büyüdüğümüz için çok mutluyum. Bir sonraki adımları ve bu yolda ne kadar ileri gideceğimizi dört gözle bekliyorum. Benim tarafımdan tüm güncellemeler bu kadar. Zahary, bir şey belirtmek ister misin?
+
+00:40:55 - 00:42:04
+Belki gelecek ay için küçük bir ipucu verirsin? Fırsat veriyorum. Sanırım zaten oldukça fazla haberden bahsettim ama eminim geçmişte ana ağ (mainnet) sürümümüzün yakın olduğunu belirtmişsindir. Sanırım hepimiz bunu dört gözle bekliyoruz. Ve muhtemelen ana ağ sürümünden kısa bir süre sonra, ekibin takip edeceği bir sonraki yön hakkında bazı duyurular yapacağız. Ve bence bu oldukça heyecan verici olacak. Evet, kesinlikle. Katıldığın için de çok teşekkürler Zahary.
+
+00:41:36 - 00:42:46
+Ve herkese görüşmeye katıldığı için teşekkür ederim. Bugünkü görüşme ay kadar kısa ama ayın kısa olması daha az şey yapmamız gerektiği anlamına gelmiyor. Ve teslim edilenlerin, üzerinde çalıştıklarımızın gerçekten sağlam olduğunu görüyoruz. Yıla bu kadar güçlü başladığımız için çok mutluyum. Ve hepinizle sunucuda sohbeti sürdürmeyi dört gözle bekliyorum. Paylaşılan linkleri kontrol ettiğinizden emin olun, bu linkleri sunucuda da paylaşacağız ki kaybolmasınlar.
+
+00:42:12 - 00:43:43
+Buna dayanarak sohbete devam edebiliriz. Çünkü birinin "Nasıl rol alırım?" diye sorduğunu görüyorum ve tamam, cevaplanmış. Burada olan, görüşmeye katılanlarınız için bir anlık görüntü alınıyor ve katılan herkes sohbetin bir parçası olduğu için bu XP'yi alacak. Katıldığınız için bir kez daha teşekkür ederim. Hepinize çok iyi bir öğleden sonra, akşam ve hafta sonu diliyorum. Ve harika işbirliğimizi birlikte sürdürmeyi dört gözle bekliyorum. Teşekkürler Zach, teşekkürler herkese. Görüşmek üzere.
+

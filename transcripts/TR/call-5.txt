@@ -1,0 +1,231 @@
+00:00:01 - 00:00:31
+Bugün pazarlama tarafından Stella'nın bize katılması beni çok mutlu etti. Jacq, eski bir Polygon topluluk uzmanı. Daha iyi, daha güzel bir topluluk inşa etmemize yardımcı oluyor, yani bize bunu daha iyi bir şekilde nasıl yapacağımız konusunda fikirler veriyor. Fikirlerini ve topluluğun gerçekten ne olduğuna dair vizyonunu, kendi bakış açısına göre paylaşmak için gelmesinden çok mutluyum. Stella fikirlerini, aslında fikirleri değil, yaptığımız işi ve marka ve yeniden markalaşma ile nasıl ilerlediğimizi, nihayet kim olduğumuzu söylemek için paylaşıyor. Saklanmayı bırakalım. Adını "Korsan Gemisi" koyalım. Başlıyor. Ve evet, planladığımızı söylediğimiz şeyleri görmek için aktivitelerimiz de var, ancak bunu en iyi şekilde yapmak istiyoruz. Yani acele etmenin bir anlamı yok.
+
+00:00:34 - 00:01:02
+Ama yaptığımız iş ve marka ile yeniden markalaşma konusunda kaydettiğimiz ilerleme, nihayet kim olduğumuzu söylüyor. Ve çok yakında geliyorlar. Genel bakış aşağı yukarı bu şekilde, ama adım adım gidelim. Demek istediğim, korsan çağrılarında istenen ve hepinizin aktivitelerine dayanan şeylerden biri, yerel kanallara daha fazla özgürlük vermekti ve biz bunu dinledik. Artık yerel kanallar, bunu yapma arzusunu açıkça ifade eden kişilerle etkinlikler düzenlemeye başlayabilir.
+
+00:01:07 - 00:01:36
+Ve bazı oyun geceleri, bazı AMA'lar, ne isterseniz onu düzenlediğinizi görmekten mutluluk duyarım. Korsan çağrısı sırasında bundan bahsettik ve bu topluluklar için ne gibi güzel şeyler yaratacağınızı ve onların büyümesine, daha fazla eğlenmesine olanak tanıyacağınızı görmeyi dört gözle bekliyorum. Aktif Rus, Ukrayna ve ayrıca Vietnam topluluklarımız var. Rahil bu konuda Discord'u temizleme, düzenleme konusunda iyi bir iş çıkardı, bazı aktif olmayan kanalları kaldırdı, ancak yeni katılanlara kanal tercihlerini seçme ve 100 kişi bir kanal oluşturulmasını istediğinde bunu yapma fırsatı veriyoruz. Yani, kanalınızı göremediğiniz bir ülkedeyseniz, sadece oraya gidin, bayrağınıza tıklayın ve 100 kişiye ulaştığımız anda, eğer sabırsızsanız, sadece arkadaşlarınızı davet edin.
+
+00:02:15 - 00:02:44
+Bu süreci hızlandıracaktır. Ah, evet. Yani takılabileceğimiz daha hoş ve düzenli bir Discord mekanı yaratmaya çalışıyoruz. Ve buna yardımcı olan şeylerden biri de sunucuda eğlenmenizi istememiz ve aslında Gogo'dan gelen yeni bir fikir var. Bu, bir ticaret kanalı ve fikir paylaşımı hakkında. Yani bu kitle bilgeliği. Bunu gerçekten kullanmalıyız.
+
+00:03:17 - 00:03:46
+Etrafta takılan bazı insanlar görüyorum. Zaten harika tavsiyeler veriyorlar. Sanırım kendimi de eğitmeye başlamalıyım. Grafiklerinizi görüyorum. Ben de grafikleri seviyorum, ama çok basit grafikleri seviyorum. 10 yılı aşkın bir süredir işlem yapmaya çalışmanın bana öğrettiği bu. Basit olan en iyisidir. Yani, durum bu. Ve bunun dışında neyimiz var? Geliştirilen bu yerel kanalların, terfi ettirilen insanların, size daha fazla hak verilmesinin ve ticaret kanalının yanı sıra. Bakalım. Evet, sanırım aşağı yukarı bu kadar. Ama geri bildirimleri de dikkate aldık. Ve kanal üzerindeki aktiviteyi artıracak ve aynı zamanda ödüllendirecek bir şey üzerinde çalışıyoruz, adı... ah, bir mesaj okudum ve dikkatim dağıldı.
+
+00:04:27 - 00:04:55
+Discord'um sürekli mesaj alıyor. Yani sanırım ne olduğunu biliyorsunuzdur. Evet, notlarıma geri döneyim. TAMAM. Sonra gördüğüm şey emoji yarışması. Şimdi bitiyor olmalı. Yani onu değerlendireceğiz. Puanlardan bahsediyordum, arkadaşlar. İşte olay bu. Sunucudaki aktivite için insanları ödüllendirecek olan puanlar.
+
+00:05:03 - 00:05:30
+Ve bunun üzerinde çalışıyoruz ve Rahil söyleyecek. Er ya da geç, umarım daha erken, bunu uygulayacağız. Ek olarak, önümüzdeki haftalar için, bu yeni ayın başlangıcı için planlanmış etkinliklerimiz var. Bunlar aynı zamanda topluluğu büyütmemize de yardımcı olacak. Ve bunlardan biri de davet merdiveni (invite ladder). Bazılarınız hatırlayabilir, ilk edisyonu çok başarılı olmuştu. Ve birçok insan arkadaşlarıyla katıldı. Bazıları merdiveni tırmanmayı başaramadı, ama endişelenmeyin. Şimdi devam edebilirsiniz.
+
+00:05:33 - 00:06:02
+Yani bu çaba kaldığı yerden devam edecek. Yani rolü almak için iki kişi daha davet etmeniz gerekiyorsa, hedefe çok yakınsınız demektir. Bu yüzden sadece gidip yapmalısınız. Ve diğerleri için de, tanıtacağımız daha düşük rollerden bazılarını alma şansları olacak.
+
+00:06:04 - 00:06:32
+Son kampanya sırasında bunlardan bahsetmiştik, ama onları tanıtmadık. Şimdi katılan herkes aslında rolünü alacak. Ve beklediğimize seviniyorum çünkü bu roller daha çok sahip olduğumuz yeniden markalaşma yönünde olacak. Kendimize korsan diyoruz. Yani bu yönde gidiyoruz ve yeni roller, korsan dünyasından gelen roller diyebilirim.
+
+00:06:34 - 00:07:02
+Ve başka neyimiz var? Evet, bunlardan zaten bahsettim. Yeniden markalaşmadan da bahsettim. O yüzden Stella'yı davet edeceğim. Daha fazla kişi konuşurken çok daha eğlenceli oluyor, yeniden markalaşma hakkında biraz daha fazla şey paylaşması için. Fikir ne? Ne yaptık ve şimdi ne görmek istiyoruz, Stella, lütfen.
+
+00:07:07 - 00:07:27
+Peki, yeniden markalaşmanın arkasındaki fikir ne? Çok temel bir fikir. Blocksense başladığında, neyi başarmak istediğimize ve ürünle ve yapmak istediğimiz markayla nereye gitmek istediğimize dair bir fikrimiz vardı. Ve sonra bir sürü şey oldu. Harika insanlarla tanıştık. Bir a16z kohortunun bir parçası olmayı başardık. Ve bir sürü değişiklikten geçtik. Bir sürü tavsiye aldık ve bu açıkçası yansıyor.
+
+00:07:28 - 00:07:52
+Yani şimdi yapmak istediğimiz, kimliğimizi korsanlarda bulduk. Bu konuda çok güçlü hissediyoruz. Yani Arrr! doğru, diyebilirim. Ve bu yüzden, markanın şu anki görünümüne bunu yansıtmak istiyoruz. Bu ne anlama gelir? Yeni logolar, yeni renkler, yeni emojiler, yeni çıkartmalar, yeni görseller, çok çok yakında göreceğiniz her şey anlamına gelir. Ve bu emoji yarışması size bir fikir verdi. Ve Noel kartı yarışmamızın da size ne beklemeniz gerektiği ve markayla nereye gittiğimiz konusunda bir fikir verdiğini düşünüyorum. Renkler ve ortaya çıkardığımız diğer şeyler açısından hala göreceğiniz birkaç sürpriz olduğunu düşünüyorum.
+
+00:07:53 - 00:08:15
+Ama çok yakında bizimle olmalı. Ve alacağımız tüm geri bildirimleri duymak için sabırsızlanıyorum, ki bunun çok olumlu olacağını umuyorum. Ve yeni markayı, yeni logoyu ve onunla birlikte gelen her şeyi, şimdiye kadar markayla yaptığınız gibi kalpten kucaklayacaksınız.
+
+00:08:16 - 00:08:40
+Yani, bunu ilk başta yapmamızın nedeni, yine, şu anda sahip olduğumuz şeyin harika olması. Ve açıkçası bizim için işe yarıyor.
+
+00:08:42 - 00:09:08
+Daha alakalı olmak, topluluğa daha da yakın olmak, daha büyük ve daha iyi bir topluluk oluşturmak için yeni bir markaya çok ihtiyaç var.
+
+00:09:12 - 00:09:42
+Ayrıca, genel olarak korsanlar hakkındaki fikir, korsanlar, yani, bu alanda bazı olumsuz çağrışımları var, ama dünyamıza bazı gerçekten olumlu şeyler getirmelerini seviyorum. Bilmiyorum biliyor musunuz arkadaşlar, ama korsanlar emeklilik ve emekli aylığı fikrini tanıttılar. Ayrıca, bir nevi eşitlikçiler. İnsanları önemsiyorlar. Onlara katıldığınızda, bir korsan olurdunuz. Yani katılmak isteyen herkes korsan olur.
+
+00:09:45 - 00:10:17
+Ve bu bizim vizyonumuz da. Hepimiz sonunda korsan olacağız. Ve web'de, korsanlık ve hackleme de olumsuz bir şey gibi görülüyor, ama aslında bir şeylerin çalışmasını sağlamanın yollarını bulmaya izin veriyor, bazen daha ucuza, bazen bedavaya. Ama esasen, statükoyu kırmak, değil mi? Bu adamlar, farklı vizyonları vardı ve özgür ruhlar, etrafta oturuyorlar ve hatta insanları yaptıkları şeylerden özgürleştiriyorlar. Birbirlerine çok saygıları ve büyük destekleri var. Buna yardımcı olan bir hiyerarşi var ve biz de bunu sunucumuzda inşa ediyoruz ve sonunda uygulandığını görmekten mutluyum.
+
+00:10:19 - 00:10:49
+Ve şimdi içerik yazan herkesin bununla özdeşleşmesi çok daha kolay. Yakında maskotumuz çıkacak, belki Stella bu konuda biraz daha bir şeyler paylaşabilir. Bütün sırlarımı ve çok sıkı bir şekilde gizli tuttuğum her şeyi açığa vuruyorsun. Ama evet, bir maskot olacak. Bir sürü şey olacak.
+
+00:10:52 - 00:11:19
+Hepsini açıklamak istemiyorum çünkü sürpriz olmalarını istiyorum. Ama maskot korsanlıkla ilgili olacak çünkü bu aşamada, onu gören tek kişi benim. Bence oldukça havalı. Yani, eğer bir maskot tasarlayacak olsaydım, o maskotu yapardım. Bakalım halka açıldığında siz ne düşüneceksiniz.
+
+00:11:21 - 00:11:55
+Ve bu bütün yaklaşım, bu maskot, bahsettiğim gibi bu içeriği dağıtmamıza yardımcı olacak, ama aynı zamanda hepimizin yolculuğun bir parçası olduğumuzu hissetmemize de. Ve Jacq burada bizimle ve topluluğun önemini biliyor. Onu, deneyimlerinden biraz daha fazlasını paylaşmaya davet ediyorum. Hey millet, beni ağırladığınız için teşekkürler. Birkaç aydır sessizce izliyordum, ama bu sahnede ilk kez konuşuyorum. Hristo'nun da belirttiği gibi, Polygon'dan geliyorum ve Polygon'da topluluk direktörüydüm, ki bu özellikle kripto alanında gerçekten harika bir deneyimdi. Biliyorsunuz, bu büyüklükteki toplulukları çok sık yönetme fırsatı bulamazsınız.
+
+00:12:21 - 00:12:48
+Ve ondan önce oyun topluluklarında çalıştım ve oyun toplulukları oluşturmaya yardım ettim. Ve ayrıca, 30 kişiden başlayıp her ay parkta ücretsiz bir konser için buluşan yaklaşık 500 kişiye çıkardığım bir IRL (gerçek yaşam) topluluğum var. Bu yüzden bu gerçekten eğlenceli ve topluluk oluşturma geçmişim hakkında biraz daha bilgi.
+
+00:12:48 - 00:13:16
+Ama Blocksense'e yardım etmeye geldiğimde ilk sorduğum şeylerden biri, "bir maskot düşündünüz mü?" olmuştu, bu konuda çok heyecanlıyım. Ve şimdi bu maskottan bahsediyor olmamız komik çünkü o burada çünkü ben zaten düşünmüştüm. Ama hala üzerinde çalışılıyordu, hala kendi işini yapıyordu, ama bu topluluğun hikayesini gerçekten seviyorum. Korsan olma hikayesini gerçekten seviyorum çünkü, biliyorsunuz, herkes neden böyle olduğunu biliyor mu bilmiyorum, ama elbette Link denizcileri (Link marines) var ve onlar çok, bence statükoyu temsil ediyorlar çünkü oradaki ana oracle bu ve biraz daha yerleşik oyuncu gibiler. Bu yüzden Korsanları seviyorum çünkü bu sadece, bahsettiğiniz gibi, çok eşitlikçi olmakla kalmıyor ve katılan herkes eşit ve emeklilik maaşları var ve eğer, eğer bacağınızı kaybederseniz, bunun için para ödüyorlar, bunun için ekstra altın alıyorsunuz.
+
+00:13:42 - 00:14:11
+Bunun gibi şeyler, korsan topluluğunun gerçekten kendilerine bakma ve kendi kurallarına göre yaşama fikrini gerçekten seviyorum. Bu yüzden Blocksense ile bu şekilde hissediyorum, burada bu tek vizyon için yaşıyorsunuz veya bir araya geliyorsunuz ve ne pahasına olursa olsun daha fazla insanı içeri çekip onları heyecanlandırıyor ve ilerliyorsunuz.
+
+00:14:12 - 00:14:41
+Ve bu yüzden, yeniden markalaşma ortaya çıktıkça ve ana ağa (mainnet) ve tüm bu şeylere biraz daha yaklaştıkça, bunun geleceğini görmekten gerçekten heyecanlıyım. Bunun gerçekleşmeye başlaması, ivme kazanması için gerçekten heyecanlıyım ve bu ivmeyi alıp ileriye doğru yelken açmaya devam etmek tüm korsanlara bağlı.
+
+00:14:41 - 00:15:15
+Bu yüzden bunun ilerlemesini görmekten gerçekten heyecanlıyım ve tüm topluluğun keyif alacağı bu programların bazılarının oluşturulmaya başlaması ve biraz daha fazla katılım olması için gerçekten heyecanlıyım. Beni ağırladığınız için çok teşekkür ederim ve muhtemelen bundan sonra beni etrafta gizlenirken göreceksiniz.
+
+00:15:16 - 00:15:47
+Harika. Teşekkürler, Jacq. Gerçekten de bu marka ve maskot ve korsanlar etrafında dönen her şey, Blocksense'i özünde en iyi şekilde temsil eden şey, çünkü bu teknolojiyi izinsiz (permissionless) yapmak istiyoruz. Bu, herkesin nihayet aklındakileri ve daha önce mümkün olmayan fikirleri, sadece birinin size izin vermesi gerektiği için, bu mevcut ağır sistem gibi, ve bunun olması için yalvarmanız gerektiği için yapabileceği anlamına geliyor. Ve teknoloji bununla ilgili değil ve izinsiz teknolojiler, merkeziyetsiz teknolojiler inşa etmek tamamen insanları güçlendirmekle ilgili. Bu yüzden bunun nasıl gittiğinden ve ürünün gelişimini desteklemekten gerçekten mutluyum.
+
+00:15:47 - 00:16:22
+Yaptığımız şey, sizden inşa ettiğimiz şeyler hakkındaki haberleri paylaşmanızı istemek, ama aynı zamanda sadece oturup bir mucizenin gerçekleşmesini beklemiyoruz. Ekibimiz, bildiğiniz gibi, dünyanın dört bir yanındaki her türlü etkinlik ve konferansa son derece dahil. Önümüzdeki ay için, zaten çok yoğun bir ay. Dört etkinlik geliyor ve EthOxford ile başlayacağız.
+
+00:16:23 - 00:17:00
+Oradaki insanlarla çok iyi bağlantılar kuruyoruz çünkü zaten etraflarındaki bazı etkinliklere katıldık ve ekibimizden insanlar orada olacak. Onlar burada bizimle değiller, ama bir dahaki sefere konuştuğumuzda, orada ne olduğu ve ne tür insanlarla tanıştıkları hakkında bize detaylar verecekler. Yani EthOxford başladığımız etkinliklerden sadece biri ve sonra ekip, BD ekibi Consensus'a gidiyor. Çoğunuz biliyorsunuz, gerçekten devasa bir etkinlik. Ve ayrıca bir... Listeme doğru olmayan bir şey yazdım. Nereden geldiğini bilmiyorum. Ayrıca ETHDenver'a da gidiyoruz, belki bir etkinliği kaçırıyorumdur. Gogo bizimle.
+
+00:17:00 - 00:17:32
+Gogo, sen bütün etkinliklere giden kişi olduğun için, bir şey mi kaçırıyorum? Ana şeyler Consensus, daha sonra Denver, Token etkinliklerinden bazıları ve Singapur'daki. Evet. Evet. TAMAM, bunu kaçırmışım. Sanırım listemden buraya yanlış bir şey kopyalayıp yapıştırdım, ama temelde, evet... Aslında iki etkinliği kaçırıyorsun, EthOxford'da bir panelin parçası olacağız, bu gerçekten harika olacak.
+
+00:17:37 - 00:18:09
+Ve sonra Bulgaristan'da bize adanmış kendi buluşmamız olacak. Ve Blocksense'in kurucuları orada olacak ve bundan sonra olacak her şeyi ele alacaklar. Yol haritası ve planlar hakkında konuşacaklar. Bu yüzden gerçekten çok havalı olacak. 26 Şubat'ta olacak.
+
+00:18:32 - 00:19:04
+Yani şu anda bir sürü etkinlik oluyor. Ana olanların dışında her yerde olacağız. Hong Kong'dan Denver'a, Sofya'ya kadar, bu doğru. Elbette, Sofya kripto'nun dünya başkenti, orada gerçekten yetenekli ekipler var. Ve aslında, biliyorum, kafam karıştı çünkü Sofya Kripto Buluşması yazdım. Ve bu sanırım genel olarak bu alandaki en eski buluşmalardan biri. Organizatörü kişisel olarak tanıyorum ve onlar aynı zamanda ETHSofia'nın da organizatörleriydi.
+
+00:19:05 - 00:19:32
+Ve bakarken, listeme bakıyordum ve Sofya Kripto, EthSofia ile Sofya Kripto'yu karıştırdım. Ama Stella'ya buradaki insanlar için bunu açıkladığı için teşekkürler. Ve elbette, sizler bunların EthDenver, Consensus ve Georgi'nin de belirttiği gibi Singapur'daki Token gibi çok büyük etkinlikler olduğunu biliyorsunuz.
+
+00:19:34 - 00:20:05
+Uluslararası (Devcon), ama bu yıl olmayacak. İki yılda bir oluyor, bu yüzden yıla çok güçlü başlıyoruz, ayrıca gelecek ay ilk ürünümüz geliyor. Yani tüm bu çalışmalar nihayet ortaya çıkacak, harika ortaklarla tanışılacak, yeni ilişkiler kurulacak.
+
+00:20:05 - 00:20:31
+Ve Georgi'ye sorabilirim, BD ile ilgili güncellemeleri var mı ve başka ne gibi şeyler yapıyoruz. Bu aşamada paylaşabileceğimiz bir şey varsa. Birçok ortaklıktan bahsettik, ama hala çalışıyoruz. Henüz sonuçlanmadılar. Topluluktan bazı insanlar da doğrudan projelere ulaşarak harika bir iş çıkardılar. Birlikte yapabileceğimiz etkinlikler önermek için. Bunun için çok teşekkürler.
+
+00:20:31 - 00:21:05
+Ama evet, bunu resmi yoldan yapalım, adımları takip edelim. Bu ortaklıkları duyuralım ve o ekiplere gidelim. Bu daha heyecan verici olabilir. Aslında, sonunda işler ciddiye biniyor.
+
+00:21:07 - 00:21:43
+Ve bir sürü yeni test ağında (testnet) konuşlandık. Ve World, Injective, Status, Lumia gibi zincirler için bir nevi ana ağda (mainnet) konuşlanmaya doğru çalışıyoruz. Temel olarak, ortaya çıkan tüm mevcut zincirleri, ortaya çıkan tüm EVM zincirlerini ele aldık ve onlara ulaştık. Ve dürüst olmak gerekirse, evet, sanırım kaçırdığımız birkaç tane olabilir, ama sanırım %90'ını falan kapsadık. Ve evet, bunların çoğunun, çoğu test ağında konuşlandık.
+
+00:21:44 - 00:22:22
+Uygulama geliştiricileri, Base üzerinde özellikle birkaç gerçekten ilginç uygulama geliştiricimiz var, örneğin yapay zeka ajanları için bir tahmin piyasası / tahmin piyasası ve bir borç verme protokolü gibi, burada depeg'e (sabitliğin bozulmasına) duyarlı bir borç verme piyasası inşa ediyoruz, böylece birkaç hafta önce Morpho'nun başına gelen senaryo yaşanmaz. Orada piyasa temelde kötü bir oracle yapılandırması yüzünden boşaltılmıştı.
+
+00:22:23 - 00:22:54
+Yani evet, umarım bunu önümüzdeki birkaç hafta içinde, önümüzdeki iki, üç hafta içinde çıkaracağız. Ve etrafında bir sürü pazarlama yapmaya başlayacağız, umarım, ve bu Base için büyük bir kazanç olacak. Ve sonra Base üzerinde bizim için. Yani uygulamalar açısından en ilginç olan bu.
+
+00:22:55 - 00:23:37
+Ve sonra işin bu araç (tooling) tarafı var, burada temelde Noir'in bir fork'una sahibiz. Bu, Aztec'in ZK dilidir. Noir üzerinde iyileştirmeler yapıyoruz ve eklediğimiz özelliklerden biri, derleme hedefleri için farklı bir arka uç (backend), Plonky yerine Plonky2'yi de ekledik ve diğer kanıt sistemlerini de aldık. Her neyse, mesele şu ki, şu anda bunu kullanmaya çalışan bir ürün ekibi var. Bizim fork'umuzu. Bu harika. Ve bazı ek araç şeyler geliştirmek için para alabileceğimiz birkaç potansiyel anlaşma üzerinde çalışıyoruz, ama genel olarak bunu zorlayacağız, yaptığımız bu tür "büyük beyin" işlerini zorlamaya başlayacağız. Mesela, şu anda mühendislik ekibi, yaptığımız bu zk ve programlama dilleriyle ilgili şeyler hakkında yazılı bir parça, bir video demo ve bir tür eğitim serisi yazıyor, bu yüzden bunu da önümüzdeki birkaç hafta içinde yayınlayacağız, bu harika olacak.
+
+00:24:03 - 00:24:35
+Evet, yani BD tarafı bu şekilde. Aslında, umarım tüm bu yarışmalardan keyif alıyorsunuzdur. Sanırım özellikle bu tür Joker Race yarışmalarıyla bazı ücretler biriktirmeyi başardık ve aslında iyi bir miktar, bu yüzden bu bütçeyi etkinlikler için ve yerel etkinlikler için veya sadece diğer topluluk tarafı topluluk tabanlı şeyler için kullanacağız, bu yüzden aslında gördüğüm şey, eğer 10-11 tane falan yapmayı başarırsak bir sürü Joker Race yarışması yapabileceğimiz ya da ücretleri ödül olarak geri kullanabileceğimiz ya da sadece topluluk için bir bütçe olarak kullanabileceğimiz. Yani her neyse.
+
+00:25:13 - 00:25:45
+Bunu düşüneceğiz. Ve sonra ya ücretleri ödül olarak geri vereceğiz ya da sadece bütçeyi topluluk için kullanacağız, evet neyse.
+
+00:25:45 - 00:26:21
+Ve sonra bahsetmek istediğim son şey, temelde tüm ekiple, tüm ekiple öne çıkmak istiyoruz. Tüm ekibi her zaman sergilemek istiyoruz. Martin'i tanıyorsunuz, değil mi? O bir nevi...
+
+00:26:21 - 00:26:58
+Bir Twitter fenomeni haline geliyor, Magnus bir sürü konferansa gidiyor ve panellerde gerçekten akıllı insanlarla konuşuyor. Ve tabii ki kurucular, ben ve Zahary ve şimdi yakında Stella'yı ve baş yazarımızı da daha fazla göstermeye başlayacağız. Demek istediğim, sizden gerçekten ekiple etkileşime geçmenizi istiyorum. Twitter'da ekip listemiz var, alıntı yapın, yorum yapın, retweetleyin, beğenin, sadece algoritmaya yardım edin ve bizi yükseltin çünkü, evet, bu çok yardımcı olacak ve eğer biz KOL (kanaat önderi) olursak, bu açıkçası yardımcı olacaktır, size defalarca söylediğim gibi.
+
+00:26:58 - 00:27:39
+Eğer KOL olursanız müthiş bir yardım olur çünkü evet, yani biz bir topluluğuz. Açıkçası, örneğin Rahil var, onun kaito yapper gibi şeyler etrafında bazı ilginç taktikleri var. Ve Martin'in de bazı ilginç taktikleri var. Sizi bu konuda eğitebiliriz. Gerçekten, bizden her şeyi isteyebilirsiniz. Yardımcı olabiliriz. Akıllı insanlarla, yatırımcılarla veya her neyse, diğer KOL'lerle olan bağlantılarımızı kullanabiliriz ve size yardımcı olabiliriz.
+
+00:27:39 - 00:28:17
+Ve sonra sizi geri tanıtacağız. Yani, evet, bu yüzden bir topluluğuz. Evet, bu gerçekten önemli bir şey ve biz bunu başlattık, zaten bir girişim var. Georgi'nin bahsettiği gibi bu içeriği destekleyebileceğiniz ekip listesi var ve ayrıca buradaki mürettebatın tüm üyelerinin bir listesi var.
+
+00:28:18 - 00:28:46
+Katkıda bulunan tüm insanlar ve onlar Oracle Korsanları'nda. Bu özel adanmış hesabımız var.
+
+00:28:48 - 00:29:14
+Şimdi biraz kafam karıştı çünkü korsan çağrılarında bu şeylerden bahsediyoruz ama hepiniz burada değilsiniz. O yüzden belki de kendimi tekrar ediyormuşum gibi hissediyorum ama bazı insanlar bu bilgiyi bilmiyor. Ve bu, topluluktan gelen insanların önerilerinden geliyor. Korsan olarak o çağrılara da katılmaktan çekinmeyin. Biliyorsunuz ne anlama geldiğini, en aktif insanlar, en büyük katkıda bulunanlar ve örneğin bu ay. Smith'i bizimle görüyorum. Çok fazla içerik yaratıyor ve onun korsan rolünü aldığını bildirmek istiyorum.
+
+00:29:14 - 00:29:46
+Daha fazla insanın katılması için yer var. Yani o rolü alanların örneğini takip edin.
+
+00:29:46 - 00:30:14
+En son haberleri alıyorsunuz. Birlikte bir şeyler tartışıyoruz. Ayda iki kez çağrılarımız değil, şimdi sohbetlerimiz var çünkü çoğunuz için daha uygun. Bu en iyi nasıl çalışırsa o şekilde halledilecek ve sonra işin aslını öğrenip havanın bir parçası oluyorsunuz ama aktif olmak, hesapları takip etmek ve birbirini desteklemek, Georgi'nin de belirttiği gibi, her birimize yardımcı olacak şeydir.
+
+00:30:14 - 00:30:46
+Hayır, iki akıllı telefonum var. Hesabımı yeni aktive ettim, yıllardır uyuyordu. Kullanmıyorum. Ama şimdi diyorum ki, tamam, bu harika bir fırsat çünkü bu aynı zamanda kişisel markalar oluşturma zamanı.
+
+00:30:46 - 00:31:23
+Bu yüzden dışarı çıkmaktan, içerik paylaşmaktan, sevdiğiniz şeyleri paylaşmaktan ve bizi desteklediğinizden emin olmaktan korkmayın, böylece etrafınızdaki insanlar ve tüm topluluk desteklenir.
+
+00:31:23 - 00:31:58
+O halde topluluğun gücünden yararlanalım ve bu çok kolay. Sadece o listeleri takip edin, mesajları gözden geçirin, o insanlarla etkileşime girin. Algoritmayı bizim için bu şekilde çalıştırabiliriz.
+
+00:31:58 - 00:32:25
+Biz korsanlarız ve bunu hatırlamakta fayda var. Her şey yolunda.
+
+00:32:25 - 00:33:02
+Ve yapmamız gereken son bir şey var, onlara mümkün olan en iyisini vermek. Ayın rolü, ayda bir tanedir.
+
+00:33:02 - 00:33:32
+Sizin sorularınız var mı? Duyuyorum, duyuyorum, sohbeti görüyorum. Dolu, ama sorular varsa şimdi cevaplayabiliriz. Bu harika bir zaman olur. Biraz zaman vereceğim ve ayrıca bazılarınız sahneye çıkıp bir şeyler söylemek isterseniz. Bu da iyi bir fırsat. Aksi takdirde sohbete katılabilirsiniz. Bu adamı görüyorum, Temnik_cook. O harika. Ona şimdi verebileceğim bir rol yok. Temnik_cook için özel bir rol yapmam gerekiyor. Cidden, her yerde, sürekli gerçekten güzel içerikler paylaşıyor. Kalitesini artırıyor. Teşekkürler kardeşim. Son yorumu o yaptı, çok kolay, ama gözünüze çarpıyor. Emoji yarışmasını değerlendirmeyi ve sizin emojileri kullanmaya başladığınızı görmeyi de gerçekten sabırsızlıkla bekliyorum. Şimdi bakıyorum da bazıları var, aslında Jacq gerçekten harika bir şey paylaştı. İstiyorum ki... Emoji yarışmasına katılıyorsun.
+
+00:34:02 - 00:34:37
+Eğer başvursaydın, belki bir sonrakine, çünkü sunucu daha fazla emojiyle çok daha eğlenceli, değil mi? TAMAM. Herhangi bir soru var mı? Her şey açık mı? Gelecek için resmi belirledik mi? Yani, geçen sefer genel olarak yıl için neyin geleceğinden, nereye gitmek istediğimizden bahsetmiştik. Şimdi diyoruz ki. Önümüzdeki ay için bizi bekleyenler gerçekten heyecan verici bir ay. Tekrar etmeme izin veriyorum.
+
+00:34:38 - 00:35:08
+Topluluk tarafında, merdiven kampanyası (ladder campaign) gibi heyecan verici programlarımız olacak, sonunda ulaştı. Onu biraz sürükleyen benim çünkü kampanyanın iyi bir şekilde kapsanmasını, iyi KOL'lerin desteklemesini istedik ve bu yüzden üzerinde çalışıyoruz ve aynı zamanda mümkün olduğunca adil olması ve hak ettiğiniz rolleri almanız için.
+
+00:35:08 - 00:35:46
+Ayrıca, birkaç kişiyi davet ederseniz bile bir rol alırsınız, gemiye alınırsınız ve bu gerçekten harika. Korsanların kurallarına göre yaşayalım. Yani, adil olalım. Bu çok önemli, diyebilirim. Temnik'i görüyorum. Herkes haberlerin ne olduğunu soruyor. Evet. Yani, haberler bunlar.
+
+00:35:46 - 00:36:26
+Sunucuyu iyileştirmek için yaptığımız şeylerin yanı sıra. Teknik tarafta, insanlar ilk ürünün piyasaya sürülmesine hazırlanıyor, BD daha fazla bağlantı kurmak için süper sıkı çalışıyor.
+
+00:36:26 - 00:37:02
+Böylece dünya bizi tanıyabilir ve projeler ürünlerimizi kullanmaya başlayabilir. Bu oldukça havalı ve pazarlama, bizim yönümüzü ve benimsemeye hazır olduğumuz kimliği bulmamıza yardımcı olan bu harika işi yapıyor. Aslında ilk kez siyah beyaz giymekten çok mutluyum. Çok korsanvari hissettiriyor. Bu, net bir yön belirlemeden önce bile markanın renklerini bilinçsizce seçtiğimiz anlamına geliyor.
+
+00:37:03 - 00:37:35
+Rus topluluğu etkinliklerinin başlamasını ve tüm yerel etkinlikleri görmeyi çok dört gözle bekliyorum ve daha önce de belirttiğimiz gibi, bu çevrimiçi etkinliklerden yüz yüze etkinliklere geçmek istiyoruz ve Georgi'nin de belirttiği gibi bunun için bir bütçemiz var. Bu etkinlikleri yapmanızda size destek olmak istiyoruz ve oraya varırsak ve gelecek ay başlarsak çok mutlu olacağım, belki de gerçekten topluluk bu kadar büyürse neden olmasın.
+
+00:37:35 - 00:38:03
+Yüz yüze etkinlikler ve bunun gibi diğer şeyler hakkında planlar yapmaya başlıyoruz. Benim tarafımdan eklenecek pek bir şey yok, eğer biri bir şey eklemek isterse. Evet, Smith, ben de gelecek ay ve genel olarak bu yıl gelecek olan her şeyi dört gözle bekliyorum. Bu yüzden sohbeti takip ederken konuşmayı yönlendirmek biraz zor. Eğer biri araya girip merhaba, hoşçakal, aklınızda ne varsa söylemek isterse.
+
+00:38:05 - 00:38:36
+Eğer şimdi ifade etmek istediğiniz bir şey varsa, tam zamanı. O zaman şimdi benden bir istek zamanı. Rus topluluğundan bahsettin, bu harika çünkü işte sormak istediğim şey bu. Sizler nereden, Blocksense'in yer almasını istediğiniz yerel bir podcast veya YouTube kanalı veya her ne ise önerebilir misiniz? Günlük, haftalık, iki haftada bir, aylık olarak dinlediğiniz, gerçekten ilginç, gerçekten alakalı bulduğunuz, bu alandan çok şey öğrendiğiniz herhangi bir şey.
+
+00:38:36 - 00:39:01
+Ve bence bu iyi bir uyum olur. Bilmiyorum, bizim yer almamız için gidip insanlarla konuşmam gereken herhangi bir yer önerebilir misiniz, harika olur. Benim MVP'lerim (En Değerli Oyuncularım) olursunuz.
+
+00:39:02 - 00:39:39
+Bu çok özel bir rol. Bu aynı zamanda topluluğun gücü ve bilgiyi kaldıraç olarak kullanmaktır. Yani, bir sürü araştırma yapabiliriz ve bir şeyler üzerinde çalışmak için saatler harcayabiliriz, ama topluluğun zekası harika. Ve her biriniz bu alandasınız.
+
+00:39:39 - 00:40:05
+Bu yüzden ziyaret etmeye açığım çünkü asıl amaç sözü yaymak. Bunu ana dil kullanarak yapmaktan daha iyi bir yol var mı, ve bunu kesinlikle yapabiliriz.
+
+00:40:05 - 00:40:30
+Ve eminim ki dışarıdaki bir sürü yeri kaçırıyorum. Ve onları bulmama yardım edebilirseniz, bu gerçekten harika olur.
+
+00:40:31 - 00:41:01
+Çok teşekkürler, arkadaşlar. Katıldığınız için teşekkürler. Her zaman bizi destekleyen, her zaman bizimle olan, en son haberleri almaya çalışan Versus777 gibi çok tanıdık yüzler görüyorum, facts parade. Bunlar toplulukta çok aktif olan insanlar.
+
+00:41:03 - 00:41:28
+Temnik_cook'tan bahsettim. Rahil olmasaydı ne yapardık? Hadi ama. Sanırım katılamayacağını söylemişti. Sadece bizimle oyun oynuyor. "Hayır, meşgulüm. Gelemem" diyor ve işte burada. Topluluk yöneticisinin vücut bulmuş haliydi. Gerçekten insanların etrafında olmayı, çok nazik ve yardımsever olmayı seviyor. Teşekkür ederim.
+
+00:41:28 - 00:41:54
+Bence bu iyi bir uyum olur. Bilmiyorum, bizim yer almamız için gidip insanlarla konuşmam gereken herhangi bir yer önerebilir misiniz, harika olur.
+
+00:41:54 - 00:42:28
+Ve eminim ki dışarıdaki bir sürü yeri kaçırıyorum. Ve onları bulmama yardım edebilirseniz, bu gerçekten harika olur.
+
+00:42:28 - 00:43:00
+Ve biz hepimiz sonraki adımları ve inşa etmeyi dört gözle bekliyoruz.
+
+00:43:01 - 00:43:28
+Ve geleceği görmekten çok heyecanlıyım.
+
+00:43:30 - 00:43:58
+Ve biraz kafam karıştı.
+
+00:44:00 - 00:44:30
+Daha fazlasını paylaşmak istiyorum.
+
+00:44:31 - 00:44:58
+Ve umarım sizler de aynısını yapmaya devam edersiniz.
+
+00:45:02 - 00:45:29
+Teşekkür ederim.
+
