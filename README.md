@@ -167,10 +167,9 @@ Bu proje Blocksense Network topluluğu için geliştirilmiştir. Katkılarınız
 Bu proje MIT lisansı altında lisanslanmıştır.
 
 ### İletişim
-- **Developer**: Laedrianus
+- **Developer**: Laedrianus, @bilenls
 - **Network**: Blocksense Network
-- **GitHub**: [Repository Link]
-- **Website**: [Blocksense Network Website]
+- **Website**: [(https://www.blocksensemonitor.com/)]
 
 ---
 
