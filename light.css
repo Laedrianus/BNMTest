@@ -111,9 +111,9 @@ body {
 }
 /* Header */
 .header {
-    margin-bottom: 20px;
-    padding-bottom: 22px;
-    border-bottom: 2px solid var(--header-border-color);
+    margin-bottom: 5px; /* Boşluğu en aza indir */
+    padding-bottom: 5px; /* Padding'i azalt */
+    /* border-bottom: 2px solid var(--header-border-color); */ /* Yatay çizgiyi tamamen kaldır */
 }
 .header-content {
     display: flex;
@@ -121,7 +121,7 @@ body {
     align-items: center;
     flex-wrap: wrap;
     gap: 16px;
-    margin-bottom: 14px;
+    margin-bottom: 5px; /* Boşluğu azalt */
 }
 /* GÜNCELLENDİ: Açık ve koyu tema için farklı renkler */
 .modern-header {
@@ -167,12 +167,24 @@ body {
     display: flex;
     flex-wrap: wrap;
     gap: 6px;
-    margin-bottom: 14px;
+    margin-bottom: 5px; /* Boşluğu azalt */
     padding: 6px;
     background: var(--quick-links-bg);
     border-radius: 10px;
     border: 1px solid var(--quick-links-border);
     backdrop-filter: blur(var(--glass-blur));
+}
+
+/* Desktop and mobile view controls */
+.quick-links-desktop {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    width: 100%;
+}
+
+.quick-links-mobile {
+    display: none;
 }
 .link-item {
     flex: 1;
@@ -230,14 +242,14 @@ body {
 }
 /* İlk 3 sütunu büyüt - DOĞRU KURAL */
 .main-content > .section:nth-child(-n+3) {
-    max-height: 50vh; /* Yüksekliği %50 viewport height ile sınırla */
+    max-height: 65vh; /* Yüksekliği %65 viewport height ile sınırla (%30 artırıldı) */
     overflow-y: auto; /* Taşan içeriğe kaydırma çubuğu ekle */
 }
 /* Diğer stilleriniz veya önceki kurallarınız burada olabilir */
 
 /* Diğer sütunları da sınırla - daha kısa */
 .main-content > .section:nth-child(n+4) {
-    max-height: 40vh; /* Diğer sütunlar daha kısa */
+    max-height: 52vh; /* Diğer sütunlar daha kısa (%30 artırıldı) */
     overflow-y: auto;
 }
 
@@ -248,7 +260,7 @@ body {
 .main-content > .section:nth-child(8), /* Comparison Table */
 .main-content > .section:nth-child(9), /* Scenario Builder */
 .main-content > .section:nth-child(10) /* Ecosystem Map */ {
-    max-height: 35vh; /* En uzun sütunları daha da kısalt */
+    max-height: 45.5vh; /* En uzun sütunları daha da kısalt (%30 artırıldı) */
 }
 /* Section Header */
 .section-header {
@@ -1332,7 +1344,7 @@ body {
     
     /* Tablet'te sütun yüksekliklerini ayarla */
     .main-content > .section {
-        max-height: 45vh;
+        max-height: 58.5vh; /* %30 artırıldı */
     }
 }
 @media (max-width: 992px) {
@@ -1356,7 +1368,7 @@ body {
     
     /* Mobilde sütun yüksekliklerini ayarla */
     .main-content > .section {
-        max-height: 60vh; /* Mobilde biraz daha yüksek */
+        max-height: 78vh; /* Mobilde biraz daha yüksek (%30 artırıldı) */
     }
 }
 /* Modern Reset & Base Font */
@@ -1395,15 +1407,24 @@ i[class^="fa"], i[class*=" fa"] {
 }
 @media (max-width: 768px) {
     .header-top-row {
-        gap: 15px; /* Başlık ve link arasına boşluk ekle */
+        gap: 10px; /* Başlık ve link arasına boşluğu azalt */
+        flex-wrap: nowrap; /* Alt satıra geçmesini engelle */
+        align-items: center; /* Dikey hizalama */
     }
-    /* GÜNCELLEME: Başlık mobilde tek satırda kalacak ve taşarsa kısaltılacak */
+    /* Logo ikonunu mobilde küçült */
+    .logo-icon {
+        height: 28px;
+        width: 28px;
+    }
+    /* GÜNCELLEME: Başlık mobilde her zaman tam görünür olacak, aynı satırda ve eksiksiz */
     .modern-header {
-        font-size: 1.5rem !important; /* Başlık fontunu küçült */
+        font-size: 1.2rem !important; /* Başlık fontunu daha da küçült */
         white-space: nowrap;       /* Başlığın alt satıra inmesini engelle */
-        overflow: hidden;            /* Taşmayı gizle */
-        text-overflow: ellipsis;     /* Taşarsa ... koy */
-        flex-shrink: 1; /* Başlık gerektiğinde küçülebilsin */
+        overflow: visible;          /* Taşmayı gizleme, görünür yap */
+        text-overflow: unset;       /* Ellipsis'i kaldır */
+        flex-shrink: 0;             /* Başlık küçülmesin */
+        min-width: 0;              /* Minimum genişlik sınırını kaldır */
+        max-width: 100%;           /* Maksimum genişlik sınırı */
     }
     /* GÜNCELLEME: Masaüstü Litepaper linkini mobilde gizle */
     .header-top-row .litepaper-link {
@@ -1413,17 +1434,91 @@ i[class^="fa"], i[class*=" fa"] {
     .mobile-only-link {
         display: block !important;
     }
-    /* GÜNCELLEME: Quick Links kutusu tam genişlikte ve 4xN grid yapısında */
+    /* GÜNCELLEME: Quick Links mobilde dropdown olarak göster */
     .quick-links.compact {
-        display: grid !important;
-        grid-template-columns: repeat(4, 1fr) !important;
-        gap: 5px !important;
-        width: 100%; /* Çerçevenin tam genişlikte olmasını sağlar */
+        position: relative;
+        display: block !important;
+        width: 100%;
+        margin-bottom: 10px;
+        padding: 0;
+        background: transparent;
+        border: none;
     }
-    .quick-links.compact .link-item {
+    
+    .quick-links-desktop {
+        display: none !important;
+    }
+    
+    .quick-links-mobile {
+        display: block !important;
+    }
+    
+    .quick-links-dropdown-toggle {
+        width: 100%;
+        padding: 12px 16px;
+        background: var(--quick-links-bg);
+        border: 1px solid var(--quick-links-border);
+        border-radius: 10px;
+        color: var(--quick-link-text-color);
+        font-weight: 700;
+        font-size: 0.9rem;
+        cursor: pointer;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        transition: all 0.2s ease;
+    }
+    
+    .quick-links-dropdown-toggle:hover {
+        background: var(--link-bg);
+        color: white;
+    }
+    
+    .quick-links-dropdown-toggle i {
+        transition: transform 0.2s ease;
+    }
+    
+    .quick-links-dropdown-toggle.active i {
+        transform: rotate(180deg);
+    }
+    
+    .quick-links-dropdown-content {
+        display: none;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        right: 0;
+        background: var(--quick-links-bg);
+        border: 1px solid var(--quick-links-border);
+        border-top: none;
+        border-radius: 0 0 10px 10px;
+        z-index: 1000;
+        box-shadow: 0 4px 12px var(--shadow-color);
+    }
+    
+    .quick-links-dropdown-content.active {
+        display: block;
+    }
+    
+    .quick-links-dropdown-content .link-item {
+        display: block;
+        padding: 12px 16px;
+        border-bottom: 1px solid var(--quick-links-border);
         border-right: none !important;
-        border-bottom: none !important;
-        padding: 5px !important;
+        text-align: left;
+        transition: background-color 0.2s ease;
+    }
+    
+    .quick-links-dropdown-content .link-item:last-child {
+        border-bottom: none;
+    }
+    
+    .quick-links-dropdown-content .link-item:hover {
+        background: var(--link-bg);
+    }
+    
+    .quick-links-dropdown-content .link-item:hover .quick-link-text {
+        color: white !important;
     }
 }
 /* Community Calls Specific Styles */
@@ -1674,8 +1769,8 @@ i[class^="fa"], i[class*=" fa"] {
     flex: 1;
     min-width: 300px;
 .section {
-    min-height: 450px; /* Sütunlar en az bu kadar uzun olacak */
-    max-height: 70vh;  /* Çok uzun olmasın, ekranın %70'inden fazla olmasın */
+    min-height: 585px; /* Sütunlar en az bu kadar uzun olacak (%30 artırıldı) */
+    max-height: 91vh;  /* Çok uzun olmasın, ekranın %91'inden fazla olmasın (%30 artırıldı) */
     height: auto;
 }
 

@@ -107,6 +107,10 @@ document.addEventListener('DOMContentLoaded', () => {
     updateChainMap(); // <-- Yeni: Zincir haritasını GÜNCELLENDİĞİ ŞEKİLDE çağır
     updateCommonContracts(); // Yeni: Ortak kontratları güncelle
     updateAppStats(); // Yeni: Uygulama istatistiklerini güncelle
+    
+    // Initialize mobile dropdown functionality
+    initMobileDropdown();
+    
     setTimeout(() => {
         checkBlocksenseUpdates();
         loadGitHubUpdates();
@@ -119,6 +123,34 @@ document.addEventListener('DOMContentLoaded', () => {
         window.onclick = function (event) { if (event.target == modal) modal.style.display = "none"; };
     }
 });
+
+// Mobile dropdown functionality for quick links
+function initMobileDropdown() {
+    const toggle = document.getElementById('quickLinksToggle');
+    const dropdown = document.getElementById('quickLinksDropdown');
+    
+    if (toggle && dropdown) {
+        toggle.addEventListener('click', function() {
+            const isActive = dropdown.classList.contains('active');
+            
+            if (isActive) {
+                dropdown.classList.remove('active');
+                toggle.classList.remove('active');
+            } else {
+                dropdown.classList.add('active');
+                toggle.classList.add('active');
+            }
+        });
+        
+        // Close dropdown when clicking outside
+        document.addEventListener('click', function(event) {
+            if (!toggle.contains(event.target) && !dropdown.contains(event.target)) {
+                dropdown.classList.remove('active');
+                toggle.classList.remove('active');
+            }
+        });
+    }
+}
 
 // --- Yeni Fonksiyonlar ---
 
@@ -1081,6 +1113,34 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
 });
+
+// Mobile dropdown functionality for quick links
+function initMobileDropdown() {
+    const toggle = document.getElementById('quickLinksToggle');
+    const dropdown = document.getElementById('quickLinksDropdown');
+    
+    if (toggle && dropdown) {
+        toggle.addEventListener('click', function() {
+            const isActive = dropdown.classList.contains('active');
+            
+            if (isActive) {
+                dropdown.classList.remove('active');
+                toggle.classList.remove('active');
+            } else {
+                dropdown.classList.add('active');
+                toggle.classList.add('active');
+            }
+        });
+        
+        // Close dropdown when clicking outside
+        document.addEventListener('click', function(event) {
+            if (!toggle.contains(event.target) && !dropdown.contains(event.target)) {
+                dropdown.classList.remove('active');
+                toggle.classList.remove('active');
+            }
+        });
+    }
+}
 // Community Calls functionality
 function initCommunityCalls() {
     const communityCallsList = document.getElementById('communityCallsList');
@@ -1157,3 +1217,31 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
 });
+
+// Mobile dropdown functionality for quick links
+function initMobileDropdown() {
+    const toggle = document.getElementById('quickLinksToggle');
+    const dropdown = document.getElementById('quickLinksDropdown');
+    
+    if (toggle && dropdown) {
+        toggle.addEventListener('click', function() {
+            const isActive = dropdown.classList.contains('active');
+            
+            if (isActive) {
+                dropdown.classList.remove('active');
+                toggle.classList.remove('active');
+            } else {
+                dropdown.classList.add('active');
+                toggle.classList.add('active');
+            }
+        });
+        
+        // Close dropdown when clicking outside
+        document.addEventListener('click', function(event) {
+            if (!toggle.contains(event.target) && !dropdown.contains(event.target)) {
+                dropdown.classList.remove('active');
+                toggle.classList.remove('active');
+            }
+        });
+    }
+}
