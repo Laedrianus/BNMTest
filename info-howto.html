@@ -221,6 +221,11 @@
         </div>
     </div>
 
+    <!-- Theme Toggle Button -->
+    <button id="themeToggle" class="theme-toggle">
+        <i class="fas fa-sun"></i>
+    </button>
+
     <script>
         // Dil çevirileri
         const translations = {
@@ -401,7 +406,39 @@
         // Sayfa yüklendiğinde varsayılan içeriği göster
         document.addEventListener('DOMContentLoaded', () => {
             updateTabContent();
+            
+            // Theme toggle functionality
+            initThemeToggle();
         });
+
+        // Theme toggle functionality
+        function initThemeToggle() {
+            const themeToggle = document.getElementById('themeToggle');
+            let currentTheme = localStorage.getItem('theme') || 'light';
+            
+            // Set initial theme
+            setTheme(currentTheme);
+            
+            themeToggle.addEventListener('click', () => {
+                currentTheme = currentTheme === 'light' ? 'dark' : 'light';
+                setTheme(currentTheme);
+                localStorage.setItem('theme', currentTheme);
+            });
+        }
+
+        function setTheme(theme) {
+            document.documentElement.setAttribute('data-theme', theme);
+            const icon = document.getElementById('themeToggle').querySelector('i');
+            if (icon) {
+                if (theme === 'dark') {
+                    icon.classList.remove('fa-sun');
+                    icon.classList.add('fa-moon');
+                } else {
+                    icon.classList.remove('fa-moon');
+                    icon.classList.add('fa-sun');
+                }
+            }
+        }
     </script>
 </body>
 </html>
