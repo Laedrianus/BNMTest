@@ -137,6 +137,13 @@ function initMobileDropdown() {
                 dropdown.classList.remove('active');
                 toggle.classList.remove('active');
             } else {
+                // Dropdown'ın pozisyonunu dinamik olarak hesapla
+                const toggleRect = toggle.getBoundingClientRect();
+                dropdown.style.top = (toggleRect.bottom + window.scrollY) + 'px';
+                dropdown.style.position = 'fixed';
+                dropdown.style.left = toggleRect.left + 'px';
+                dropdown.style.width = toggleRect.width + 'px';
+                
                 dropdown.classList.add('active');
                 toggle.classList.add('active');
             }
@@ -1127,6 +1134,13 @@ function initMobileDropdown() {
                 dropdown.classList.remove('active');
                 toggle.classList.remove('active');
             } else {
+                // Dropdown'ın pozisyonunu dinamik olarak hesapla
+                const toggleRect = toggle.getBoundingClientRect();
+                dropdown.style.top = (toggleRect.bottom + window.scrollY) + 'px';
+                dropdown.style.position = 'fixed';
+                dropdown.style.left = toggleRect.left + 'px';
+                dropdown.style.width = toggleRect.width + 'px';
+                
                 dropdown.classList.add('active');
                 toggle.classList.add('active');
             }
@@ -1231,6 +1245,13 @@ function initMobileDropdown() {
                 dropdown.classList.remove('active');
                 toggle.classList.remove('active');
             } else {
+                // Dropdown'ın pozisyonunu dinamik olarak hesapla
+                const toggleRect = toggle.getBoundingClientRect();
+                dropdown.style.top = (toggleRect.bottom + window.scrollY) + 'px';
+                dropdown.style.position = 'fixed';
+                dropdown.style.left = toggleRect.left + 'px';
+                dropdown.style.width = toggleRect.width + 'px';
+                
                 dropdown.classList.add('active');
                 toggle.classList.add('active');
             }
