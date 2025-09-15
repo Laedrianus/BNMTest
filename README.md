@@ -1,67 +1,177 @@
-# 🚀 Blocksense Network Monitor
+# Blocksense Network Monitor
 
-A comprehensive, modern dashboard to monitor the BlockSense network ecosystem. Features real-time updates, advanced analytics, and insightful visualizations for network health and performance tracking.
+## English
 
-![Version](https://img.shields.io/badge/version-1.2.0-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Status](https://img.shields.io/badge/status-active-success.svg)
+### Overview
+Blocksense Network Monitor is a comprehensive web application designed to track and monitor the Blocksense Network ecosystem. This application provides real-time updates, network analytics, and detailed information about the Blocksense oracle network.
 
-## Features
+### Features
 
-*   **BlockSense Web Updates:** Checks the main BlockSense website (`https://blocksense.network`) for content changes.
-*   **Networks & Data Feeds:** Lists available networks and data feeds with advanced search, filtering (by network, pair type), sorting, and pagination.
-*   **GitHub Repository Updates:** Displays recent Commits, Issues, Pull Requests, and Releases from the BlockSense GitHub repository (`https://github.com/blocksense-network/blocksense`).
-*   **Chain Connectivity Map:** Visualizes supported networks in an interactive grid.
-*   **Common Contracts Details:** Provides information and Etherscan links for key BlockSense smart contracts.
-*   **Network Health & Activity Dashboard:** Shows key metrics like total networks, total feeds, top assets, and last check time.
-*   **Cross-Chain Journey Flow:** Illustrates the step-by-step process of a cross-chain data request.
-*   **Oracle Performance Dashboard (Simulated):** Displays simulated performance metrics.
-*   **ZK Proof Observer (Simplified):** Visualizes the simplified flow of Zero-Knowledge proof generation and verification.
-*   **ZK & SchellingCoin Comparison:** Compares BlockSense's unique offerings with other oracles like Chainlink and Pyth.
-*   **Scenario Builder:** Allows users to define their oracle needs and receive tailored recommendations.
-*   **Ecosystem Map:** Shows key statistics and integrations within the BlockSense ecosystem.
-*   **Dark/Light Theme Toggle:** Switch between light and dark UI themes.
-*   **Responsive Design:** Adapts layout for different screen sizes.
+#### 🔄 **Real-time Updates**
+- Monitors Blocksense website for changes and updates
+- Displays updates in both list and timeline formats
+- Automatic refresh capabilities
 
-## How It Works
+#### 🌐 **Network & Data Feeds**
+- Lists 74+ supported blockchain networks
+- Displays 700+ active data feeds
+- Advanced search and filtering options
+- Export functionality for addresses (CSV format)
+- Sorting by ID, name, or address
 
-1.  The application loads static data defined in `data.js` (NETWORKS, DATA_FEEDS, COMMON_CONTRACTS).
-2.  It periodically or on user request (`Check` button) fetches the content of `https://blocksense.network`.
-3.  It compares the fetched content with the previous check to detect changes.
-4.  It fetches updates from the BlockSense GitHub repository based on user selection.
-5.  The UI dynamically updates to display the fetched data, changes, and allows interaction (filtering, sorting, modal views).
+#### 📊 **GitHub Integration**
+- Real-time GitHub repository updates
+- Commits, issues, pull requests, and releases tracking
+- Direct links to GitHub activities
 
-## Deployment
+#### 🗺️ **Interactive Features**
+- Chain connectivity map with interactive grid
+- Network details modal with contract information
+- Common contracts details and addresses
+- Network health and activity dashboard
 
-This application is designed to be deployed using **GitHub Pages**.
+#### 🎨 **User Interface**
+- Modern, responsive design
+- Light/Dark theme toggle
+- Mobile-optimized dropdown navigation
+- Cross-chain journey flow visualization
+- Oracle performance dashboard (simulated)
+- ZK proof observer with simplified flowchart
 
-1.  Ensure all files (`index.html`, `light.css`, `script.js`, `data.js`, `pirate.png`) are in the repository.
-2.  Go to your repository's **Settings** > **Pages**.
-3.  Under **Source**, select the branch where your files are located (e.g., `main`) and the root directory `/`.
-4.  Click **Save**. GitHub Pages will provide a URL for your live site.
+#### 🔧 **Advanced Tools**
+- Scenario builder for custom oracle needs
+- Comparison table: Blocksense vs Chainlink vs Pyth
+- Blocksense ecosystem map
+- Application usage statistics
 
-## Local Development
+### Technology Stack
+- **Frontend**: HTML5, CSS3, JavaScript (ES6+)
+- **Styling**: Custom CSS with CSS Variables
+- **Icons**: Font Awesome 6.4.0
+- **Fonts**: Oswald (Google Fonts)
+- **API Integration**: GitHub API, Blocksense Network
+- **Storage**: LocalStorage for preferences
 
-To run the application locally:
+### Installation & Usage
 
-1.  Clone or download this repository.
-2.  Open `index.html` in a web browser.
+#### Quick Start
+1. Clone or download the repository
+2. Open `index.html` in a web browser
+3. No additional setup required - runs entirely client-side
 
-*Note: Direct fetching from `https://blocksense.network` might be subject to CORS policies. The application includes a fallback to a CORS proxy (`api.allorigins.win`) if the direct request fails.*
+#### Features Usage
+- **Check Updates**: Click "Check" button to scan for Blocksense website changes
+- **View Networks**: Navigate to "Networks & Data Feeds" section
+- **Search & Filter**: Use search bar and filters to find specific data
+- **Export Data**: Export feed addresses to CSV format
+- **GitHub Activity**: Check "GitHub Repository Updates" for latest commits
+- **Theme Toggle**: Switch between light and dark modes
+- **Mobile Navigation**: Use dropdown menu on mobile devices
 
-## Files
+### Browser Compatibility
+- Chrome 80+
+- Firefox 75+
+- Safari 13+
+- Edge 80+
 
-*   `index.html`: Main HTML structure.
-*   `light.css`: Stylesheet for both light and dark themes.
-*   `script.js`: Core application logic (data fetching, DOM manipulation, UI interactions).
-*   `data.js`: Contains static data like networks, feeds, contracts, and mock GitHub data.
-*   `pirate.png`: Application logo.
+### Version History
+- **v1.4.0** - Mobile dropdown navigation, improved responsiveness, enhanced UI
+- **v1.2.0** - Added GitHub integration, network analytics
+- **v1.0.0** - Initial release with basic monitoring features
 
-## Changelog (Recent Updates)
+---
 
-*   **URL Spacing:** Removed leading/trailing spaces from URLs in `script.js` and `index.html`.
-*   **CORS Handling:** Implemented direct fetch with a fallback to a CORS proxy for `blocksense.network` updates.
-*   **Code Refactoring:** Reduced code duplication in pagination logic by creating a common `paginateData` function.
-*   **Persistence:** Network view counts are now saved to `localStorage` to persist across page reloads.
-*   **Data Filtering:** Enhanced network detail modal and feed filtering to work with `networkId` association in `DATA_FEEDS` (requires `data.js` update).
-*   **File Cleanup:** Removed incorrect `.txt` files from the repository.
+## Türkçe
+
+### Genel Bakış
+Blocksense Network Monitor, Blocksense Network ekosistemini izlemek ve takip etmek için tasarlanmış kapsamlı bir web uygulamasıdır. Bu uygulama, Blocksense oracle ağının gerçek zamanlı güncellemelerini, ağ analitiklerini ve detaylı bilgilerini sunar.
+
+### Özellikler
+
+#### 🔄 **Gerçek Zamanlı Güncellemeler**
+- Blocksense web sitesindeki değişiklikleri ve güncellemeleri izler
+- Güncellemeleri liste ve zaman çizelgesi formatlarında görüntüler
+- Otomatik yenileme özellikleri
+
+#### 🌐 **Ağ ve Veri Akışları**
+- 74+ desteklenen blockchain ağını listeler
+- 700+ aktif veri akışını görüntüler
+- Gelişmiş arama ve filtreleme seçenekleri
+- Adres dışa aktarma işlevselliği (CSV formatı)
+- ID, isim veya adrese göre sıralama
+
+#### 📊 **GitHub Entegrasyonu**
+- Gerçek zamanlı GitHub depo güncellemeleri
+- Commit'ler, issue'lar, pull request'ler ve sürüm takibi
+- GitHub etkinliklerine doğrudan bağlantılar
+
+#### 🗺️ **Etkileşimli Özellikler**
+- Etkileşimli ızgara ile zincir bağlantı haritası
+- Sözleşme bilgileriyle ağ detayları modal'ı
+- Ortak sözleşme detayları ve adresleri
+- Ağ sağlığı ve etkinlik kontrol paneli
+
+#### 🎨 **Kullanıcı Arayüzü**
+- Modern, duyarlı tasarım
+- Açık/Koyu tema değiştirici
+- Mobil optimize edilmiş dropdown navigasyon
+- Zincirler arası yolculuk akışı görselleştirmesi
+- Oracle performans kontrol paneli (simüle edilmiş)
+- Basitleştirilmiş akış şemasıyla ZK kanıt gözlemcisi
+
+#### 🔧 **Gelişmiş Araçlar**
+- Özel oracle ihtiyaçları için senaryo oluşturucu
+- Karşılaştırma tablosu: Blocksense vs Chainlink vs Pyth
+- Blocksense ekosistem haritası
+- Uygulama kullanım istatistikleri
+
+### Teknoloji Yığını
+- **Frontend**: HTML5, CSS3, JavaScript (ES6+)
+- **Stil**: CSS Değişkenleri ile Özel CSS
+- **İkonlar**: Font Awesome 6.4.0
+- **Yazı Tipleri**: Oswald (Google Fonts)
+- **API Entegrasyonu**: GitHub API, Blocksense Network
+- **Depolama**: Tercihler için LocalStorage
+
+### Kurulum ve Kullanım
+
+#### Hızlı Başlangıç
+1. Depoyu klonlayın veya indirin
+2. `index.html` dosyasını bir web tarayıcısında açın
+3. Ek kurulum gerekmez - tamamen istemci tarafında çalışır
+
+#### Özellik Kullanımı
+- **Güncellemeleri Kontrol Et**: "Check" butonuna tıklayarak Blocksense web sitesi değişikliklerini tarayın
+- **Ağları Görüntüle**: "Networks & Data Feeds" bölümüne gidin
+- **Ara ve Filtrele**: Belirli verileri bulmak için arama çubuğu ve filtreleri kullanın
+- **Veri Dışa Aktar**: Veri akışı adreslerini CSV formatına aktarın
+- **GitHub Etkinliği**: Son commit'ler için "GitHub Repository Updates" bölümünü kontrol edin
+- **Tema Değiştirici**: Açık ve koyu modlar arasında geçiş yapın
+- **Mobil Navigasyon**: Mobil cihazlarda dropdown menüyü kullanın
+
+### Tarayıcı Uyumluluğu
+- Chrome 80+
+- Firefox 75+
+- Safari 13+
+- Edge 80+
+
+### Sürüm Geçmişi
+- **v1.4.0** - Mobil dropdown navigasyon, geliştirilmiş duyarlılık, gelişmiş arayüz
+- **v1.2.0** - GitHub entegrasyonu, ağ analitikleri eklendi
+- **v1.0.0** - Temel izleme özellikleriyle ilk sürüm
+
+### Katkıda Bulunma
+Bu proje Blocksense Network topluluğu için geliştirilmiştir. Katkılarınız için teşekkürler!
+
+### Lisans
+Bu proje MIT lisansı altında lisanslanmıştır.
+
+### İletişim
+- **Developer**: Laedrianus
+- **Network**: Blocksense Network
+- **GitHub**: [Repository Link]
+- **Website**: [Blocksense Network Website]
+
+---
+
+*Made with ❤️ for the Blocksense Network community*
