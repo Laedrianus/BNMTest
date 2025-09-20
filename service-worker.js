@@ -1,5 +1,5 @@
 // Service Worker for Blocksense Network Monitor
-const CACHE_NAME = 'blocksense-monitor-v1.2.0';
+const CACHE_NAME = 'blocksense-monitor-v1.4.0';
 const STATIC_ASSETS = [
     '/',
     '/index.html',
@@ -37,7 +37,8 @@ self.addEventListener('activate', (event) => {
             .then((cacheNames) => {
                 return Promise.all(
                     cacheNames.map((cacheName) => {
-                        if (cacheName !== CACHE_NAME) {
+                        // Eski cache'leri temizle - mevcut cache adından farklı olanları sil
+                        if (cacheName !== CACHE_NAME && cacheName.startsWith('blocksense-monitor-')) {
                             console.log('Deleting old cache:', cacheName);
                             return caches.delete(cacheName);
                         }
@@ -45,7 +46,7 @@ self.addEventListener('activate', (event) => {
                 );
             })
             .then(() => {
-                console.log('Service Worker activated');
+                console.log('Service Worker activated - old caches cleaned');
                 return self.clients.claim();
             })
     );
