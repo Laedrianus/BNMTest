@@ -269,7 +269,7 @@ body {
     align-items: center;
     margin-bottom: 18px;
     padding-bottom: 14px;
-    border-bottom: 2px solid var(--border-color);
+    /* border-bottom: 2px solid var(--border-color); */
     flex-shrink: 0; /* Başlık her zaman görünür kalmalı */
 }
 .section-header h2 {
