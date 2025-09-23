@@ -43,83 +43,99 @@ function updateEcosystemStats() {
     }
 }
 
-// Top Assets'i güncelle (Gerçek veri kullan)
+// Top Assets'i GitHub'dan güncelle
 async function updateTopAssets() {
     try {
-        // Gerçek veri: DATA_FEEDS'den en çok kullanılan asset'leri hesapla
-        if (typeof DATA_FEEDS !== 'undefined' && DATA_FEEDS.length > 0) {
-            const assetCounts = {};
-            DATA_FEEDS.forEach(feed => {
-                const baseAsset = feed.name.split(" / ")[0];
-                assetCounts[baseAsset] = (assetCounts[baseAsset] || 0) + 1;
-            });
-            const sortedAssets = Object.entries(assetCounts)
-                .sort((a, b) => b[1] - a[1])
-                .slice(0, 3)
-                .map(([asset]) => asset);
+        // GitHub Public API'den commit'leri çek (60/hour rate limit)
+        const response = await fetch('https://api.github.com/repos/blocksense-network/safe-singleton-factory/commits?per_page=100');
+        const commits = await response.json();
+        
+        // Asset kullanım sayılarını hesapla
+        const assetUsage = {};
+        
+        commits.forEach(commit => {
+            const message = commit.commit.message.toLowerCase();
             
-            const topAssetsElement = document.getElementById('mostUsedAssets');
-            if (topAssetsElement) {
-                topAssetsElement.textContent = sortedAssets.join(', ');
-            }
-            console.log(`✅ Top assets updated: ${sortedAssets.join(', ')}`);
-        } else {
-            // Fallback: Mock data
-            const mockAssets = ['BTC', 'ETH', 'USDC'];
-            const topAssetsElement = document.getElementById('mostUsedAssets');
-            if (topAssetsElement) {
-                topAssetsElement.textContent = mockAssets.join(', ');
-            }
-            console.log(`✅ Top assets updated: ${mockAssets.join(', ')} (fallback)`);
+            // Asset isimlerini tespit et
+            const assets = ['btc', 'eth', 'usdc', 'usdt', 'bnb', 'matic', 'avax', 'sol', 'ada', 'dot'];
+            assets.forEach(asset => {
+                if (message.includes(asset)) {
+                    assetUsage[asset] = (assetUsage[asset] || 0) + 1;
+                }
+            });
+        });
+        
+        // En çok kullanılan asset'leri bul
+        const topAssets = Object.entries(assetUsage)
+            .sort(([,a], [,b]) => b - a)
+            .slice(0, 3)
+            .map(([asset]) => asset.toUpperCase());
+        
+        // DOM'u güncelle
+        const topAssetsElement = document.getElementById('mostUsedAssets');
+        if (topAssetsElement && topAssets.length > 0) {
+            topAssetsElement.textContent = topAssets.join(', ');
+        } else if (topAssetsElement) {
+            topAssetsElement.textContent = 'BTC, ETH, USDC';
         }
+        
+        console.log(`✅ Top assets updated: ${topAssets.join(', ')}`);
     } catch (error) {
         console.error('❌ Error updating top assets:', error);
+        // Hata durumunda varsayılan değerleri koru
         const topAssetsElement = document.getElementById('mostUsedAssets');
         if (topAssetsElement) {
             topAssetsElement.textContent = 'BTC, ETH, USDC';
         }
-        console.log('✅ Top assets updated: BTC, ETH, USDC (error fallback)');
+        console.log('✅ Top assets updated: BTC, ETH, USDC (fallback)');
     }
 }
 
-// Most Requested Feeds'i gerçek veriden güncelle
+// Most Requested Feeds'i GitHub'dan güncelle
 async function updateMostRequestedFeeds() {
     try {
-        // Gerçek veri: DATA_FEEDS'den en çok kullanılan feed'leri hesapla
-        if (typeof DATA_FEEDS !== 'undefined' && DATA_FEEDS.length > 0) {
-            const feedCounts = {};
-            DATA_FEEDS.forEach(feed => {
-                feedCounts[feed.name] = (feedCounts[feed.name] || 0) + 1;
+        // GitHub Public API'den commit'leri çek (60/hour rate limit)
+        const response = await fetch('https://api.github.com/repos/blocksense-network/safe-singleton-factory/commits?per_page=100');
+        const commits = await response.json();
+        
+        // Feed kullanım sayılarını hesapla
+        const feedUsage = {};
+        
+        commits.forEach(commit => {
+            const message = commit.commit.message.toLowerCase();
+            
+            // Feed isimlerini tespit et
+            const feeds = ['btc/usd', 'eth/usd', 'bnb/usd', 'matic/usd', 'avax/usd', 'sol/usd', 'ada/usd', 'dot/usd'];
+            feeds.forEach(feed => {
+                if (message.includes(feed)) {
+                    feedUsage[feed] = (feedUsage[feed] || 0) + 1;
+                }
             });
-            const sortedFeeds = Object.entries(feedCounts)
-                .sort((a, b) => b[1] - a[1])
-                .slice(0, 2)
-                .map(([feed]) => feed);
-            
-            const mostRequestedFeedsElement = document.getElementById('mostRequestedFeeds');
-            if (mostRequestedFeedsElement && sortedFeeds.length > 0) {
-                mostRequestedFeedsElement.textContent = sortedFeeds.join(', ');
-            } else if (mostRequestedFeedsElement) {
-                mostRequestedFeedsElement.textContent = 'BTC/USD, ETH/USD';
-            }
-            
-            console.log(`✅ Most requested feeds updated: ${sortedFeeds.join(', ')}`);
-        } else {
-            // Fallback: Mock data
-            const mockFeeds = ['BTC/USD', 'ETH/USD'];
-            const mostRequestedFeedsElement = document.getElementById('mostRequestedFeeds');
-            if (mostRequestedFeedsElement) {
-                mostRequestedFeedsElement.textContent = mockFeeds.join(', ');
-            }
-            console.log(`✅ Most requested feeds updated: ${mockFeeds.join(', ')} (fallback)`);
+        });
+        
+        // En çok kullanılan feed'leri bul
+        const topFeeds = Object.entries(feedUsage)
+            .sort(([,a], [,b]) => b - a)
+            .slice(0, 2)
+            .map(([feed]) => feed.toUpperCase());
+        
+        // DOM'u güncelle
+        const mostRequestedFeedsElement = document.getElementById('mostRequestedFeeds');
+        if (mostRequestedFeedsElement && topFeeds.length > 0) {
+            mostRequestedFeedsElement.textContent = topFeeds.join(', ');
+        } else if (mostRequestedFeedsElement) {
+            mostRequestedFeedsElement.textContent = 'BTC/USD, ETH/USD';
         }
+        
+        console.log(`✅ Most requested feeds updated: ${topFeeds.join(', ')}`);
     } catch (error) {
         console.error('❌ Error updating most requested feeds:', error);
+        // Hata durumunda varsayılan değerleri koru
         const mostRequestedFeedsElement = document.getElementById('mostRequestedFeeds');
         if (mostRequestedFeedsElement) {
             mostRequestedFeedsElement.textContent = 'BTC/USD, ETH/USD';
         }
-        console.log('✅ Most requested feeds updated: BTC/USD, ETH/USD (error fallback)');
+        console.log('✅ Most requested feeds updated: BTC/USD, ETH/USD (fallback)');
     }
 }
 
@@ -148,37 +164,27 @@ async function updateKeyIntegrations() {
 async function updateLastCheck() {
     try {
         // GitHub Public API'den son commit'i çek (60/hour rate limit)
-        const response = await fetch('https://api.github.com/repos/blocksense-network/safe-singleton-factory/commits?per_page=1', {
-            mode: 'cors',
-            credentials: 'omit'
-        });
-        
-        if (!response.ok) {
-            throw new Error(`GitHub API error: ${response.status}`);
-        }
-        
+        const response = await fetch('https://api.github.com/repos/blocksense-network/safe-singleton-factory/commits?per_page=1');
         const commits = await response.json();
         
-        if (!Array.isArray(commits) || commits.length === 0) {
-            throw new Error('No commits found');
+        if (commits.length > 0) {
+            const lastCommit = commits[0];
+            const lastCheckTime = new Date(lastCommit.commit.author.date);
+            
+            // DOM'u güncelle
+            const lastCheckElement = document.getElementById('lastCheckTime');
+            if (lastCheckElement) {
+                lastCheckElement.textContent = lastCheckTime.toLocaleString('tr-TR', {
+                    day: '2-digit',
+                    month: '2-digit',
+                    year: 'numeric',
+                    hour: '2-digit',
+                    minute: '2-digit'
+                });
+            }
+            
+            console.log(`✅ Last check updated: ${lastCheckTime.toLocaleString()}`);
         }
-        
-        // Mock data kullan (GitHub API rate limit nedeniyle)
-        const lastCheckTime = new Date();
-        
-        // DOM'u güncelle
-        const lastCheckElement = document.getElementById('lastCheckTime');
-        if (lastCheckElement) {
-            lastCheckElement.textContent = lastCheckTime.toLocaleString('tr-TR', {
-                day: '2-digit',
-                month: '2-digit',
-                year: 'numeric',
-                hour: '2-digit',
-                minute: '2-digit'
-            });
-        }
-        
-        console.log(`✅ Last check updated: ${lastCheckTime.toLocaleString()}`);
     } catch (error) {
         console.error('❌ Error updating last check:', error);
         // Hata durumunda varsayılan değeri koru

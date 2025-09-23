@@ -4,22 +4,6 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <title>Blocksense Community Calls - Blocksense Network Monitor</title>
-    
-    <!-- Content Security Policy - Secure Configuration -->
-    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://cdnjs.cloudflare.com; style-src 'self' 'unsafe-inline' https://cdnjs.cloudflare.com https://fonts.googleapis.com; img-src 'self' data: https:; connect-src 'self'; font-src 'self' https://cdnjs.cloudflare.com https://fonts.gstatic.com; frame-src 'self' https://www.youtube.com; object-src 'none'; base-uri 'self';">
-    
-    <!-- CORS Headers -->
-    <meta http-equiv="Access-Control-Allow-Origin" content="*">
-    <meta http-equiv="Access-Control-Allow-Methods" content="GET, POST, PUT, DELETE, OPTIONS, HEAD">
-    <meta http-equiv="Access-Control-Allow-Headers" content="Content-Type, Authorization, X-Requested-With, Accept, Accept-Language, Content-Language, Origin, Referer, User-Agent, Cache-Control, Pragma">
-    <meta http-equiv="Access-Control-Allow-Credentials" content="true">
-    <meta http-equiv="Access-Control-Max-Age" content="86400">
-    <meta http-equiv="Cross-Origin-Embedder-Policy" content="unsafe-none">
-    <meta http-equiv="Cross-Origin-Opener-Policy" content="unsafe-none">
-    <meta http-equiv="Cross-Origin-Resource-Policy" content="cross-origin">
-    <meta http-equiv="Attribution-Reporting-Register-Source" content="https://gc.kis.v2.scr.kaspersky-labs.com">
-    <meta http-equiv="Attribution-Reporting-Register-Trigger" content="https://gc.kis.v2.scr.kaspersky-labs.com">
-    
     <!-- Icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"/>
     <!-- Hard-looking font for the whole app -->
@@ -809,7 +793,7 @@
             transcriptPanel.innerHTML = `
                 <div class="transcript-header">
                     <h3>${language} Transcript</h3>
-                    <button class="close-transcript" id="closeTranscriptBtn"><i class="fas fa-times"></i></button>
+                    <button class="close-transcript" onclick="closeTranscript()"><i class="fas fa-times"></i></button>
                 </div>
                 <div class="loading-spinner">
                     <i class="fas fa-spinner fa-spin"></i> Loading transcript...
@@ -835,7 +819,7 @@
                     transcriptPanel.innerHTML = `
                         <div class="transcript-header">
                             <h3>${language} Transcript</h3>
-                            <button class="close-transcript" id="closeTranscriptBtn"><i class="fas fa-times"></i></button>
+                            <button class="close-transcript" onclick="closeTranscript()"><i class="fas fa-times"></i></button>
                         </div>
                         <div class="transcript-content">
                             ${data.replace(/\n/g, '<br>')}
@@ -894,7 +878,7 @@
                     transcriptPanel.innerHTML = `
                         <div class="transcript-header">
                             <h3>${language} Transcript</h3>
-                            <button class="close-transcript" id="closeTranscriptBtn"><i class="fas fa-times"></i></button>
+                            <button class="close-transcript" onclick="closeTranscript()"><i class="fas fa-times"></i></button>
                         </div>
                         <div class="transcript-content">
                             ${sampleContent}
@@ -929,13 +913,6 @@
                 document.querySelector('.video-section').classList.remove('fixed-video');
             }
         }
-        
-        // Add event listener for close button using event delegation
-        document.addEventListener('click', function(e) {
-            if (e.target && e.target.id === 'closeTranscriptBtn') {
-                closeTranscript();
-            }
-        });
         
         // Pencere boyutu değiştiğinde sabitlemeyi yönet (Responsive için)
         window.addEventListener('resize', function() {

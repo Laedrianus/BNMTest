@@ -41,22 +41,13 @@ class NotificationManager {
                     <i class="fas ${this.getTypeIcon(type)}" style="color: ${this.getTypeColor(type)}; margin-right: 8px; font-size: 1.1em;"></i>
                     <span style="font-weight: 500;">${message}</span>
                 </div>
-                <button class="notification-close" title="Close">
+                <button class="notification-close" onclick="this.parentElement.parentElement.remove()" title="Close">
                     <i class="fas fa-times"></i>
                 </button>
             </div>
         `;
         
         this.container.appendChild(notification);
-        
-        // Add event listener for close button
-        const closeButton = notification.querySelector('.notification-close');
-        if (closeButton) {
-            closeButton.addEventListener('click', (e) => {
-                e.stopPropagation();
-                notification.remove();
-            });
-        }
         
         // Auto remove after duration
         if (duration > 0) {

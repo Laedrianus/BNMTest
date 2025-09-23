@@ -4,22 +4,6 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <title>Transcript - BlockSense Network Monitor</title>
-    
-    <!-- Content Security Policy - Secure Configuration -->
-    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://cdnjs.cloudflare.com; style-src 'self' 'unsafe-inline' https://cdnjs.cloudflare.com https://fonts.googleapis.com; img-src 'self' data: https:; connect-src 'self'; font-src 'self' https://cdnjs.cloudflare.com https://fonts.gstatic.com; frame-src 'self' https://www.youtube.com; object-src 'none'; base-uri 'self';">
-    
-    <!-- CORS Headers -->
-    <meta http-equiv="Access-Control-Allow-Origin" content="*">
-    <meta http-equiv="Access-Control-Allow-Methods" content="GET, POST, PUT, DELETE, OPTIONS, HEAD">
-    <meta http-equiv="Access-Control-Allow-Headers" content="Content-Type, Authorization, X-Requested-With, Accept, Accept-Language, Content-Language, Origin, Referer, User-Agent, Cache-Control, Pragma">
-    <meta http-equiv="Access-Control-Allow-Credentials" content="true">
-    <meta http-equiv="Access-Control-Max-Age" content="86400">
-    <meta http-equiv="Cross-Origin-Embedder-Policy" content="unsafe-none">
-    <meta http-equiv="Cross-Origin-Opener-Policy" content="unsafe-none">
-    <meta http-equiv="Cross-Origin-Resource-Policy" content="cross-origin">
-    <meta http-equiv="Attribution-Reporting-Register-Source" content="https://gc.kis.v2.scr.kaspersky-labs.com">
-    <meta http-equiv="Attribution-Reporting-Register-Trigger" content="https://gc.kis.v2.scr.kaspersky-labs.com">
-    
     <!-- Icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"/>
     <!-- Hard-looking font for the whole app -->
@@ -38,7 +22,7 @@
                     </h1>
                 </div>
                 <div class="back-button">
-                    <a href="#" class="litepaper-link" id="backButton">
+                    <a href="javascript:history.back()" class="litepaper-link">
                         <i class="fas fa-arrow-left"></i> Back to Call
                     </a>
                 </div>
@@ -90,15 +74,6 @@
         
         // Sayfa yüklendiğinde
         document.addEventListener('DOMContentLoaded', function() {
-            // Add event listener for back button
-            const backButton = document.getElementById('backButton');
-            if (backButton) {
-                backButton.addEventListener('click', function(e) {
-                    e.preventDefault();
-                    history.back();
-                });
-            }
-            
             if (callNumber && language && (language === 'ENG' || language === 'TR')) {
                 document.getElementById('callNumber').textContent = callNumber;
                 document.getElementById('language').textContent = language;
@@ -144,7 +119,7 @@
                     } else {
                         scrollToTopBtn.style.display = 'none';
                     }
-                }, { passive: true });
+                });
                 
                 scrollToTopBtn.addEventListener('click', function() {
                     window.scrollTo({

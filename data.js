@@ -876,15 +876,6 @@ const MOCK_GITHUB_DATA = {
                 committer: { date: new Date(Date.now() - 1 * 24 * 60 * 60 * 1000).toISOString() }
             },
             html_url: "https://github.com/blocksense-network/blocksense/commit/b2c3d4e5f6a78901abcdef1234567890abcdef12"
-        },
-        {
-            sha: "nunchi1234567890",
-            commit: {
-                message: "feat(nunchi): Add Nunchi yield perpetuals data feeds\n\n- Added 3-Month T-Bill Yield feed\n- Integrated Hyperliquid BTC-Perp Funding Rate\n- Added mETH/ETH Basis tracking\n- Implemented Yield Perp (YP) and Basis Perp (BP) indices",
-                author: { name: "NunchiDev", date: new Date(Date.now() - 30 * 60 * 1000).toISOString() }, // 30 dakika önce
-                committer: { date: new Date(Date.now() - 30 * 60 * 1000).toISOString() }
-            },
-            html_url: "https://github.com/blocksense-network/blocksense/commit/nunchi1234567890abcdef1234567890abcdef12"
         }
     ],
     issues: [
@@ -918,7 +909,5 @@ const MOCK_GITHUB_DATA = {
 };
 
 // Window objesine ata (ecosystem-stats.js için)
-if (typeof window !== 'undefined') {
-    window.networks = NETWORKS;
-    window.dataFeeds = DATA_FEEDS;
-}
+window.networks = NETWORKS;
+window.dataFeeds = DATA_FEEDS;

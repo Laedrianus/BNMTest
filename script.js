@@ -137,12 +137,8 @@ document.addEventListener('DOMContentLoaded', () => {
         const closeModal = document.getElementById('closeModal');
         const modal = document.getElementById('networkDetailModal');
         if (closeModal && modal) {
-            closeModal.addEventListener('click', function () { 
-                modal.style.display = "none"; 
-            });
-            window.addEventListener('click', function (event) { 
-                if (event.target == modal) modal.style.display = "none"; 
-            });
+            closeModal.onclick = function () { modal.style.display = "none"; };
+            window.onclick = function (event) { if (event.target == modal) modal.style.display = "none"; };
         }
     } catch (error) {
         console.error('Error during initialization:', error);
@@ -196,12 +192,7 @@ function initMobileDropdown() {
 // 1. Gelişmiş Filtreleme ve Arama
 function populateNetworkFilter() {
     if (!networkFilterSelect || !NETWORKS) return;
-    // Clear and add options safely
-    networkFilterSelect.innerHTML = '';
-    const allOption = document.createElement('option');
-    allOption.value = '';
-    allOption.textContent = 'All Networks';
-    networkFilterSelect.appendChild(allOption);
+    networkFilterSelect.innerHTML = '<option value="">All Networks</option>';
     const sortedNetworks = [...NETWORKS].sort((a, b) => (a.name || `Network ${a.id}`).localeCompare(b.name || `Network ${b.id}`));
     sortedNetworks.forEach(network => {
         const option = document.createElement('option');
@@ -338,10 +329,7 @@ function updateChainMap() {
     const chainMapGridEl = document.getElementById('chainMapGrid');
     if (!chainMapGridEl || !NETWORKS) return;
 
-    // Clear previous content safely
-    while (chainMapGridEl.firstChild) {
-        chainMapGridEl.removeChild(chainMapGridEl.firstChild);
-    }
+    chainMapGridEl.innerHTML = ''; // Önceki içeriği temizle
 
     // Ağ listesini ID'ye göre sırala (veya başka bir sıralama tercihi)
     const sortedNetworks = [...NETWORKS].sort((a, b) => a.id - b.id);
@@ -388,33 +376,19 @@ function updateCommonContracts() {
         // Daha fazlası eklenebilir...
     };
 
-    // Clear previous content safely
-    while (commonContractsListEl.firstChild) {
-        commonContractsListEl.removeChild(commonContractsListEl.firstChild);
-    }
+    commonContractsListEl.innerHTML = '';
     for (const [name, address] of Object.entries(COMMON_CONTRACTS)) {
         const div = document.createElement('div');
         div.className = 'contract-detail-card';
         const details = contractDetails[name] || { description: "Details not available." };
-        // Create elements safely without innerHTML
-        const h4 = document.createElement('h4');
-        h4.textContent = name;
-        
-        const addressDiv = document.createElement('div');
-        addressDiv.className = 'contract-address';
-        const addressLink = document.createElement('a');
-        addressLink.href = `https://etherscan.io/address/${address}`;
-        addressLink.target = '_blank';
-        addressLink.rel = 'noopener';
-        addressLink.textContent = address;
-        addressDiv.appendChild(addressLink);
-        
-        const descP = document.createElement('p');
-        descP.textContent = details.description;
-        
-        div.appendChild(h4);
-        div.appendChild(addressDiv);
-        div.appendChild(descP);
+        div.innerHTML = `
+            <h4>${name}</h4>
+            <div class="contract-address">
+                <a href="https://etherscan.io/address/${address}" target="_blank" rel="noopener">${address}</a>
+            </div>
+            <p>${details.description}</p>
+            <!-- Fonksiyonlar burada listelenebilir, ancak data.js'de mevcut değil -->
+        `;
         commonContractsListEl.appendChild(div);
     }
 }
@@ -468,12 +442,7 @@ function generateScenario() {
     const slaReq = slaReqSelect.value;
 
     if (!dataNeed) {
-        // Clear and add error message safely
-        scenarioResultDiv.innerHTML = '';
-        const errorP = document.createElement('p');
-        errorP.style.color = 'red';
-        errorP.textContent = 'Please describe your data need.';
-        scenarioResultDiv.appendChild(errorP);
+        scenarioResultDiv.innerHTML = `<p style="color: red;">Please describe your data need.</p>`;
         return;
     }
 
@@ -498,7 +467,6 @@ function generateScenario() {
 
     recommendation += `</ul><p><strong>Next Steps:</strong></p><ol><li>Review our <a href="https://docs.blocksense.network/" target="_blank">Documentation</a>.</li><li>Reach out on <a href="https://discord.com/invite/blocksense" target="_blank">Discord</a> for detailed consultation.</li></ol>`;
 
-    // Set content safely
     scenarioResultDiv.innerHTML = recommendation;
 }
 
@@ -514,36 +482,22 @@ function paginateData(data, page, itemsPerPage, container, itemRenderer, paginat
     const endIndex = Math.min(startIndex + itemsPerPage, totalItems);
     const itemsToShow = data.slice(startIndex, endIndex);
 
-    // Set content safely - this is safe as itemRenderer returns safe HTML
     container.innerHTML = itemsToShow.map(itemRenderer).join('');
 
     // Sayfalamayı Güncelle
-    // Create pagination safely
-    paginationContainer.innerHTML = '';
-    
-    const prevBtn = document.createElement('button');
-    prevBtn.className = 'pagination-btn';
-    prevBtn.id = 'prevPageBtn';
-    prevBtn.innerHTML = '<i class="fas fa-chevron-left"></i> Prev';
-    if (page === 1 || totalPages === 0) prevBtn.disabled = true;
-    
-    const infoSpan = document.createElement('span');
-    infoSpan.className = 'pagination-info';
-    infoSpan.textContent = `Page ${page} of ${totalPages || 1}`;
-    
-    const nextBtn = document.createElement('button');
-    nextBtn.className = 'pagination-btn';
-    nextBtn.id = 'nextPageBtn';
-    nextBtn.innerHTML = 'Next <i class="fas fa-chevron-right"></i>';
-    if (page === totalPages || totalPages === 0) nextBtn.disabled = true;
-    
-    paginationContainer.appendChild(prevBtn);
-    paginationContainer.appendChild(infoSpan);
-    paginationContainer.appendChild(nextBtn);
+    paginationContainer.innerHTML = `
+        <button class="pagination-btn" id="prevPageBtn" ${page === 1 || totalPages === 0 ? 'disabled' : ''}>
+            <i class="fas fa-chevron-left"></i> Prev
+        </button>
+        <span class="pagination-info">Page ${page} of ${totalPages || 1}</span>
+        <button class="pagination-btn" id="nextPageBtn" ${page === totalPages || totalPages === 0 ? 'disabled' : ''}>
+            Next <i class="fas fa-chevron-right"></i>
+        </button>
+    `;
 
-    const prevPageBtnElement = document.getElementById('prevPageBtn');
-    const nextPageBtnElement = document.getElementById('nextPageBtn');
-    if (prevPageBtnElement) prevPageBtnElement.addEventListener('click', () => {
+    const prevBtn = document.getElementById('prevPageBtn');
+    const nextBtn = document.getElementById('nextPageBtn');
+    if (prevBtn) prevBtn.addEventListener('click', () => {
         // Dinamik olarak hangi sayfa fonksiyonunun çağrılacağını belirlemek için
         if (container.id === 'networkList') {
             loadNetworkList(page - 1);
@@ -551,7 +505,7 @@ function paginateData(data, page, itemsPerPage, container, itemRenderer, paginat
             loadFeedList(page - 1);
         }
     });
-    if (nextPageBtnElement) nextPageBtnElement.addEventListener('click', () => {
+    if (nextBtn) nextBtn.addEventListener('click', () => {
         if (container.id === 'networkList') {
             loadNetworkList(page + 1);
         } else if (container.id === 'feedList') {
@@ -825,8 +779,7 @@ async function tryFetchRealData(url) {
         // Try direct fetch first
         let response = await fetch(url, { 
             mode: 'no-cors',
-            method: 'GET',
-            credentials: 'omit'
+            method: 'GET'
         });
         
         if (response.type === 'opaque') {
@@ -839,9 +792,21 @@ async function tryFetchRealData(url) {
         const allText = doc.body.innerText;
         return getNewItems(allText, url);
     } catch (err) {
-        // Skip proxy fallback to avoid CORS issues
-        console.log('Direct fetch failed, using demo content:', err.message);
-        throw new Error('Direct fetch failed, using demo content');
+        // Try proxy as fallback
+        try {
+            const proxyUrl = `https://api.allorigins.win/get?url=${encodeURIComponent(url)}`;
+            const response = await fetch(proxyUrl);
+            
+            if (!response.ok) throw new Error('Proxy failed');
+            
+            const jsonData = await response.json();
+            const parser = new DOMParser();
+            const doc = parser.parseFromString(jsonData.contents, 'text/html');
+            const allText = doc.body.innerText;
+            return getNewItems(allText, url);
+        } catch (proxyErr) {
+            throw new Error('All fetch methods failed');
+        }
     }
 }
 
@@ -1000,34 +965,22 @@ async function loadGitHubUpdates() {
 
 // GitHub URL'lerindeki boşluklar kaldırıldı
 async function fetchGitHubCommits() {
-    const response = await fetch('https://api.github.com/repos/blocksense-network/blocksense/commits?per_page=10', {
-        mode: 'cors',
-        credentials: 'omit'
-    });
+    const response = await fetch('https://api.github.com/repos/blocksense-network/blocksense/commits?per_page=10');
     if (!response.ok) throw new Error('GitHub API error');
     return response.json();
 }
 async function fetchGitHubIssues() {
-    const response = await fetch('https://api.github.com/repos/blocksense-network/blocksense/issues?per_page=10', {
-        mode: 'cors',
-        credentials: 'omit'
-    });
+    const response = await fetch('https://api.github.com/repos/blocksense-network/blocksense/issues?per_page=10');
     if (!response.ok) throw new Error('GitHub API error');
     return response.json();
 }
 async function fetchGitHubPullRequests() {
-    const response = await fetch('https://api.github.com/repos/blocksense-network/blocksense/pulls?per_page=10', {
-        mode: 'cors',
-        credentials: 'omit'
-    });
+    const response = await fetch('https://api.github.com/repos/blocksense-network/blocksense/pulls?per_page=10');
     if (!response.ok) throw new Error('GitHub API error');
     return response.json();
 }
 async function fetchGitHubReleases() {
-    const response = await fetch('https://api.github.com/repos/blocksense-network/blocksense/releases?per_page=10', {
-        mode: 'cors',
-        credentials: 'omit'
-    });
+    const response = await fetch('https://api.github.com/repos/blocksense-network/blocksense/releases?per_page=10');
     if (!response.ok) throw new Error('GitHub API error');
     return response.json();
 }
@@ -1059,7 +1012,7 @@ function displayGitHubUpdates(data, type) {
                 const commitMessage = commit.commit.message.split('\n')[0];
                 const shortSha = commit.sha.substring(0, 7);
                 return `
-                    <div class="update-item commit-item" data-url="${commit.html_url}" style="cursor:pointer;">
+                    <div class="update-item" onclick="window.open('${commit.html_url}', '_blank')" style="cursor:pointer;">
                         <div class="update-item-header">
                             <div class="update-item-title">Commit: ${shortSha}</div>
                             <div class="update-item-timestamp">${timeAgo}</div>
@@ -1080,7 +1033,7 @@ function displayGitHubUpdates(data, type) {
                 const diffDays = Math.floor(diffMs / (1000 * 60 * 60 * 24));
                 let timeAgo = diffDays === 0 ? "Today" : `${diffDays} day${diffDays > 1 ? 's' : ''} ago`;
                 return `
-                    <div class="update-item issue-item" data-url="${issue.html_url}" style="cursor:pointer;">
+                    <div class="update-item" onclick="window.open('${issue.html_url}', '_blank')" style="cursor:pointer;">
                         <div class="update-item-header">
                             <div class="update-item-title">Issue #${issue.number}: ${issue.title}</div>
                             <div class="update-item-timestamp">${timeAgo}</div>
@@ -1101,7 +1054,7 @@ function displayGitHubUpdates(data, type) {
                 const diffDays = Math.floor(diffMs / (1000 * 60 * 60 * 24));
                 let timeAgo = diffDays === 0 ? "Today" : `${diffDays} day${diffDays > 1 ? 's' : ''} ago`;
                 return `
-                    <div class="update-item pr-item" data-url="${pr.html_url}" style="cursor:pointer;">
+                    <div class="update-item" onclick="window.open('${pr.html_url}', '_blank')" style="cursor:pointer;">
                         <div class="update-item-header">
                             <div class="update-item-title">PR #${pr.number}: ${pr.title}</div>
                             <div class="update-item-timestamp">${timeAgo}</div>
@@ -1122,7 +1075,7 @@ function displayGitHubUpdates(data, type) {
                 const diffDays = Math.floor(diffMs / (1000 * 60 * 60 * 24));
                 let timeAgo = diffDays === 0 ? "Today" : `${diffDays} day${diffDays > 1 ? 's' : ''} ago`;
                 return `
-                    <div class="update-item release-item" data-url="${release.html_url}" style="cursor:pointer;">
+                    <div class="update-item" onclick="window.open('${release.html_url}', '_blank')" style="cursor:pointer;">
                         <div class="update-item-header">
                             <div class="update-item-title">Release: ${release.name}</div>
                             <div class="update-item-timestamp">${timeAgo}</div>
@@ -1137,16 +1090,6 @@ function displayGitHubUpdates(data, type) {
             break;
     }
     githubResultsDiv.innerHTML = html;
-    
-    // Add event listeners for GitHub items
-    document.querySelectorAll('.commit-item, .issue-item, .pr-item, .release-item').forEach(item => {
-        item.addEventListener('click', function() {
-            const url = this.getAttribute('data-url');
-            if (url) {
-                window.open(url, '_blank');
-            }
-        });
-    });
 }
 // Community Calls functionality
 function initCommunityCalls() {
@@ -1205,7 +1148,7 @@ document.addEventListener('DOMContentLoaded', function() {
             } else {
                 scrollToTopBtn.style.display = 'none';
             }
-        }, { passive: true });
+        });
         
         scrollToTopBtn.addEventListener('click', function() {
             window.scrollTo({
@@ -1319,7 +1262,7 @@ document.addEventListener('DOMContentLoaded', function() {
             } else {
                 scrollToTopBtn.style.display = 'none';
             }
-        }, { passive: true });
+        });
         
         scrollToTopBtn.addEventListener('click', function() {
             window.scrollTo({
