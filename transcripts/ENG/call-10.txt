@@ -1,0 +1,174 @@
+
+00:00:01 - 00:01:05
+So, welcome everyone. Thank you so much for joining this uh first of the summer community call I would say. And you can feel it already, right? I mean, I'll be alone in this one. It's a first in the history of the making, but it's okay because some people are having their welldeserved holidays. Magnus is in a conference at the moment. Everyone everybody is busy doing something. And I feel pretty confident also uh doing this. It's the 10th edition. So we got a lot of experience in doing this and I already know you and
+
+00:01:06 - 00:01:53
+I feel really relaxed with you all you guys. Let me go shortly over the agenda so we you get to know what what you're going to be speaking and why we gather today. This month, this month for those of you who follow and most of you follow of course I know this has been very eventful in the terms of um announcing partnerships and we get partnerships with Bloom Tora. I'll go more into details later on to to show you what uh why those projects are important for us. Also, we got the opportunity to whitelist uh give whitel
+
+00:01:54 - 00:02:45
+list to some of our membersh uh NF drop and those of you who got the got the NFT will be able to get the special TM roll. Uh this month we also got the the crazy genius creation of uh Mr. Almighty Rahill that created the Yapro. It provoked some controversy, but later we can look at it and and see why actually is really important for us and how it's helping the community grow. And uh yeah, let me close those comments here so I can get to see how many of you are already. We also uh are near really near the the
+
+00:02:46 - 00:03:14
+release of the mascot. Okay, I was thinking to release to to make a review today, but I I'll leave this like official campaign we can do. Some of you guys uh have already seen it and this is named the pirates of course those people in advance because they are the most involved people. So we got to ask them for their opinion about how things are going and whether they like it or not. And we tried some iterations with the designer is between us. Actually I see him Abdullah and to see whether those
+
+00:03:15 - 00:03:58
+suggestions really make sense and whether they aligned with our brand. So and the review will be made I guess the beginning of next month whenever this is like final versions are locked. So, it's pretty cool. And what else we got? What else we got? Um, yeah, we we have a u some some new members joining the pirate club for their contributions and continuous support. Also, they're achieving unlocking the role with um either with invites or by other means like climbing this ladder with the point. So
+
+00:03:59 - 00:04:28
+that's what I can say. We we're going to see who are the people that were most active. So stay with us till the end. Of course, I mean actually it's not even in the end, but yeah, I I can reveal this to you a bit later. Uh we have one pirate and one ler that goes to the people that contribute the most this month. And of course we you get some developments uh on the background. We're making a new website. So I wanted to update you on this a little bit. This going to help with onboarding of new
+
+00:04:29 - 00:05:08
+customers and give more visibility like the moment now we are already deployed and as you see are boarding more and more partners. So this this new website is specifically designed for this to make the the whole process of uh those partners more easy so they can get to learn quicker about what we're doing with the product page and things like this. So if things go as planned, website will be live either by the end of next month or in the beginning of uh August something we're working for some time
+
+00:05:09 - 00:06:04
+now and uh yeah that's the overview. So we got a lot of partnerships as you seen some media coverage also um because of the act we got the attention of the media also and uh yeah those deployments so let me go through a little bit more in details like the partnership with plume why it's important for us and with this partnership we are bringing trust to RWA and defi So plume brings the real world assets like bonds and real estate on chain and blocks make their pricing verifiable and transparent. So together
+
+00:06:05 - 00:06:37
+we run financial data into auditable compliant and scalable onchain product unlocking defy that u institutions can trust. It's we can we can call it like a proof based finance. Okay. And it's really important for in general RWA is seen as a huge opportunity for the whole blockchain space and any project that is in the space it's uh going to bring new more new customers bringing already their existing business on chain. So we are very happy to be coordinating and cooperating with Plume on on this.
+
+00:06:38 - 00:07:34
+Another partnership that I'm sure you did not miss is the T. Um they'll be using our verifi verifiable price speeds to power their EVM compatible layer one uh which is built to bring Ethereum Dubs into Telegram. It's hard to like explain or imagine even the the the importance of integrating those systems together and um the gap between blockchain, the tone network and Ethereum to make work uh existing Telegram client u members already with the the blockchain technology and given the opportunities
+
+00:07:35 - 00:08:21
+is definitely amazing. And um also we got the our Aurora partnership that came this month which uh the our team will be using our verifi verifiable this word is amazing. This is the core of uh what block block senses right the verifiable verifiable price feeds to support their D5 applications on their EVM compatible layer built on top of uh near protocol. Um that's uh that's on the the partnerships that we got on technical integrations and uh this lead to media appearance like um article desk they u you today
+
+00:08:22 - 00:08:48
+and coin media and those media they outlined and highlight the role of block sense in the future of defi and the consensus mechanism that we are developing that's really novel like this shelling coin mechanism Many of you have probably seen the articles already about it that we write, but um yeah, you can go go and check again what the media says about it and learn more. That's truly re revolutionary what uh this uh consensus we we are trying to achieve with this consensus algorithm. I'm very happy that
+
+00:08:49 - 00:09:33
+um I'm part of this development and once again I want to greet all the new members that join now. I see we're already 72 people and super happy to have you guys here on this uh for me really hot summer day. So still it's one of the greatest pleasures for me is uh meeting the community and uh during the last call you did not see me because I was in the background but you could get to know all the founders and the big team also product in Mar Magnus. So this was really important I would say um just
+
+00:09:34 - 00:10:20
+to coordinate everything and today as you can see I have the stage for myself and the pleasure to be with all of you here in uh what else we had guys I mean beside those media appearances um Magnus was speaking yesterday in AMA with Farus and uh he was uh explaining how we provide essential data in to link powering again the future of RWA and far. So you see no no matter the project I mean every group has space um and a reason to exist and all projects will be tackling different different problems and they
+
+00:10:21 - 00:11:04
+will tackle them in different ways and I'm very happy that block sense is able to to serve all those needs and this is how the protocol is designed so I'm really bullish on this and really happy to see it um on on the other hand, Martin was speaking on u another podcast that was uh AMA actually behind the st with the Aurora team and yeah they there were again about the importance of the whole ecosystem and how we can support each other. We had amazing poker nights for all of you popular maniacs. I would say now
+
+00:11:05 - 00:11:42
+based on what you see uh I'm very happy that since we grown into a larger community we had poker night with uh one with Caldera one with Gonoma and more actually to come. I think some of you contributed to the how to say to this partnership to happen just maybe sometimes by mentioning those teams or whatever but yeah I'm I'm really happy we get to partner with nice teams and have fun together bringing blockchain communities like uh it's a amazing mission I see there's no need to fight who is better
+
+00:11:43 - 00:12:23
+we just have fun being together support each other so And of course more more partners on technical side and also on the um yeah also in the in community side will will be coming as we are uh growing our community is growing. We're more and more important and so every everyone now wants to make uh events with us which is normal and we also like it. So this is great way to do it. Um, let me see on the community updates and maybe I'll check if you guys have some questions. Normally ask her here to
+
+00:12:24 - 00:12:54
+gather your questions, but let me see how things are going. Everybody's uning. It's cool. Yeah, I let you guys in the end of this call. There already around 10 questions. So, I'm not sure if I'll be able to answer all those questions, but we can glare some more questions and try to answer as many as possible. So on the community side uh each one of you are absolutely amazing and uh what I said earlier there's all the holders of Takman they will get a special role. I am not informed when this will happen.
+
+00:12:55 - 00:13:47
+always like a surprise but I I'm sure pretty soon because now yeah might I see some guys NFT actually they use the traits of box sense as I did this in in some of you and you guys going to get this uh special roll of course and okay my note here is the Yapot and its community engage model. But one thing I'd like to clarify because when the YAB boat was introduced, some some of you didn't like it. Some of you were asking what's the purpose of this leaderboard if it's uh going to
+
+00:13:48 - 00:14:13
+each week? What are those going to serve? And okay, let me answer those questions. So, no worries. The goal with the EAB board being bring to zero is so when new people join they get also excited and they are part of this competition. They can be on the board of the week or the B weekly board. This kind of makes sense, right? But all the points that you guys gathered from before they are still kept in a in a file and nothing is lost. Okay, we we have mentioned this many times in the past. We keep d track track of all your
+
+00:14:14 - 00:14:57
+contributions, activities and uh yeah your rewards will be um rewarded based on your contributions of course and uh yeah the yapot is a great way uh for those of you who are still wondering what's the purpose to educate uh each other like there are new members in the community some of you have been with us for quite some time doing, right? So, it's very easy because you put some effort to transfer this effort to the people that are asking questions that want to learn about the product and to get rewarded for it. Like
+
+00:14:58 - 00:15:49
+this happens automatically. When I said we have an eye on your contribution, this is a great way because it's automated. There's no Thank you, man. There's no way to um for this to be lost. Okay. So, this is absolutely transparent and it's a great way to do it. This is what I like. And yeah, so the Ybot is amazing. It's something unique also to block. There are no many communities that are doing it. It can also track X. So you just need to paste your post in the special channel and let the bot will see
+
+00:15:50 - 00:16:31
+whether you're not there's no fun in trying to cheat only to get the points right. I mean this sounds like okay we gain the system but in the end of the day this is a tool to help us learn and to reward those who are like providing accurate answers and with the time everyone reading those comments you'll be like u having the the view of what what's going on what is block sense which is kind of complex system but um yeah It's not something that you cannot learn and actually that's the goal also of this
+
+00:16:32 - 00:16:51
+community to support each other to learn from each other and to grow and I can tell you I've been this in this project from the very beginning and I learned many things but uh I come into this position because I've been in other projects in the past and I've been in the space and I learn terms and how things work and this helps me to be here today and to understand what block sense is doing and how things are working and to see also our project and to understand whether they are valuable for us or not and to decide
+
+00:16:52 - 00:17:31
+whether we make partnerships with them. Um I'm not always the one that is deciding whether we make partnership with projects of course just but uh on the community side it's me and Rahill basically so yeah it's good that we have some understanding about how things work and I move to the next point which is the mascot and for now it stays like uh a little bit the secret I mentioned it earlier but I won't do the official uh review today cost. So yeah, it's I did not confirm whether the
+
+00:17:32 - 00:18:28
+version that we shared is locked and this is what is going to be and I'm just announcing it's going to happen very very soon. I'm happy um how people like react on the the picture the image the Moscow was well received. So pretty cool. It's part of our identity. And we move into the part of recognizing the effort of you the community members and those of you who've been the most active. Uh there are many people I can mention Abdullah and people that I know better contributions
+
+00:18:29 - 00:19:10
+also joined recently the pirate club. Um, those are the guys I see on my window, guys. I mean, maybe some of you are somewhere near. Of course, Mi Brown, what to say, man. You brushes. Well, you But I I kind of recognize based on your contributions. But this month, the most active guys mean from uh the Vietnamese community. And for this he's getting the congratulations. And uh the other has been amazing support in the last few months and it's getting the pirate row is race on seal. Congratulations man. Welcome to the
+
+00:19:11 - 00:19:59
+pirate club. You just discover how cool is to be a pirate when you join. And this is one of the most uh like special special how to say special division of boxes the pirates and we have plans in uh educating more the pirates and uh doing really cool things together. Those things started already with boosting content from either from people from the community or people from the team. We bring this uh more and more see how it works and also support you guys in in this process. Now we are I'd say mature
+
+00:20:00 - 00:20:25
+enough as a project to be doing more improvements of what we've been doing in the past and of course grow it even further. So congratulations to those guys and thank you guys for your contribution once again. Uh on my fourth point, it's you can see because I'm I'm I'm by myself, things are going pretty pretty quick. It's like I'm a talk machine now. There’s so many things to say, but I I'm happy because I have a little bit more time to answer your questions in the end or just have
+
+00:20:26 - 00:21:07
+like a chat. But let let us go to to the official points. I I consider the most important for this month. And uh one is on the the marketing and product and this is the design of the new website that I mentioned. It's on the making. Um it matters because this is u like a first point of contact when new partners or members come and they they want to see the the initial website was cool and you remember we did some redesign of course but there are things that can be improved especially now that
+
+00:21:08 - 00:21:57
+we are already start being live and uh we are already on 60 networks uh deployed and more to Come. I I love how we say this all the time and this actually true because the moment we start finding \$1 products, the team working on another. So we can like now the most uh the first one that we have is the price feeds and the the push model. But uh we'll be working on more um like a model which this will be much quicker and of course we'll serve another use cases. So depending on our stage of development and the the
+
+00:21:58 - 00:22:29
+protocol what stage we are we'll be um able to serve other use cases and other projects. So having a nice place like a website to welcome those people and to provide them with information is essential. that's why we've been working on it. um is greatly involved in this uh initiative is Stella from the marketing team and also design guys and the founders which are making the uh yeah the whole process everything looks smooth and beautiful so you guys can learn even more about the perfect
+
+00:22:30 - 00:23:26
+and this month there will there is one event that we prioritized I know there's I don't know chain week. Um yeah, we we didn't send a person there, but uh Magnus is currently in uh ETC uh K and he'll be representing Bloxson this time not as a speaker but uh uh like a business I would say person that is going to be interacting and be involved with communicating with more projects in the space and help us find even more more valuable partners. So that's why that's why he's there.
+
+00:23:27 - 00:24:02
+And yeah, as I mentioned, I was pretty quick being by myself. So I would like to for one give the opportunity to someone. If you want to guys jump on stage and say something or type a question here, I give you a little bit of time. I ask your h to gather those questions. Maybe he put it in the special document I've prepared. If not, I'll just go through the questions I received uh earlier. Just give me a moment to get some more. How's everybody feeling? Do you guys find this information uh useful? Do you
+
+00:24:03 - 00:24:44
+get excited about what you hear? I mean, let me get the community vibe. I'm happy to have this supportive community honestly like uh I feel much love actually when I said this and I remember that ask do you wanted to say something on your behalf and say tell them I love them. So if he never heard the hill saying to the whole community I love you. So okay, let me switch to the questions. We got around 10 questions. I think pirates
+
+00:24:45 - 00:25:38
+love each other too, man. Absolutely true. Let me position this document here. So time you guys could ask a lot of questions founders themselves. I see every time there are new people, every time there are like new or how to say, yeah, new situations, new things to learn. I just want to mute this because it's really going crazy. I can just mute it, right? Okay. others. You guys hear me if I stop the sound like this? It's really important to know now. Can still hear my voice. Give you a second.
+
+00:25:39 - 00:26:20
+Yeah, this is what I did there. There's I'm in so many channels and people still like just tell me guys if you still hear my voice. Okay, amazing. Thank you for confirming this. So let me go through the questions. A very I don't know I don't have the name now but uh I want to know the road map of boxes. I guess everyone wants to know the road map of course. Uh is the entire framework of boxes completed? Will be there more project cooperation in the future? Which projects do you prefer to cooperate with? Okay, this is
+
+00:26:21 - 00:27:28
+a great multi-art question. Let me answer in a very simple way so everybody can like get this. We have discussed this in the past and um blocks uh vision is to be completely decentralized and permissionless protocol. But to get to this point, we have three stages. And the first stage is uh rolling out now with a proof of authority network with the uh pre-selected set of validators which are going to run the nodes and that's the first step we are in right now. The second step will be the layer AB as
+
+00:27:29 - 00:28:51
+integration for greater security of the protocol. That's that's where we're going next the moment and it's like uh in development and the third stage will be when we became a fully decentralized protocol when we get the ZK circuits built. So um the consens will be running completely permission and uh yeah then everyone can run a node everyone can can uh create feeds and that's the vision of block sense to allow this to this to happen. So it's pretty exciting and pretty big. It's not going to happen
+
+00:28:52 - 00:29:48
+overnight. We knew this when we started building this. So those are the the steps in the road map that we are following right now. Uh will there be more project cooperation in the future? Of course. I mean we're just getting started bro like this is uh the way this protocol is designed the way the our vision what our vision is that uh we bring more and more protocol in the Ethereum ecosystem. So but there will be also SVM and MDM. So any uh we we're going to be moving from one like Lego system to another to be able to
+
+00:29:49 - 00:30:25
+provide this pretty easy due to the design of uh Luxens. Uh which project do you prefer to cooperate with? Um the focus is on uh chains that are just starting and to be able to serve them as quick as possible. So we remove this uh entry barrier for them. with the Noi implementation and uh uh noi integration I'll say um and yeah and they can program the feeds that they need that they'll serve their use case even beyond uh beyond defi. So those are the use case and the chains and the projects we we look to
+
+00:30:26 - 00:31:09
+serve and that's also the differentiation of uh block sense to other other I would say oracles and you should know that blocksense is not this way more than oracle it's beyond oracle but we start with this like a first first use case I would say okay uh second question will native tokens be issued in the future ecological expansion partnership. Okay, this a little bit covers also some part of the road map and milestones that I answer already but yes uh there's a there's token in the
+
+00:31:10 - 00:31:58
+road map and it's a token with very strong utility. The token will serve uh help us to secure the network. So it's uh not just some hype token that you wonder what to do with it's directly implied in the securing creating servicing everything that is part of blocks and ecosystem will require the token. So that's um it's a great way to to use the token also to secure the network. Hope this answer your question. uh most apps trles blindly should shouldn't users be able to verify how
+
+00:31:59 - 00:32:27
+data was sourced with boxes the first step oral transparency and also how does blockers plan to retain users in the long run. So let me go to this. Um we can definitely look at blocks as uh indeed a step in the right direction regarding data transfer because all of our Oracle scripts uh are required to be open source and that's that's by design and that's the vision cost. Remember that we said very early on the oracles are the maybe last missing part of that is centralized at the moment and the vision
+
+00:32:28 - 00:33:33
+of block sense is to completely decentralize this part. So finally get to live to the vision and the potential of this blockchain technology where there are no intermediaries and you don't depend on third parties and you don't have to ask for permission. So that's my answer to your question sir wherever you are thank you for your question. Question number three how do valid datators on different chains verify zk proofs? Do they require special verification contracts and how does block sense adopted zk setup across
+
+00:33:34 - 00:34:10
+different chains? Um, okay. The ZK proofs are verified in smart contracts like in any other protocol based on ZK proofs. So that's that's how that's how it works. That's what um uh because uh this mechanism we use the underlying layer to verify the verastian also publish only the the um only the proof on chain and and the zk part helps you proof a test that this has been correct. So you don't need the whole complex uh computation again just we it's enough to trust uh only one of these operations of
+
+00:34:11 - 00:35:01
+course of multiple parties so you're sure that is correct okay so will block long-term revenue model rely on data usage fees APIs uh access licensing or enterprise B2B integrations with financial platforms. If there is a native token, what role it will play in securing the network, capturing value, and incentivizing ecosystem participants? As you can see guys, some of those questions overlap. Um, I already replied about the importance of the token for the for the economy and for the security of the network. So I
+
+00:35:02 - 00:35:43
+just um just bring the new uh new information here and I'm sure you follow. So there will be several ways to earn money in the blockchain network and one is to be an old operator. To make it clear, this will be again available only when we hit on stage three of our development, which means when we became a fully permissionless decentralized network and we move from the proof of authority to shelling coin that we are shingcoin mechanism that we are developing ourselves. Um and the other way to get rewards is as
+
+00:35:44 - 00:36:32
+an Oracle script creator and to answer boxes will be getting some parts of those feeds uh divided with the script creators. This will most likely lead the vision is such that this will most likely lead to a marketplace where we will have a lot of offering of already ready fees feeds and data data feeds we can say that can be used and the more people want this like is super super common then to most likely the offer better price will be much much cheaper than the existing um on demand and let's say solutions that we have.
+
+00:36:33 - 00:37:08
+Okay, let me go to the next question. Okay, and I see where getting some questions also added. So I have few more questions. Um, is the blocksense team thinking of collaborating with Caldera? Short answer, yes. Caldera and its meta layer connects desperate networks and blocks is the bridge between the real world and blockchain. I think we could be it could be useful to each other and I think we are okay. Um the answer is yes. We are we already in discussion and um there is a a partner that is going to
+
+00:37:09 - 00:38:14
+enable Box to serve to all the networks um yeah in their ecosystem. So it's pretty pretty quick integration and uh massive indeed. We had the poker night with them. We're also in discussion of making other things but the business team is now in um making progress in the negotiations and the moment things are official they will be of course announced. So thank you for this question technique because I remember who asked me this question. Uh is blocks coming to Ka? How to answer this question guys? Uh it
+
+00:38:15 - 00:38:43
+makes sense to for box to be in Ka I would say like maybe 6 months ago. Okay. Then like leaderboard. Yeah. So that makes sense. But uh now people complain about how things work on Kon. I don't think uh our vision and plans to get there. We actually have our own bot uh that is doing if not similar like um yeah pretty similar job. The only difference is you the community are the yappers and uh you're the ones getting the points instead of waiting for like a third party provider to to say what is what is
+
+00:38:44 - 00:39:27
+right, what is not. and your contributions are directly uh related to to the project. So it's in a way it's more easy to track and it's much more efficient than general general K2 K2 world. Of course I'm not the one to have the foot on it. So I let this open and if it happens so in the future it means that we decide it's a it's a good idea and it makes sense for us. for now it's not a part of discussions that I'm aware of and uh so I say I leave it leave it open like this
+
+00:39:28 - 00:40:00
+okay concerning chain link which we all know the first mover in the space integration with Mastercard that helps cement global adoption how can attract top players that help global adoption. We are as I mentioned already partnering with projects that are building uh in RWA and uh that's that's something new to the space and bring all those projects uh it's unlocking a lot of opportunities. So even if you don't know the project like Mastercard tapping into already existing uh industries will definitely benefit not
+
+00:40:01 - 00:40:54
+only us as a project but also the entire space because let's be honest let's see I mean what happens if we remain in the only the existing current model and what what is there it's only smart contracts passing information to each other right so it's even if there are uh 10fold increase in smart contracts or thousand folds of increase. There is pretty much the same data that is passed between different smart contracts and different UI applications but kind of pretty much having the same logic right and
+
+00:40:55 - 00:41:52
+introducing new asset types like uh let's say properties or anything that comes to your your mind that can be commoditized like the like you can say gold or any any real world assets this will uh definitely bring uh the space to next level and that's also the vision of block sense to enable even a more unheard of use cases with the proable oracle that we are with the script that you can write for yourself and to serve the needs that you have. So guys uh yeah this was the last question. I'm really happy I managed to
+
+00:41:53 - 00:42:24
+go through this in only 45 minutes like at non-stop talking. But actually, it's pretty pretty cool. I'm happy to see also 108 who is booted here. 108 members. Uh, one just dropped. Come on. sabotaging my my example to to say that we are like a peaceful peaceful community of pirates uh sailing the seven seas together and uh yeah it was much much be [Music] some questions maybe I can maybe I can answer or Are you guys satisfied with what you hear? Do you is there some information that is missing for you or like how do
+
+00:42:25 - 00:43:04
+you feel about blocks after hearing this? That's that's important. See people already commenting on the partnerships that we have and how this will help us grow. So it's pretty cool. Chat can continue. Um, I think we can can bring the the call to an end. Um, really happy to see you all on this call again and next time I'll learn some words in Nigerian. I promise. Um, I'm really happy to learn new languages. Although I'll never be a master in it, but um, at least to greet you guys then.

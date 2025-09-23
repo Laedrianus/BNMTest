@@ -1,0 +1,248 @@
+00:00:00 - 00:00:41
+Bugün Magnus ve Gogo ile birlikte olmaktan gerçekten mutluyum. Onları tanımayanlar için belki herkes bir kelime söyleyebilir. Nasılsınız çocuklar? Sadece gününüz nasıl? Nasıl hissediyorsunuz? İyi gidiyor. İyi gidiyor. Evet. Her zaman olduğu gibi yoğun zamanlar. Son bir aydır çok yoğun bir ay geçirdik, ürünü şekle sokmak ve ana ağlarda canlıya geçmek için. Yani evet, iyimser hissediyorum. Heyecanlıyım. Biraz yorgunum ve bugün herkesle BlockSense'de neler olduğunu açıklamayı ve konuşmayı dört gözle bekliyorum.
+
+00:00:41 - 00:01:18
+Vaktini ayırdığın ve toplulukla neler olduğunu paylaştığın için teşekkürler çünkü herkes bilmeyi seviyor, bilmeye ihtiyacı var neler olduğunu. O yüzden Google'dan da kısa bir kelime duyalım ve sonra gündemin gözden geçirilmesine geçelim ve bugün ne hakkında konuşacağımızı bilelim.
+
+00:01:18 - 00:02:06
+Evet, yani herkese katıldıkları için teşekkürler. BlockSense'de oldukça yoğun geçti. Evet ve aynı zamanda kişisel olarak da oldukça yoğunum ama en azından eşim geçen hafta hukuk fakültesinden mezun oldu, ailede bunu kutluyoruz ve evet BlockSense ile okulla ilgili şeylerle ilgileneceğiz.
+
+00:02:06 - 00:02:45
+Bu gerçekten harika. Tebrikler. Bazı insanların büyük silahları çıkardığını görüyorum. Hukuk fakültesi kesinlikle büyük bir şey. Ve tamam, gündemin kısa bir önizlemesini yapalım. Bu ay en heyecan verici şeyler neler? Sanırım inşa ettiğimiz şeyler ve tüm ortaklıkların yanında benim için birinci sırada gelen şey yasama ortamı ve ABD'de geçen Genius Yasası. Gelecekte gelecek her şey için alana gerçekten olumlu bir bakış açısı getiriyor çünkü şimdi Genius Yasası, Clarity Yasası, Stable Yasası ve her şeyle ilgili tüm bu düzenlemeler var ve BlockSense bunun neresinde, bu yeni stable coin dalgasına nasıl hizmet edebiliriz.
+
+00:02:45 - 00:03:19
+Bu soruyu Magnus'a yönlendirmekten memnuniyet duyarım çünkü üzerinde çalıştığımız ürün olan peg-aware oracle'lar ve alana getirdikleri güvenlik konusunda farkında olduğunu biliyorum. Mark, bu konuda ne söyleyebilirsin? Neden önemli? Neden büyük haber olduğunu düşünüyorsun? Kesinlikle büyük haber ve fırsat olduğunu düşünüyorum.
+
+00:03:19 - 00:03:51
+Evet, kesinlikle. Kesinlikle. Yani stable ve genius yasaları. Trump bunların adının kendisinden geldiğini söyledi, stable genius sorumlu. Yani kesinlikle büyük etkileri olacak. Bu düzenlemelerin sonucu olarak bazı kısıtlamalar var tabii ki. Yani özellikle ICO'lar etrafındaki düzenlemelere bakarsanız mümkün olan şeylerin kapsamını da sınırlıyor. Aslında ABD vatandaşlarının bunlara katılmasına açıkça izin veriyor ama hangi tür projelerin ICO yapabileceği ve alım satım şartları konusunda oldukça güçlü kontroller koyuyor ki bu çok beklenen bir şey ve herkesin düzenleme hakkında söylediği şey netlik olmasa bile netliğin daha kısıtlayıcı olması netliğin olmasını tercih edersiniz ve bu yüzden bunun sadece daha fazla projenin özellikle kurumsal alanda katılmasına yol açacağını düşünüyorum.
+
+00:03:51 - 00:04:25
+Yani küçük DEGEN projeleri muhtemelen düzenleme konusunda her zaman daha az endişeliydi ama daha büyük fintech ve kurumsal türdeki oyuncular kesinlikle büyük projelere geçmeden önce bu onay işaretine ihtiyaç duyuyorlar çünkü kaybedecekleri çok daha fazla şey var. Ve zaten görüyorsunuz, Robin Hood Arbitrum stack üzerinde bir L2 başlatıyor. Optimism üzerinde yakında başlatacak olan fintech'ten büyük bir duyuru geliyor. JP Morgan'ın Bass ile ortaklığı gibi bir sürü şey oluyor, web 2 ve fintech ve kurumsal alanda her şey şimdi oluyor.
+
+00:04:25 - 00:05:01
+Ve tüm bu oyuncuların da stable coin'ler başlatmak isteyeceğini düşünüyorum çünkü müşterileri için arka planda işlem yapmanın daha verimli bir yolu ve sadece daha düşük maliyet değil aynı zamanda getiriye de erişim sağlıyor. Bu bizim için anlamı çok daha fazla stable coin'in piyasaya çıkacağı ve daha da fazla türde stable coin olacağı. Çok vanilyalı türde hazine, ABD Hazinesi destekli stable coin'ler var, ve sonra gayrimenkul veya kurumsal borç veya diğer türde enstrümanlar gibi diğer RWA'larla desteklenen daha egzotik olanlar var.
+
+00:05:01 - 00:05:33
+Ve bunların hepsinin çok farklı profilleri ve çok farklı risk profilleri var. Ve bunların DeFi'ye entegre edilmesi için bu tür özelliklerle başa çıkabilen akıllı oracle'lara ihtiyaç olacak, bu farklı stable coin kurulumlarının özellikleri ve bununla gelen DPEG türleriyle başa çıkma. Çünkü stable coin'in yaşamının erken aşamasında DPEG'e çok daha yatkınlar, ama her zaman düşük likidite varlıklar çünkü staking mekanizmaları nedeniyle.
+
+00:05:33 - 00:06:06
+Yani aslında her zaman yüksek DPEG riski var. Ve biz BlockSense'de bunu özellikle ele almak için tasarlanan peg-aware oracle'larımız var. Çoğu insan bununla ilgili aşina değil ama DeFi'de özellikle borç verme protokollerine bakarsanız mevcut durum teminat olarak kullanılan stable coin'lerin değerini sabit kodlamak eğiliminde. Bu, Morpho gibi bir yerde USDC'ye karşı borç alıyorsanız, Oracle beslemesinin aslında sadece 1.0 sıfır sabit kod olduğu iyi bir şans var ve bu açıkça USDC DPEG yaparsa veya daha egzotik türde stable coin'ler teminat olarak kullanılırsa piyasanın bunu görmeyeceği anlamına geliyor.
+
+00:06:06 - 00:06:38
+Piyasa hala 1.0 sıfır döndürecek ve sonuç olarak o piyasadaki borç verenler bilançolarında kötü borç biriktirecekler çünkü olması gereken likidasyonlar olmayacak. Ama aynı zamanda stable coin'lerde bu 1.0 sıfır sabit kodunu görmenizin tarihsel bir nedeni var. Ve bu düşük likiditeye sahip ve sadece zincir üzerinde işlem gören bir stable coin'in piyasa oranına sahipseniz, düşük likidite nedeniyle manipüle edilebilir.
+
+00:06:38 - 00:07:11
+Ve bu yüzden saldırganlar gelip flash loan ve tek blokla stable coin'in fiyatını değiştirip borç verme piyasasından çalabilir. Ve bu yüzden piyasa oranına sahip olmak da bir anlamda riskli. Gerçekten ihtiyacınız olan şey her iki dünyanın da en iyisi. Bu ikisinin karışımına ihtiyacınız var. BlockSense'den peg-aware oracle'ların sağladığı şey bu.
+
+00:07:11 - 00:07:45
+Yani stable coin peg'de olduğunda sadece 1.0 sıfır sabit kodu döndürüyoruz ve bu borç alanları bu tür dalgalanmalardan koruyor çünkü stable coin'ler nadiren gerçekten 1.00'da, 1.001 veya 0.998 dolar civarında ve stable coin açıkça peg'de ve temeller iyiyken bu tür dalgalanmaya sahip olmanız gerekmiyor. Ama sonra hassasiyet aralığının dışına çıktığında piyasa fiyatını döndürmeye başlıyoruz ve bu kötü borcun piyasalardan temizlenmesine izin veriyor.
+
+00:07:45 - 00:08:19
+Bu belki uzun bir sapma ama DeFi oracle'larında ve özellikle stable coin'lerle yaptığımız yenilikçi şeyler hakkında bir tat verebilir. Bu aslında stable coin'lerin ötesine geçiyor. Liquid staking token'ları, restaking token'ları için de geçerli. Geçen hafta staked ETH token'ının DPEG yaptığını görmüş olabilirsiniz, aynı tür peg koruması bu tür varlıkları kullanan borç verme piyasalarını da koruyacak.
+
+00:08:19 - 00:08:53
+Yani evet, düzenlemeye geri dönmek için, iyi çünkü daha fazla oyuncunun oyuna girmeye ve kendi stable coin'lerini başlatmaya istekli olacağı anlamına geliyor ve bu daha fazla insanın oracle'lara ihtiyaç duyacağı ve DeFi'de stable coin'leri fiyatlandırmanın beraberinde getirdiği doğal risklerle başa çıkmayı öğreneceği anlamına geliyor. Yani önümüzdeki haftalar ve aylarda bu konuda iyi bir büyüme görmeyi bekliyoruz.
+
+00:08:53 - 00:09:28
+Teşekkürler. Topluluğun bunun hakkında nasıl hissettiğini duymaya gerçekten hevesliyim. Evet, yine bazı heyecanlı çıkartmalar görüyorum. Ve BlockSense'in bu pazara atlamak ve alanda ortaya çıkan tüm yeni ve büyük oracle stable coin'lere değer sağlamak için ne kadar iyi konumlandığını oldukça iyi açıkladın.
+
+00:09:28 - 00:10:04
+Ana akım bankalar ve kriptonun öldüğünü düşünen herkesten gelen oracle stable coin'ler için. Yani 10 yıldır bunun hakkında konuşuyorlar, favori adamım Bay Jamie Diamond. Hayır, her zaman kriptonun öldüğünü söylüyordu. Bu bir dolandırıcılık. Ve şimdi onlar da bazı şeyler yapıyor. Sonunda herkes kalabalığı yenemeyeceğinizi ve teknolojinin verimliliği nedeniyle sadece bununla rekabet edemeyeceğinizi anlayacak.
+
+00:10:04 - 00:10:50
+Bu benim düşüncem. IC insanlarının genellikle bu konuda heyecanlı olduğunu duymak istiyordum. O yüzden bir sonraki adıma geçelim ki bu ortaklıklar ve altyapı ve Divide George'da listelenen birkaç proje var, plasma, Forest test ağında canlıyız, aynı zamanda Hyper EVM'de ve Tuck'ta da canlıya geçtik. George bir veya iki proje hakkında konuşabilir ve Mike istersen sen de katılabilirsin.
+
+00:10:50 - 00:11:26
+Bu kısmı seviyorum çünkü konuşma yapabilir ve neden önemli olduğunu, bu projelerde olmanın neden heyecan verici olduğunu ve bunun genel olarak ilerlememiz için ne anlama geldiğini görebiliriz. Bu konuya atlamak ister misin? Evet, yani evet, bunların muhtemelen daha heyecan verici yükselen ekosistemlerden bazıları olduğuna inanıyoruz. Açıkçası herkes HyperLiquid'e gerçekten ilgi duyuyor ve tüm DeFi ekosistemi bu borsa etrafında kuruluyor.
+
+00:11:26 - 00:12:05
+Bu yüzden canlıya geçtik ve orada inşa eden birkaç protokole destek olmak için onlarla konuşmaya çalışıyoruz. Evet, açıkçası D ile NFT satışlarına katıldık ve test ağının ilk gününden beri onları destekliyorduk. Şimdi ana ağda da canlıyız ve birkaç projeyle konuşuyoruz. Evet, Faros hala test ağı ama çok havalı bir RWA protokolü ile çalışıyoruz ki kurumsal tahvilleri tokenize ediyor ve aslında tahviller ve hisse senetleri gibi birkaç farklı varlık türünü tokenize edebiliyor.
+
+00:12:05 - 00:12:55
+Yani oldukça ilginç bir proje ve çok büyüyen bir ekosistem. Bu yüzden önümüzdeki birkaç ay boyunca bu adamlara odaklanacağız. Evet, plasma'ya da odaklanmaya çalışacağız ki çok iyi yaptı. Stable coin'ler üzerinde tüm bu odaklanmamız var. Yani evet, bu ekosistemler hakkında çok kısa bir şekilde mantık bu.
+
+00:12:55 - 00:13:36
+Evet, teşekkürler. Sohbeti takip etmeye çalışıyordum ve cevaplayabileceğimiz sorular var mı diye bakıyordum ama bunu aramın sonuna bırakacağız. Çocuklar, sorularınızı oraya bıraktığınızdan emin olun. Mark, ortaklıklar ve altyapı konusunda bu konuya bir şeyler eklemek ister misin? Özellikle dahil olduğun bir proje var ve bu işin nasıl gittiğini paylaşmak ister misin yoksa George'un söylediğinin yeterince açık olduğunu mu düşünüyorsun?
+
+00:13:36 - 00:14:22
+George'un oldukça iyi özetlediğini düşünüyorum. Stratejimizin çoğu DeFi'nin durumunu ve genel olarak zincir üzerindeki uygulamaları gerçekten yükseltme potansiyeli olan yeni en hype, iyi finanse edilmiş, yüksek performanslı zincirlere çok erken girmek. Çünkü altyapımızın çok şey sağlayabileceği bir alan olarak görüyoruz. Yakında çıkacak düşük gecikme oracle çözümümüz var. Hatta fiyat olmayan veya DeFi olmayan kullanım durumları için bile benzersiz bir şekilde veri çözümleri sunabiliyoruz.
+
+00:14:22 - 00:15:02
+Zincir üzerinde AI çıkarımı, tahmin pazarları, zincir üzerinde sigorta gibi diğer türde daha gelişmiş veya zor kullanım durumları düşünüyorum ki bunlar çoğu zaman daha maliyetli ve aynı zamanda daha yavaş zincirlerde çok denenmemiş. Stratejimizin bu zincirlerle ekosistem hala yeniyken çok erken girmek ve gerçekten gömülmek ve bu en iyi entegrasyonlarımızdan bazılarının hala test ağlarında olduğu anlamına geliyor.
+
+00:15:02 - 00:15:48
+George'un zaten bahsettiği gibi Faros gibi birden fazla zincirde var ve bu ekosistemlerde çok gömülü hale geldiğimizi ve bunların bu yılın sonlarında ana ağlara geçtiklerinde karşılığını alacağını bekliyoruz. Yani bir kişi TVL'imizin ne olduğunu sordu, birkaç yüz milyon TVL'de borç verme borç verme hattımızda borç verme hattımızda aşamalar halinde ve bunun gerçekleşmesi muhtemel olarak sayıldığımız aşamalarda var.
+
+00:15:48 - 00:16:25
+Ama yine çalıştığımız protokollerin çoğu henüz TVL'e sahip değil çünkü test ağında. Yani şu anda ilerlememizi böyle ölçüyoruz ve sanırım gelecek. Ama evet, umarım bu da mantıklı gelir. George, orada kaçırdığım bir şey varsa eklemekten çekinme. Biri de HyperVM'de olup olmadığımızı veya HyperVM'de olmayı planlayıp planlamadığımızı sordu. Zaten oradayız. Şu anda Hyper EVM'de birkaç protokolle konuşuyoruz. Aslında bugün erken saatlerde onlardan biriyle konuşma yaptık.
+
+00:16:25 - 00:17:02
+Bu gerçekten fırından harika. Bu haberler için teşekkürler. Belki bunu kaçırdım ama özel ajanlar ve codex ile entegre olmak gibi çeşitli ürün yönlerine gidebileceğimiz bu temel altyapıyla şimdi sahip olduğumuz fırsatı tartıştık mı? George bunu bahsetti mi? Bu bir soru çünkü gözlerim sohbetteydi. Yani bu noktalara girdik mi bilmiyorum.
+
+00:17:02 - 00:17:38
+Bunun hakkında biraz daha konuşabiliriz. Evet. Buna dalalım. Bu açıkçası heyecan verici. Sanırım zaten farklı farklı kullanım durumlarına da hizmet edebileceğimizi söylemeye başladın, AI çıkarımına dokunan ama bunlardan da geçelim, ürünün fırsatı ve buradan gidebileceğimiz yönler hakkında biraz konuşabilir misin?
+
+00:17:38 - 00:18:11
+Evet kesinlikle ve George, sen de bir şeyler bahsetmek istersen atla. Şu anda pişirdiğimiz şeylerden biri ağda sahip olmak istediğimiz birinci parti uygulama. BlockSense ağı tüm türde girdi çıktı için evrensel doğrulama katmanı. Yani şu anda oracle'ları öncelikle DeFi için yapıyoruz ama bunun ötesinde birçok başka uygulama var.
+
+00:18:11 - 00:18:48
+BlockSense ağı olarak genel amaçlı hesaplama ağı ve bunlar hem web 3'ten uzanan web 2 kullanıcıları da dahil olmak üzere paralel yürütme mimarisiyle üretebildiğimiz son derece yüksek verime yararlanıyor. Aslında web 2 müşterilerine web 3'e "entegre olmaları" gerekmeden hizmet edebildiğimiz anlamına geliyor. Oldukça iyimser olduğum kullanım durumlarından biri güvenilir yürütme ortamlarını kullanmak.
+
+00:18:48 - 00:19:26
+Güvenli yazılım enclave'leri kodlama için ajanlar sağlamak için. Yani gizlilik koruyan kodlama deneyimi için AI ajanları. Cloud Code'da yapabileceğiniz kodlama veya OpenAI'nin Codex'i gibi çıkan tüm bu komut satırı araçları ve IDE araçları gibi AI destekli araçlara bakarsanız, aslında tüm kod tabanınızı bu LLM şirketlerine açıyorsunuz.
+
+00:19:26 - 00:20:04
+Ve bu gizlilik için oldukça büyük bir risk sunuyor. Geçen hafta çıkan bir makale var Sam Altman'ın söylediği, insanların sohbetlerinin mahkemede kullanılabileceğini ve avukatların OpenAI'den sohbet geçmişinizi çekebileceğini bilmiyorlar. Yani tüm kodunuz, terapist olarak veya avukatınız olarak. Evet, bunu okuyordum. Gerçekten şok edici. Yani kesinlikle bekleyebilirdiniz ama bu istediğimiz sonuç değil, değil mi? Yani bu yüzden gizlilik çok çok kritik.
+
+00:20:04 - 00:20:39
+Evet, gerçek avukatınızın sizin hakkınızda konuşmasını veya sohbetlerinizi kaydetmesini ve böyle sızdırmasını kabul etmezdiniz. AI'dan kabul etmeniz garip. Yani BlockSense, baktığımız uygulamalardan biri, BlockSense ağında öldürücü uygulamalardan biri olmak için geliştirmek istediğimiz gizlilik koruyan AI ajanları ki kodlama için kullanılabilir, terapist için veya yasal kâtip işi için kullanılabilir.
+
+00:20:39 - 00:21:16
+Bu tür birçok uygulama var ama BlockSense ağı ve TEE'lerle güvenilir yürütme ortamlarıyla bunu bir uygulama olarak sağlayabiliyoruz. Bir diğer ilginç olanı tahmin pazarları etrafında. Spor bahislerinin belirli bir alanına çok yatırım gördük ki bu esporlar. Orta Doğu'da buna çok büyük miktarda fon gidiyor. Bugün gerçek espor tahmin pazarları yok.
+
+00:21:16 - 00:21:47
+Ama bunun etrafında bazı doğrulama yapıyoruz ve egemen servet fonları ve bazı yatırımcılarla bu konudaki iştahın ne olduğunu görmek için konuşuyoruz. BlockSense'de sahip olduğumuz birinci parti uygulamalar için gidebileceğimiz başka bir yol olarak. Sanırım bunlar iki kutup kullanım durumu, bunlardan biri çok daha web 2 dostu.
+
+00:21:47 - 00:22:20
+Tabii ki o ajanlar da zincir üzerinde olabilir ama bunlardan biri daha web 2 kullanım durumu gibi görünüyor ve bunlardan biri çok web 3 gibi, tahmin pazarları doğal web 3 kullanım durumu. İnşa ettiğimiz şeyin genelleştirilebilirliğini gösteriyor ki her ikisine de hitap edebiliyor ve bunları birbirine bağlayan iplik, verifiyable yürütmeye ihtiyacınız olması.
+
+00:22:20 - 00:22:53
+Tahmin pazarında verilerin doğru alındığının, doğru bilgiyi yayınladığınızın doğrulanabilirliğine sahip olmanız gerekiyor ki insanlar fonlarını kaybetmesin. Ve benzer şekilde özel verifiyable AI ajanlarıyla, doğru modeli aldığınızdan emin olmak istiyorsunuz. Daha ucuz bir modelle kandırılmadığınızı ve yürütmenin ajanınızın konfigürasyonuna göre yapıldığını tam olarak doğrulayabileceğinizi.
+
+00:22:53 - 00:23:23
+Bu farklı kullanım durumları arasındaki gizli iplik bu. Ve burada dokunmadığım bir sürü başka şey var, çok uzun süre gevelemek istemiyorum. Ama eminim bunları başka bir topluluk aramasında ele alabiliriz. Ama sanırım darboğazımız gerçekten inşa etmek istediğimiz çok fazla farklı uygulama var ve şu anda en çok etkiyi almak için hangisini inşa edeceğimize gerçekten öncelik vermemiz gerekiyor.
+
+00:23:23 - 00:23:53
+Ama sanırım evet, bu son birkaç hafta içinde dahili olarak çok konuştuğumuz bir şey. Bu harika. Ve potansiyel çok büyük. Bu yüzden sadece bu aramda yaptıklarımızı bahsetmekle kalmayıp hangi yolları keşfettiğimizi de bahsederek bu konuşmayı burada açmaya başladığımızdan mutluyum ve bu geliştirdiğimiz teknolojinin potansiyelini açıkça gösterebilir.
+
+00:23:53 - 00:24:20
+Bu yüzden bu korsanları burada bulundurmaktan mutluyum ve ürün tarafında bir şeyler eklemek istemiyorsanız bir sonraki adıma geçeceğim. Ama bugün çıkan gerçekten heyecan verici bir haber var. Duyuruları takip ediyorsanız belki gördünüz ama sadece sohbete linki bırakacağım. Yepyeni web sitemiz var ve bunun üzerinde çalışan tüm ekibe selam olsun.
+
+00:24:20 - 00:24:55
+Web sitesine bakmak ve bize geri bildirim vermek istedim. Nasıl hissediyorsunuz? Vizyonumuzla uyumlu olduğunu düşünüyor musunuz? BlockSense'i temsil etmek için yeterince şık olduğunu düşünüyor musunuz? Tüm yorumlarınızı dört gözle bekliyorum. Ve pazarlamada, bu ay olan başka bir şey düşürdüğümüz maskotun sonucunu ve çıkartma yarışmasından sonra tüm çıkartmaları zaten görüyoruz.
+
+00:24:55 - 00:25:31
+Katıldığınız için herkese teşekkürler ve kazananları tebrik ederim. Üç kazananın isimlerini çıkaramadığım için özür dilerim. Ama evet, o insanların kim olduğunu biliyorsunuz ve çıkartmaları sunucuda kullanılarak övülüyor ve tanınıyorlar ve gerçekten havalılar. Teşekkürler. Görmek gerçekten eğlenceli. Bu zaman aldı ama topluluğun çok katılımı vardı.
+
+00:25:31 - 00:26:09
+Topluluk üyesi, çoğunlukla korsanlar sizden gelen önerilerden, bu maskota ihtiyacımız var, maskota ihtiyacımız var diyorlardı. Sonunda bir tane yapma noktasına geldik ama sadece herhangi bir tür maskot yapmak değil, korsan vizyonuyla uyumlu bir şey yapmak istedik. Ve korsandan daha açık olan nedir, korsan korsan tabii ki diyebilirim.
+
+00:26:09 - 00:26:46
+Ve Abdullah harika iş çıkardı. Bu harika maskotu yaptığı için Abdullah'a selam olsun ki hepimiz keyif alabiliyoruz. Bu yüzden bu topluluk pazarlama şeyleri etrafında bir sonraki adıma geçiyorum. Geçen hafta NFT'nin yaratıcısı Sean'ın Vogue tarafından röportaj yapıldığını düşünüyorum, işini ve hayata bakışını ve ayrıca hayatının parçalarını sunuyor ve bu tür dikkat çektiği gerçekten harika.
+
+00:26:46 - 00:27:37
+Bu seviyede sanatçıya sahip olduğumuz ve sanırım George ona daha yakın ve Sean hakkında bir şeyler söylemek istersen sahneye çıkabilirsin, sanatı hakkında onunla konuşmaların olduğunu biliyorum, muhtemelen ikinci koleksiyonda da kullanacağız ki bunun farkında değilim, bu yüzden spekülasyon yapmak istemiyorum ama sahip olduğumuz bu.
+
+00:27:37 - 00:28:28
+Tabii tabii, evet aslında aynı zamanda ilgili, evet ama temelde ikinci koleksiyonumuz hazır ve sadece bunu havalı bir şekilde nasıl sunacağımızı bulmak istiyoruz. Yani evet, bunu çözdüğümüzde size haber vereceğiz. Ama evet, sanırım sanat süper havalı. Umarım herkes beğenir. Ve evet, Sean hakkında Vogue'da daha fazla okuyabilirsiniz, ana sayfada linkledik. Yani evet, kontrol edin.
+
+00:28:28 - 00:29:03
+Oldukça havalı. Evet, harika. Bu adam tanınıyor. Yani bu da NFT'sine sahip olan herkes için bir şey ifade ediyor. Evet. Süper ünlü sanatçı olursa, o dünyaya çok ilgili değilim bu yüzden isimlerini bilmiyorum ama top 10 veya top 100 seviyesi çağdaş sanatçı olursa evet oldukça havalı olabilir.
+
+00:29:03 - 00:29:46
+Gerçekten çılgın bir adamın adı var. İnsanların kıyafetlerine elmas koyuyor. Diamond curse deniyor. Gerçekten düşündürücü sanat yapıyordu. Ve belki Sean da hayat hikayesi nedeniyle bu yolda. Sanırım keşfetmek için ilginç ve önemli konular getiriyor. Yani evet, teşekkürler. Sean ile çalışma hakkında biraz daha paylaştığın için teşekkürler.
+
+00:29:46 - 00:30:18
+Ayrıca peri masalı yarışmasının kazananlarına özel selam vermek istiyorum. Sanırım çok fazla insan katılmadı. Belki gözünüz korktu. Ne oldu bilmiyorum. Belki bazen bu tür görevler o kadar motive edici değil veya çok iş olduğunu düşünüyorsunuz. Ama katılanlar açıkçası eğlendiklerini gösterdi. Ve Zero X Kimov'a selam vermek istiyorum. Birinci oldu.
+
+00:30:18 - 00:30:57
+Bu bilgiyi kaçırdıysanız, bu insanlara selam vermek önemli çünkü havalı bir şey yapmak için ekstra çaba harcadılar. Ve ikinci sıra için özür dilerim ama PFF 7430. AirJet gibi bir şey gibi geliyor. Gerçekten havalısın. Seni bu aramda görüyor muyum? Hiçbir fikrim yok ama insanlar yaptıkları şeyle bu insanları gerçekten tanıyabilir.
+
+00:30:57 - 00:31:37
+Ve üçüncü sıra Alpha'ya gidiyor. Tebrikler çocuklar. Ve böyle motive olmaya devam edin. Bu daha fazla tanınma veya rol gibi şeylere yol açabilir, bu ayın en aktif en aktif topluluk üyeleri. Bu ay en iyi işi yapan la'yı alan Revo. İyi iş için tebrikler, özverili iş. Ve ayrıca terfi eden iki yeni korsanımız var.
+
+00:31:37 - 00:32:16
+Biri Ko ve diğeri özür dilerim, bana sabır ver. Bill Gin Furan. Tamam, tebrikler adamım. Korsan kulübüne hoş geldin. Sanırım bu sunucumuzun en özel kısmı, birçok fikir, tartışma, öneri, topluluk tarafında uyguladığımız şeylerin çoğu korsanlardan geliyor. Bu işbirliği için süper buradayım.
+
+00:32:16 - 00:32:57
+Ayrıca korsan olan insanlar, toplulukta havanın nasıl olduğunu, neleri iyileştirebileceğimizi tartıştığımız özel oturumlarımız var. Bu insanları kulübe hoş geldin diyorum ve bir sonraki oturumda onları dinlemeyi dört gözle bekliyorum. Ve topluluk şeyleri hakkında konuşurken, yakında gerçekten ortaklarla daha fazla AMA yapacağız ve ilki 375 AI ile başlayacak.
+
+00:32:57 - 00:33:48
+Bazılarınız da onların sunucularında. Moderatör veya CM olarak orada olduğunuzu biliyorum ve her iki projenin de birbirinin işine katkıda bulunabileceği bir şeylerimiz olduğunu düşünüyorum ve 5 Ağustos'ta AMA yapacağız. Bu için takipte kalın. Çok yakında daha fazla bilgi çıkacak. Topluluk tarafında bahsettiğim gibi, daha fazla ortak AMA planlıyoruz.
+
+00:33:48 - 00:34:37
+Bu zaten pazarlama listesinde olan bir şeydi ama evet yavaş yavaş ama emin adımlarla buna geliyoruz ve bu resmi kısmın çoğu bu. Şimdi sorularınız için sahneyi açmak istiyorum. Aram sırasında birçok soru sorduğunuzu biliyorum ama bu soruları toplayamadım. Bu yüzden burada bir liste hazırlamasını istedim ve Magnus ve George'a yönlendirebilmek için ne sorular olduğunu görmek için açayım.
+
+00:34:37 - 00:35:23
+Tamam. Yani bir soru şu: Pardex'ler bugünlerde başlatılıyor. Onlardan herhangi biriyle iletişime geçiyor musunuz ve veri beslemelerini güvence altına almalarına yardım ediyor musunuz? Tamam. Yani soru bugün birçok pardex başlatılıyor. Bazılarıyla iletişimde miyiz ve veri beslemelerini güvence altına almalarına yardım edecek miyiz? Bu soruyu kim cevaplamak istiyor? Mark, bu soruyu cevaplamak nasıl hissediyorsun?
+
+00:35:23 - 00:36:05
+Evet, tabii. Yani aslında geçen yıl oldukça fazlasıyla konuştuk ve HyperLiquid gerçekten patlamadan önce çok fazla yenisi çıkıyor. Pardex'lerin ihtiyaç duyduğu bir şey çekme oracle'ı ve çekme oracle'ı yol haritasında ama henüz çıkarmadık. Yani push oracle'lar şimdilik çıktı. Çekme yakında gelecek.
+
+00:36:05 - 00:36:38
+Ama bu düşük gecikme push'tan sonra geliyor ki bazı hemen çekim görüyoruz. Pardex'leri müşteri olarak gerçekten almak için çekmeye ihtiyacınız var. Pardex dünyasında değişen bir şey HyperLiquid'in hakimiyetinin çok artması. Sanırım bugünlerde perdex hacminin yaklaşık %70'i. Ve bu yüzden daha küçük perdex'ler için havayı çok sıkıştırıyorlar.
+
+00:36:38 - 00:37:19
+
+Bu kadar söyleyebilirim ama çekme yakında gelecek. Ama bu düşük gecikme push'tan sonra geliyor ki bazı hemen çekim görüyoruz. Pardex'leri müşteri olarak gerçekten almak için çekmeye ihtiyacınız var. Pardex dünyasında değişen bir şey HyperLiquid'in hakimiyetinin çok artması. Sanırım bugünlerde perdex hacminin yaklaşık %70'i. Ve bu yüzden daha küçük perdex'ler için havayı çok sıkıştırıyorlar. Önemli olmadıkları anlamına gelmiyor ama o endüstrinin yapısı HyperLiquid nedeniyle çok değişti. Yani evet, uzun lafın kısası, düşük gecikme push'umuz da dahil olmak üzere şimdilik çekmeyi diğer şeylerin önüne çıkardık. Ama bir sonraki birkaç ay içinde çekmeyi çıkardığımızda pardex'ler kesinlikle o ürün için ana profillerden biri.
+
+Özür dilerim! Haklısınız, çeviriyi tamamlamadım. Dökümün sonuna kadar devam ediyorum:
+
+00:37:19 - 00:38:00
+üzere şimdilik çekmeyi diğer şeylerin önüne çıkardık. Ama bir sonraki birkaç ay içinde çekmeyi çıkardığımızda pardex'ler kesinlikle o ürün için ana profillerden biri. Tamam. Teşekkürler Mark. Bu konuda da netlik aldım ama spesifik olmak zor. Siz çocuklar video hakkında ve neler olduğu hakkında çok daha fazlasını biliyorsunuz.
+
+00:38:00 - 00:38:44
+İkinci soru biraz garip okuyor ama önemlerine ve nasıl ses çıkardıklarına göre organize etmesini istedim. Sadece soruyu okuyacağım ve gerçekten mantıklı olup olmadığını yorumlayabiliriz. Hangi AI modeli oracle'ı özellikle kullanır ve zaten bir kullanım durumu var mı? Yani AI modeli oracle'ı özellikle kullanan yok. Fikir, sağlayıcının size verdiği çıkarım modelinin doğru olduğunu kanıtlamak için teknolojiyi kullanabilmemiz.
+
+00:38:44 - 00:39:17
+10 milyar parametre kullandığını iddia eden bir model satın alıyorsanız ama aslında sadece 2 milyar kullanıyorlarsa size gerçek olmayan bir şey satılıyor ve bunu doğrulayabilirsiniz. Bu benim anlayışım. Ve kullanım durumu doğrulanabilirlik. Yine bu söyleyeceğim şey. Mark, ne düşünüyorsun veya George? Beni düzeltmek veya genişletmek veya söylediğimi onaylamak isterseniz, onay verildi.
+
+00:39:17 - 00:39:48
+Evet, AI. Evet, AI modellerinin oracle kullanması değil. Bir anlamda tersi ama oracle'lar AI modellerini hem zincir üzerinde hem zincir dışında sağlayabilir. Bu arada. Zincir üzerinde açıkçası zincir üzerindeki kullanım durumlarının bugün daha sınırlı olduğunu düşünüyorum, bu yüzden o özel dikey için zincir dışına odaklanıyoruz.
+
+00:39:48 - 00:40:25
+Ve zincir üzerinde Twitter'da gördüğünüz sentient AI ajanları gibi bir şey görünür, Goat ve Zerbro gibi. Şimdi çok uzun zaman önce gibi geliyor ama 6 ay önce gerçekten büyüklerdi. Ve muhtemelen geri gelecekler ama şimdilik bekliyoruz. Ve bunlar doğrulanabilir çıkarım gerektiriyor çünkü token'larına büyük miktarda değer atfediyorsanız aynı model olduğunu ve kapatılmayacağını ve özerk olduğunu bilmeniz gerekiyor.
+
+00:40:25 - 00:40:55
+Bu bir tür kullanım durumu ve eminim arka planda AI kullanmanın başka zincir üzerindeki kullanım durumları çıkacak. Ama diğer kullanım durumu daha çok web 2 kullanıcıları için zincir dışı, kullandıkları LLM'ler söz konusu olduğunda sadece doğrulanabilirlik değil aynı zamanda gizliliğe de ihtiyaç duyuyorlar. Ve bu hizmet vermeye çalıştığımız niş bu.
+
+00:40:55 - 00:41:19
+Evet, harika. Teşekkürler. Sohbete tekrar bakıyordum ve bu yorumu okudum. BlockSense en az değer verilen ZK projesi. İnsanlar yakında öğrenecek. Bu doğru adamım. Açıkçası. Bir sonrakine bağlayacağım. Ne dedin? O yoruma minnettarlığımı ifade ediyordum. Evet. Yani insanlar bunun sadece bir oracle projesi olmadığının farkına varıyor ve bizimle bu kadar uzun süre sabırla kalan insanlar.
+
+00:41:19 - 00:41:53
+Ve derim ki burada birçok isim görüyorum, gerçekten arkadaşlar gibi, o adamlara selam vermek istiyorum, parade bir, herkes bizimle bu kadar uzun süre burada, hatta iyi sen Abdullah, yakın zamanda çok aktif olan Leanus. Özür dilerim çocuklar, isimlerinizi telaffuz etmek zor. Ama evet, Perez de versus solid çocuklar bizimle. JJ de derim, başka kim? Özür dilerim, Çince yazılmış bir şey var gibi Sha ben Sha? Sana gerçekten ne anlama geldiğini söylediğin için mutluyum.
+
+00:41:53 - 00:42:21
+Sadece selam aldım. Tamam. Senin de bizimle olman mutluluk verici. Bir sonraki soruya geçeyim çünkü projenin az değer verildiğini düşünmeye bağlamak istiyorum. Staking modeliniz güvenlik ve erişilebilirliği nasıl dengeliyor? Bu konuda kendim cevap vermeme izin vereceğim. Yakında bir light paper çıkacak ve sistemin nasıl çalışacağı hakkında daha fazla bilgi alabiliriz.
+
+00:42:21 - 00:43:18
+Şu anda staking olmadığını biliyorsunuz çünkü geliştirmenin bu aşamasında değiliz. Yani burada belirsiz cevaplar vermek istemiyorum. Bu bilgiyi bırakıyorum ama staking modeli güvenlik ve erişilebilirlik hakkında bilginiz varsa bana verebilirsiniz ve bu ilginç çünkü bu ürün veya protokolün tasarlandığı şekilde tamamen merkezi olmayan izinsiz protokol ve güvenlik güvenilir komiteler ve link coin gibi algoritma şeyleriyle garanti ediliyor.
+
+00:43:18 - 00:43:57
+Ama erişilebilirlikte sınırlama yok ama bize sabır verin ve bu makalenin resmi yayınını bekleyin derim, böylece daha fazla bilgi alabilirsiniz, eminim bu çıkacak, belki gelecek hafta. Bu soru için cevabım bu. Komik, soruyu soruyorum ve kendim cevaplıyorum ama bu konularda yeterince yetkin hissediyorum. Video çocukları için bir soru var. Bu konuda daha fazla bilgileri olduğunu düşünüyorum.
+
+00:43:57 - 00:44:34
+Bu var ve bir son bir. Beni ilgilendiren tek soru yeni yatırım turu. Birisi gerçekten endişeli. Efendim, yatırımlar hakkında ne zaman haber olacak? Yani insanlar bununla nasıl gittiğimizi bilmek istiyor. Cevap verelim. Yani sorunun tam olarak nereden geldiğinden emin değilim. Şu anda aktif bir yatırım turumuz yok, yatırımcılarla aktif olarak konuşuyoruz çünkü planlanmış bir yatırım turumuz var.
+
+00:44:34 - 00:45:06
+Ve geçen haftalar boyunca yatırımcılardan geri bildirim alıyoruz ama evet ne zaman duyacaksınız? Yani dürüst olmak gerekirse, işler imzalanıp noktalanana kadar çok fazla paylaşamayacağız çünkü bu işler böyle gidiyor. Özel yatırım turları hakkında bunlar tamamlanmadan önce kamuoyuna bilgi paylaşmak gerçekten mümkün değil.
+
+00:45:06 - 00:45:44
+Yani o konuda sıkı durmanızı isterim ama sorunun nereden geldiğini de bilmek isterim. Evet, sanırım soru yeni tur olup olmadığını bilmek, belki insanlar yatırım yapmakla ilgileniyor. Bu sorunun anlayışım bu ve şu anda tur olmadığını ve bunun için hazırlandığımızı bilgi vermek iyi. Yani Magnus'un cevap verdiği gibi sadece tüm iletişim konuşmalarını takip edin ve bu yeterli olacak.
+
+00:45:44 - 00:46:38
+Ama topluluğu gerçekten ilgilendiren her şeyi bilgilendirmekten mutluyum. Aile olduğumuzu bilmek iyi, bu yüzden şeyler tartışılmalı ve bu topluluk araması bu şeyler hakkında konuşmak için oldukça iyi bir fırsat. Tamam, son bir soru var: Intents ile herhangi bir ilişkiniz var mı? Sanırım bu anoma gibi projeler veya teknoloji açısından intent alanında bir şeyler yapma fırsatını keşfetme anlamına geliyor.
+
+00:46:38 - 00:47:21
+Rahu cevabını yazdı. Sanırım öyle değil dedi. Siz çocuklar ne diyorsunuz? Intent alanı hakkında bilmediğimiz bir şey var mı? Ve bu teknolojiyi kaldırabileceğimizi ve alanda bir şeyler yapabileceğimizi düşünüyor muyuz? Düşünürken, BlockSense için de orada bir şey var mı diye merak ediyorum. Belki George için alan var burada katkıda bulunmak için.
+
+00:47:21 - 00:48:05
+Evet, cevap kısa olabilir, değil mi? Sadece hayır, keşfetmedik veya bilmiyorum. George, ne diyorsun? Özür dilerim, tekrar söyleyebilir misin? Evet, soru intent ile herhangi bir ilişkiniz var mı diye gidiyor, yani intent tabanlı çözümler geliştiren projeler anlamına geliyor çünkü alanda umut verici şeylerden biri. Yani insanlar bizim de gözümüzün bu şeylerde olup olmadığını bilmek istiyor.
+
+00:48:05 - 00:48:48
+Aslında biriyle yaptık ama temelde işlerini kapattılar. Maalesef sanırım evet. Ve onlarla bir süre konuştuk ve iyi bir şey gidiyordu ama evet yine de kapatmak zorunda kaldılar ve o zamandan beri belki iki veya üç tane daha konuştuk ama gerçekten sadece bir kez konuştuk ve daha fazla keşfetmedik.
+
+00:48:48 - 00:49:30
+Yani evet şu anda intent protokolleriyle durum bu ama zk sharing coin bu tür kullanım durumları için kullanılabilir intent'ler için yani bir noktada yapabiliriz çünkü altta yatan platform bunu yapmamıza izin verebilir, evet ama şu anda değil. Tamam kısım. Sorular aldığımızdan mutluyum. Buradaki topluluk, dinleyiciler neredeyse 100 kişiye çıktı.
+
+00:49:30 - 00:50:08
+Ama bu aynı zamanda binlerce insanın bunu duymadığı anlamına geliyor. Ve siz çocuklar iyi bilgi olduğunu düşünüyorsanız paylaşın ve arkadaşlarınızla paylaşmak istiyorum. Gelecek hafta muhtemelen kaydı YouTube kanalımıza yayınlayacağız ve tüm kaydı görebilirsiniz.
+
+00:50:08 - 00:50:40
+Şimdi katılan insanlar tüm şeyi kaçırdıkları için biraz üzgün hissediyorlarsa endişelenmeyin. Kaydı izleyebilirsiniz. Yavaş yavaş ama kararlı kararlı ama söylenen neydi? Evet, orada ama kesinlikle evet, böyle gidiyor ve iyi iyi an diyebilirim, ayrıca insanların web sitesi ve ilgili tüm şeyler hakkında geri bildirimlerini almak için mutluyum.
+
+00:50:40 - 00:51:07
+Sunucuda konuşmaya devam edebilirsiniz, eğer siz çocukların da soruları varsa orada tüm bu şeyler hakkında takip edebilirsiniz. Topluluğa söylemek istediğiniz son sözleriniz var mı? Yaz tatilleri ve bugün 101 kişinin katıldığından mutluyum. Çok teşekkürler ve bu topluluk aramasını yapmak için vaktinizi ayırdığınız için ikinize de teşekkür etmek istiyorum.
+
+00:51:07 - 00:51:07
+Benim için çok özel bir an. Burada toplulukla gerçekten iletişim kurmak için fırsat, tüm sorular, insanların projeyi nasıl algıladığı ve gerçekten bilmeleri veya öğrenmeleri gereken şeyler. Yani benim için havalı bir an. Evet. Gününüzden bu aramaları dinlemek için zaman ayırdığınız için gerçekten minnettarım ve sadece dinlemekle kalmayıp aynı zamanda sorularınızı da getirdiğiniz için.

@@ -1,0 +1,174 @@
+00:00:01 - 00:01:05
+Herkese hoş geldiniz. Bu yazın ilk topluluk aramıza katıldığınız için çok teşekkürler diyebilirim. Ve bunu zaten hissedebiliyorsunuz, değil mi? Yani, bu sefer yalnız olacağım. Tarihte bir ilk, ama sorun değil çünkü bazı insanlar hak ettikleri tatillerini yapıyorlar. Magnus şu anda bir konferansta. Herkes bir şeyler yapmakla meşgul. Ve bunu yapmak konusunda da oldukça kendime güveniyorum. 10. edisyonu bu. Yani bunu yapmakta çok fazla deneyimimiz var ve sizi zaten tanıyorum.
+
+00:01:06 - 00:01:53
+Hepinizle gerçekten rahat hissediyorum. Gündemi kısaca gözden geçireyim ki ne hakkında konuşacağımızı ve bugün neden toplandığımızı bilesiniz. Bu ay, takip edenleriniz için ve çoğunuz takip ediyorsunuz tabii ki, ortaklık duyuruları açısından çok olaylı geçti ve Bloom Tora ile ortaklıklarımız oldu. Neden bu projelerin bizim için önemli olduğunu göstermek için daha sonra detaylara gireceğim. Ayrıca üyelerimizden bazılarına NFT drop için whitelist verme fırsatı bulduk.
+
+00:01:54 - 00:02:45
+NFT alanlarınız özel TM rolü alabilecek. Bu ay ayrıca Mr. Almighty Rahill'in Yapro'yu yarattığı çılgın dahi yaratımını aldık. Bazı tartışmalara neden oldu, ama daha sonra bakabiliriz ve neden aslında bizim için gerçekten önemli olduğunu ve topluluğun büyümesine nasıl yardım ettiğini görebiliriz. Ve evet, buradaki yorumları kapatayım ki kaç kişi olduğunuzu görebileyim. Ayrıca maskotun yayınlanmasına gerçekten yakınız.
+
+00:02:46 - 00:03:14
+Tamam, bugün bir inceleme yapmayı düşünüyordum, ama bunu resmi kampanya olarak bırakacağım. Bazılarınız zaten gördünüz ve bu elbette korsanlar olarak adlandırılıyor, çünkü en çok ilgili olan insanlar onlar. Yani işlerin nasıl gittiği ve beğenip beğenmedikleri konusunda görüşlerini sormamız gerekiyor. Ve tasarımcı Abdullah ile bazı iterasyonlar denedik, önerilerin gerçekten mantıklı olup olmadığını ve markamızla uyumlu olup olmadığını görmek için.
+
+00:03:15 - 00:03:58
+Ve inceleme muhtemelen gelecek ayın başında yapılacak, ne zaman final versiyonlar kilitlenirse. Yani oldukça havalı. Başka neyimiz var? Başka neyimiz var? Evet, katkıları ve sürekli desteği için korsan kulübüne katılan bazı yeni üyelerimiz var. Ayrıca ya davetlerle ya da puanlarla bu merdiveni tırmanarak rolü açıyorlar.
+
+00:03:59 - 00:04:28
+Söyleyebileceğim bu. En aktif olan insanların kim olduğunu göreceğiz. Yani sonuna kadar bizimle kalın. Tabii ki, aslında sonunda bile değil, ama evet, bunu size biraz sonra açıklayabilirim. Bu ay en çok katkıda bulunan insanlara giden bir korsan ve bir lerimiz var. Ve tabii ki arka planda bazı gelişmelerimiz var. Yeni bir web sitesi yapıyoruz.
+
+00:04:29 - 00:05:08
+Yeni müşterilerin onboard edilmesine yardımcı olacak ve şu anda zaten dağıtıldığımız gibi daha fazla görünürlük verecek ve gördüğünüz gibi daha fazla ortak onboard ediyoruz. Yani bu yeni web sitesi özellikle bunun için tasarlandı, o ortakların tüm sürecini daha kolay hale getirmek için böylece ürün sayfası ve benzeri şeylerle ne yaptığımızı daha hızlı öğrenebilsinler.
+
+00:05:09 - 00:06:04
+Yani planlandığı gibi giderse, web sitesi gelecek ayın sonunda veya Ağustos'un başında canlı olacak, bir süredir üzerinde çalışıyoruz ve evet bu genel bakış. Yani gördüğünüz gibi çok fazla ortaklığımız var, bazı medya kapsamı da var çünkü eylem nedeniyle medyanın da dikkatini çektik ve evet bu dağıtımlar, yani Plume ile ortaklığın neden bizim için önemli olduğu gibi biraz daha detaylara gireyim.
+
+00:06:05 - 00:06:37
+Bu ortaklıkla RWA ve DeFi'ye güven getiriyoruz. Yani Plume tahvil ve emlak gibi gerçek dünya varlıklarını zincir üzerine getiriyor ve blok zinciri fiyatlandırmalarını doğrulanabilir ve şeffaf hale getiriyor. Yani birlikte finansal verileri denetlenebilir, uyumlu ve ölçeklenebilir zincir üzeri ürüne çeviriyoruz, kurumların güvenebileceği DeFi'yi açığa çıkarıyoruz.
+
+00:06:38 - 00:07:34
+Kaçırdığınızdan emin olduğum başka bir ortaklık T. Doğrulanabilir fiyat beslemelerimizi Ethereum Dubs'larını Telegram'a getirmek için inşa edilmiş EVM uyumlu layer one'larını güçlendirmek için kullanacaklar. Bu sistemleri bir araya getirmenin önemini açıklamak veya hayal etmek bile zor ve blok zinciri, ton ağı ve Ethereum arasındaki boşluğu çalışır hale getirmek.
+
+00:07:35 - 00:08:21
+Mevcut Telegram istemci üyeleri zaten blok zinciri teknolojisi ile ve verilen fırsatlar kesinlikle harika. Ve ayrıca bu ay gelen Aurora ortaklığımızı aldık, Aurora takımı doğrulanabilir fiyat beslemelerimizi Near protokolü üzerine inşa edilmiş EVM uyumlu katmanlarındaki DeFi uygulamalarını desteklemek için kullanacak.
+
+00:08:22 - 00:08:48
+Yani teknik entegrasyonlarda aldığımız ortaklıklar ve bu Article Desk, You Today ve Coin Media gibi medya görünümlerine yol açtı ve bu medyalar BlockSense'in DeFi'nin geleceğindeki rolünü ve geliştirdiğimiz konsensüs mekanizmasını vurguladı ki bu gerçekten yenilikçi, bu Shelling coin mekanizması.
+
+00:08:49 - 00:09:33
+Muhtemelen çoğunuz zaten yazdığımız makaleleri gördünüz, ama evet, medyanın bunun hakkında ne dediğini tekrar kontrol edebilir ve daha fazla öğrenebilirsiniz. Bu konsensüs algoritmasıyla ulaşmaya çalıştığımız konsensüs gerçekten devrimci. Bu gelişimin bir parçası olduğum için çok mutluyum ve bir kez daha şimdi katılan tüm yeni üyeleri selamlamak istiyorum.
+
+00:09:34 - 00:10:20
+Görüyorum ki zaten 72 kişiyiz ve sizi bu gerçekten sıcak yaz gününde burada görmekten süper mutluyum. Yani hala benim için en büyük zevklerden biri toplulukla tanışmak ve son aramda beni görmediniz çünkü arka plandaydım ama tüm kurucuları ve büyük takımı da Magnus ürünü de tanıyabildiniz.
+
+00:10:21 - 00:11:04
+Yani bu gerçekten önemliydi diyebilirim, sadece her şeyi koordine etmek için ve bugün gördüğünüz gibi sahneyi kendim için alıyorum ve hepinizle burada olmaktan zevk alıyorum. Başka neyimiz vardı çocuklar, medya görünümleri dışında. Magnus dün Farus ile AMA'da konuşuyordu ve RWA'nın geleceğini güçlendirmek için nasıl temel veri sağladığımızı açıklıyordu.
+
+00:11:05 - 00:11:42
+Yani her grubun alanı ve var olma nedeni olduğunu ve tüm projelerin farklı farklı sorunları ele alacağını ve bunları farklı yollarla ele alacaklarını görüyorsunuz ve BlockSense'in tüm bu ihtiyaçlara hizmet edebilmesinden çok mutluyum ve protokol böyle tasarlandı, yani bu konuda gerçekten boğayım ve görmekten gerçekten mutluyum.
+
+00:11:43 - 00:12:23
+Öte yandan, Martin Aurora takımıyla Behind the S ile başka bir podcast'te konuşuyordu ve evet yine tüm ekosistemin önemi ve birbirimizi nasıl destekleyebileceğimiz hakkındaydı. Tüm popüler manyaklarınız için harika poker geceleri yaşadık. Büyük bir topluluk haline geldiğimiz için Caldera ile biri, Gonoma ile biri ve aslında daha fazlası geliyor.
+
+00:12:24 - 00:12:54
+Sanırım bazılarınız bu ortaklığın gerçekleşmesine katkıda bulundunuz, belki bazen o takımlardan bahsederek ama evet güzel takımlarla ortak olmaktan ve birlikte eğlenmekten gerçekten mutluyum, blok zinciri topluluklarını bir araya getirmek harika bir misyon, kimin daha iyi olduğu konusunda savaşmaya gerek yok.
+
+00:12:55 - 00:13:47
+Sadece birlikte olmaktan eğleniyoruz, birbirimizi destekliyoruz. Ve tabii ki teknik tarafta ve topluluk tarafında da daha fazla ortak gelecek çünkü topluluğumuz büyüyor, giderek daha önemli hale geliyoruz ve artık herkes bizimle etkinlik yapmak istiyor ki bu normal ve biz de beğeniyoruz.
+
+00:13:48 - 00:14:13
+Yani bunu yapmanın harika bir yolu. Topluluk güncellemelerini görmek için belki sorularınız olup olmadığını kontrol edeyim. Normalde burada sorularınızı toplamasını isterim, ama işlerin nasıl gittiğini görmek istiyorum. Herkes sessizleşiyor. Havalı. Evet, bu aramın sonunda size zaman vereceğim. Zaten yaklaşık 10 soru var.
+
+00:14:14 - 00:14:57
+Yani tüm bu soruları cevaplayabileceğimden emin değilim, ama daha fazla soru toplayabilir ve mümkün olduğunca çoğunu cevaplamaya çalışabiliriz. Yani topluluk tarafında hepiniz kesinlikle harikasınız ve daha önce söylediğim gibi Takman sahipleri özel rol alacaklar. Bu ne zaman olacağı konusunda bilgilendirilmedim.
+
+00:14:58 - 00:15:49
+Her zaman sürpriz gibi ama oldukça yakında olacağından eminim çünkü şimdi evet bazı çocukların NFT'lerini görüyorum, aslında bazılarınızda yaptığım gibi BlockSense'in özelliklerini kullanıyorlar ve elbette bu özel rolü alacaksınız. Ve tamam notum burada Yapro ve topluluk katılım modeli.
+
+00:15:50 - 00:16:31
+Ama açıklamak istediğim bir şey var çünkü YAB botu tanıtıldığında, bazılarınız beğenmedi. Bazılarınız bu liderlik tablosunun amacının ne olduğunu soruyordunuz, eğer her hafta sıfıra gidiyorsa? Bunlar neye hizmet edecek? Ve tamam, bu soruları cevaplayayım. Yani endişe yok. EAB tablosunun sıfıra getirilmesinin amacı yeni insanlar katıldığında onların da heyecanlanması ve bu yarışmanın bir parçası olması.
+
+00:16:32 - 00:16:51
+Haftalık tabloda veya iki haftalık tabloda olabilirler. Bu tür mantıklı, değil mi? Ama daha önce topladığınız tüm puanlar hala bir dosyada saklanıyor ve hiçbir şey kaybolmuyor. Tamam, bunu geçmişte birçok kez bahsettik. Tüm katkılarınızı, aktivitelerinizi takip ediyoruz ve evet ödülleriniz elbette katkılarınıza göre ödüllendirilecek.
+
+00:16:52 - 00:17:31
+Ve evet yapro, hala amacının ne olduğunu merak edenler için birbirinizi eğitmek için harika bir yol çünkü toplulukta yeni üyeler var, bazılarınız bizimle oldukça uzun süredir. Yani çok kolay çünkü bu çabayı ürün hakkında öğrenmek isteyen ve sorular soran insanlara aktarmak için çaba harcıyorsunuz.
+
+00:17:32 - 00:18:28
+Bu otomatik olarak oluyor. Katkılarınızı takip ettiğimizi söylediğimde, bu harika bir yol çünkü otomatik. Teşekkürler adamım. Bunun kaybolmasının hiçbir yolu yok. Tamam. Yani bu kesinlikle şeffaf ve bunu yapmanın harika bir yolu. Bunu seviyorum. Ve evet, yapro harika. BlockSense için de benzersiz bir şey.
+
+00:18:29 - 00:19:10
+Bunu yapan çok fazla topluluk yok. X'i de takip edebiliyor. Yani sadece özel kanala gönderinizi yapıştırmanız gerekiyor ve bot görecek, aldatmaya çalışmanın hiçbir anlamı yok, sadece puanları almak için, değil mi? Yani bu sistemi kazandığımız gibi görünüyor ama günün sonunda bu öğrenmemize yardımcı olan ve doğru cevaplar verenleri ödüllendiren bir araç.
+
+00:19:11 - 00:19:59
+Ve zamanla herkes bu yorumları okuyarak ne olduğu, BlockSense'in ne olduğu hakkında görüş sahibi olacak ki bu karmaşık bir sistem ama evet öğrenemeyeceğiniz bir şey değil ve aslında bu topluluğun amacı da bu, birbirimizi desteklemek, birbirimizden öğrenmek ve büyümek.
+
+00:20:00 - 00:20:25
+Size söyleyebilirim ki bu projede en başından beri bulunuyorum ve birçok şey öğrendim ama bu pozisyona geçtim çünkü geçmişte başka projelerde bulundum ve alanda bulundum ve terimleri ve işlerin nasıl çalıştığını öğrendim ve bu bugün burada olmama ve BlockSense'in ne yaptığını ve işlerin nasıl çalıştığını anlamama yardım ediyor.
+
+00:20:26 - 00:21:07
+Ve projemizi görmek ve bizim için değerli olup olmadıklarını anlamak ve onlarla ortaklık yapıp yapmayacağımıza karar vermek. Elbette projelerle ortaklık yapıp yapmayacağımıza karar veren her zaman ben değilim ama topluluk tarafında temelde ben ve Rahill'im, yani işlerin nasıl çalıştığı konusunda biraz anlayışa sahip olmamız iyi.
+
+00:21:08 - 00:21:57
+Ve maskot konusuna geçiyorum ve şimdilik biraz sır kalıyor, daha önce bahsettim ama bugün resmi inceleme yapmayacağım. Yani evet, paylaştığımız versiyonun kilitli olup olmadığını ve bunun ne olacağını doğrulamadım ve sadece çok yakında olacağını duyuruyorum.
+
+00:21:58 - 00:22:29
+İnsanların resme, görüntüye nasıl tepki verdiğinden mutluyum, maskot iyi karşılandı. Yani oldukça havalı. Kimliğimizin bir parçası. Ve topluluk üyelerinin çabalarını tanıma kısmına geçiyorum ve en aktif olanlarınızı. Bahsedebileceğim birçok insan var, Abdullah ve daha iyi tanıdığım insanlar.
+
+00:22:30 - 00:23:26
+Katkıları da yakın zamanda korsan kulübüne katıldı. Yani bunlar penceremde gördüğüm çocuklar. Yani belki bazılarınız yakın bir yerde. Tabii ki, Mi Brown, ne diyeyim adamım. Sen fırçalarsın. Ama katkılarınıza göre tanıyorum. Ama bu ay, en aktif çocuklar Vietnam topluluğundan.
+
+00:23:27 - 00:24:02
+Ve bunun için tebrikler alıyor. Ve diğeri son birkaç ayda harika destek oldu ve korsan rolü alıyor, Race on Seal. Tebrikler adamım. Korsan kulübüne hoş geldin. Katıldığında korsan olmanın ne kadar havalı olduğunu keşfedeceksin. Ve bu BlockSense'in en özel bölümlerinden biri, korsanlar ve onları daha fazla eğitme ve gerçekten havalı şeyler yapma planlarımız var.
+
+00:24:03 - 00:24:44
+Bu şeyler zaten topluluktan veya takımdan insanlardan içerik boost etmekle başladı. Bunu giderek daha fazla getiriyoruz, nasıl çalıştığını görüyoruz ve bu süreçte sizi destekliyoruz. Şimdi geçmişte yaptıklarımızda daha fazla iyileştirme yapacak kadar olgun bir proje olduğumuzu söyleyebilirim ve tabii ki daha da büyütmek.
+
+00:24:45 - 00:25:38
+Yani o çocuklara tebrikler ve katkılarınız için bir kez daha teşekkürler. Dördüncü noktamda, yalnız olduğum için görebiliyorsunuz, işler oldukça hızlı gidiyor. Şimdi konuşma makinesi gibiyim. Söylenecek çok şey var, ama sonunda sorularınızı cevaplamak için biraz daha zamanım olduğu için mutluyum.
+
+00:25:39 - 00:26:20
+Veya sadece sohbet etmek. Ama resmi noktalara geçelim. Bu ay için en önemli olduğunu düşündüğüm şeylerden biri. Ve biri pazarlama ve ürün tarafında ve bu bahsettiğim yeni web sitesinin tasarımı. Yapım aşamasında. Önemli çünkü bu yeni ortakların veya üyelerin geldiğinde ilk temas noktası.
+
+00:26:21 - 00:27:28
+İlk web sitesi havalıydı ve hatırlıyorsunuz elbette bazı yeniden tasarımlar yaptık ama özellikle şimdi canlı olmaya başladığımız ve zaten 60 ağda dağıtıldığımız ve daha fazlası gelecek için iyileştirilebilecek şeyler var. Bunu sürekli söyleme şeklimizi seviyorum ve bu aslında doğru çünkü ilk ürünü bulduğumuz anda, takım başka bir üzerinde çalışıyor.
+
+00:27:29 - 00:28:51
+Yani şimdi en ilk sahip olduğumuz fiyat beslemeleri ve push modeli. Ama daha hızlı olacak model üzerinde çalışacağız ve tabii ki başka kullanım durumlarına hizmet edeceğiz. Yani geliştirme aşamamıza ve protokolün hangi aşamada olduğuna bağlı olarak başka kullanım durumlarına ve projelere hizmet edebileceğiz.
+
+00:28:52 - 00:29:48
+Yani onları karşılamak ve bilgi sağlamak için web sitesi gibi güzel bir yere sahip olmak temel. Bu yüzden üzerinde çalışıyoruz. Bu girişime Stella pazarlama takımından ve ayrıca tasarım çocukları ve kurucular büyük ölçüde dahil, her şeyin pürüzsüz ve güzel görünmesini sağlıyorlar.
+
+00:29:49 - 00:30:25
+Bu ay öncelik verdiğimiz bir etkinlik var, Chain Week var biliyorum. Evet, oraya bir kişi göndermedik, ama Magnus şu anda ETC K'de ve bu sefer BlockSense'i temsil edecek, konuşmacı olarak değil ama alanda daha fazla projeyle etkileşime girecek ve iletişim kuracak iş insanı olarak.
+
+00:30:26 - 00:31:09
+Ve evet, bahsettiğim gibi, yalnız olmak oldukça hızlıydı. Yani birine fırsat vermek istiyorum. Eğer sahneye çıkmak ve bir şey söylemek istiyorsanız veya burada bir soru yazmak istiyorsanız, size biraz zaman veriyorum. Sorularınızı toplamasını istiyorum. Belki özel belgeye koymuştur, hazırladım. Değilse, daha önce aldığım sorulardan geçeceğim.
+
+00:31:10 - 00:31:58
+Sadece biraz daha almak için bana bir an verin. Herkes nasıl hissediyor? Bu bilgiyi yararlı buluyor musunuz? Duyduklarınız hakkında heyecanlanıyor musunuz? Yani topluluk enerjisini alayım. Bu destekleyici topluluğa sahip olduğum için mutluyum, açıkçası bunu söylediğimde gerçekten çok sevgi hissediyorum.
+
+00:31:59 - 00:32:27
+Ve Rahill'in tüm topluluğa sizi seviyorum demek istediğini hatırlıyorum. Yani eğer Rahill hiç duymadıysa tüm topluluğa sizi seviyorum diyor. Yani tamam, sorulara geçeyim. Yaklaşık 10 sorumuz var. Sanırım korsanlar da birbirlerini seviyor adamım. Kesinlikle doğru.
+
+00:32:28 - 00:33:33
+Bu belgeyi buraya konumlandırayım. Yani çocuklar kurucuların kendilerine çok soru sorabiliyordunuz. Her seferinde yeni insanlar olduğunu, her seferinde yeni durumlar, öğrenilecek yeni şeyler olduğunu görüyorum. Bunu sessize almak istiyorum çünkü gerçekten çılgınlaşıyor.
+
+00:33:34 - 00:34:10
+Sadece sessize alabilirim, değil mi? Tamam. Diğerleri. Sesi böyle durdurursam beni duyabiliyor musunuz? Şimdi bilmek gerçekten önemli. Hala sesimi duyabiliyor musunuz? Size bir saniye veriyorum. Evet, orada yaptığım buydu. Çok fazla kanaldayım ve insanlar hala sadece sesimi duyup duymadığınızı söyleyin çocuklar.
+
+00:34:11 - 00:35:01
+Tamam, harika. Bunu doğruladığınız için teşekkürler. Yani sorulardan geçeyim. Çok - şimdi ismi yok ama BlockSense'in yol haritasını bilmek istiyor. Sanırım herkes BlockSense'in yol haritasını bilmek istiyor tabii ki. BlockSense'in tüm çerçevesi tamamlandı mı? Gelecekte daha fazla proje işbirliği olacak mı? Hangi projelerle işbirliği yapmayı tercih ediyorsunuz?
+
+00:35:02 - 00:35:43
+Tamam, bu harika çok parçalı soru. Herkesin anlayabilmesi için çok basit bir şekilde cevaplayayım. Bunu geçmişte tartıştık ve BlockSense'in vizyonu tamamen merkezi olmayan ve izinsiz protokol olmak. Ama bu noktaya ulaşmak için üç aşamamız var. Ve ilk aşama şimdi otorite kanıtı ağı ile yayınlanıyor.
+
+00:35:44 - 00:36:32
+Önceden seçilmiş validator seti ile node'ları çalıştıracaklar ve şu anda bulunduğumuz ilk adım bu. İkinci adım protokolün daha büyük güvenliği için layer AB entegrasyonu olacak. Şu anda gittiğimiz yer bu ve geliştirme aşamasında ve üçüncü aşama ZK devreleri inşa edildiğinde tamamen merkezi olmayan protokol olduğumuzda olacak.
+
+00:36:33 - 00:37:08
+Yani konsensüs tamamen izinsiz çalışacak ve evet o zaman herkes node çalıştırabilir, herkes besleme yaratabilir ve BlockSense'in vizyonu bunun olmasına izin vermek. Yani oldukça heyecan verici ve oldukça büyük. Bir gecede olmayacak. Bunu inşa etmeye başladığımızda biliyorduk.
+
+00:37:09 - 00:38:14
+Yani şu anda takip ettiğimiz yol haritasındaki adımlar bunlar. Gelecekte daha fazla proje işbirliği olacak mı? Tabii ki. Yani daha yeni başlıyoruz kardeşim, protokol böyle tasarlandı, vizyonumuz Ethereum ekosisteminde daha fazla protokol getirmek. Ama ayrıca SVM ve MDM de olacak.
+
+00:38:15 - 00:38:43
+Yani BlockSense tasarımı sayesinde bir Lego sisteminden diğerine geçebileceğiz. Hangi projelerle işbirliği yapmayı tercih ediyorsunuz? Odak sadece başlayan zincirlerde ve onlara mümkün olduğunca hızlı hizmet verebilmekte. Yani onlar için giriş engelini kaldırıyoruz.
+
+00:38:44 - 00:39:27
+Noi uygulaması ve noi entegrasyonu ile ve evet ihtiyaç duydukları beslemeleri programlayabilirler, DeFi'nin ötesinde bile kullanım durumlarına hizmet edecekler. Yani bunlar hizmet etmeye baktığımız kullanım durumları, zincirler ve projeler ve bu da BlockSense'in diğer oracle'lardan farklılaşması.
+
+00:39:28 - 00:40:00
+Ve BlockSense'in oracle'dan çok daha fazlası olduğunu, oracle'ın ötesinde olduğunu ama bununla başladığımızı bilmelisiniz, ilk kullanım durumu diyebilirim. Tamam, ikinci soru gelecekte yerel tokenler çıkarılacak mı, ekolojik genişleme ortaklığı.
+
+00:40:01 - 00:40:54
+Tamam, bu biraz zaten cevapladığım yol haritası ve kilometre taşlarının bir kısmını da kapsıyor ama evet yol haritasında token var ve çok güçlü faydalılığa sahip token. Token ağı güvence altına almamıza yardım edecek. Yani sadece ne yapacağını merak ettiğiniz hype token değil, BlockSense ekosisteminin bir parçası olan her şeyi güvence altına alma, yaratma, hizmet vermede doğrudan kullanılıyor.
+
+00:40:55 - 00:41:52
+Yani ağı güvence altına almak için token kullanmanın da harika bir yolu. Umarım sorunuzu cevaplar. Çoğu oracle körü körüne çalışıyor, kullanıcılar BlockSense ile verinin nasıl kaynaklandığını doğrulayabilmeli, oracle şeffaflığının ilk adımı ve BlockSense uzun vadede kullanıcıları nasıl elde tutmayı planlıyor.
+
+00:41:53 - 00:42:24
+Yani buna geçeyim. BlockSense'i kesinlikle veri transferi açısından doğru yönde bir adım olarak görebiliriz çünkü tüm Oracle scriptlerimizin açık kaynak olması gerekiyor ve bu tasarım gereği ve vizyon gereği. Hatırlayın, oracle'ların şu anda merkezi olan eksik parça olduğunu çok erken söyledik.
+
+00:42:25 - 00:43:04
+Bunu duyduktan sonra BlockSense hakkında nasıl hissediyorsunuz? Bu önemli. İnsanların zaten ortaklıklarımız hakkında yorum yaptığını ve bunun büyümemize nasıl yardım edeceğini görüyorum. Yani oldukça havalı. Sohbet devam edebilir. Sanırım aramı sonlandırabiliriz. Bu aramda hepinizi tekrar görmekten gerçekten mutluyum ve bir dahaki sefere Nijeryaca birkaç kelime öğreneceğim. Söz veriyorum. Yeni diller öğrenmekten gerçekten mutluyum. Asla ustası olmayacağım ama en azından sizi selamlayabilirim.
+

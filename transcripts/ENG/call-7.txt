@@ -1,0 +1,257 @@
+00:00:00 - 00:01:09
+Today we're going to tear what we've been doing in the past month because we're so proud of all the work we've done and uh every one of us will share a little bit of aspects of their work. So on my part I'll speak about community Gorgi will speak about the the business part the deals and Martin will share something of the experience of the event he the events he went to and the context he's having at the moment. And last month we could not speak about the Denver. It's huge. So he can share some
+
+00:01:09 - 00:01:57
+things about Denver also. And yeah later we'll have part of uh I mean questions for you guys. If you want to know something and if you miss some information just you can unmike but this will come later. Okay. I'll let you know when this time ask your questions or you can also ask in the chat but there are already see so many things so I might miss something you can be brave and also come on come on stage and speak with us and yeah this will pretty much it will take most of our time so super happy to be here with uh
+
+00:01:57 - 00:02:27
+all of you guys amazing and I first want to check how is everyone doing you guys having a good good time in the server with all the new games and everything, you can write in the chat and just tell me. And I would like to ask uh our guests also how they feel. Like Martin, how was your week? How was your month? How you feel? Let's start with this like checking the temperature. Checking the temperature. Okay. So, I'm not just going to give an answer to that. I'll do a a thing that uh I like
+
+00:02:27 - 00:02:58
+to call high low buffalo. So you say something good, something bad, and something random. So the good thing is um it's just been a hell of a month. Um so I think there was a lot of energy u coming in from Denver. I know some people in the space were saying, "Oh, you know, this isn't as massive as Denver used to be." Uh, but there were some really good people and um amazing relationships that were building. So, I think the energy is definitely high. A low is that I'm in Toronto and the
+
+00:02:58 - 00:03:47
+temperature is still freezing. So, I hope a bunch of you are uh someplace warmer uh and you can enjoy spring. Uh here I joke that, you know, winter is until end of May just so you're not disappointed. And uh Buffalo, what do I say for Buffalo? Something random. Um I'm hoping I can start joining the games as well. So schedule's really tricky, but it's going to be fun to just hang out uh together more. So I really appreciate you organizing this, Hristo. Thanks for having me here. Thank you, Martin, so much. To be
+
+00:03:47 - 00:04:23
+honest, before those calls, I'm always freaking out. But this time, I don't know because I mean everything is absolutely amazing and the whole setup. I'm plugged to the most amazing internet here like u like 1 GBTE of speed I would say and I use super technologics. So I feel kind of chill. Also, we're doing a lot and I mean this is helping us get closer to everyone here. And now I feel like in a family. So that's that's really helpful for me. And Gorgi want to also say how he feels, what's going on
+
+00:04:23 - 00:05:22
+around him before we start. But this is actually part of our our getting together so to say. So uh yeah. Yeah. I mean I let me just um I'll say yeah I can take it and then I'll just uh share share my update. So, uh yeah, I mean like Marina said, it was it was a pretty intense uh pretty intense one month, a month and a half. Um and um but things are coming um things are coming along on all fronts and um I am feeling pretty good about our prospects in the next uh in the next like six to eight months. So, um that's just the
+
+00:05:22 - 00:06:01
+general vibe that I have. Um I guess um I was thinking of how what to share with you guys exactly. And um I mean uh we've been uh doing some uh I I think uh I just basically do what we um what we shared with some of our investors as well and kind of you know give it the give you the uh like the last month and a half of of our of our activities. Uh basically uh again I would reiterate it was pretty pretty tough. Um and especially because everyone like the the whole market you know as you guys know kind of shifted. It feels uh
+
+00:06:01 - 00:06:49
+everyone kind of agrees now it's very much like a bare market and uh the sentiment is like that. Um and uh uh I think people finally like kind of like kind of giving up not giving up but just uh agreeing to this idea and um uh which is uh which is fine because we've actually done uh I mean a lot of us have uh built through bare markets before and uh I think um we'll do it again. So not an issue. Uh the team is uh fairly confident and uh re um revitalized and like very very much locked in uh right now. Um and um I
+
+00:06:49 - 00:07:21
+would share some of like our key wins I guess um over the last two months is that we first like one big thing is our relationship with stick. Uh we got um a good uh we have a good thing going uh helping contributing to the noir programming language and uh we have some product integrations there um that already happened that are using our uh using like our our compiler and our features and um we're going to start really ramping up the marketing for that and soon we'll they'll soon as soon as
+
+00:07:21 - 00:07:58
+they have their test net going I'll also deploy our Oracle and uh start supporting their ecosystem. So it is um yeah basically it's a very good uh a very good thing um that that that happened and uh it's been happening and then I think uh I mean we also have our first um mainet deployments uh you guys should check out coin harbor they're like a really um they're doing their beta testing on Ethereum mainet and we're supporting them so that u that's uh that's like the was the use case on
+
+00:07:58 - 00:08:28
+mainet. So in uh pretty much in within one year we managed to to get from zero to uh to mainet. So that's kind of that's kind of uh noteworthy and we have our second uh mainet user that's going to be on base. We're going to open up a few stable coin markets on lending protocol. I'll I'll share the the name of the protocol when it when we actually deploy. Uh it's a it's a very good one and uh it's uh the uh product I mean the markets that we're going to open are
+
+00:08:28 - 00:09:12
+going to be interesting kind of exotic stable coins. So hopefully they'll also get some liquidity on them and u we'll have our like first um TVL secured as well uh very very soon. So that's on base and then soon we'll also get uh we have some other um protocols that are lined up basically that have that could bring a lot of TVL to uh for us to secure on the on the LRT side. Um and uh yeah, so I don't want to go into names because until we finish the integrations, but um yeah, I think we
+
+00:09:12 - 00:09:50
+could we're aiming for uh to get on like DeFi Lama and then within the next 6 months be like securing a few hundred million um TVL like maybe within six to eight months. That's not uh an impossible task task. um maybe even up to a billion depending on how some of our partners grow. So um that that's pretty uh so anyway we have a good line uh good pipeline and uh of the five projects they're bringing good TV and finally uh on the monot test net we uh managed to to be one of the first two or
+
+00:09:50 - 00:10:31
+three oracles that deployed on as soon as it went live and we're supporting four different projects. So you guys uh I mean right now actually two but we'll um we'll have a few more uh and you guys should definitely go there and check it out uh and see what you can um u do on like uh on Nostra and Covenant and uh anyway in general just the Monet uh the Monite. So um anyway um after um we also I mean soon we're going to start pushing a lot of marketing with all of these uh partners as well. So so you uh will be
+
+00:10:31 - 00:11:14
+we'll greatly appreciate if you basically like really amplify uh the next um as soon the next few weeks as we start doing these announcements and stuff. And uh what else can I say? Um I guess we managed to get a exposure to a few more like new use cases. Um we're developing this kind of privacy based data set oracles for uh decentralized science where um different um where we would aggregate data from like different health and wellness devices or different data dows and uh have um scientists kind of work
+
+00:11:14 - 00:11:55
+on them. Um this is like kind of R&D work also we have some R&D work around intent solvers uh and uh also around still doing exploring some stuff around agents and decentralized AI. So um yeah that's uh that's going well and u yeah we're really pushing hard on our kind of distribution partners like different uh RAS providers. We're working very well with the in the the uh the stack ecosystems like optimism and avalanche. So we'll uh we'll soon have really interesting and uh results to
+
+00:11:55 - 00:12:41
+share on that side as well. Um and I mean we're integrating with a lot of we're already on a bunch of test nets from from these ecosystems. So um yeah I think um things are moving along like um I yeah and obviously on the marketing side on the community I think there's maybe almost 10,000 new people which is pretty crazy. Um and um very thankful to the to the to everyone that that is new and to the old folks who who really um work hard and um who are very patient with us. And I'm uh excited that we have some
+
+00:12:41 - 00:13:21
+like a two or three really cool initiatives lined up. I mean at least two or three really like cool initiatives lined up for the community. uh where we would give you uh a lot more exposure to the whole project and uh like meaningful exposure to the the project and to be part of it. So that should happen in the next three four months like one after the other they will be rolled out and um yeah I uh yeah I mean well yeah that's that's um that's what I can say. Thank thank you man. Thank you for bringing this news to the
+
+00:13:21 - 00:13:51
+community for the people that um yeah I mean there are a lot of new people and actually we have a record number of uh live attendance here. Of course people can go and watch this back on the YouTube channel when we posted but super happy to fill this hive full of bees or this boat full of pirates I can say. And for many of those people, they may be still wondering what is Boxer is doing. And we've been doing this community for over a year and building most of the tech behind the scenes. And obviously
+
+00:13:51 - 00:14:21
+start hearing those names and uh the projects that we are about to integrate and all the partnerships that we're going to start announcing actually from next week. I can say that the first three months of this year were kind of completion of a lot of work that we started last year. And from now on based on the road map that I know that I'm informed uh we'll see all the things that we've been building and the community is definitely already like impatient to see the progress. So thank you for bringing
+
+00:14:21 - 00:15:02
+this information. There are so many things we are also having a lot of community initiatives uh that I'm going to speak about but maybe I let Martin speak before me. How do you feel about this Martin? Sure, we can uh talk about um ETH Denver. Can you guys hear in CB? Well, by the way, some people reported connection issues. I have the feeling your camera is slightly freezing, but maybe that's only only the camera otherwise I I hear you well. Just to mention to everyone, thanks for joining
+
+00:15:02 - 00:15:54
+and make sure to stay till the end. I'll share all the community updates. Also there will be a snapshot taken in a I don't know which moment like uh Rahu is making this whatever now we so make sure to stay so you can get your XP for for being here right everything's perfect let's give the word to Martin thanks Christo I switched cameras uh oh no it's not better it doesn't look better to the previous Well, the question is, is it still choppy? Yeah, now it's better. I can But am I choppy? I have a
+
+00:15:54 - 00:16:28
+gigabit internet connection at home. Yeah, but is it lagging? Yes, for me at least. I don't know. How do you see marking guys? How? Because others messaged me too. Let me or rail. Okay, few seconds. Okay, let's see. I mean, sometimes having this amazing connection doesn't mean anything. I remember last month I went to a special place to have this amazing uh call with all of you. And I had so many issues. First starting with the connection, then with my computer, then with the headphones, and I bought
+
+00:16:28 - 00:17:23
+new ones. So you can guys hear me better but nothing seem to work. So I know technology is sometimes failing us. Although we use best in class I would say devices. Um sometimes things like this can happen. I see that Martin join us back. Maybe he's Yeah. Ready. What about now? This is so bad. I hear you. Well, so let's let's focus on what you I would say have to say. It's okay. I like the question is I like when you move but now like you're as a picture cuz the thing is I I was going to share
+
+00:17:23 - 00:18:14
+my screen. So Oh, I see. Let's see how that's going to work. This might not work so well. Let's try this. Let me know if what this is going to look like. Can you guys see my screen? Yes. Very well. How bad is it? Like how choppy is it? No, it's perfect. I mean, for what I can see, you know. Okay. So, what I wanted to do is I wanted to share the ETH Denver experience in uh pictures because it's hard to describe what an ETH main event looks like. So, this year a lot of people said, "Hey,
+
+00:18:14 - 00:18:44
+you know, uh it's not as full as before." But it was crazy cuz we looked at our lists. So myself, Magnus, our head of product, Gorgi went to and Stan head of engineering went to um ETH Denver and uh just me I think I met over 100 people that we exchanged telegrams with. Um so it was it was a really fun event. So this is in no particular order. I was just going to go through and show you uh some of the folks that we met and some of the things we did. So here, uh this is hilarious, but this
+
+00:18:44 - 00:19:12
+is the, um, Avalanche BD. He towers over everybody else. So that's Matt. He's been with Avalanche for 3 years. Avalanche are making a very serious push with new chains. So you're going to see what they used to call subnets or new L1s. You're going to see a massive push this year. And we're really close to the team. Um, this guy here is from Alchemy, really smart dude. So he calls himself a chain conductor. So Alchemy is a big player in the space. They um are a roll up as a service among other things. We
+
+00:19:12 - 00:19:57
+have a very good relationship with the team. This guy here is an absolute G. Um so he's responsible for infrastructure partnerships for the whole of the arbitum network. So this also means arbitum orbit chains um vishu. And here I actually did a talk at the Injective Summit. So this is one of the Injective people. Uh she actually has community. It's a really cool team and they're making big moves in RWA and Bloxense is very uniquely positioned to support them. You guys might know about Caldera.
+
+00:19:57 - 00:20:36
+So this is their new BD and he host spaces. I've seen some of you guys in the caldera space uh recently where they announced the metal layer. So I can't talk about details there yet. Uh but we are um close to the caldera team and I think there can be a lot of um overlap in terms of how we can support each other. This guy right here is going to be a face that a year from now a lot more people will know. So he's at goool which is a company as part that that supports avalanche L1's incredibly uh
+
+00:20:36 - 00:21:10
+smart and experienced entrepreneur. He's built and sold two ventureback companies and u he's based out of New York. So I'll be seeing him in Dubai for token in a month's time. Some of you might recognize uh this face. So this is Dr. Ravi, co-founder at Zeve and Zeve are roll up with over 300 uh chains that have gone through test net very they had a very big event at ETH Denver. I don't think a lot of the people on the call wouldn't recognize this logo. So this is Ien layer and
+
+00:21:10 - 00:21:54
+coincidentally this guy's based out of Toronto. So we actually are having launch next week. It's just funny because with crypto you go halfway around the world to meet people that are in your town basically. Um some of you might know Ricky. So Ricky is from cyber chain u built on cyber. uh they focus more on use cases like social uh but we have very unique capabilities for social because not a lot of oracles can be effective at bringing uh nonpric data on chain uh this guy here is from world
+
+00:21:54 - 00:22:28
+foundation um worldcoin he actually is literally working at the foundation and later on I'll show you um the eyeball scanner from world here. This band with Immaculate Vibes, that's Syndicate. Now, you guys might not know this necessarily. Syndicate had done a I believe it's over a 20 million raise in total and they're backed by A16Z and they're helping companies build app chains. So, we are working on a specific project uh with these guys and I think this could be a very interesting opportunity um if we
+
+00:22:28 - 00:23:17
+move things down the line together. Symbiotic very so this year uh definitely at DTH Denver there was a lot of noise about symbiotic and this is the head of BD uh very experienced professional and just a really fun guy to hang out with. So this is strange cuz we're holding lemons. So give me a minute to explain. Uh let me actually see if we have Jackie here. So Jackie has been supporting us on the community side and she used to work at Polygon. Uh she was personally recommended to us by A16Z crypto. Um and
+
+00:23:17 - 00:23:52
+um Jackie had taken a car to drive from San Francisco all the way to Denver. And on the way there she went through her mom's house and gathered lemons. And so when I went to Denver, Jackie had her last two lemons and she shared them with me and Kendra. Uh, and Kendra is basically the go-to person for partnerships with Polygon and Polygon A layer. So she has been incredibly helpful and u I see a very solid foundation um for us to support a layer chains. We actually have one project that we have just done the test net
+
+00:23:52 - 00:24:20
+integration with. Um, you guys will hear more about this in our follow on meeting. We just need to make a bit more progress there. Um, is this interesting? Um, I want to give you guys a bit of a feeling as if you're there and like we're I've gone around uh to see these people and giving you some tidbits about industry insight or information. Would you like me to show you a few more people or should I jump to the uh skip the people and just jump to some of the things we did? Give me comments
+
+00:24:20 - 00:25:08
+in the chat. I just don't want to bore you. Yeah, personally I like to see those faces. I know some of those people. And let's let's see what the guys say. I mean, I see they're having fun. This is cool. What do you guys think? Do you want to see more faces and hear more stories? Martin is definitely a good storyteller. I kind of always enjoy when he's joining those calls. He actually said he enjoys as well. So, we are so happy we can have him. Yeah, this is this let me know. I just want to hear
+
+00:25:08 - 00:25:42
+from someone else from the community and then I can choose which set of photos to continue with facts. Yeah. Well, Rael, there's not this isn't anything official yet. So, that's why I'm like I'm giving you guys some tidbits here and there, but I'm giving them to you with a disclaimer. I'll just keep going cuz you like the theme. I'll just give give you I'm moderating the amount of key I can give you or insight. Um, so here actually this is uh the CTO at Summerfy, Super Chill Dude. They're
+
+00:25:42 - 00:26:21
+building a very interesting uh new product. Um, here um this is Coin List. So we were actually invited to a private event um by this one team. Can't talk too much about the team, but they organized private events for maybe 20 to 30 entrepreneurs and founders in the crypto space. uh at major events. Um maybe there could be a deeper collaboration with them there um and I would share more. This was really interesting actually. So in my hotel I was just having breakfast and this guy heard me talking
+
+00:26:21 - 00:26:47
+on the phone and then we started chatting. It turns out this is the former head of BD for MetaMask and uh you know he managed a team of hundreds of people and he's building a new startup. So, I was just having breakfast and then it turned into this whole like hour and a half conversation and we're actually referring him to some of our investors. Uh, he's working on some interesting things. Maybe in the coming months when he raises money, I'll tell you guys more about it. But this just shows you how
+
+00:26:47 - 00:27:37
+when you go to these conferences, you're just hanging out and you bump into the most interesting people building cool stuff. Um, let's just keep going here. Also, it felt like you're in a horror movie some nights. So, apparently, um, in winter, pros go to Denver. Um, so they come from up north in Canada to Denver for the winter. And every time at sunset, there would be thousands of crows flying over the city. and it felt like it's some sort of massive event. And then I Google it and apparently it's a nesting place.
+
+00:27:37 - 00:28:17
+So in the evening when you go with the car by the trees, the trees don't have any leaves, but there can be so many crows that it feels like you just have like a tree that's that has a black crown and it's uh it's just thousands of uh crows. Um this is what a crypto bathroom looks like. So someone had put this in. There's memes everywhere. So, this was at a hacker house at one of the crypto events. Um, we met Oh, actually, we went to a shooting range. So, this was a team and relationship building
+
+00:28:17 - 00:29:11
+exercise. Can anyone guess in the chat where this AK was made? Let's see. Make a guess. just call it out. Yeah, there you go, Ferris. Jesus. So, this is a Bulgarian AK. Um, so I told my family and my mom was laughing cuz she's like, "You went from Toronto to Denver to shoot a Bulgarian AK." Apparently, our AKs are really good. Um, people use those um even for training at a shooting range in the US. But we didn't just uh use an AKA. Actually, I think this was funny. Um it's basically a therapy ad in the
+
+00:29:11 - 00:29:42
+shooting range. Um so I think the guys in this um community po can relate. I think this is a perfect place to put an ad for therapy cuz if you need to go and uh shoot guns uh that break the sound barrier, that can be fun. But are you also how often are you doing this? So, this shotgun is the shotgun that John Wick uses. It's like a $3,000 shotgun, but in the US, you can just go with an ID and pay like 50 bucks and just shoot this at the range. Um, so we also shot this one. Um, I don't know
+
+00:29:42 - 00:30:26
+if the slow-mo is going to play well or this is before he hit the but he hit the trigger. Yeah, there you go. So, the video might not be that impressive, but the actual feeling when you're there u and someone shoots this next to you is just ban. It's crazy. I can't skip forward. Maybe I'll post post it in the channel later. Uh, we also showed the scar, which is this giant thing. Uh, if any of you played Counter Strike, you've definitely used this one uh in the game. And um one thing that I found
+
+00:30:26 - 00:31:13
+really funny is uh if you go in the hotel, no alcohol can be served to people under 21, but you can definitely go shoot um like military grade weapons uh for like tens of dollars um at the shooting range. So that was interesting. Um, another thing that was hilarious, there were ads in Denver, so people are really active there. Uh, there were ads to encourage people or signs to encourage people to walk more. And this specific poster was in a place where when you start going up to the conference room, you realize that it's
+
+00:31:13 - 00:31:49
+on the eighth floor only when you climb a couple of uh floors. So there was literally a guy uh afterwards that was standing downstairs to tell people that it's eight floors if they decide to go down this route. Um Gorgi had mentioned attempts uh you can uh interrupt me uh Fristo because I I'm not seeing the time and I'm not seeing the comments. So you already had mentioned Yeah. Yeah. It's fine. I it's fine. I just uh will be a little bit more careful after now talking to you after seeing those uh
+
+00:31:49 - 00:32:38
+those videos. This was a it was a you know they say when in Rome so it's it was a team building activity um with some partners too. So we were uh we're really close as a team to the adtech team actually. So here there are some photos from Noarcom and I got a bit of swag for our team as well in that our head of engineering brought back to the Bulgarian office. Injective I mentioned them earlier. Um so they even had um billboards in the city. So the Injective team are doing very interesting work on
+
+00:32:38 - 00:33:18
+the RWA side and uh I think they could be a a great partner. It's still early days, but I see a lot of potential to support the team. So, in Denver, uh there's this interesting place that's very, for lack of a better word, psychedelic. It's like a exhibition. And so, you're going to see some photos here and videos. There was a truck, so I got in the truck there. you're going to see some photos of uh just the walls in this place. It was a very surreal experience. Uh I don't even know how to describe the
+
+00:33:18 - 00:33:47
+place. Um in this specific video, there's instruments that are playing on their own that are mounted to the walls. There's a piano and then there's a drum kit. And it was just a very that's why I'm saying serial experience. Um let's see. Quantum Department of Transportation. I had posted a couple of uh stories as well. But it was hilarious because when I would share posts on Twitter and people didn't know about that venue, I called Meow Wolf. Everybody was wondering like where the
+
+00:33:47 - 00:34:24
+hell is this? Like what's happening at ET? So this was it. Um here uh you have Magnus our head of product rocking the block sensor and moderating a panel at modular defi Denver uh research day. So this was organized by encode that are one of our investors. Um and you have some really serious speakers here. So there's Jeff from Polyhedra and the founder of uh Pqu. You guys some of you guys might recognize uh oh I don't know why it's upside down. Is this upside down? I don't know why why they're so weird. So
+
+00:34:24 - 00:35:08
+this is Shbam from Manta. So we're very close partners with Manta. And this is Charville. Um Charville is the founder of Capex. So he's a a really good friend and uh partner. Uh he recently did a raise. So it's a very good good team. Um here again you have uh the head of BD at Caldera. Caldera had a very interesting venue. It's the first time that I had food served in a cucumber. I don't know if you guys had stuff like that. It was refreshing but definitely odd at the same time. And
+
+00:35:08 - 00:35:56
+here you have player. Uh so this was a primarily marketing focused event. Uh that's why you see hype here. And some of you might recognize Ted if you're on Farcaster. So Ted not last though. She's kind of a legend there. And this is Claire Cart from attempt and they had reserved this old transport museum that had cars like classic cars from like 100 years ago. Uh it was Stan our head of engineering loved it some of the swagi event this was soion is a good partner as well uh we know burn banks uh he had these
+
+00:35:56 - 00:36:52
+uh canisters of oxygen so because Denver has very high elevation it's recommended that people have canisters of oxygen in case you get shortness of breath and he had labeled them asium u which is hilarious This I think is the most original swag um I've seen at um an event. And in the Arbitum party, you had crypto team themed cocktail like Arbitum and Coke, L2 Lemonade, uh and uh to the moon mule. Um this was if you ever wondered what a massive U ETH event looks like, this was the map for the venue. So the
+
+00:36:52 - 00:37:20
+thing is massive. Um if you're just going to the venue itself and you wanted to walk around, you could probably spend a couple of days just doing this. This here is a Horizon team. So they're very interesting team and they're building one of the first L3s on base. So we are close to the team. Um we're working to see how we could support them. Um it was good to run into them there. Um I think these are mostly Oh, I promised you this. So this is actually the eyeball the eyeball scanner, the
+
+00:37:20 - 00:37:51
+iris scanner from world. Um the world app is very interesting. I think the team is doing very different things. They have a very big vision and there's a very solid engineering team behind this. So if you haven't checked out world, you might want to look into them. But this was an iris scanner where you that you could scan that you could use to scan and create an account for you as proof of identity. And this is head of engineering Stan. Um he has an incredible aim. Fun fact, uh Stan uh
+
+00:37:51 - 00:38:53
+used to shoot um rifles competitively uh when he was a teenager. So he was an incredible shot. And actually finally a photo of the whole all of us that were in Denver. So Stan, Gorgi, Magnus, and myself. And uh there are a couple of photos from ETH Denver inside. So this is what like the hacking room can look like at ETH Denver. Um this was a robot that I later had made. What do you want to be drawn? And this robot talks to you. It takes as you have as it takes a video of you, it uses its mechanical arm to draw a to draw a
+
+00:38:53 - 00:39:39
+portrait of you as it talks to you about crypto. So, I think this is by far the booth that got the most attention at the venue. Um, and final fun fact, Buffalo Bill is actually a guy who used to live in Denver. So, there was a whole Buffalo Bill, Buffalo Bill Museum uh, in Denver. And the last day before our flight uh, with Stan, we ended up uh, taking a convertible for half a day. Let's see where are the photos. And uh Stan and I went up the mountain and went uh and checked out the Buffalo Bill
+
+00:39:39 - 00:40:08
+Museum. How I think these are all the photos I had to share. How bad was this? Could you guys actually see anything or was I You were very sweet and you didn't interrupt me and you could you were just seeing blurry images the whole time. your your shares screen sharing was awesome. Only you are freezing from time to time. Okay. Some some people ask me why you don't stop your camera, but I kind of like it to appear from time to time. So, it's also good. I'll just do like I just do random things. So, um so but yeah,
+
+00:40:08 - 00:40:55
+what I hear it's crazy, man. It's like uh Denver is I mean it's hard to put in words. You you share different worlds here like the the setup inside the people what you have around it also. It's really hard to imagine like the energy that is required required from a human being to how many days you've been there. Well, I flew in earlier. Uh the real kind of soldiers here are Borgi and Magnus because they did they were in an for an event in Hong Kong and then they flew to Denver and the following day ETH Denver
+
+00:40:55 - 00:41:38
+was already running. Um so I was there for about a week. I think the guys did a week in Hong Kong then a week in Denver. Man, I'm very impressed because only coming back from I flew on Sunday from Costa Rica and this week has been really tough for me. Like I have nights that I can't sleep and hopefully today I I I start feeling like normal again. But I had crazy. It's really I I don't know why. Um just some part of me was not not really functional. So yeah, massive respect for Gorgi and Magnus flying from
+
+00:41:38 - 00:42:16
+a week conference that is already super exhausting. I don't know how many people they met in Hong Kong, but consensus was really big also and coming to this this huge conference. You mentioned yourself you had over 90 contacts to con to like to yeah to go through like this is not random people this is people that had meaningful meaningful conversations throughout this week. So this is massive. This I say this guys to see what the work of a bi is in general like how much effort is needed and how much
+
+00:42:16 - 00:43:07
+effort our team is putting into making boxans reach to new teams and get to deals and those are fact uh now coming public very soon. I mean many names were mentioned and those are relationship built over time. So thank you guys for this amazing work. Really Martin, you want to add something like uh final. So um the biggest thing is one when we're going to these events even though you know I supported the team from September full time although I met the team in May already when we go to these massive venues some of the most
+
+00:43:07 - 00:43:35
+important people we know them they know us u we get introductions to a team and then it turns out we've hung out through some another friend. So, BlockSense is becoming a known entity in the space like even when you go to these massive massive events and that's impressive guys like I'm the person that supports BD primarily. Of course, Gorgi and Magnus are heavily involved but there are other oracles out there with like a 15 person BD team and we're actually getting to a favorable position with a
+
+00:43:35 - 00:43:57
+lot of strategic partners. It can feel like there's a million things to do and where you are always playing catchup, but the truth is Bloxense is really becoming a known entity in the space and that's impressive. Uh given the time that we've had and just the number of people that we've had pushing things here full-time and so all of you guys that are listening here, you're also an important part of this. So that's why I'm really excited about the work that TR Hill and
+
+00:43:57 - 00:44:40
+the Crystal and Pure Gator are driving to support the community because when we start rolling with these partnerships um so we can actually have a good foundation for you guys to step on um you amplifying this and understanding the potential and the impact of SCA and the scale of this that's what's going to really make things massive. So, I'm excited cuz you've been working hard for a long time, but now you're starting to see, okay, we're getting close to um popping even more and we're already recognized
+
+00:44:40 - 00:45:12
+in the space. The other thing I want to say is that as you heard Gorgi, you know, he was sharing kind of potential areas with you guys, but we haven't named a lot of projects. So, we need to ship, we need to get the partnerships in place. Uh but in the coming months there will be a lot of exciting developments because we'll be reaping the fruits of all of this work that we've been doing as a team over the past year. So I'm just super excited honestly even though there's a lot and it can feel
+
+00:45:12 - 00:45:45
+like there's a lot of pressure. Um there is an immense energy behind this and it's validated. getting validated like we talk to you can talk to a major major chain and you talk to them about our approach to the market and what we want to do with oracles and you're hearing from the main person responsible for partnership saying yes this is a problem like your approach makes a lot of sense between the stacks the rases and the chains it's not an easy fight but we are positioned uh well to capitalize on this
+
+00:45:45 - 00:46:29
+and to just solve problems for people and help people out So summarize, there's a lot of energy behind all of this. I want to thank you guys, but also I want to prepare you because the fun stuff are yet to begin really. So yeah, I'm really grateful to be here um and we all spend time together. Thank you, Martin. Yeah, it's really a lot of work has been done on the B side on the technical team side things that are not completely visible but the work that you guys doing on the community is visible to us
+
+00:46:29 - 00:47:03
+sometimes you might feel that oh I'm doing something I hope you don't you might feel that yeah I'm doing things who is seeing them but you you should know that everything that you are doing is uh going through our filters, lenses, you are noted. We have implemented recently um like a reward system with experience also you know with the roles more you active and the more the more like you recognize you can climb those roles. So this is pretty uh like the way the way we see it. We started with a
+
+00:47:03 - 00:47:43
+very small community and now we've grown almost 10 times in in this one year and this is a super solid base of real people. I have amazing people here supporting us. This Tnik Abdullah Fox parade guys always being here with us. Mi he is now supporting us versus Dishon I mean how many of you are here like today you you see guys this is a result of your work also. I mean this community is growing so much not only uh like in numbers but uh I mean here the quality is also I see Ivan is here Q precious
+
+00:47:43 - 00:48:22
+Smith this guy was killing it I mean the way that I mention those guys is because I I know them we've been working together but I'm equally excited to see new names like I mean sorry if you're new to me but Richard also I select joined it like a month ago. He just followed some of my simple advice in his uh Twitter account not doubled but 10fold and uh everyone that is reaching out for some support is also receiving it from us. I try to be as available as possible or here is the other person. We have a
+
+00:48:22 - 00:48:54
+ticket system also where you can reach us out. I hope you feel this that we're really open also during the pirate calls we're discussing strategies that are most of them now implemented I mean and obviously all your recommendations they are super valuable because they are working you see what do you guys recommending the engage b is on place it's working the experience points I mean it's obviously working people are producing more content we have more attendance here. So everything you
+
+00:48:54 - 00:49:31
+recommend is is really cool and we try to listen implement of course based on the timing that we have also with everything that we know is happening on the background and now I can say it's one of the probably most optimistic times for for us at blocksense uh based on the progress that we have made. I want to just mention the the highlights from on the community side that things that we know already uh happened due to like based on the letter campaign and your collective effort. Now the community is grown as Gary mentioned
+
+00:49:31 - 00:50:30
+over 10,000 people and this is amazing and this is not just a number 10,000 amazing like friends people that are here to learn more like you and also to spread the news about uh our community and our work and to because the community is growing. We need more support for local channels and we're super happy to see uh now uh uh activities like local AMAs coming into place also we the the number of LA now goes those are the most some of the most active people and uh yeah we we introduce the weekly quests if you guys
+
+00:50:30 - 00:50:59
+follow those you'll hit on the you'll become pirates pirates It's all those most active members that we have bim monthly or monthly sessions where we get to yeah just having fun seeing what is missing how we can improve things. Also we have new moderators. I want to shout out to Paris from Nigeria, S from Indonesia and Yolo from China. You guys doing amazing work in bringing new people but also keeping your local channel entertained. This is a very important step for us and the goal now
+
+00:50:59 - 00:51:40
+is to grow those channels to became like uh thousands of people and one day I hope very soon actually you can guys start organizing also local in person person events and you'll get our support for this. Everyone that has been supporting us has been recognized. I can only mention this and uh yeah one some of the people that we'd like to recognize this month for for their work is uh Shah he is being the most active person you know we track this activity with a bot it's not me that is coming out with this and
+
+00:51:40 - 00:52:14
+saying who where this information come out so Shar has been the most active member in the month and he's getting the louser role And uh the other person that I think joined us relatively uh like uh not so long ago, she's doing great job already is an is getting a pirate role. Congratulations for this. And everyone of you if you guys just joining, you don't know how this those things work, just go on the server and see roles and see how things progress. Also, you can get advice from the people that are
+
+00:52:14 - 00:52:57
+having those roles like pirates, how did you do it? Everyone knows how. I mean, this is not a a mystery, you know. So, everyone is uh invited to Yeah. to contribute to to get the roles to to learn more about the project. We've been preparing various guides how to write content also. We prepared guide for moderators also how to support the whole community and I'm open to hear feedback from you guys if something is missing those things they will be super important and useful for you uh when we
+
+00:52:57 - 00:53:36
+release the new brand and maybe some of you has has seen already we start teasing the new brand so this will be first of many steps of like few steps of reveal building it. But this will be like a wave where we'll be showing different parts of the brand also. Um yeah, bringing it to to different mediums that we use like the website and the documentation and also our social channel. So something amazing. We actually have people from the team here. Shout out for their amazing work uh that what they're doing so we can implement
+
+00:53:36 - 00:54:13
+this new brand and uh yeah in in our all our materials even the t-shirt that I'm wearing now is the old one. Okay, maybe it's the last time you see this t-shirt. Martin is also having one. Same. So yeah, I mean I I like I'm proud of this. So most of the things I mentioned on the community side this is this is what I can um like go over for you to have um yeah clear idea we have new moderators community is growing with the campaigns that the ongoing campaigns that we have we now have local AMAs thank you guys for
+
+00:54:13 - 00:54:48
+keeping this in actually it's a reminder here just have fun that's the most important think uh we have the lousia weekly quests which are also going and I was about to forget the most amazing things there uh game nights now we also have a poker night last time we were about 30 people I'm super happy I finished seven I mean my game was not perfect of course uh everyone would say this you know I didn't have good cards or something like this but yeah it was nevertheless great fun and also other
+
+00:54:48 - 00:55:40
+amazing games that are there for you to have fun. For this, I have to thank the local leaders and also to Rahil for implementing those things and for leading it. All the moderators, all the pirates, everyone of you guys. I mean, being part of this community is amazing. I'm so happy to see uh the community growing. We've been like 5, 10, 15, 20 people. Now we're 60 70 people during the call. It's amazing. And yeah, this is what I can say. You've heard the I will call it a report, but I mean what Gorgi and Martin
+
+00:55:40 - 00:56:17
+like shared is pretty good news. And with the coming to the new quarter, I think it's going to be the best the best time for for us. So let's stay together. Let's have fun and continue growing. I see we kind of took a lot of time, but I still want to give you the opportunity to ask a question. So, if you guys have a question, it's now the moment. You can either jump jump on stage or just guns or just whatever. I mean, just ask in the in the chat. I just wanted to say something because I sent it in the
+
+00:56:17 - 00:56:59
+chat. Uh you guys are really cool. I appreciate you. So in case anyone hasn't gotten giblified yet and you want uh to giblify your PFP because you're here now uh you can email me at martin@blocksense.network. If you don't want to get docs just email from a non like disposable email. I'm personally going to you and I'll return the photo to you on that email. So you can email me. Wow. Thanks for the offer, man. Amazing. Okay, I see somebody somebody is typing. Is this a question or All right. All right. There's another
+
+00:56:59 - 00:57:01
+question. Everything is clear. People are just having fun. Amazing. So, thank you everyone for joining. I don't want to go over the time. Thanks for Martin and Gorgi also, but everyone of you, thanks for taking time, guys. And thanks for your amazing support. See you on board.

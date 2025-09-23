@@ -1,0 +1,180 @@
+00:00:01 - 00:01:28
+
+Hello everyone nice to see you guys wow what an adventure I've been as fighting with the some settings here I bought new headphones because last time technical guy told me your headphones are too strong so have to figure out something but eventually they're not they're not better and yeah now I'm happy we can proceed I see I see the top friends we have here supporting us but also new faces you know that Community is growing and I'm happy to see your new faces and let's go with
+00:00:44 - 00:02:12
+
+the let's go with the agenda yeah for some reason okay today we're going to see technical details but because everybody is on a conference and very busy I'll just go over without getting into much details then we speak about the the new chains that we are integrating and the contacts that we are deploying on on them after this we'll move to what we're doing like in the events internationally where we presenting block sense how we are spreading the news about our awesome project then we look look at all the
+00:01:31 - 00:02:55
+
+beautiful things happening in the community at the moment all the campaigns what's going on then speak about things we implemented last week he worked on it but it's based on all your suggestions so we are very happy of participating in this giving advice Pirates are awesome and we try to listen and Implement as quick as possible whenever we find the the right moment for this I think project now is in the perfect time and space for for this go to happen and for those engagement things to to
+00:02:13 - 00:03:51
+
+be implemented and last but not the least I shout out to all the people that are contributing and tell you the people that are getting new rols also and those who get already rol because they were participating in the the events and the campaigns we have till now so still stay till the end to hear maybe your name is there also during this call I want to tell you that start rewarding you with XP for joining the call so make sure to stay in and to listen so you can get you can get your points during the snapshot
+00:03:01 - 00:04:17
+
+and yeah and at the end of this call as normal I give you the possibility to ask questions and yeah maybe anything that is unclear to to get an answer here it's an opportunity for us to communicate and to answer your questions during those calls I'm always super excited I cannot explain it like this is the moment of the the month when we look back what we have done during this month because working every day is small things but in the end we look back and we say okay this it's really cool this
+00:03:40 - 00:04:59
+
+is what we're doing this how we're advancing and yeah let me go brief to the technical technical things that the team has been working on on one side and those are the release of Noir formal verification and debugging tools I think think we'll have the opportunity to hear more from the technical team why this matters for developers in general and how this is going to be important for blockchain in the future whenever whenever we have available technical person to to jump on I myself
+00:04:19 - 00:05:46
+
+I'm not too much into the details but I know this relationship with at stake and our team is is really good we had a person piing joining conference presenting also our things in no one recently and when whenever they come back from all those events it will be an opportunity to to share to share more and with those tools we help to facilitate developers in their work so they can develop more more secure applications in the future and yeah this is this is part of the this is part of the technical work on
+00:05:05 - 00:06:31
+
+the other on the other side in our motivation and goal to grow we are continuously deploying on new networks and in this past month alone we've been deployed on seven different networks actually there have been six and those are version one of the contracts that have been applied and now the team is actually already working on version two that is going to improve the cost of deployment and starting this week they'll be deploying already this new version so the networks we have been deployed to already and their test net
+00:05:47 - 00:07:39
+
+is the Horizon deployed on the goby Network inm the testet we also get close to prints of metal you know the metal guys they're getting more and more popular guys building on on bitcoin bringing more liquidity there we also deploy it on op BNB Network on the Rox on the shade and the H on seia so you see how much can be done in in a month whenever there's a focus those deployments are the result of the B work and the communication that is happening with the other teams so it means we are on many grounds
+00:06:42 - 00:08:20
+
+following this vision of bense to be multi-chain available in chain agnostic and this week already started deploying the new version of the contract on base polium and metal oil to and super seed seoa so as I mentioned earlier those deployments this version is U allowing for better and more more efficient contract deployments we have around 11% better performance of those new contracts but this is really something to celebrate team is finding ways to improve what we have built already and start
+00:07:32 - 00:08:55
+
+
+deploying a second version is really great I'm happy to see everyone reacting with the pirate flag showing this support where we are sailing and what we achieving and today it's first time that I'm alone and teim didn't let me down but everybody is really busy being around the world they just came back from Hong Kong meanwhile there was a and and they went directly to Denver actually big part of the the business team also technical people are there people on the ground meeting with
+00:08:13 - 00:09:38
+
+awesome people so in Hong Kong I did not manage to get up date the full list of projects that we spoke with but I see the inflow of new demands for deploying on new networks which is very positive and we will get an update soon we might even do some communication about those things during the month not not waiting for next update but let's see how it goes how is the schedule of everyone what time we can make for this and in beside consensus which is really huge event that happens in Hong
+00:08:55 - 00:10:19
+
+Kong we had finally a homebased event which was sopia crypto Meetup many people join people are really interesting interested in the topic and one of our developers in Jordan or yordan he spoke about the importance of oracles to bring this awareness to the people that are generally interested in crypto and bringing their attention to the project this event was mostly investors people that look for good opportunities in the space so we are already in a way in their map and their radar for for this as a project waiting
+00:09:37 - 00:10:59
+
+for project to list a token and start trading this start acquiring some blocks tokens there's no clear data about this we have not communicated but it's all related to the development that is ongoing as you know with our plans to start deploying on Main which which is a little bit taking a little bit more time we're kind of optimistic I would say optimistic like Elon Musk you know this guy promised self-driving cars this five years are still not he the full capacity but we are not
+00:10:19 - 00:11:40
+
+we're definitely not so slow to to come to our promise and to our vision it's amazing how we are advancing and Martin mentioned on one one of our calls around uh I think it was December end end of the year he wanted to give you an overview of why block s is advancing so quick and how we're doing it compared to other projects and uh we'll take this opportunity of to to share this because it's really important to position ourselves compared to other projects to see how we compete how we
+00:10:59 - 00:12:32
+
+compare with them and what is the reason for us to exist as a project why we are so motivated and building so so heart I would say and as I mentioned beside consensus and E Denver also the the team is currently yeah actually in sopia crypt the team is currently Denver you know it's one of the biggest events there's no company that is not there schedule of the guys is super busy I open their calendar just to see if I can do one hour for this SC but it's absolutely impossible I think they run from meeting
+00:11:46 - 00:12:59
+
+to meeting and from event to event which is very important for us to to get into more people people start hearing about the project and yeah this is what the B is doing and what the technical people are doing they're doing their work mostly on the background for you guys you don't see it beside the on the doc section you can see contracts deployed and there you can follow the add-on of the new networks that we we're working that I just mentioned but the deployment goes so quick that even they don't manage to
+00:12:22 - 00:13:43
+
+add the the icons of those networks so I felt like it's important to to let you know here what is the work that has been done by sharing some of those it's amazing actually Zar joining us I give you the possibility to yeah cool I was not sure if you if you'll make it really cool so actually before before I continue with the community part because Zar join us I happy to go back to a little bit the first part where I mentioned the technical development and maybe the can say things about the our formal verification
+00:13:03 - 00:14:21
+
+debugging tools hey everyone nice to be hereo I just didn't hear what was your suggestion it was not a suggestion I was saying that I went as an overview because I was not sure if you'll be able to join I went as an overview on the technical side here the the the Noir formal verification the bugging tools the things we told that you you could share if you manage to join but I said I can't go into details so we kind of left it for next time but no need to wait if you're here I give you the
+00:13:45 - 00:15:17
+
+possibility to yeah share this advancements from technical perspective let me try to share my screen maybe that would be interesting super do you guys see my screen it's connecting would you let me know when it's ready yeah good to go to go all right so there was actually a number of open source releases this week just kind a few minutes ago we open sourced all of blocks all of the blocks and smart contracts no software and so on and so forth so you will be able to find it on GitHub blog sense blog
+00:14:48 - 00:16:09
+
+
+sense Network SL blog sense this is the main repository from now on we will continue the development in the open so there people who are more curious about the technical aspects want to dig through the code now you have this option as Christ mentioned kind our plan is to Leverage The Noir programming language and we want to make sure that kind of BL sense remains one of the most kind of securely implemented protocols out there so we and our team is pretty unique because we have several compiler
+00:15:28 - 00:16:42
+
+Engineers Within the team some of you may know that I have made a lot of contributions to the N programming language we have Stan man who has worked in Google on the D programming language among other things and he used to teach comp Power Construction course on the local University in Sofia one of the best universities here so we've leveraged our kind of internal compiler team to develop so some extensions to the nor P which would allow us to formally verify circuits that compose the block
+00:16:07 - 00:17:45
+
+sense network we are collaborating with the N itself most likely our kind of tool chain will become part of the standard more in the future but right now we are hosting it in a GitHub repository at blog sense Network SL no over here so besides the formal verification another really cool the frontier of uh zero knowledge proofs should be able to tell you that the bugging is one of the kind of most painful aspects of circuit development that the tools are can be compared to kind the standard
+00:16:59 - 00:18:20
+
+tooling that a modern developer has access to in kind other fields and this to some extent at least limits kind of how ambitious projects could be pursued because when you don't have this bugging tooling you don't have this formal verification tooling you have to be it's much more easier to kind of introduce some error in your circuit logic and this could eventually lead to a security vulnerability so the debugger that we have developed for Noir is actually a cooporation with another company called metagraph
+00:17:40 - 00:18:58
+
+labs this is a company that I have founded myself few years prior to blob sense and it has been working on this debugger for quite some time so the other major announcement this week is that the the burger uh our the burger for Noir is now open source as well it's it's called Cod Tracer and you can find it in the metacraft labs SL Cod Tracer repository it has this cool demo are there actually kind of some folks here who are developers raise your hand guys are there any developers here was there show
+00:18:27 - 00:19:57
+
+hands I don't manage to see the the chat but uh I know we have over 500 people in the community that get the developer role so it will be interesting for them to hear all right so let me try to figure out what I did wrong yeah I guess just selected the wrong screen what else we can do is we can share Links of uh the rep post that you mentioned yes I guess the most interesting link would be I'll share uh video demo of this the burger that I encourage anybody to kind of take a look you'll get
+00:19:34 - 00:20:55
+
+the streaming through the screen recording here uh would certainly integrade the quality a little bit so looking at this demo on your own computer is actually better so that's it uh it was I I guess there's one more release uh that we have this week on open source release so pretty uh kind of use heavy week so far U basically that's the third project that I'm going to mention is a company called ala core that uh we are collaborating very closely with it is actually developing a product outside of
+00:20:18 - 00:21:48
+
+the Block Chain space it is trying to create a really versatile AI influence engine or or inference SDK software development kit that would make it easy for anybody to develop applications that leverage the latest generative a models this could be language models generative image models video models uh Speech models and so on and so forth so why are we doing this collaboration with Al core you might wonder well there are few very interesting possibilities first first of all we are contributing some knowhow and
+00:21:03 - 00:22:30
+
+implementation code to make uh the inference in this SDK fully deterministic so this means that any new model that is added to Ala core would be immediately kind of will be able to use it in blog sense to provide inference services on chain and this means that as our the op core team adds new models they'll be kind of directly available on chain in the future verified AI inference for for produ from blog sense another thing that the opore team is trying to deliver is actually privacy preserving AI models what this means in
+00:21:49 - 00:23:15
+
+practice is that imagine that you want to have a personal assistant that is very much very aware of very well aware of what's going on in your personal life maybe it has access to all your emails your chat history among a bun bunch of services and so on and so forth and it can provide some helpful tasks for you you can say Okay compose an email to a coworker when you outline something that was discussed in a particular email two weeks ago kind things like like that an AI a system like that could be
+00:22:32 - 00:24:01
+
+quite powerful but you certainly don't want to kind of hand over everything in your life to a third party company right so there's this privacy concern and what we are building with ala core is a system that will provide some guarantees about your privacy by leveraging the kind of latest Hardware that is available from Intel MD and Nvidia where they have this functionality called trusted execution environment which basically allows the hardware to run encrypted programs that work with encrypted memory so the end
+00:23:16 - 00:24:48
+
+result is that the owner of the hardware which could be say some Cloud some operator owning a data center somewhere basically the owner doesn't get to access what is being computed on their machines and the way this works is that the client which is kind of communicating with this these servers it must be able to verify that the servers are running a genuine software which is haven't been tampered with and it it has been configured in this encrypted uh program execution mode and that this software is fully public and
+00:24:02 - 00:25:26
+
+open source and audited and it is known that it doesn't leak any secrets so we are helping the Ala cor team build the solution and you might wonder okay uh what's the point and who who will be who is going to provide this kind of operators data center operation services and the answer is that the stakers in the blog sense Network when they enroll as stakers they and if they have the right Hardware they'll be automatically enrolled in this service which will basically bring them additional Revenue
+00:24:44 - 00:26:05
+
+besides their staking activities and Oracle reporting activities in blocks they'll be able to serve users outside of the blockchain ecosystems in all kind of different AI inference tasks or kind of data management task for the end users in the way that I described and this would create this additional source of revenue for them so to recap this would be the kind of one of the first privacy preserving uh cloudbased AI solution and it would be powered by the the block science Network all right it's really cool I've
+00:25:28 - 00:26:48
+
+super happy Zar is joining us and sharing things and I I forgot to mention the website of alore I'll just leave it in the comments but it's alaca core.com and sorry for interrupting you can no no worries no worries yeah what I was saying make make sure you check those links guys and see the multi ction and the multi possibilities that we are exploring it's super amazing to hear this from zakari for those who don't know zakari is our CEO and U I'll say the big brain behind
+00:26:14 - 00:27:31
+
+all those Technologies and what we're implementing me myself I joined this project because of our I would say friendship like knowing zakari for many years and got this got this invitation from him and this is what uh like describing the project at first I was trying to picture the whole thing and I say wow this is huge I I don't I don't really get it I want to be part of it and I'm super happy now it's we've been working over a year and as I mentioned we start seeing the fruits of all this
+00:26:52 - 00:28:14
+
+work thank you thank you Zach for dating us giving this uh information to the community which which is continuously growing and uh this is very good news for the people joining to know that they're joining a solid project with really futuristic Vision about the space but not only limited to blockchain in general and not limited to single blockchain also there are so many possibilities around work sense and the technology that we're developing this is certainly amazing I go to the part of the
+00:27:34 - 00:28:52
+
+community growth that I mentioned earlier following on my on my plan here and many of you have seen communities growing this this month alone we have more than 2,000 people joining us and this is because you decide to invite your friends following the invite campaign and this is really good many people get rewarded for this I will I will get to it but those of you who did not don't get discouraged just continue climbing the leadder uh it's ongoing for the moment we're not thinking to stop it as as long
+00:28:12 - 00:29:32
+
+as it's going this well and we see new faces here we'll just continue with this and what is the goal of this growth I'm very happy with besid having those those numbers in general chat also gr the local channels and the vision is that we start slow slowly also translating all the content and reaching out to people in all your countries I see people from Vietnam here people from Russia people from Ukraine and all around the world I don't even know where your all guys from but it's really
+00:28:52 - 00:30:10
+
+important that we read the news and that you help us localize this content by transl it and sharing continue sharing with your friends many people are doing already amazing amazing work and for this work that you're doing if all your activity to be rewarded based on the recommendations of the Pirates we implemented also experience and engage B that is tracking how active you are on the server and how you contribute whenever you share a Content you interact with a content and I just have some somebody passing
+00:29:31 - 00:30:45
+
+outside I'm not sure how how audible it is just maybe mute myself for a second okay it seems like it's fing Life Is Life is Lively here I would say in this part of the world where I'm in the moment and this is actually a part of the world that needs very much the the innovation of the finance that blockchain can offer in general so I'm very happy here to be here and to get to meet also local people and this is part of the idea to start growing also in this region the Spanish speaking region
+00:30:13 - 00:31:38
+
+the whole latam region is really important for the blockchain space because of the instability those countries are facing so this is yeah an opportunity you know every country having currency can can benefit so as I mentioned by participating now in the server also sharing content you're getting those XPS climbing climbing the levels of this program you can reach up to TW level 20 and if you also participate in the other activities like creating content like memes or participating in the games
+00:30:56 - 00:32:18
+
+combined with this role the block artist and uh the block uh gamer you can get the laa R which is one of the most Wanted which means teacher in Chinese and it's I come up with this because everyone sharing content is kind of educating the others and uh once you prove that you're so active you get this you get this role currently very few people have it only 63 people it's really valuable role hard to get and uh invite letter you can get it by inviting 100 people and if you continue climbing you
+00:31:37 - 00:33:02
+
+can even get uh to the pirate role which is our community core team that we discuss ideas with them and get feedback on how is the community doing and they're helping us also with the local local channels extremely people like TNI that I see here but actually today are so many it's amazing to see 50 people joining us really cool yeah and the other way to get the Lao is what I mentioned getting those XP climbing the levels reaching up to level 20 having also a role because you participate in the games that ra is
+00:32:19 - 00:33:50
+
+organizing you also have ideas of other types of games that we going to start introducing soon so you guys can have more fun spending time together on the server and this is the other way uh to reach this to get this Ro which is really really like super valuable for us and for you on the long run for for what for what it gives So yeah thank you everyone and I I want to I need to go back to my nor to see for all the people that are contributing I want to say thank you so much already because you are helping those that are
+00:33:05 - 00:34:30
+
+coming to understand what is the project about and your work is really awesome supporting us on Twitter make sure to go retweet like it's super easy we also added a group of all the active people that we have in a special list and everyone from the team also is looking at it and kind of when you support us we we are also supporting you back so as we mentioned this is the idea of how we can grow this social presence more and more I want to see the names of the people I have few by so I can say that
+00:33:48 - 00:35:13
+
+MZ cat got the the pirate role for inviting more than 1,000 people which is totally amazing this was in the in the previous invite campaign but we don't miss the chance to reward this person for their work and the other person I'm shouting out to is Jane she has been with us for very long time and she managed to invite more than 500 people of her community which by the way in this time that we know each other almost double so this was pretty great to see and the other people that uh that are getting role for being more
+00:34:30 - 00:35:58
+
+active contributor is it's not a surprise Smith last month he got uh the laa and now we're very happy to welcome him as a pirate for his continuous effort and contribution in the community and the other person is let me just find in my communication here maybe ra can write in the chat because was something with Dima I don't have your Yeah so basically this person is uh the most active person of the month and he's getting the laa role because he's being we have a b that is tracking the
+00:35:14 - 00:36:41
+
+activity of everyone beside XP and this person has been the most active and helpful person in the server so deservingly it's getting this Ro pretty much this is what I can say and you see guys you can just by contributing inviting your friends with the ongoing campaign and also communicating in the server making it more lively friendly place you can get those points and also get access to those roles the ways that I that the ways that I shared with you or I I have the name actually here I wrote it in my document T
+00:35:56 - 00:37:11
+
+SD okay I you'll get after the call your new role and you know who you are and others will see you by the the green the green ticker that you that you get based on it thank you for your contribution very much and everyone is welcome to contribute as I mentioned especially I'm very to see the development of the local channels at the moment and uh developing a strategy around this the most efficient way that I see for now it's every one of you becoming like a reply guy and this is helping you also grow your personal
+00:36:34 - 00:38:02
+
+Brands not only shouting about block sense but saying things in general about importance of orac calls and pointing many of you already doing in your uh accounts and supporting other projects that are worth supporting and this is great just make sure you follow the right people you try to interact with them this is what is all about in the K also what is happening now of for the people farming Ys you know many people got huge amount of money because just because of what they're doing on on Twitter spending a lot of
+00:37:19 - 00:38:34
+
+time they're interacting with people they got a lot of Ys and people even from our team got uh up to two 2,000 Us only for being present and shouting out projects and yeah expressing themselves so I invite you to express yourself freely participate in conversations especially about oracles about block sense about the future and it will get more easy for you when you start seeing the products that will release very soon what zakari mentioned is already great news I was not expecting this will
+00:37:57 - 00:39:30
+
+will we'll get this news today about open sourcing the project so looking forward how you guys uh yeah going to interact with this and what what will come out of this it's amazing you're welcome SM I I like uh hardworking people I mean we are team of hardworking people and this is how we all connected recognize each other in the space let say so yeah guys that's that's pretty much it I give the space for questions if you have some if not what I can say in just what what we covered already
+00:38:42 - 00:40:01
+
+you know what Zahary mention the technical advancements the the new networks that we are deploying with the improved Conta that will start being start deployed from next week already that are bringing significant improvements in the efficiency which means it's more cheaper to operate those contracts now and that we'll have information from the team when they come back from more for the events that are visiting now and it will be also visible by the work we doing what kind of relationship we build
+00:39:22 - 00:40:46
+
+this is really important the community initiatives are ongoing the invite just make sure to generate your own invite that does not expired there's a description of how to do those things and also participate in the conversation and get get your points and climb climb this levels and yeah progress in the progress in the community I'm super happy to see so many people today this is my vision how we double every time and this time we kind of really did it thank you everyone for tuning in I don't see let me open the
+00:40:05 - 00:41:44
+
+chat and see if there are some questions yeah I see here comment thank you for hearing yeah amazing I'm super happy you guys also appreciate our work and see the value of what we're doing what we're doing at block sense it's amazing to have such a supportive Community also and I'm very happy that we are slowly but steady growing so looking forward to next next steps of the Lea and how far we'll go with with this on my side I'm RO with all the updates Zar want to mention something
+00:40:55 - 00:42:04
+
+maybe some teaser for what's coming for next month I give opportunity oh I think I already mentioned pretty a lot of news but and I'm sure you've mentioned in the past that our main net release is imminent I think we are all looking forward to this and we'll probably shortly after the main release we'll probably do some announcements about the next direction that the team will pursue and I I think this will be quite exciting yeah exactly thank you so much also for tuning in zakari and thank you
+00:41:36 - 00:42:46
+
+everyone for being part of the call the call today is shorter as the month but because the month is short does not mean that we we should do less and we see that what what's being delivered and what we've been working on really solid and very happy we start the year so strongly and and looking forward to continue the conversation with all of you in the server make sure to go and check the links that the share we also share those links in the server so they don't get lost and we can continue
+00:42:12 - 00:43:43
+
+the conversation based on this because I see somebody how to get roll and okay the answer got answered for those of you who have been here joining the call there's a snapshot and one moment and everyone that has been participating will get this XP for being part of the conversation so thank you once again for joining I wish you a very good afternoon evening and weekend and looking forward to continue our amazing collaboration together thank you Zach thank you everyone let's see.
+

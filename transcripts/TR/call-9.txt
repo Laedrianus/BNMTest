@@ -1,0 +1,399 @@
+
+00:00:00 - 00:01:07
+Katıldığınız için herkese teşekkürler. Bu aram farklı. Şimdi bazılarınız geçmiş sekiz topluluk aramızda bulundunuz ve erken dönemde burada olan orijinal üyelere selam olsun. Bu aram farklı çünkü topluluğu gerçekten çok büyüttük. Yani Twitter profilimiz yakın zamanda 70.000 yeni takipçiyle büyüdü. Discord 60.000 kişiyle büyüdü. Ve aslında aktif olan ve sadece quest'lerden geçmekle kalmayıp aynı zamanda içerik yaratan ve katılım gösteren çok sayıda bölgesel topluluğumuz var.
+
+00:01:07 - 00:01:33
+Ve bu aramın amacı ve kurucuları da ürün başkanımızı da buraya getirmek, şimdiye kadar bizi takip ettiyseniz insanları bilgilendirmek, ama aynı zamanda kendimizi tanıtmak, takımı tanıtmak ve yeni takipçilere nerede olduğumuzu tanıtmak. Yani yapacağımız şey tanıtım için biraz zaman ayıracağız. Sonra kuruculardan doğrudan duyacaksınız, blok zincirinin ne olduğu, bizi benzersiz kılan şeyin ne olduğu hakkında konuşmak için biraz yapı oluşturacağız ve sonra
+
+00:01:33 - 00:02:04
+acı kısmı aslında ortaklıklar üzerinden geçmek. Ürün başkanımız özellikle sadece bir oracle olarak değil alanda da fark yaratmakta olduğumuz bazı yeni fırsatlara değinecek ve stable'lerle olan şeylerle de. Yani bunun hakkında bazı detaylar paylaşacağız. Şimdi değineceğimiz şey BlockSense için sırada ne var, ama sonra soru-cevap açacağız. Yani bunu akılda tutarak, bizi başlatmak istediğim şey sadece
+
+00:02:04 - 00:02:43
+tanıtımlar. Ve Zahari, adının kısaltması aynı zamanda ZK'nın kısaltması, ki bu komik çünkü ZK rollup inşa ediyoruz. Sen ortak kurucu ama aynı zamanda blok zinciri fikrinin yaratıcısısın. Bana kendin hakkında daha fazla anlat ve Zahari'nin hikayesini ve onu buraya getiren şeyi bilmeyen bize katılan tüm bu yeni üyelere tanıtım yap. Tamam. Blok zincirindeki kariyerim ve biraz alışılmadık bir şekilde başladım. Bir programlama dili üzerinde çalışıyordum
+
+00:02:43 - 00:03:26
+ve Nim adı verilen bu programlama dilindeki ilk büyük proje aslında bir istemciydi. Bazılarınız Nimbus istemcisini duymuş olabilirsiniz. Temelde Nimbus projesinin ilk takım üyesiydim. NI topluluğundaki en önde gelen geliştiricilerden bazılarını işe almaya yardım ettim ve bugün bile en verimli ve enerji verimli Ethereum istemcilerinden biri olmayı başardık. Ve Zahari, oradaki çalışman sayesinde Ethereum Vakfı'na da oldukça yakın oldun, değil mi?
+
+00:03:26 - 00:04:09
+Doğru. Ethereum Vakfı ile bağlantılarımla beni orijinal olarak Ethereum Vakfı ve Lido, Rocket Pool gibi diğer önde gelen blok zinciri kurumlarından hibelerle geliştirilen çeşitli projeler üzerinde çalışan çok daha büyük bir takım yaratmaya yönlendirdi. Ethereum için ilk sıfır bilgi istemcisini geliştirdik ki bu ağın baş blokunu indirerek, tek bir sıfır bilgi kanıtı indirerek ağı senkronize edebiliyordu.
+
+00:04:09 - 00:04:45
+Ve ayrıca bu blok zincirleri arasında köprüler inşası için çok kullanışlı bir teknoloji. Günümüzdeki köprülerin çoğu güvenilir üçüncü taraflara dayanıyor. Ama ZK istemcisine sahip olarak, herhangi bir güveni ortadan kaldırabilir ve hedef blok zincirinden gelen tüm bilgilerin gerçek olduğunu gerçekten doğrulayan bir istemciye sahip olabilirsiniz ve bu dönemde sıfır bilgi teknolojileri geliştirme konusunda çok fazla deneyim kazandık ve bu bugünkü blok zinciri takımının temelini oluşturdu.
+
+00:04:45 - 00:05:21
+Çok teşekkürler EK. Yani çocuklar, Zahari ile tanıştığımda, benim için bu şimdiye kadar tanıştığım en temiz ve net düşünme şekline sahip insanlardan biri. Ve blok zinciri takımı sadece Doğu Avrupa'daki evde değil, aynı zamanda ün kazandı, çünkü bu çok nadir bir takım çünkü baştan itibaren takımı destekleyen ve yatırım yapan üç Ethereum Vakfı araştırmacınız var. Ve Zahari bunu mümkün kılmanın temel bir parçası oldu.
+
+00:05:21 - 00:06:19
+Gorgi, sadece benim tarafımdaki düzene dayalı olarak, senin fotoğrafın bir sonraki. Bize Gorgi'nin hikayesi nedir söyle. Bize bir giriş yap. Evet, tabii ki. Yani daha önce gerçekten detayına girmediğimden emin değilim, ama okulda çok matematik yaptım ve okul dışında aslında ilk işim satıştı ve farklı veri merkezleri satıyorduk ve ana işim Microsoft Asia'yı yeniden satmaktı, belki 10 yıl önce rekabet ediyorduk.
+
+00:06:19 - 00:07:02
+Ve bundan sonra biliyorum ki programcı oldum. Beş altı yıl mühendislik yaptım ve Manta projesi, Manta ağı ile blok zincirine girdim. Bu tür gizliliği koruyan ürünlerimiz vardı. Yani benim için çok özel dijital nakit yapmaya çalışıyordum ve o ürünü yaptık ama kimse kullanmadı ki bu üzücüydü. Yani başka şeyler yaptık ama evet ve sonra çocuklarla tanıştım ve o zamandan beri bir buçuk yıldır inşa ediyoruz.
+
+00:07:02 - 00:07:21
+Yani benim hakkımda çok kısa bu. Evet, teşekkürler Gorgi. Şimdi Gorgi çok mütevazı. Takıma geldiğimden beri büyük bir destek olmuş, doğru insanları içeri çekiyor ve sonra onları kaldırıp ön plana koyuyor. Bazılarınız Twitter'da benden gönderiler görmüş olabilirsiniz. Aslında bir yıl önce tweet atmıyordum. Hepsi Gorgi'ydi. Beni teşvik etti, bana gösterdi ve beni bunun için itip yönlendirdi ve süper mütevazı adam ama aynı zamanda Manta'da baştan itibaren şeyleri gerçekleştiren bir matematik dâhisi.
+
+00:07:21 - 00:07:59
+Tamam, Peter, listemde bir sonrakisin. Bize Peter hikayesini anlat. Topluluk aramlarını yaptığımızda genellikle işleri halletmekle meşgul olduğunu ve seni burada o kadar sık dahil etmediğimi biliyorum, ama insanlara köken hikayesi hakkında daha fazla şey anlatmanı çok mutluyum. Evet, teşekkürler Martin ve beni burada bulundurduğunuz için herkese teşekkürler. Yani Zahari'ye benzer şekilde arka planım sistem programlamada ve uzun uzun süre derin programlama diline katkıda bulundum.
+
+00:07:59 - 00:08:53
+Yani onunla ortak bir tutkumuz paylaşıyoruz. Sistem programlama üzerinde çalışırken örneğin VMware'de çalıştım, platform soyutlama için temel API'lerimizin bazılarını uyguladık. Ethereum projesini buldum ve bu beni oldukça ilgilendirdi. Jarvis adında bir takıma katıldım, başlangıçta forex ticaret uygulaması inşa ettik, fikir forex ticareti yeniden hayal etmekti, adından anlaşılacağı gibi.
+
+00:08:53 - 00:09:45
+Harika bir deneyimdi ve tam bu sırada Ethereum ve DeFi çevremizdeki projelerin çoğu üzerinde büyük bir etki yaratmaya başlıyordu. Bu 2017-2018 civarındaydı ve diğer takımlar gibi DeFi'ye pivot yaptık ki bu harika bir karardı. Yani Jarvis'te USDC ve diğer stable coin'ler gibi diğer stable coin'lerle desteklenen sentetik stable coin'ler çıkararak stable coin'leri destekleyen akıllı sözleşme platformu inşa ettik.
+
+00:09:45 - 00:10:09
+Ve bunun yanında borç alma ve verme ve bu akıllı sözleşmeler inşa etme dünyasına nispeten zor ama oldukça derin bir giriş diyebilirim. Ve Zahari ile konferansta tanıştım. Genellikle konferanslarda çok havalı insanlarla tanışırım. Yani Nim programlama dili hakkında bir konferanstı ve o zamandan beri çeşitli fikirler alışverişinde bulunduk ve sonunda beni güçlerini birleştirmeye ikna edebildi.
+
+00:10:09 - 00:10:58
+Onunla Ethereum için daha sonra Suana, Cardano, Polka Dots ve Polygon gibi diğer blok zincirleri için staking uygulayan en büyük node operatörlerinden biri için staking hizmeti API'sini uygulayan bir takımda çalıştım. Ayrıca sıfır bilgi tabanlı olan dendrit ile de çalıştım, birkaç şey var, sıfır bilgi tabanlı canlı istemci ve ayrıca likit staking protokollerinin işleyişini doğrulamaya izin veren bir hizmet.
+
+00:10:58 - 00:11:42
+Bundan sonra blok zinciri üzerinde çalışmaya başladık ve gerisi tarih. Bu özet için çok teşekkürler. Peter, bunu Discord sohbetinde söylüyordum. 2017'den beri DeFi yapan CTO. Bu böyle bir takıma boğa olmamak zor. Magnus, ürün başkanımız, sahne sizin. Merhaba herkese. Evet. Yani bu üç ortak kurucu açıkça çok teknik beyinler. Ben farklı bir açıdan yaklaşıyorum. Oxford'da dört yıl insanları, hala insanları inceliyorum.
+
+00:11:42 - 00:12:15
+Eğitimle antropologum. Ve bir şekilde bu beni teknolojide ürün rotasına yönlendirdi ve ürün sorunlarına yaklaştığım yer burası. Çok insan odaklı tasarım. Evet, kriptoya profesyonel olarak girmeden önce Amazon'da AI algoritmalarının birbirleriyle daha iyi konuşmasını sağlayarak ürünlerin daha hızlı teslim edilmesini sağlıyordum.
+
+00:12:15 - 00:12:54
+Ama her zaman kişisel olarak gizlilik ve gizlilik teknolojisine ilgim vardı. Bitcoin'e oldukça erken girdim. İlk Bitcoinimi aslında İngiliz postasıyla satın aldım. 2011'de bir zarf postaladım ve sonunda fonları cüzdanıma almak için bir hafta bekledim. Beni Twitter'da takip eden herkes, no escrow hesap adının nereden geldiğini biliyor. O zamanlar kripto satın alma rampaları için gerçekten escrow değildi.
+
+00:12:54 - 00:13:22
+Ama evet, keşke satın almakta olduğum kadar iyi tutma ve saklama konusunda iyi olsaydım. Belki şimdiye kadar emekli olmuştum ama evet kripto konusunda uzun süredir ilgim vardı ve bu işe kadar olan çalışmamda gizlilik teknolojisine odaklanan Tamasc kuluçka şirketinde özel projeler yapıyordum.
+
+00:13:22 - 00:13:51
+Orada ZK'yı kişisel bilgilerini sızdırmadan KYC kullanıcılarını doğrulayabilmek gibi gizliliği koruyan KYC yapmak için kullanıyorduk. Bu, birkaç hafta önceki Coinbase davasını takip ettiyseniz çok alakalı, müşteri detaylarının tamamını KYC yoluyla sızdırdılar. Ama evet, ZK alanına aşinayım ve George ile okuldan arkadaşım ve BlockSense ile yeni bir meydan okuma alma şansı buldum.
+
+00:13:51 - 00:14:35
+Ve bu geçen yazdı ve o zamandan beri geriye bakmadım. Teşekkürler, Magnus. Yani Oxford'da antropoloji okuyan antropolog ve 2011'de Bitcoin satın alan, matematik dâhisi, 2017'den beri DeFi yapan CTO ve compiler mühendisliğine tutkusu olan programlama dili ortak yaratıcısı. Discord'da bunu mesajladım ama bu kelimenin tam anlamıyla eylem halinde lore inşa etmek.
+
+00:14:35 - 00:15:11
+Yani kendinizi tanıtmak için zaman ayırdığınız için teşekkürler çocuklar, özellikle BlockSense topluluğuna yeni gelenlere. Bu çok özel bir takım ve bunun bir parçası olmak süper minnettarım. Benim tarafımda çok kısa bir özet. 15 yıldır teknoloji şirketleri inşa ediyorum. İki çıkışın parçası oldum. Bunlardan biri makine öğrenmesi ve AI alanındaydı. Yani 2015'ten 2021'e kadar bu şirketi inşa ettik.
+
+00:15:11 - 00:15:44
+Her zaman alana uzaktan baktım. Beni uzak tutan şeylerden biri neyin meşru neyin olmadığını bilmememdi. Ve bunu bugün bile görüyorum. Bu hype projelerini görürsünüz ve sonra insanların perakendeye nasıl döküldüğünü veya nasıl çıkardığını fark edersiniz. Ve beni gerçekten ilham eden şey blok zinciri takımıyla tanışmaktı. Yani ilk konuşmam Zahari ve Gorgi ile oldu.
+
+00:15:44 - 00:16:37
+Ve zaten birinci seviye yatırımcılar tarafından desteklenen şirketlere danışmanlık yapıyor ve destekliyordum. Yani bir arkadaşımın Y Combinator'a girmesine ve bir fintech inşa etmesine yardım ettim. Docker'ın eski CFO'suna da yeni şirketini inşa etmesinde yardım ediyordum. Ama Zahari ve Gorgi ile tanıştığımda, her şeyi bırakıp alana atlamaya karar verdim.
+
+00:16:37 - 00:17:10
+Ve hayatımda en çok çalıştığım dönem oldu ve aynı zamanda en ödüllendirici yolculuk oldu. Yani çok fazla inşa etme oldu, ama şu anda bulunduğumuz noktada gerçekten heyecanlıyım çünkü çok fazla şeyin hareket halinde olduğunu göreceksiniz. Yani şimdi kuruculardan özellikle buraya yeni gelenler için özeti aldık, BlockSense'in ne olduğu hakkında biraz konuşmak istiyorum.
+
+00:17:10 - 00:17:59
+Ve Zahari, bu soruyu sormak için en iyi kişi sensin. BlockSense neden yaratıldı? Sanırım başlangıçta blok sensörlerle ilgilenmemin nedeni verimlilik elde etme konusunda bu tür içsel dürtüm olması ve verimliliği üç şekilde ele aldığımızı düşünüyorum. Her şeyden önce, blok zincirlerin gerçek dünyadan veri tüketme bant genişliğini önemli ölçüde artırıyoruz.
+
+00:17:59 - 00:18:33
+Teknolojimizle zincire çok daha fazla bilgi yükleyebilir ve yeni kullanım durumlarının ele alınmasına izin verecek keyfi bilgiler inşa edebilirsiniz ve blok zinciri geliştiricilerinin artık zincire yeni bilgi getirerek inovasyon yapabileceğini biliyorsunuz. Ama verimsizliğin bir başka kaynağı işin şu anda nasıl organize edildiği. Temelde girişimciyseniz ve gerçek dünyadan bilgiyi nasıl kullanacağınız konusunda bir fikriniz olan yeni bir tür DAP yaratmak istiyorsanız, bugün tek seçeneğiniz pratik olarak büyük bir blok zinciri kurumuna el uzatmasını ve ihtiyacınız olan veriyi yayınlamasını yalvarmak.
+
+00:18:33 - 00:19:12
+Ve bunun yanlış olduğunu düşünüyoruz. Bu yüksek maliyet, yeni projelerin düşük uygulanması ve sonuçta birçok girişimcinin fikirlerinden vazgeçmesine yol açan bir güç dengesizliği yaratıyor. Yani bunun yerine yaptığımız şey, herkesin verinin zincire nasıl ulaşması gerektiğini programlamasına izin veren bir SDK getirmek. Ve SDK ile izinsiz olarak programlarını kaydedebilirler ki bu akıllı sözleşme gibi çok benzer.
+
+00:19:12 - 00:20:01
+Yani blok zinciri ağında kaydedilirler ve ihtiyaç duydukları veri ertesi gün akmaya başlar ve blok ağı gerçekten de bir tarafta verinin tüketicileriyle diğer tarafta verinin raporcularıyla buluşturan mümkün olan en verimli pazar olarak çalışacak şekilde tasarlanmış ve bu ağ raporcular arasında çok rekabet olacak şekilde tasarlanmış.
+
+00:20:01 - 00:20:38
+Yani bu tüketicilerin ihtiyaç duydukları veri için asla fazla ödeme yapmadıklarını garanti ediyor. Yaratmakta olduğumuz pazar dinamikleri sayesinde her zaman mümkün olan en iyi fiyatı alıyorlar. Ve yine bu verimliliğin kaynağı. Yani sanırım blok zincirinin ne olduğunu cevaplamanın başka bir yolu daha var ve bu teknik cevap ki ilk kez dağıtık blok zinciri ağlarındaki validator'ların interubjected gerçekler üzerinde anlaşmasını mümkün kılan yeni bir merkezi olmayan konsensüs protokolü getiriyoruz.
+
+00:20:38 - 00:21:19
+Interubjected gerçek dünyadaki hemen hemen herkesin üzerinde anlaşacağı bir şeydir. Örneğin, Amerika Birleşik Devletleri'nin mevcut başkanı kim veya New York'taki mevcut sıcaklık nedir? Yani bunlar gerçekler ama bu gerçekler hesaplanamaz, günümüzdeki blok zinciri ağları sadece belirli bir sanal makinede belirli bir bilgisayar talimatları setini yürütmenin sonucu gibi nesnel olarak hesaplanabilir gerçekler üzerinde konsensüse ulaşır.
+
+00:21:19 - 00:21:55
+Ve bu mevcut blok zincirlerinin hesaplama konusunun sadece blok zincirinde zaten bulunan bilgiyle sınırlı olmasının nedeni. Blok zincirinin kullanım durumunun çok sınırlı, çok ilginç olmayacağını düşünüyoruz. Yani blok zinciri ile akıllı sözleşmelerin konusu artık gerçek bir gerçek olduğu sürece dünyadaki herhangi bir şeye genişleyebilir.
+
+00:21:55 - 00:22:40
+Yani oracle'lar açıkça ilk altın kullanım durumu ve pazara giriş stratejimiz ama blok zincirinin potansiyeli çok daha ileri gidiyor, indexer'lar, köprüler ve temelde büyük ölçekli verilerle verimli bir şekilde çalışması gereken her şey gibi mevcut veri middleware çözümlerinin çoğunu bozacağız.
+
+00:22:40 - 00:23:20
+Çok teşekkürler Zahari. Yani bunun kendisi için bütün bir topluluk aramı gerektirdiğini biliyorum ve belki orada daha özel bir şey bile yaparız. Öğrenmek isteyen ve toplulukta bir süredir bulunan insanlar çünkü bunun teknik olduğunu biliyorum. Ama sizin için en büyük çıkarım, fark etmem biraz zaman aldı, blok zinciri oracle'lardan çok daha büyük bir şey ve hatta oracle bağlamında bile muazzam verimlilik getireceğiz.
+
+00:23:20 - 00:23:52
+Yani Gorgi Zahari bize özellikle ölçekteki verimsizlikler ve şeyleri daha iyi yapma dürtüsü hakkında konuşarak blok zincirinin neden yaratıldığına dair bu genel bakışı verdi. Özellikle bugün bulunduğumuz yerden BlockSense'in misyonunu nasıl özetlersiniz? Doğru. Doğru. Yani sadece Zahari'nin söylediğini yeniden vurgulayacağım veya belki yeniden ifade edeceğim ve bir cümlede oracle'ları ve middleware'i daha genel olarak tekrar seksi yapmaya çalıştığımızı söyleyeceğim.
+
+00:23:52 - 00:24:24
+Oracle dediğinizde insanlar doğrudan fiyat değişiyor diye düşünüyor, orada ama sıkıcı ama bunu gerçekten karıştırabileceğimizi hissediyorum ve sonra da ağımızla yaratılan şeyleri gerçekten merkezi olmayan hale getiriyoruz, oracle'ların çoğunu, middleware'in çoğunu merkezi olmayan hale getiriyoruz.
+
+00:24:24 - 00:25:16
+Yani çok fazla ilerleme kaydedebiliriz ve tamamen merkezi olmayan izinsiz sistemimiz olabilir, insanlar validator'lar gibi hizmetleri dağıtabilir, çalıştırabilir ve akıllı sözleşmeleri için tüm bu şeyleri yapabilir. Yani oracle'ları ve middleware'i ilginç ve merkezi olmayan yapmak ve uzun vadede toplulukla paylaşabileceğimiz sürdürülebilir bir iş yapmak.
+
+00:25:16 - 00:25:52
+Evet, çünkü merkezi olmayan hale getirme aynı zamanda bu ağın ve işin sahipliğinin çok katmanlı olduğu anlamına geliyor ama bunlardan biri. Yani bunu böyle özetlerdim ve kişisel olarak oracle pazarının özellikle rekabetçiliğini gerçekten beğeniyorum, önemli olduğunu gösteriyor, şimdi sıkıcı olsa da bir nedeni var, en azından tüm DeFi'yi güçlendiriyor ama farklı kullanım durumları için yeni mücevherler de arıyoruz.
+
+00:25:52 - 00:26:25
+Ama sadece DeFi için bile süper önemli açıkçası ve kim kontrol ediyor da tüm kriptoda çok önemli bir rol. Yani evet, bu büyük noktalar Gorgi ve bir sonraki soruya geçiyorsun. Yani Peter, bu fonksiyonu CTO olarak yönetiyorsun. Yıllardır CTO'sun ve 2017'den beri teknik lider olarak DeFi'de çalışıyorsun.
+
+00:26:25 - 00:27:17
+Konuştuğumuz bu sorun, çözmek neden bu kadar önemli? Neden alanda bu sorunu ele alan bu kadar çok şirket var? Gorgi kendisi bunun büyük ve önemli olduğunu söyledi ve DeFi'ye değindi ama bu özel soruyu nasıl cevaplarsın? Tamam. Yani sadece bizi bu noktaya getiren vurguların olduğu son 10-15 yılda olan büyük projeleri koyacağım.
+
+00:27:17 - 00:27:49
+Tabii ki tekrar etmek için Bitcoin vardı ki bu geleneksel finans sistemine gerçek bir alternatif getiren ilk girişimdi ve kısa süre sonra Bitcoin'den belirli şeylerde artımlı olarak daha iyi yapan birçok blok zincirinin küçük bir patlaması oldu ama en azından benim izlenimim ki bu %100 tarihsel olarak doğru olmayabilir, sadece Ethereum gibi Turing tam programlama ortamına sahip olmaya çalışan, temelde dünyadaki herkese yeni programlar yazma, yeni kullanım durumları geliştirme imkanı veren bir ürün olduğunda blok zinciri endüstrisi büyümeye ve birçok yeni sınıra ulaşmaya başladı.
+
+00:27:49 - 00:28:24
+Bundan önce çok fazla artımlı ilerleme vardı ama sadece programlanabilirlik sağlam olduğunda tüm ekosistem kimsenin Bitcoin'in dokunabileceğini hayal etmediği yeni yerlere dokunmaya başladı ve tabii ki programlama platformu olarak geçmişte ana bilgisayarlar, veri merkezleri, bulut sağlayıcıları ve benzeri birçok programlama platformu var.
+
+00:28:24 - 00:29:02
+Yani bir şekilde hesaplamanın kolayca mevcut olduğunu düşünebilirsiniz ama gerçekten eksik olan şeylerden biri doğrulanabilir hesaplama, veriyi güvenmek ve AI'nın hayatımızın birçok alanına girdiği ve yanlış bilgi ve benzeri şeyler olduğu bu çağda veriye güvenebilmek çok önemli ve hatta 10 yıl önce Ethereum bu konuda büyük bir adım fonksiyonu yaptı.
+
+00:29:02 - 00:29:40
+Binlerce ve yüz binlerce varlığın çeşitli programlama gerçekleri üzerinde konsensüse ulaşabildiği dünya çapında bilgisayar gibi bir sistem sağlayarak. Ama bunun çok sınırlı olduğunu düşünüyorum, deterministik olmak ve bu çok yüksek garanti seviyesine sahip olmak için programlama dili olan solidity'den mümkün olan şeyi ciddi şekilde sınırlamak gerekiyor.
+
+00:29:40 - 00:30:13
+Ve bunun o zaman çok gerekli olduğunu düşünüyorum çünkü bir şeye odaklanıp iyi yapmak zorundasınız. Ama 10 yıl sonra blok zincirini benimseyen şirketlerin çoğunun hala web iki ve web üç karışımına sahip olduğunu görebiliyoruz. Yani web üç şeyleri güvenilir ama hala büyük kısımları web iki olan, sadece güven bana kardeşim, bunu yapıyoruz ama güvenemiyoruz anlamına geliyor.
+
+00:30:13 - 00:31:00
+Ve temelde BlockSense misyonu Ethereum'un programlanabilirlik ve verinin doğrulanabilirliği olarak sunduğu şeyi çok daha geniş kullanım durumları yelpazesine genişletmek. Ve oracle'lar bizim için ele almak istediğimiz temel şeylerden biri. Alanda mevcut birçok oyuncu var ama daha iyi iş yapabileceğimizi düşünüyoruz.
+
+00:31:00 - 00:31:21
+Çok güzel Peter. Çok teşekkürler. Bu soruyu sana yöneltmek istediğim tam olarak buydu çünkü sahip olduğun perspektifi ve deneyimi ve sadece anlık parlak bir şey hakkında konuşmak değil, daha büyük bağlamı ve neden hepimizin burada sahnede olduğumuzun ve neden herkesin şu anda canlı dinlediğinin perspektifini anlamak açısından nasıl çerçevelediğini seviyorum.
+
+00:31:21 - 00:31:58
+Magnus, BlockSense'in neden yaratıldığı, misyonu ve sonra bu sorunun neden önemli olduğu hakkında konuştuk, ama sen alanda her türlü protokolle, zincirlerle çalışarak ön planda ve merkezde çalışıyorsun. BlockSense piyasadaki şeylerle nasıl karşılaştırılıyor? Ve geçmiş 6-9 ayda senin ve benim içinde olduğumuz 450 grup sohbetinde olmayan insanlar için bunu nasıl özetlersin?
+
+00:31:58 - 00:32:36
+Evet. Bu harika bir soru Martin. Bu birkaç yüz grup sohbetinden bahsetmen komik çünkü BlockSense'in nasıl farklı olduğu da geçen yıl boyunca gelişti, değil mi? Bunu çözmeye çalışıyorduk ve pazarla en iyi uyumun nerede olduğunu buluyorduk ve gerçekten güçlü ortaklar ve pazarın niş kısımlarıyla niş uyumlar bulmaya başladık ki bunlara birazdan gireceğim.
+
+00:32:36 - 00:33:05
+Çok geniş ölçekte, benden öncekilerin söylediklerini tekrarlamak istemiyorum ama şu anda veri veri middleware sağlayıcısı yok ki şu üç soruyu güvenilir şekilde cevaplayabilsin: Amerika Birleşik Devletleri'nin şu anki başkanı kim, Bitcoin'in bir saniye önceki fiyatı dolar cinsinden ne kadar ve belirli LLM'den promptumun çıktısı nedir, Llama 13B veya GPT4 veya her neyse.
+
+00:33:05 - 00:33:37
+Bu üçünü de sorunsuz yapan kimse yok. Ve her birinde uzmanlaşmış ve farklı güven varsayımları olan, genellikle oldukça yüksek güven varsayımları olan sağlayıcılar var. Ve BlockSense'in vizyonu ve geleceği hakkında gerçekten zorlayıcı olan şey, ZK Shellencoin konsensüsü aracılığıyla oracle'lardan köprülemeye, doğrulanabilir çıkarıma, intent çözümlemeye kadar tüm bu farklı kullanım durumlarını, tüm bu farklı dikeyleri ele alma yeteneği.
+
+00:33:37 - 00:34:03
+Ağ operatörlerinin dürüstlüğüne güvenmek zorunda kalmadan çünkü konsensüs teorik olarak teşvik kazancı için çözüyor. Yani bunun uzun vadede katil farklılaştırıcı olduğunu düşünüyorum. Bugün kendimizi nasıl farklılaştırdığımız açısından. Açıkçası pazara girişimiz öncelikle Oracle alanında odaklanıyor, az önce bahsettiğim diğer dikeylere giriş yapıyor olsak da.
+
+00:34:03 - 00:34:31
+Oracle'larla ilk uyum buluyoruz. Ve oracle'ların tarihsel olarak nasıl çalıştığına bakarsanız, eski oracle'lar esasen aptal tırnak içinde fiyat vericiler olarak düşünebilirsiniz, değil mi? Yani bir varlığın fiyatını verirler ve o fiyatı nasıl ele alacağına karar vermek onu tüketen protokollere kalmış.
+
+00:34:31 - 00:35:10
+Ama bulduğumuz şey, kriptoda tüm varlıkların eşit yaratılmadığı ve tüm fiyatlandırmanın aynı metodolojiyle yapılmaması gerektiği, değil mi? Ve burası blok zinciri arayüzünün programlanabilirliğinin devreye girdiği yer. Yani protokollere sağladığımız veri beslemeleriyle arka planda keyfi mantık ve keyfi scriptler yürütebiliyoruz.
+
+00:35:10 - 00:35:41
+Örneğin pazar koşullarına bağlı olarak farklı davranabilmeleri ve hareket edebilmeleri için. Ve yani burada ima ettiğim şey risk farkında DeFi oracle'larının bu yeni gelişen alanı. Yani belirli DeFi varlıkları veya DeFi para piyasalarında kullanılan belirli kripto varlıklar, getiri taşıyan stable coin'ler ve diğer getiri token'ları gibi, dinamikleri nedeniyle.
+
+00:35:41 - 00:36:16
+Çok fazla stake edildikleri için, dolaşımdaki arzın büyük yüzdesi stake edilme eğiliminde, bu da ticaret yerlerindeki gerçek likidite derinliğinin çok düşük olduğu anlamına geliyor. Bu varlıklar fiyat manipülasyonu gibi manipülasyona eğilimli ve eğer onlara sadece DEX'in pazar fiyatını verirseniz, aslında çok manipüle edilmiş bir fiyat verebilirsiniz.
+
+00:36:16 - 00:36:48
+Ve burası peg farkında oracle'larda biraz araştırma geliştirme yaptığımız yer. Yani örneğin stable coin varlığı için para piyasası için stable coin depeg olduğunda büyük bir fark var çünkü yapısal bir kusur var. Diyelim ki rezervler boşaltılmış ve o stable coin aslında değersizleşmiş.
+
+00:36:48 - 00:37:28
+Pazarın düşündüğü kadar değerli değil ve sonra fiyat düşüyor. Bunu para piyasasında yansıtabilmek istiyorsunuz ki borç verenleri kötü borç oluşmasından koruyabilmek için. Ama sonra kötü niyetli aktörlerin fiyatı manipüle etmesi veya sadece arbitraj ticaret aktiviteleri nedeniyle stable coin'lerin 1 dolar işaretinin etrafında titremesine neden olan bu küçük dalgalanmalar var.
+
+00:37:28 - 00:38:02
+likidasyonlara ve borç alanlar için aslında bu para piyasalarındaki tüm oyuncular için istenmeyen faiz oranlarındaki değişikliklere neden oluyor, ama bunlar sadece aptal fiyat beslemesiyle gitmenin bir özelliği. Ve buna aptal diyorum çünkü tek boyutlu, değil mi? Her zaman aynı mantığı döndürüyor.
+
+00:38:02 - 00:38:56
+Ve yani risk farkında beslemelerimizle çifte aşağı yapmaya çalıştığımız şey bu, stable coin'ler durumunda, varlığın pazar fiyatı 1.001 veya 0.998 olsa bile sadece 1.0'a varsayılan olarak gidebilmek. Çünkü para piyasası için daha verimli. Ama sonra gerçek bir depeg olayı olduğunda, çeviriyoruz ve oracle beslemesi borç verenleri kötü borçtan korumak için pazar fiyatını raporlamaya başlıyor.
+
+00:38:56 - 00:39:47
+Yani bu örnekte çok detaya girdim. Umarım teknik yönleriyle herkesi kaybetmemişimdir ama sadece çok geniş gittiğimizi söylemek için, birçok farklı dikeyi hizmet veren middleware platformu olarak. Oracle'lar bizim pazara girişimiz ve pazarla ilk uyumu bulduğumuz yer.
+
+00:39:47 - 00:40:28
+Ve önümüzdeki haftalar ve aylarda ortaklarımızla sıraladığımız için en heyecanlandığım alanlardan biri para piyasalarının, DeFi para piyasalarının fiyat ve bu para piyasalarına beslenen fiyat beslemelerini kullanma şeklini modernleştirmek, bu da sonuçta daha yüksek LTV oranlarına ve DeFi'de sadece daha verimli para piyasalarına yol açacak.
+
+00:40:28 - 00:41:16
+Çok teşekkürler, Magnus. Biraz ortaklıklardan bahsettin. Bunu biraz sonra tekrar ele alacağız. Yani bunu ima ettiğin için teşekkürler. Bunu Discord'da bahsettim. Bu arada, sorularınız varsa soruları Discord sohbetine bırakın. İnsanlar bunları toplamamıza yardım edecek ve sonunda soru-cevap için kullanabiliriz.
+
+00:41:16 - 00:42:22
+Yani sorularınız varsa, lütfen toplayabilmemiz için sohbete koyun. Şimdi yaptığımız şey, özellikle bize katılan yeni insanlar için tanıtım ve takımın genel bakışını verdik ama aynı zamanda mevcut topluluk üyelerine biraz daha lore ve hikaye verdik. Sonra blok zincirinin ne olduğu hakkında konuştuk.
+
+00:42:22 - 00:43:12
+Şimdi siz çok çeşitli bir grupsunuz ve burada birbirimizi nasıl tamamladığımızı seviyorum. Ve size sormak istediğim şey blok zincirini ne benzersiz kılıyor? Takımı ne benzersiz kılıyor? Ve hepinizden çok farklı cevaplar alacağımı düşünüyorum, ama özellikle bulunduğunuz yerden, takımı ne ayırt ediyor veya bunu bir tür aykırı, aykırı karakteristik olarak görüyorsunuz ve Zahari, seninle başlayacağım.
+
+00:43:12 - 00:43:49
+Tamam. Açık bir cevap var ki ilk düzgün merkezi olmayanlardan biriyiz, bunu zaten ele aldık. Ayrıca daha alışılmadık bir cevap daha var ki takımımızın bu benzersiz DNA'ya sahip olması, ben, Peter ve diğer takım üyeleri programlama dilleri yaratılmasında, geliştirici toplulukları, ekosistemler, geliştiriciler için çok gelişmiş araçlar dahil olmuşuz.
+
+00:43:49 - 00:44:16
+Örneğin yakın zamanda noir için zaman yolculuğu debugger'ı yayınladık ki yayınlandığı ilk gün GitHub'da neredeyse 1.000 yıldız kazandı. Ve şirketin bu DNA'sı zamanla rakiplerimiz üzerinde avantaj inşa etmemize yardım edecek şey çünkü eğer düşünürseniz programlanabilir platform getiriyoruz.
+
+00:44:16 - 00:45:03
+Yani platformumuz üzerinde uygulamalar inşa edecek geliştiriciler bizi ayırt edecek şey ve benzersiz DNA'mız bu platformu mümkün olduğunca geliştirici dostu yapmamıza yardım edecek. Geliştirici araçları, kütüphaneler ve programlama dilleri nasıl tasarlanacağı anlayışımızın rakiplerimizden hiçbirinde görmediğim bir şey olduğunu düşünüyorum.
+
+00:45:03 - 00:45:38
+Çok teşekkürler, Zahari. Bu harika bir cevaptı. Gorgi, bizi ne benzersiz kılıyor düşünüyorsun? Ve buradaki kural kimse başka birinin söylediği bir şeyi tekrarlayamaz. Eğer bu senin için birincil benzersiz özellikse, paylaşmak için ikincil veya üçüncül seçebilirsin. Doğru. Doğru. Benim için, benim için her zaman daha çok insanlar hakkında.
+
+00:45:38 - 00:46:18
+Yani şimdi 30 kişiyiz, 20 mühendis ve 10 kişilik operasyon ve pazarlama takımını ölçeklendirdik ve harika insanlara erişimimiz var, zaten harika harika insanlar, harika yetenekler var ve sonra çok daha fazlasına erişimimiz var ve tüm bu zorlukları ve gördükleri tüm açık hatları ve tüm fırsatları karşılamak için ölçeklendirebiliriz.
+
+00:46:18 - 00:47:05
+Ve evet tüm bu insanlardan ama birkaç şeye damıtılıyor, büyük beyin hattımız var ve ayrıca gen hostile hattımız var ve yani bu iki paralel özellik sanırım takımın ve başarılı takımların çoğunun bunu yaşadığını düşünüyorum. Yani bunu sürdürmeye devam ediyorlar.
+
+00:47:05 - 00:47:31
+Yani beni en çok etkileyen şey bu. Aşamamız için çok benzersiz olduğunu düşünüyorum. Zahari'ye teşekkürler. Bu harika bir cevap ve benim için büyük faktörlerden biri kurucu takımın, temel takımın ne kadar iyi olduğuydu. A16Z crypto CSX'in BlockSense'i öğrendiklerinde gerçekten bunu yönetmek istemesinin bir nedeni var.
+
+00:47:31 - 00:48:03
+Ve bugüne kadar, birisi beni düzeltmek istese de, A6 CSX'te sadece danışman olarak değil, yatırımcı olarak ve takımımızla ne kadar ilgili oldukları kadar üç Ethereum Vakfı araştırmacısına sahip bir takım duymadım. Yani takım, sadece kodlanan temel takım değil, aynı zamanda projeyi destekleyen herkes.
+
+00:48:03 - 00:48:48
+Ve Rail'e özel selam vermek istiyorum. Rail hiç uyumaz. Herkes bunu biliyor. Süperstar. Rail'in topluluk tarafında yaptığı şey. Aslında diğer topluluklarda başka hiç kimsenin yaptığını görmedim. Yani sadece temel takım ve kurucular ve BlockSense projesinin geri kalanına değil, aynı zamanda bugün bulunduğumuz yere ulaşmamız için toplulukta şeyleri gerçekleştiren siz çocuklara da selam.
+
+00:48:48 - 00:49:21
+Buradan çok daha yükseğe çıkacağız. Peter, deneyiminizde bizi ne benzersiz kılıyor? Gary insanlar hakkında konuştu, Zahari vizyon hakkında konuştu. Ben yol haritası hakkında konuşmak istiyorum derdim. Çok yüksek hırslı hedefleri olan benzersiz bir proje olduğumuzu düşünüyorum, birçok kullanım durumuna hizmet edebilecek genel sistem inşa etmek ve oldukça merkezi olmayan, açık ve harika inovasyona izin vermek.
+
+00:49:21 - 00:50:04
+Ama aynı zamanda çok agresif pazara giriş fonuna çok odaklıyız. Ve özellikle belki daha hesaplama odaklı olan diğer oyuncuların bazılarından bizi ayıran şey gerçekten çok erken takımlarla ortaklıklar üzerinde çalışmaya başladığımızı düşünüyorum.
+
+00:50:04 - 00:50:37
+Ve benim için bu çok önemli çünkü hizmet ettiğiniz insanlar için empatiye sahip olmak, sadece bu pipe dream'i inşa etmek değil, gerçek insanlara hizmet etmek ve gerçek kullanım durumlarına hizmet etmek en iyisi. Yani benim için benzersiz kılan şey shenon konsensüsümüzle çok sağlam bir şey inşa etmenin çok yüksek hedeflerine sahip olmak ama aynı zamanda ortaklara çok erken hizmet etmede çok agresif olmak.
+
+00:50:37 - 00:51:03
+Çok teşekkürler Petra. Bu biraz twist çünkü yol haritası dedin, ama sonra agresif genişleme yaklaşımımız hakkında CTO'yu konuşturuyoruz. Yani bu noktayı aslında sen getirdiğin için bunu seviyorum. Magnus, BlockSense takımını ne benzersiz kılıyor? Bu antropolog 2011 Bitcoin satın alma blok zinciri ürün lideri perspektifini duymak istiyorum.
+
+00:51:03 - 00:51:46
+Antropolojiyi örmeye çalışacağım. Büyük güçlerimizden birinin korsan olduğumuzu düşünüyorum, değil mi? Denizcileri olan başka bir kripto projesi var ve korsanları oldukça kasıtlı seçtik çünkü şu an için belki küçük oyuncu, ezilen olduğumuzu görüyoruz.
+
+00:51:46 - 00:52:29
+Ama başa çıkmak için gerekeni yapmaya istekli ve korsanlardan büyük harika şeyler gelebilir. Aslında insanlar genellikle korsanları hırsız olarak düşünür ama İngiliz İmparatorluğu ile çok fazla karşılaştırma yapmak istemiyorum çünkü bu sahte, ama İngiliz İmparatorluğu korsanlar tarafından başlatıldı.
+
+00:52:29 - 00:53:12
+Korsanlar yeni topraklar bulan bireysel korsanlardı. Keşfettiler ve çıktılar ve sonunda imparatorluğun parçası olan uluslar haline gelen girişimler yarattılar ve büyük hamon haline geldi ve sanırım evet denizci olmaktansa korsan olmayı tercih ederim. Yani bununla gideceğim.
+
+00:53:12 - 00:53:55
+Bunu seviyorum. Bu cevabı seviyorum. Yani bu harika bir nokta. Aslında İngiliz İmparatorluğu'nun bu kökeni hakkında hiçbir fikrim yoktu. Görün, aramızda Oxford eğitimli antropolog olmasının faydası var. Yani aslında bu soruyu kendime de yöneltmeyecektim ve önceden düşünülmüş bir cevabım yoktu.
+
+00:53:55 - 00:54:38
+Ama sizlerden duyduklarıma dayanarak, sadece buradan alarak hissediyorum. Yüz milyonlarca ve iyi yüz milyon artı toplamış bir zincirin kurucusuyla tanıştım ve Denver'da bir yan etkinlikte puro lansmanında tanıştım ve büyük şey liquidity sağlayıcılarla konuşuyordu.
+
+00:54:38 - 00:55:21
+Ve adamla tanıştığımda ne yapıyorsun dedi ve BlockSense'deyim dedim ve BlockSense ne yapar? Ve BlockSense oracle gibi görünüyor ama aslında gizlenmiş dağıtık hesaplama ağı dedim. Ve biliyorsunuz, A6Z bizi destekledi. Geçen Eylül'de 4 milyon pre-seed topladık.
+
+00:55:21 - 00:56:04
+Ve neden A16Z 2024'te bir oracle'a bu kadar para koydu dedi? Ve harika soru dedim. Toplantımız bittiğinde, bağlanmamız için telegram'ını taratmamı isteyen oydu. Yani buradaki vizyon muazzam ve Magda'nın dediği gibi uyarladığımız iş, iş uyarlanıyor ve yaşayan organizma gibi.
+
+00:56:04 - 00:56:47
+Ama mesele bunu çözen gerçekten büyük beyinlerin arkasında olmanız. Ve beni bile tam anlamak için muhtemelen yarım yıl aldı. Ve bu da bu topluluk aramında iletmeye çalıştığımız şey. Sadece çok daha büyük vizyonun bir parçasını veriyoruz.
+
+00:56:47 - 00:57:30
+BlockSense sadece bir oracle değil. BlockSense esasen birden fazla endüstri ve segmenti ele alan teknoloji inşa etme mimarisi ve yeteneklerine sahip. Ve zamanla, BlockSense ile ne kadar ilgili olursanız olun, burada ne inşa edildiğini ve potansiyelini anlayabilirseniz, tüm blok zinciri alanını çok daha derin anlayışa sahip olacaksınız.
+
+00:57:30 - 00:58:13
+Yani sadece bunun hakkında konuşmak bile tüylerimi diken diken ediyor. Ama BlockSense'i ne benzersiz kıldığını söylediğimde, burada bir vizyon var. Ölçekli bir vizyon. Ve 15 yıldır teknoloji şirketleri inşa ediyorum. Her zaman büyük düşünürler ve büyük inşaatçılar peşinde koşuyorum.
+
+00:58:13 - 00:59:00
+Yani BlockSense'i benzersiz kılan şey, bu büyük vizyonun gerçek olması. PowerPoint sunumu değil veya bilinmeyen kurucuların bir landing sayfasında sizi hafta sonra pomp fund'da dökmek için token satın almaya ikna etmeye çalışması değil.
+
+00:59:00 - 00:59:43
+Tamam. Yani tanıtımı verdik, blok zincirinin ne olduğu hakkında konuştuk ve sonra bizi ne benzersiz kıldığı hakkında konuştuk ve şimdi ortaklıklar hakkında konuşmak istiyorum. Şimdi halka açık olarak paylaşabileceğimiz veya şu anda halka açık olarak paylaşmak istediğimiz şeyin bir sınırı var.
+
+00:59:43 - 01:00:26
+Ama size bazı ipuçları vereceğim. Yani AC katmanıyla ilgili çok umut verici, muhtemelen en umut verici RWA projesiyle konuştuk. Şimdi kuruculara çok yakınız. Ve sizin için onlardan aldığım gerçek alıntı, "Bu kadar fiyat beslemesi için milyonlar ödememek için çok heyecanlıyım."
+
+01:00:26 - 01:01:09
+Yani bu proje gerçekten heyecan verici protokoller inşa ediyor. Yani bir zincir ama RWA alanında gerçekten heyecan verici protokolleri destekliyor. Ve aslında bizim savunucumuz. Önemli miktarda para topladılar. Zaten çok canlı bir ekosistemin parçasılar ama onları müttefikimiz olarak görüyoruz ve bize iş yönlendiren biri olarak görüyoruz.
+
+01:01:09 - 01:01:52
+İkinci örnek Arbitrum'da bir proje. Ve bu protokol, bazı baskın oracle'lar ve bazı meydan okuyucu oracle'lar tarafından yaklaşılmış olmasına rağmen, bizimle çalışmak onlar için kolay bir karar. Yani bu protokol stable coin başlatacak ve diğerleri onları oracle olarak kovalıyor olmasına rağmen ve insanlar bir buçuk yıl önce BlockSense adını bilmiyordu.
+
+01:01:52 - 01:02:35
+Bizimle çalışmaya zaten taahhüt ettiler. Üçüncü örnek Optimism'deki insanlara oldukça yakınız. Bazılarımızın orada kişisel bağlantıları var. Ama Optimism'den ortaklıklar için konumda olan birinden gerçekten bunu duyduk: "Teziniz o kadar mantıklı ki. Bunu tekrar tekrar duyuyoruz. Oracle'ların zincirler için ne kadar zorluk olduğu."
+
+01:02:35 - 01:03:18
+Ve yani doğru insanlarla tanışmak, bağlantılar kurmak, teknolojiyi inşa etmek ve sonuç vermeye başlamak zaman alıyor. Ve bir kez değer verdiğinizde, bir ekosistem içinde büyüyorsunuz. Ama hem ciddi fonlamaya sahip yeni umut verici projelerden hem de bir süredir var olan protokollerden bunu duyuyor ve görüyorsunuz.
+
+01:03:18 - 01:04:01
+Bunu tam olarak ne diyeceğimi bilmiyorum. Müttefik oluyorlar ve biz inşa ederken bizim için söz yayıyorlar. Yani bunun çok heyecan verici olduğunu düşünüyorum ve bunun konusunda çok boğayım çünkü Oracle alanına genel olarak bakarsanız çok rekabetçi ama bugün bulunduğumuz yerde zincirler, stack'ler ve protokollerden bu desteğe sahip olmak.
+
+01:04:01 - 01:04:44
+Yapılabilecek şeyler konusunda inanılmaz derecede iyimserim. Magnus, stable'ler hakkında biraz bahsettin. Ve risk farkında oracle'lar hakkında konuştun, ama bu örnekleri vurgulayabilir misin ve özellikle daha fazla insanın katıldığını gördüğüm için bunları daha özlü bir şekilde vurgulayabilir misin?
+
+01:04:44 - 01:05:27
+Evet, kesinlikle. Stable coin çıkarıcıları veya para piyasalarıyla ortaklıklarımız olduğunu düşünüyorum, yakında başlatılacak bazı yeni zincirlerde, bazı çok hype'lı yeni zincirlerde, Monad, Citra, TAC gibi, ana ağı çok yakında, aslında yakında geliyor, orada birkaç getiri protokolüyle çalışıyoruz.
+
+01:05:27 - 01:06:10
+Çok boğa teması, Base. İnsanlar zaten Oiler ile duyurumuzu gördüler, yakın zamanda bir milyar TVL'e ulaştı, birkaç yıl önceki hack'ten harika kurtarma yayı. Risk farkında ve risk optimize edilmiş para piyasalarının keskin ucunda çok çok çok çoklar.
+
+01:06:10 - 01:06:53
+Ve yakında çok büyük duyurularımız gelecek. Birkaçını fırına hazır bekletiyorduk ve gönderilmek üzere. Çok fazla zaman almak istemiyorum, tüm detaylara girmek için, ama umarım bu bir tat verir. Esasen, yeşil alan fırsatları olan en iyi yeni zincirlerin bazılarıyla çalışıyoruz.
+
+01:06:53 - 01:07:36
+Ve rekabet dışı ve çok erken giriyoruz ve teklifimizi yapıyoruz ve çok iyi satıldığını düşünüyorum ve sonra daha yerleşik zincirlerde risk küratörleri ve orada para piyasalarıyla gömülü hale geliyoruz ki bunları zaten duyurularda gördünüz.
+
+01:07:36 - 01:08:19
+Yani evet, bunu bırakacağım ve sana geri vereceğim Martin. Çok teşekkürler Magnus. Yani protokollerden bahsettik, bazı zincirlerden alıntılar yaptık. Burada Peter'ı ele almak istiyorum. Yani aynı zamanda birçok zinciri entegre etmek için gerçekten sıkı çalışıyoruz. Bu konuda biraz daha söylemek ister misin Peter?
+
+01:08:19 - 01:09:02
+Tabii ki. Yani Magnus zaten bazı zincirlerden bahsetti, ama özellikle EVM tarafında, mimarimizin çok hızlı yeni zincirlere surf yapmamıza izin verdiğini söyleyebilirim. Konsensüsümüz ve batch mekanizmamız neredeyse anında yeni pazarlara gitmemize izin veriyor.
+
+01:09:02 - 01:09:45
+Ve birçok ortağımızla test ağlarında ve bazı ana ağlarında çok hızlı büyüme görüyoruz. Bence EVM olmayan zincirlerden bazıları da çok heyecan verici. Yani örneğin Stick ile ortaklık yapıyoruz. Benim için oldukça havalı bir proje çünkü sadece ölçeklenebilirlik için değil aynı zamanda gizlilik için de ZK'den yararlanma konusunda çok derin araştırma geliştirme odakları var.
+
+01:09:45 - 01:10:28
+Yani temelde farklı seviyelerde ortaklık yaptığımız projelerden biri ve karşılıklı ortaklığımızın nereye gidebileceği konusunda çok heyecanlıyım. Bu genel bakış için teşekkürler Peter. Yani aslında senden bu alıntıyı not aldım. Mimarimiz çok hızlı yeni zincirler başlatmamıza izin veriyor çocuklar.
+
+01:10:28 - 01:11:11
+Keşke sizi anketleyebilecek bir yol olsaydı. Bir zincir inşa eden herhangi biriyle konuşup oracle'lar hakkında sorarsanız, bazı şirketler aylar alır, bazıları yarım yıla kadar çıkabilir, birçoğu entegre etmek için yüz binlerce ücret alır.
+
+01:11:11 - 01:11:54
+Yani mimarimiz aracılığıyla etkinleştirilen hız gerçekten başka bir şey ve bu beni genel olarak sırada ne olduğu hakkında genellemeye götürüyor. Yani yaklaşan ortaklıklar ve ekosistem oyunları açısından önümüzdeki aylarda çok daha fazla aktivite ve duyuru görmekten memnun kalacaksınız.
+
+01:11:54 - 01:12:37
+Yine şu anda bazı isimleri paylaşabilseydim ama gözünüzü dört açın, halka açık duyurular göreceksiniz. Twitter'da ve Discord'da duyurular göreceksiniz. Şimdi, birincil odağımız şu anda, ekosistemi destekleyen biri olarak birincil odağım oracle'a ihtiyaç duyacak layer 1'ler, layer 2'ler, layer 3'lerle bağlantı kurmak.
+
+01:12:37 - 01:13:20
+Ve ikincil şey, ikincil değil ama ikincil, borç verenler, LSD'ler, LRT'ler, stable coin çıkarıcılarıyla bağlantı kurmak. Eğer böyle projelerle ilgiliyseniz veya bunları destekliyorsanız, yani takımı biliyorsunuz, orada zaten çalışma yapıyorsunuz, lütfen erken benimseyenler formunda bize yanıt bırakın.
+
+01:13:20 - 01:14:03
+Yani bunu BlockSense network web sitesinin altında bulabilirsiniz. Yani eğer orada proje paylaşırsanız, bunları gözden geçireceğiz. Konuştuklarımızla eşleştireceğiz. Projeyle ilginizin ne olduğu konusunda bağlam paylaşın. Eğer onlarla zaten bağlantılı değilsek ve birini bildirirseniz, onlarla tanışırız.
+
+01:14:03 - 01:14:46
+Kişisel olarak bu gömleklerden birini yazdıracağım. Bu arada, giyebileceğiniz en yüksek kaliteli gömleklerden biri. Bunu seviyorum. BlockSense ödedi. Yani ucuz değildim, iyi bir gömlek aldığımdan emin olmak için. Yani kişisel olarak gömleği yazdıracağım ve kendim size postayla göndereceğim.
+
+01:14:46 - 01:15:29
+Yani yine, eğer L1'ler, L2'ler, L3'ler, Borç Verenler, LSD'ler, LRT'ler veya stable'lerle bağlantılıysanız ve derinden çalışıyorsanız, erken benimseyenler formunu doldurun ve bunlarla çalışacağım ve bunları gözden geçirecek ve size geri dönecek takımla çalışacağım.
+
+01:15:29 - 01:16:12
+Sırada ne olduğu hakkında konuşmak. Yani yakın zamanda NFT kampanyamızı yaptık ve Gorgi, seni sahneye çıkarmak istiyorum. Bu arada, burada kaç kişi var? Merhaba çocuklar, bugün Gorgi'nin doğum günü. Sohbette mutlu yıllar alabilir miyiz? Çünkü hepinizi sahneye çıkarmak isterdim ama bu inanılmaz derecede kaotik olacak.
+
+01:16:12 - 01:16:55
+Mutlu yıllar Gorgi. Umarım bu kursa gerçekten giriş yapmışsındır ki bu mesajları şimdi görebilesin. Bunu yapabilirim. Çalışacak mı bakalım. Tamam, biraz konfeti alıyorsun. Mutlu yıllar G. İşte gidiyor. Doğum günü aldık. Yani mutlu yıllar. Ve seni de sahneye çıkarmak istiyorum.
+
+01:16:55 - 01:17:38
+Bu NFT kampanyasını yaptığımıza göre sırada ne olduğu hakkında biraz daha anlat. Doğru. NFT kampanyası açısından, planladığımız sırada ki ikinci tür deneyim, böyle diyelim, gerçekten topluluktaki herkesin neyden yapıldığını ve güçlü yanlarının ne olduğunu görmeye çalışacağımız.
+
+01:17:38 - 01:18:21
+Siz çocuklar zincir üzerinde DJ'ler misiniz, zincir üzerinde DJ'ler misiniz, sanat gidiyor insanlar gibi ve tüm geliştiriciler ve Twitter'daki tüm yappers ve böyle devam ediyor. Yani bu deneyimin amacı gerçekten herkesin metalini görmek ve koleksiyonda siz çocukların neyden yapıldığını yansıtacak bir tür koleksiyon yapacağız.
+
+01:18:21 - 01:19:04
+Evet, ve bunu planlama ve kurma aşamalarının başındayız, bu deneyimin tam olarak ne olacağını. Yani bozmak istemiyorum ama temelde geçmiş birkaç yılda gördüğümüz tüm pop Esther koleksiyonlarının en iyisini alıyoruz.
+
+01:19:04 - 01:19:47
+Onları gerçekten incelemek için zaman ayırdık ve bir şey yapmak ve her birinden bir şey almak ve kendimize ait bir şey yapmak. Yani evet, bu bize birkaç ay verecek ve çıkaracağız. Ama çok heyecanlıyım diyorum ve evet, söyleyecek hepsi bu sanırım.
+
+01:19:47 - 01:20:30
+Harika. Ki aslında sanatçı hakkında merak ediyorsanız, bizimle çalışan gerçekten havalı bir sanatçımız var, gerçek dünya sanatçısı, aslında pop sanatçısı, 90'lar decently gibi temalarla bazı başka şeylerle karışık çok ilginç bir tarzı var.
+
+01:20:30 - 01:21:13
+Ama evet, yakın zamanda onlar hakkında da duyurduk. Yani sanatın ne düşündükleri konusunda bir fikir edinmek için çalışmalarını kontrol edebilirsiniz. Teşekkürler Gorgi. Yani toplantıyı biraz geç başlattık ve sohbette çok fazla insan olduğunu biliyorum.
+
+01:21:13 - 01:21:56
+Yani topluluk sorularını ele almak için bu aramı uzatacağız. Ve ilk sorularla başlayacağım, NFT hakkında çok fazla sorumuz vardı. Yani ilk soru sana yöneltiliyor Gorgi. İkinci NFT drop olacak mı? Ve korsan NFT'yi kaçıranlar için hala şans var mı?
+
+01:21:56 - 01:22:39
+Evet, bahsettiğim gibi, ikinci NFT drop türü deneyim yapacağız. Yani bu olacak ve düşünme şeklimiz bunun başka yolları olacak, insanlar buna katılabilecek, sadece ilkini taahhüt etmeyi başarırsanız ve talimatları takip ederek doğru şekilde yaparsanız kesinlikle katılma şansınız olacak.
+
+01:22:39 - 01:23:22
+Yani bu bir ama bahsettiğim gibi topluluğun farklı özelliklerini görmek istiyoruz, sosyal medyada gerçekten aktif olan insanları görmek istiyoruz, GitHub'da gerçekten aktif olan insanları görmek istiyoruz veya zincirde ve farklı protokollerde ve farklı partner protokollerde gerçekten aktif olan insanları görmek istiyoruz.
+
+01:23:22 - 01:24:05
+Yani buna katılmak için başka yollar olacak. Ve korsan NFT'yi kaçıranlar için hala şans var mı? Doğru. Bahsettiğim şey bu. Evet. Tamam. Katılabileceksiniz. Tamam. Ve NFT drop fikri takıma nasıl geldi? Bunun hakkında birkaç soru vardı.
+
+01:24:05 - 01:24:48
+Yani alanda bir süredir bulunuyoruz. Farklı şeyler gördük. Ve özellikle ihtiyaç duyulan farklı parçaların yerinde olduğu, özellikle New York ve Paris ve Asya ve farklı şehirlerde gerçekten sergiler yapan gerçek dünya sanatçısı gibi bir sanatçımız var.
+
+01:24:48 - 01:25:31
+Belki bir gün süper ünlü olacak ama şu anda biraz ünlü ve projenin arkadaşı. Yani sadece tüm parçalar orada ve böyle şeyler yapmayı seven fırsat var ve o da markasını zincir üzerine getirmek istiyor.
+
+01:25:31 - 01:26:14
+Ve aslında tangent, ayrıca Azuki ve Pie Penguins gibi diğer sier koleksiyonlara da bağlı. Yani evet her şeyimiz var ve çok iyi deniyoruz. Ve bunun topluluk için çok havalı bir deneyim olacağını düşünüyorum.
+
+01:26:14 - 01:26:57
+Yani evet, bunun da bir parçası. Evet. Şimdi özür dilerim, sadece bir saniye. Sadece sorulara bakıyorum. Yani bunu kelimesi kelimesine alacağım. Ve eklediğin şeye dayalı olarak şu anda daha alakalı olan kısmını ele alabilirsin. NFT'ler önceden mint edildi ve şimdi başka bir mint olacak.
+
+01:26:57 - 01:27:40
+Sadece önceden mint edenler tekrar mint edebilir mi doğru mu? NFT projenin ekosisteminde nasıl değerlendiriliyor? Sanırım bunu zaten söyledim, bu yüzden bağlam için olduğu gibi okuyorum. Evet. Doğru. Yani evet. Belki yeniden vurgulamak için, ikinci deneyimde farklı niteliklendirme bulacağız.
+
+01:27:40 - 01:28:23
+Ve evet, sadece ilkini yaptıysanız olmayacak, ama ilkini yaptıysanız, bu kesinlikle yardımcı olacak. Anladım. Tamam, şimdi soruları biraz değiştiriyoruz. NFT'lerden uzaklaşacağız. Bu iyi bir tane. Programlanabilir oracle'larımız var mı veya entegre etmeyi planlıyor muyuz?
+
+01:28:23 - 01:28:43
+Bu "biz" olarak çerçevelenmiş olmasını seviyorum çünkü düşünme şekliniz bu. Yani sadece burada bir yan not yapacağım. Çok fazla oracle'ın topluluğu var ve misyonları var ve aktiviteleri var. Ama bu oracle'lardan kaç tanesi üzerinde oracle inşa edebilirsiniz?
+
+01:28:43 - 01:29:20
+Bu kadar herkes katıldığı için çok teşekkürler. Ve toplulukla bağlantı kurmak için zaman ayırdığınız için teşekkürler çocuklar. Sizi takdir ediyorum, herkes. Aramaya katıldığınız için herkese teşekkürler. Kendinize iyi bakın.

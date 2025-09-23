@@ -1,0 +1,251 @@
+00:00:01 - 00:01:22
+Onun hakkında ve belki Blocksense'deki yolculuğu ve ilgilendiği alanlar hakkında birkaç kelime söylemeli. Merhaba arkadaşlar, benim adım Peter. Blocksense'in kurucusu ve ekibin bir üyesiyim. Sanırım projeye geçen yılın sonlarında başladık ama ekibin çoğu üyesi bu yılın başlarında ve özellikle de ilkbahar döneminde katıldı. Sizlere üzerinde çalıştığımız şeyleri paylaşmak ve ilerlememizi anlatmak için sabırsızlanıyorum, evet. Harika, teşekkürler Peter. Sözü CEO'muza vermek istiyorum.
+
+00:00:42 - 00:02:29
+Ayrıca, Zakari. Merhaba arkadaşlar, benim adım Zakari. Blocksense’in CEO'suyum ve aynı zamanda projenin Baş Mimarı sayılırım. Blocksense'a başlamadan önce, bir Ethereum istemcisi olan Nimus istemcisinin baş geliştiricisiydim ve ondan önce de Nim adında bir programlama diline uzun yıllar boyunca oldukça aktif bir katkıda buludum. Pekala, şimdi... Sanırım sözü çevrimiçi olarak aramıza katılan Dimo'ya vermek istiyorum, belki kendisini tanıtabilir. Merhaba Dimo. Benim adım Dimo ve projenin lead ZK geliştiricisiyim.
+
+00:01:38 - 00:03:05
+Ondan önce, Dri projesinin lead ZK mühendisi olarak çalıştım. Dri projesi, Blocksense ekibi üyelerinin birçoğunun da üzerinde çalıştığı bir projeydi. Evet, teşekkürler Dimo. Teknisyenimiz etrafta dolaşıyor ve kurulumu daha da iyi hale getirmeye çalışıyor, umarım siz de keyif alıyorsunuzdur. Ekibin kısa tanıtımından sonra, elbette bu insanlar hakkında gelecekte çok daha fazla şey öğreneceksiniz ama Blocksense'ın kurucu isimlerinin kimler olduğunu hissetmek iyi oluyor. Gönderimde bahsettiğim gibi,
+
+00:02:25 - 00:03:59
+duymak istediğim bir kişi daha var ama emin değilim, belki o... Aslında o da aramızda ve onun da kendisi hakkında biraz bilgi paylaşmasını istiyorum. Merhaba George. Oh, merhaba, merhaba. Evet. Merhaba arkadaşlar. Sanırım COO'yum ve BD (iş geliştirme) ve pazarlama tarafında bir sürü iş yapıyorum. Beni Discord'da ve Twitter'da görmüşsünüzdür. Evet, kısaca ben buyum işte. Bu projeye geçen yıl, sanırım tam da bu zamanlarda veya Eylül gibi başladım ve bir sürü şey oldu, evet ama daha yeni başlıyoruz.
+
+00:03:17 - 00:04:39
+Yani, beyefendiler size teknik tarafta -ki bu biraz daha görünmezdi- neler yaptığımızı anlatacaklar ve biz de pazarlama tarafında neyin üzerine gittiğimizi ve belki BD tarafında yaptığımız anlaşmalardan bazılarını paylaşacağız. Evet, burada olduğunuz için herkese teşekkürler. Aslında kaç kişi burada emin değilim ama... Pekala, teşekkürler B, teşekkürler George. Aslında ben de bu fırsatı kendimi tanıtmak için kullanacağım çünkü birçoğunuz beni sohbetten tanıyor ve evet, yüzümü ve ismimi eşleştirmek güzel.
+
+00:04:36 - 00:05:56
+Ben Blocksense'in topluluk lideriyim ve çoğunuzla, toplulukta aktif olan hepinizle iletişim kurmaktan çok mutluyum. Harika katkıda bulunanlarımız var ve bunun daha da ileri gitmesini görmekten mutluluk duyuyorum. Topluluk için yakında gelecek olan harika kampanyalar ve görevler hazırlıyoruz, bu yüzden bunun için bizi izlemeye devam edin. Ve ikinci kısma, yani bugünkü bu görüşmenin ikinci noktasına geçmek istiyorum. Biraz şimdiye kadar neler yaptığımızı özetleyip, şu ana kadarki ilerlemeyi,
+
+00:05:15 - 00:06:55
+belki henüz canlı olmayan ama hala üzerinde çalıştığımız bazı şeyleri ve şu ana kadar başardığımız şeyleri ve mevcut geliştirme durumunu paylaşabiliriz. Bunun hakkında sorabilir miyim? Tabii. Şimdiye kadar odak noktamız akıllı sözleşmelerimizi inşa etmek oldu. Özellikle, yakında sizlerle EVM tabanlı ağlar için olan akıllı sözleşmelerimizi paylaşabileceğiz. Özellikle tarihsel veri akışı depolama sözleşmemiz. Yani, ana odak noktamız şimdiye kadar, yeni kullanıcıların ve yeni ağların oracle'lar için bir çözüme sahip olabilmesini sağlamak oldu.
+
+00:06:05 - 00:07:33
+Solidity tarafına ek olarak şimdiye kadar tamamladığımız bir diğer şey de, yakında yayına girecek olan dökümantasyon sitemiz. Teknik yığınımızın diğer önemli bileşenleri de sıralayıcı (sequencer) ve raporlama düğümleri. Onlarda da şimdiye kadar iyi bir ilerleme kaydettik ve yakında başlayacağımız bir test ağı dağıtımımız var. Blocksense akıllı sözleşmesi hakkındaki önemli şey şu ki, Oracle alanında yeni bir mimari sunuyoruz. Şu anda Oracle alanı, her bir veri akışının ayrı bir akıllı sözleşme olduğu ve her veri güncellemesinin ayrı bir işlem olduğu bir modelle domine edilmiş durumda.
+
+00:06:48 - 00:07:58
+Blocksense'taki temel yeniliklerden biri, tüm veri akışlarını tutan tek bir akıllı sözleşme kullanmamız ve ardından tek bir işlemle binlerce güncellemeyi yayınlayabilmemiz. Gelecekte, bu veri sıfır bilgi devreleri (zero knowledge circuits) ile doğrulanacak ve protokol tarafından üretilen tüm verilerin ağın bir tür konsensüs sürecinden geçtiği garantilenecek. Bu, verinin doğrulandığından, gizli anlaşma veya rüşvet olasılığının olmadığından emin oluyor. Ancak bu en ilk versiyonda bile, tüm arayüzler yerinde olacak.
+
+00:07:24 - 00:08:40
+Blocksense'i entegre etmek isteyen uygulamalar, akıllı sözleşmelerini şimdi benimserlerse, protokolün evriminin tüm aşamalarından geriye dönük uyumluluğu asla bozmadan geçecekleri garantisine sahip olacaklar. İlk sürümümüz için hedef bu. Evet, bu kesinlikle Blocksense'ın neden bu kadar özel olduğunu ve ne sunmayı hedeflediğimizi merak eden herkesin aklında bulundurması gereken harika bir şey.
+
+00:08:02 - 00:09:31
+Ve bu aklımızda, bir sonraki adıma geçmek istiyorum ve bu esas olarak yol haritasına genel bir bakış ve şimdi nelerin yakında olduğu. Önümüzdeki 3 ila 6 ay için kısa vadeli hedeflerimize bir bakalım. Zakari, şu an neler paylaşabilirsin? Aslında buna biraz değindim bile ama ürünlerimizi mümkün olan en kısa sürede kullanıcıların eline ulaştırmak istiyoruz. Uzun vadeli hedefimiz ise, "paylaşılan nokta" (sharing point) olarak adlandırılan oylama konsensüs mekanizmasını kapsayan sıfır bilgi devrelerini uygulamak.
+
+00:08:45 - 00:09:49
+Bu biraz oyun gibi çalışıyor. Genellikle şu kısa açıklamayı yapmayı seviyorum: Diyelim ki 10.000 katılımcılı bir oyun hayal edin ve oyunun kuralları öyle ki, bu katılımcıların küçük bir alt kümesi seçiliyor ve onlara keyfi bir soru soruluyor. Bu, diyelim ki 100 katılımcı olabilir ve soru, örneğin New York'taki mevcut sıcaklık ne gibi bir şey olabilir. Oyunun kuralları, diğer katılımcıların cevaplarını göremeyeceğiniz, ancak çoğunlukla aynı fikirde olan bir cevap verirseniz ödül aldığınız,
+
+00:09:18 - 00:10:20
+cevabınız çoğunlukla aynı fikirde değilse küçük bir ceza aldığınız şekildedir. Hemen belli olmayabilir ama bu oyundaki en iyi strateji her zaman doğruyu söylemektir, çünkü eğer herkes doğruyu söylerse herkes kazanır. Eğer yalan söylemeye çalışırsanız, yalan söylemenin o kadar çok olası yolu vardır ki, çoğunlukta bitirme ihtimaliniz çok düşüktür. Yani temelde, yalan söylemek para kaybetmenin bir reçetesidir ve protokol, veri bildirimini teşvik eder. Buradaki endişe şu ki, bu merkeziyetsiz bir protokol olduğu için,
+
+00:09:49 - 00:11:06
+gizli anlaşma veya bir tür rüşvet konusunda endişelenmeniz gerekir - birinin protokolü bir veya başka yöne yönlendirmeye çalışması. Sıfır bilgi mimarimiz sayesinde, bu tür saldırılara karşı birkaç tür teknik önlem getiriyoruz. Yaptığımız ilk şey, belirli bir zamanda belirli bir veri noktasını sağlamaktan sorumlu olan kullanıcılar komitesi, gizli bir şekilde seçiliyor. Temelde, bu komitelerden birinde olduğunuzda, sadece sizin o komitenin parçası olduğunuzu bilirsiniz, aynı komitedeki diğer herhangi bir üyeyi bilmezsiniz.
+
+00:10:28 - 00:11:24
+Ve eğer harici bir gözlemciyseniz, komitenin üyelerinin kim olduğunu hiç bilmezsiniz. Yani temelde, eğer biriyle gizli anlaşma yapmaya çalışırsanız veya birine rüşvet vermeye çalışırsanız, kime hedeflemeniz gerektiğini bilemezsiniz. Rüşvetinizi tüm ağa teklif etmek zorunda kalırsınız. Ancak ikinci sorun, herhangi birinin rüşveti kabul etmesini çok zorlaştırıyoruz çünkü bu sistemde nasıl oy verdiğinizi paylaşmanın tek yolu, tüm payınızı (stake) kontrol eden gizli bir anahtarınızı ifşa etmektir
+
+00:10:55 - 00:12:04
+ve doğal olarak kimse bunu yapmak istemez. Ama bir düşünün, eğer birisi size protokolde nasıl oy verdiğini kanıtlayamazsa, onları rüşvetle satın almaya çalışmak gerçekten mantıklı mı? Çünkü her zaman rüşvetinizi alabilirler, istedikleri şekilde oy kullanabilirler ve saldırganın, emirlerine uyup uymadıklarını doğrulamanın hiçbir yolu olmayacaktır. Yani, gizli anlaşma ve rüşvete karşı bu güçlü önlemler, bence Blocksense'i diğer merkeziyetsiz oracle protokollerinden ayıran başlıca teknik farklılaştırıcılardan biri
+
+00:11:30 - 00:12:43
+ve nihayetinde Blocksense Ağı'nı uzun vadede güvence altına alacak olan da bu. Ancak, protokolü mümkün olan en kısa sünde kullanıcıların ve işbirliği yapan geliştirme ekiplerinin eline ulaştırmak için, ilk başta Blocksense Ağı'nın geleneksel Proof-of-Authority (Yetki Kanıtı) modeliyle çalıştığı bir dağıtım yapacağımız bir yol haritası benimsedik. Bu model şu anda oracle endüstrisine hakim durumda. Tüm detayları tekrar gözden geçirmem ama temelde, saygın bir dizi blok zincir altyapı şirketi,
+
+00:12:06 - 00:13:16
+Blocksense ağı tarafından yayınlanan tüm verileri kendi isimleriyle imzalayan ilk operatör seti olarak hareket edecek. Verinin doğruluğunu sağlamak için onların itibarına güveneceğiz. Yol haritamızdaki bir sonraki aşama, Aave gibi protokollerden Risk Alıcıların (Risk Takers) ağa katılmasını ve operatör olmasını da sağlayacak. Ve nihayet, tüm bu ZK (Sıfır Bilgi) mekanizması tamamen geliştirilip yerine oturduğunda, protokolü herkes için erişilebilir hale getireceğiz. Evet, bu harika.
+
+00:13:17 - 00:14:14
+Sadece emin olmak istedim, az önce tüm vizyonumuzu mu ortaya koydun yoksa bu kısa vadeli plan mıydı? Herkes için emin olayım. Yani, bu muhtemelen önümüzdeki 12 ila 18 ay için yol haritamız. Uzun vadeli vizyonumuz, blok zincirlerin internetin kendisiyle çok daha iyi entegre olduğu bir gelecek hayal ediyor. Bazen insanlar protokolümüzü, internet erişimi için eksik olan akıllı sözleşme SDK'sı (Yazılım Geliştirme Kiti) olarak tanımlıyor.
+
+00:13:58 - 00:15:22
+İnternetle olan bu iletişimin çift yönlü olması gerektiğine inanıyoruz ve örneğin, kullanıcının blokzincirinde bir işlem başlattığı, ancak uygulamanın kullanıcıdan gerçek dünyada veya internette bir eylemi tamamlamasını gerektirdiği ve ardından kullanıcının bu eylemin gerçekleştiğine dair bir kanıt sunduğu bir blokzinciri uygulaması oluşturmak mümkün olmalı. Şimdi bu kanıt, protokolümüzdeki birden fazla doğrulayıcının bir eylemin gerçekleştiği gerçeğine tanıklık ettiği paylaşılan nokta oylama mekanizmasıyla belirlenebilir,
+
+00:14:44 - 00:15:48
+ama aynı zamanda geleneksel web sayfalarıyla etkileşimi kanıtlamaya izin verecek bir ZK TLS uygulaması da geliştiriyor olacağız. Bu, belki kendi hesabınızla oturum açtığınız belirli bir geleneksel web sitesinde yaptığınız daha özel bir şey olabilir. Ve tüm bunlar, ZK teknolojisinin gizliliğiyle teslim edilecek. Temelde, kişisel detaylarınızı veya etkileşimin detaylarını aslında açığa vurmadan bir etkileşim yaptığınızı kanıtlayabileceksiniz. Yani bu bizim çok uzun vadeli vizyonumuz.
+
+00:15:16 - 00:16:29
+Blokzinciri ve internet arasında çok daha güçlü bir bağlantı yaratmak istiyoruz. Ancak kısa vadeli vizyonumuz hakkında konuşmadığım bir şey, Blocksense protokolünün bir diğer önemli farklılaştırıcısı. Ve bu, bu teknolojiyi mümkün olan en kısa sürede kullanıcıların eline ulaştırmak istememizin nedeni. Burada bahsettiğim şey, Blocksense ile herkesin yeni oracle'lar oluşturabilmesi gerçeği. Oracle'ların oluşturulma şekli, kullanıcı tabanımız tarafından programlanıyorlar.
+
+00:15:53 - 00:16:53
+Örneğin, eğer bir akıllı sözleşme geliştiricisiyseniz ve Gerçek Dünya'dan (Real World) bazı verileri nasıl kullanacağınıza dair bir fikriniz varsa, Blocksense ile bu verinin İnternet'teki çeşitli kaynaklardan nasıl elde edileceğini belirleyen bir oracle betiğini kendiniz uygulayabilirsiniz. Birden fazla kaynak kullanabiliriz, ortalamalarını alabilir veya bilgiyi keyfi bir şekilde işleyebiliriz. Ve sonra bu betiği oluşturduğunuzda, onu ağımıza kaydedersiniz ve veri hemen ertesi gün akmaya başlar.
+
+00:16:23 - 00:17:26
+Temelde, şu anda gördüğümüz problem şu ki, oracle sağlayıcıları, uygulama alanındaki olası inovasyonu sınırlayan kapı bekçileri gibi hareket ediyorlar. Önce birisinin veriyi zincir üzerinde yayınlamasını beklemek zorundasınız ve ancak o zaman mevcut veri etrafında uygulamalar geliştirmeye başlayabilirsiniz. Biz ise bunu tersine çeviriyoruz. Eğer Gerçek Dünya'dan bir veriyi nasıl kullanacağınıza dair bir fikriniz varsa, onu kendiniz zincire getirebilirsiniz. Bu, mümkün olan maksimum inovasyonun kilidini açıyor.
+
+00:16:56 - 00:18:11
+Gerçekten iddialı bir vizyonumuz ve uzun vadeli planımız var ama teknik düzeyde nasıl ilerlediğimizi, burada uyguladığımız yeniliği ve neden bu alana giren bir proje olduğumuzu biraz anlatabilir misin? Dediğim gibi, temel yeniliklerimizden biri, binlerce güncellemenin tek bir işlemle birlikte zincirde yayınlanmasına izin veren bu yeni mimari. Bu, veriyi zincirde yayınlama maliyetini önemli ölçüde düşürüyor.
+
+00:17:34 - 00:18:42
+Kendimizi mevcut en iyi çözümle karşılaştırdığımızda, zincirde tek bir veri noktası yayınlamak için gereken gaz maliyetinin Blocksense protokolüyle yaklaşık 50 kat daha düşük olduğunu ölçebiliyoruz. Bu, ya 50 kat daha fazla veri göndermeye karar verebileceğiniz anlamına gelir - ki bunun oldukça uygun olduğunu düşünüyoruz çünkü zincir üzerinde çok daha fazla gerçek dünya verisi görmek istiyoruz - ya da mevcut gaz bütçenizi veriyi daha sık yayınlamak için de kullanabilirsiniz.
+
+00:18:08 - 00:19:29
+Çünkü Oracle alanındaki temel problemlerden biri şu anda verinin çok bayat (stale) olması. Ve nihayetinde, tüm DeFi protokollerinin son kullanıcıları, DeFi protokollerinin üzerinde çalıştığı fiyatların, merkezi borsalardaki (CEX) döviz kurunun gerisinde kalması gerçeğinden mustarip. Bu, endstride verimsizlik yaratıyor ve bu da sıklıkla MEV (Miner Extractable Value - Madenci Çıkarılabilir Değer) oyuncuları tarafından istismar ediliyor.
+
+00:18:48 - 00:20:13
+Bu alanda da inovasyon yapmayı umduğumuz bir şey var. Binlerce güncellemeyi birlikte yayınladığımızda, MEV endstrisindeki oyunculara, güncellemelerden hemen önce veya hemen sonra gelecek işlemleri dahil etme olasılığı sunabiliriz. MEV endstrisindeki kârın çoğunluğu, bir fiyat güncellemesinden sonra ilk hareket avantajına sahip olmak etrafında döndüğü için, bu, eğer aynı mekanizmaları uygularsak - ki şu anda Ethereum'un kendisi için önerilen mekanizmalar bunlar -
+
+00:19:31 - 00:20:48
+MEV oyuncularının, belirli işlemlerinin bloğa dahil edilme hakkı için birbirlerine karşı teklif verdiği durumda, bu teklif verme mantığı, eğer teklifiniz çok düşükse, başka bir oyuncu tarafından geçilme ihtimalinizin yüksek olmasıdır. Bu, tüm MEV oyuncularını kârlarının çoğunu (diyelim ki %90-%95'ini) bir teklife dönüştürmeye iter. Yani, Blocksense protokolüne tekliflerini sunarlar ve belirli işlemlerinin bizim güncellemelerimizle birlikte dahil edilmesi için.
+
+00:20:17 - 00:21:30
+Bu, protokolün bu teklifi, Blocksense fiyat beslemelerini benimseyen DeFi protokollerine dağıtabileceği anlamına gelir. Ardından bu protokoller de onu, DeFi çözümleriyle etkileşime giren son kullanıcılara daha da dağıtabilir. Bunun, merkeziyetsiz DeFi protokollerinin mevcut verimsizliğini büyük ölçüde ortadan kaldıracağına ve onları merkezi çözümlerle çok daha rekabetçi hale getireceğine inanıyoruz. Nihayetinde ağda görmek istediğimiz şey bu, çünkü merkezi çözümler,
+
+00:20:54 - 00:22:16
+kullanıcıdan fonları üzerinde çok fazla kontrolünden vazgeçmesini, bu kuruma güçlü bir güven duymasını gerektirir veya sansür veya son kullanıcının çıkarına olmayan diğer davranışlarda bulunabilirler. Ve biz, gerçekten merkeziyetsiz altyapının gelişmesini ve mümkün olduğunca rekabetçi olmasını istiyoruz. Evet, tüm bunları duyduktan sonra eminim ki birçok izleyici ve sonradan izleyecek olan insanlar, topluluk üyeleri, nasıl katkıda bulunabileceklerini öğrenmek için de heyecanlanıyordur.
+
+00:21:35 - 00:22:46
+Ve sunucuda (Discord) defalarca bu soru geldi: GitHub repo'su ne zaman açılacak, böylece insanlar katkıda bulunabilsin? Bu elbette projeye katkıda bulunmanın bir yolu. Diğer yolu ise, Blocksense hakkındaki haberleri yaymak. Bu özel bir proje olduğunu ve alana bir şeyler getirebileceğimizi hissettiğiniz anda, bunun hakkında konuşmak, topluluğun büyümesine gerçekten yardımcı oluyor. Ve aslında bu sadece sayıyla ilgili değil, başlangıçtan itibaren birlikte büyüyebileceğimiz,
+
+00:22:10 - 00:23:17
+sağlıklı bir ortam yaratmakla ilgili. Bu Discord'u, birlikte büyümek ve Discord Kanalı üzerinden iletişim kurarak bir araya gelecek birçok projeyi görmek ve hazırladığımız teknolojinin üzerine inşa etmek için bir yer olarak kullanmayı söylüyoruz. Çünkü inşa ettiğimiz teknolojide gördüğümüz avantaj bu: izne gerek yok (permissionless) ve durdurulamaz (unstoppable). Temelde fikirlerinizin tamamını zincire getirebilirsiniz. Bu soruya tekrar döneceğim, belki Peter veya Zakari cevaplayabilir:
+
+00:22:45 - 00:24:16
+Defi (DeFi) arkadaşlarımız ne zaman protokole katkıda bulunabilecek? Tabii ki, açık kaynağa büyük inananlarız. Hepimiz burada çeşitli açık kaynak projelere katkıda bulunduk ve benim için açık kaynağın büyük avantajlarından biri, gerçekten yüksek bir kalite çıtası belirlemesidir. Eğer işiniz herkesin incelemesine açık olacaksa, gerçekten yüksek kalitede olduğundan emin olmalısınız. Bizim perspektifimizden, Blocksense'ın kodunu, güncellenmiş web sitemiz yayınlandığı anda yayınlayacağız.
+
+00:23:30 - 00:24:52
+Güncellenmiş web sitesi, akıllı sözleşmelerimizin dökümantasyonunu, Blocksense'a nasıl başlanacağına dair çeşitli rehberleri vb. içerecek. Yani kodu, bu dökümantasyonu tamamlayıcı olarak görüyoruz. Depoyu (repository) mümkün olduğunca iyi dökümante edilmiş, uygun benioku (readme) dosyaları vb. ile oluşturmaya çalışıyoruz. Bu bir süredir devam eden bir süreçti ve çok yakında tüm bunlar yayınlanacak. Harika, kesinlikle. Belki genel süreç hakkında biraz daha bilgi paylaşabilirim.
+
+00:24:11 - 00:25:29
+Yayınlayacağımız ilk şeylerden biri geliştirici dökümantasyonu olacak. Başlangıçtaki dökümantasyon odak noktalarından biri, akıllı sözleşme geliştiricilerinin, projelerinde oracle veri kaynaklarını uygulamak için Blocksense sözleşmelerini nasıl kullanabileceklerine dair rehberler olacak. Bu, ilerleyen aylarda ana odak noktalarımızdan biri olacak. Birkaç ay sonra, bir sonraki odak noktamız oracle betiği işlevselliği üzerine olacak. Bu bizi diğer oracle projelerinden gerçekten ayırıyor,
+
+00:24:50 - 00:26:18
+çünkü yeni veri kaynakları eklemenin, Ethereum ve diğer akıllı sözleşme tabanlı blok zincirlerine bir akıllı sözleşme dağıtmak kadar basit olması gerektiğine inanıyoruz. Bu yüzden topluluğun ne inşa edebileceğini görmek için gerçekten sabırsızlanıyoruz. Bazı teknoloji seçimlerimiz hakkında teknik detaylar paylaşabilirim. Topluluğumuzun kendi araç zincirlerini ve dillerini seçmesine gerçekten inanıyoruz, bu yüzden protokolümüzün ilk yinelemesini Web Assembly (Wasm) üzerine kurmaya karar verdik.
+
+00:25:34 - 00:26:50
+Sahip olduğu temel özelliklerden biri, kullanıcı tabanımızın farklı diller seçmesine izin vermesi, aynı zamanda akıllı sözleşmelerin deterministik yürütülmesini sağlamasıdır. Çünkü konteyner tabanlı gibi alternatif yaklaşımlarla ilgili sorunlardan biri, gerçekten iyi tekrarlanabilirliğe (reproducibility) ve iyi yalıtım (isolation) özelliklerine sahip olmamanızdır. Gerçekten güvenilir veri sağlamayı amaçlayan oracle'lardan bahsederken, bu bir sorundur. Bu yüzden deterministik olan, ancak kullanıcıların çözümlerini geliştirmek için kullanabilecekleri daha geniş bir dil çeşitliliğine sahip olmalarına izin veren bir teknoloji kullanmaya karar verdik.
+
+00:26:12 - 00:27:38
+Bu örneğin EVM blok zincirleriyle tezat oluşturuyor, çünkü orada gerçekten çok sınırlı seçenekleriniz var, temelde Solidity ama ek seçenekler de var. Örneğin Rust kullanabilmek, kullanıcılarımızın protokolümüzün üzerine çok daha ilginç çözümler inşa etmesine izin veren temel farklılaştırıcılardan biri olarak görüyoruz. Bu konuda bizi güncellediğin için teşekkürler Peter. Kesinlikle geliştiricilere üzerine inşa etme konusunda verdiği özgürlük çok ilginç.
+
+00:27:39 - 00:28:50
+Bununla birlikte, teknik tarafta şimdiye kadar çok fazla iletişim kurulmamış olsa da, sağlam bir ilerleme olduğunu ve planın gerçekten devam ettiğini duyabildiğiniz bir adıma geçmek istiyorum. İşte bu yüzden bu görüşmenin amacı, sizi biraz daha güncelleyebilmemiz, böylece Discord'da takılırken ne bekleyeceğinizi bilmeniz ve ayrıca Blocksense hakkında tweet atarken veya konuşurken nereye varmak istediğimiz konusunda net bir fikriniz olması. Aramızda olduğunuz için harika.
+
+00:28:15 - 00:29:33
+Peki ya pazarlama ve dış ilişkiler? Çünkü ben de bu pazarlamanın bir parçasıyım ve toplulukla çok fazla etkileşimde bulunmadığımızı fark ettik çünkü çok erken dönemde, özellikle de Türk arkadaşlardan oluşan bu topluluk tarafından keşfedildik - ki hepsi harika insanlar - ve henüz başlamamız gereken işlerden önce yapılması gereken tüm işleri geliştiriyorduk. Ama şimdi hazırlanıyoruz. Pazarlama tarafında, bazılarınızın fark ettiği gibi, bu sürece yardımcı olacak yeni işe alımlarımız oldu.
+
+00:28:53 - 00:30:09
+Ayrıca ekibimizde, projelerle işbirliği yapma sürecine ve en iyi şekilde nasıl işbirliği yapabileceğimize yardımcı olacak yeni BD (İş Geliştirme) insanlarımız var. Ve pazarlama tarafında üzerinde çalıştığımız şey gerçekten neredeyse bitti, bugün neredeyse hazırdı. Bu, bir davet kampanyası. Yani, önümüzdeki hafta, gelecek hafta bir zaman bunu göreceksiniz, bunun için bizi izlemeye devam edin. Temel olarak, arkadaşlarınızı buraya davet etmek ve bu, size gelecekte,
+
+00:29:32 - 00:30:54
+şimdi bahsetmek istemediğim bazı harika şeylerle ödüllendirilme fırsatı verecek. Devam eden bazı ortaklıklarınız olup olmadığını merak ediyorum, açıklayabileceğimiz. Biliyorum ki son zamanlarda Donanım Hızlandırıcılarla bazı görüşmelerimiz oldu ve bu duyuruları kaçıranlar için orada neler var? Tabii. Çünkü Blocksense, bu ZK devriminde öncülerden biri olmalı ve kendi ekibimizin ZK devreleri söz konusu olduğunda sınırları zorlama konusunda bir geçmişi var.
+
+00:30:13 - 00:31:32
+ZK kanıtları üretmek için mevcut Donanım Çözümlerini veya yazılım çözümlerini iyileştirmeye çalışan şirketlerin çoğuyla çalışıyoruz. Muhtemelen yakın zamanda cicl Access programının bir parçası olduğumuz gerçeğine atıfta bulunuyorsunuz. Ama aynı zamanda görüştüğümüz bir dizi başka ortaklığımız da var. Bence en heyecan verici ortaklıklar, Blocksense'ı yakın gelecekte production'a (canlı ağa) koymayı planlayan protokollerle yapılanlar.
+
+00:30:53 - 00:32:08
+Bu noktada herhangi bir ayrıntıyı açıklamazdım ama hızlandırılmış yol haritasını benimsememizin nedenlerinden biri de bu. Çünkü görünen o ki, insanların keyfi veri akışları oluşturmasına izin verdiğinizde, protokolümüzün yeteneklerinden gerçekten yararlanabilecek projeler var. Yani bunlar, protokolümüzün yeteneklerini kullanmayı dört gözle bekleyen projeler. Evet, bunu gündeme getirmek istedim çünkü bence insanların burada duyması ilginç.
+
+00:31:30 - 00:32:47
+Zamanın çok ilerlediğini görüyorum ve görüşmeden önce sorulmuş sorularımız var. Eğer devam edersem, sorulara geçeceğim ve sonra sohbette, duyduğunuz konuşmaya dayalı olarak veya önceden sorularınız olup olmadığını kontrol edeceğim. Belki bizimle ilgili öğrenmek istediğiniz, net bir cevap alamadığınız veya her neyse bir şeyler vardı. Bu yüzden Twitter üzerinden gelen ilk soruya geçeceğim. Soru şu: Rakiplerinizden daha düşük fiyata oracle hizmeti sunmayı nasıl başardınız? Bunun için herhangi bir şeyden fedakarlık etmek zorunda kaldınız mı?
+
+00:32:48 - 00:33:57
+Sanırım bu sorunun en önemli yönüne zaten değindim. Altyapımız, mimarimiz, çok fazla veriyi, tek bir işlemde çok sıkı bir şekilde paketlenmiş olarak yayınlıyoruz ve maliyet tasarrufunun çoğu buradan geliyor. Şahsen bunun herhangi bir dezavantajla geldiğini düşünmüyorum, hatta daha fazla avantajla geliyor çünkü bireysel güncellemeleri ayrı işlemler olarak yayınlarken, dahil edilme (inclusion) gibi şeyler konusunda endişelenmeniz gerekir.
+
+00:33:22 - 00:34:50
+Belki bazı işlemleriniz bloklara dahil edilmek için yeterli ücreti (fee) ödemiyor olabilir, belki sıra dışı dahil edilebilirler. Oysa büyük işlemlerimiz, blok üreticileri açısından çok "juicy" (cazip) olduğu için çok daha hızlı bir şekilde dahil edilmeleri ve daha tahmin edilebilir bir zamanlama ve dahil edilme sırası oluşturmaları muhtemeldir. Blocksense protokolünün dezavantajı, muhtemelen en belirgin olanı, ZK devreleri tamamen geliştirildikten sonra,
+
+00:34:06 - 00:35:16
+ZK kanıt oluşturma sürecinin getirdiği gecikme (latency) konusunda dikkatli oluyoruz. Bu yüzden protokolü, işi mümkün olduğunca geniş bir eşler arası (peer-to-peer) ağa yayabilmesi için çok dikkatli bir şekilde tasarlıyoruz, burada işin çoğu paralel olarak yapılıyor. Ama nihayetinde, paralel olarak yapılması zor olan bazı adımlar var ve en iyi olası çözümleri araştırıyoruz, gecikmeyi mümkün olduğunca düşük seviyeye getirmek için.
+
+00:34:41 - 00:36:05
+İşte bu donanım satıcılarıyla ortaklıklar buradan geliyor. Ve stratejimizde de benzersiz bir şey olduğuna inanıyoruz çünkü ekip içinde çok fazla derleyici (compiler) uzmanlığımız var. Bahsettiğim gibi, yıllardır derleyiciler üzerinde çalışıyorum. Noir derleyicisi için özel bir backend (arka uç) geliştirdiğimiz benzersiz bir yaklaşımımız var. Noir, sıfır bilgi devreleri için önde gelen DSL'lerden (Domain Specific Language - Etki Alanına Özgü Dil) biridir.
+
+00:35:23 - 00:36:52
+Bu, yüksek seviyeli Noir kodumuzu kullanmamıza izin veriyor, ancak yüksek seviyeli Noir kodumuzu bir kez yazıp, ortaya çıktıkça farklı kanıtlama sistemlerine veya farklı donanım çözümlerine yeniden hedefleyebiliriz. Çünkü sıfır bilgi (ZK) manzarası hala çok hızlı evrim geçiriyor ve bundan bir yıl sonra, Blocksense protokolü bağlamında önemli bir avantaj sağlayabilecek yeni bir kanıtlama sistemi veya yeni bir donanım çözümü çıkarsa şaşırmam.
+
+00:36:08 - 00:37:27
+Ve eğer sadece derleyici için bir backend uygulayarak ve ardından mevcut tüm kodumuzu kullanarak ondan yararlanabileceksek, bu oldukça benzersiz bir yaklaşım diyebilirim. Yakında yazılım yığınımız (tech stack) hakkında daha fazla bilgi yayınlayacağız. Buna benzer çok heyecan verici geliştirici araçları geliştirdiğimizi düşünüyorum, örneğin Noir programları için çok gelişmiş bir hata ayıklayıcı (debugger) yayınlayacağız. Sadece bizi izlemeye devam edin. Harika, tamam. İkinci soruya geçelim.
+
+00:36:48 - 00:38:10
+Sanırım bu kişi gerçekten çok iyi bir cevap aldı, söyleyecek çok şeyiniz var, Blocksense ile gizlenecek bir şey yok. Şöyle bir cümleniz var: "Herkes, fon stake ederek ve otomatikleştirilmiş bir oracle düğümü işleterek bir veri sağlayıcısı olabilir." Sistem gereksinimleri hakkında bize biraz daha bilgi verebilir misiniz? Protokolün tasarımındaki bir diğer dikkatli düşünce şu ki, Blocksense'ı sadece bir veri raporlama protokolü olarak görmüyoruz, onu bir hesaplama ağı (compute network) olarak görüyoruz.
+
+00:37:28 - 00:38:35
+Buradaki argüman oldukça karmaşık ama hızlı bir versiyonunu vermeye çalışacağım. Temelde, bilgi işlem kaynaklarınızı sattığınızda, Google Cloud, Amazon AWS servisleri gibi geleneksel tekliflerle rekabet etmek zorundasınız. Ve nihayetinde bu, bilgi işlem için ne kadar ücret alabileceğinize bir sınır koyar. Buradaki hakim iyimser görüş, insanların evlerinde, diyelim ki kişisel bilgisayarlarında çok fazla boşta bilgi işlem gücü olduğu ve bu boşta kalan bilgi işlem gücünü,
+
+00:38:02 - 00:39:20
+aksi takdirde bu bilgi işlem gücünün boşa gideceği öncülüyle, bu Teknik Devi'lerin fiyat noktalarından daha düşük fiyat noktalarında satmaya istekli olacaklarıdır. Donanımı zaten satın aldıysanız, boştaysa, ondan biraz para kazanma fırsatını kaçırıyorsunuz demektir. Ancak sorun şu ki, her zaman ne kadar ücret alabileceğiniz konusunda bu sert tavanınız var çünkü çok fazla ücret alırsanız, doğal olarak hiç kimse sizden bilgisayar kiralamak istemez çünkü eninde sonunda,
+
+00:38:40 - 00:40:17
+bu pazardaki alıcıların rasyonel olmasını beklemeliyiz. Ancak veri raporlamada biraz farklı bir hikaye var çünkü örneğin bir borç verme protokolü için bir fiyat beslemesi raporladığınızda, fiyat noktası güncellemesini göndermek için gereken hesaplama çok yüksek değildir. Veriyi elde etmek için ağ üzerinden birkaç kilobayt veri göndermeniz birkaç milisaniye sürebilir ve sonra onu zincire yüklersiniz. Ama yarattığınız değer, hesaplamanın kendisi değil, bu gerçeğin doğruluğunun tesis edilmesidir.
+
+00:39:29 - 00:40:49
+Yani, zincir üzerindeki DeFi protokolüyle etkileşime giren tüm insanların, hiç kimsenin veriyi manipüle edemeyeceği, zamanında yayınlandığı ve doğru olduğu garantisine sahip olmaları ve hiç kimsenin kullanıcıyı kandıramayacağı veya protokol üzerinde herhangi bir manipülasyon yapamayacağı garantisi. Buradaki öncül, zincirdeki verinin tüketicilerinin, bu raporlamayı, gerçek hesaplama maliyetinden çok daha yüksek ödüllendirmeye istekli olmaları gerektiğidir.
+
+00:40:09 - 00:41:34
+Evet, bu, Blocksense protokolüne veri muhabiri olarak katılan kullanıcıların çok yüksek yatırım getirisi (ROI) elde etmeleri gerektiği anlamına geliyor. Ancak bir noktada, bu getiri çok yüksek olduğu için, birçok insanın katılmak isteyeceğini tahmin ediyoruz. Yani bir noktada, raporlama talebi doygunluğa ulaşacak, düğümünüzün o kadar çok görevi olmayacak, bu yüzden bir sonraki veri raporlama görevi için boşta beklemeye başlayacak.
+
+00:40:51 - 00:42:10
+Ancak Blocksense'taki tüm düğüm operatörlerinin perspektifinden, gerçekten yaptıkları şey, bize hesaplama kaynaklarını veriyorlar ve diyorlar ki: "Tamam, hesaplama kaynaklarımı mümkün olduğunca çok para kazanmak için kullanabilir miyim?" Mümkün olan en az sorunlu şekilde. Ama bu doğal olarak bize aynı sorunu veriyor: Blocksense Ağı'ndaki operatörlerin bu boş gücünü, veri raporlamanın yanı sıra onlara ek kârlar kazandırmak için nasıl kullanacağız?
+
+00:41:31 - 00:42:44
+Bu yüzden Blocksense Ağı'nı, 3B renderlama, AI eğitimi, toplu işlem (batch processing) gibi diğer bilgi işlem iş yükleri için açtık - her türlü geleneksel bilgi işlem iş yükü. Buradaki öncül şu: Zamanınızın %10'unda çok yüksek kâr marjıyla veri raporlaması yapıyorsanız ve zamanınızın %90'ında saf bilgi işlem görevleri yapıyorsanız, toplam kâr, %100 bilgi işlem görevi yapan bir rakibinkinden daha yüksek olmalıdır, çünkü veri raporlaması yaptığınız %10'luk kısım size daha yüksek kâr getiriyor.
+
+00:42:07 - 00:43:30
+Bu, Blocksense protokolünü, bilgi işlem altyapılarından mümkün olduğunca çok kâr elde etmeyi hedefleyen herkes için oldukça çekici hale getirmeli. Bunu mümkün kılmak için, Blocksense protokolünde stake etmeyi (staking) hesaplama kapasitesinden ayırdık. Çok miktarda stake'iniz varsa, bu, protokole kaç bilgisayar getireceğinizi sınırlamaz. Daha fazla bilgisayar getirebilirsiniz ve bu sadece, size protokolde daha fazla görev verileceği anlamına gelir: daha fazla hesaplama görevi, daha fazla raporlama görevi vb.
+
+00:42:49 - 00:44:20
+Ve bu aynı zamanda, görevlerin gerçekten bilgi işlem gücünüzle ölçeklendiği anlamına gelir. Örneğin, çok güçlü olmayan bir bilgisayar, diyelim ki bir Raspberry Pi bağlarsanız, kendi kendini düzenler, daha az sayıda raporlama görevi ve hesaplama görevi kabul eder, böylece Raspberry Pi'nin gücüne uyarlar. Ve sonra 6 GPU'lu bir threadripper takarsanız, yine protokol, donanımınızdan tam olarak yararlanmak için iş yüklerinizi, görevlerinizi otomatik olarak ayarlayacaktır.
+
+00:43:34 - 00:44:54
+Donanım gereksinimleri sorusuna ekleyemeyeceğim bir şey, düğüm operatörlerinin, düğümlerinin özellikle desteklediği farklı yetenekleri belirtebilmelerini aktif olarak araştırıyor olmamız. Bu, ağın onlara atayacağı bilgi işlem işi türlerini belirleyecek. Gizli anlaşma direnci (collusion resistance) ve gizli oylama (secret voting) ihtiyacı nedeniyle güçlü bir rastgelelik (randomness) unsuru olmasına rağmen, her blok zinciri ağı için, ağın düğüm operatörlerine koyduğu gereksinimler ile merkeziyetsizlik arasında doğal bir trade-off (ödünleşim) olduğunu anlıyoruz.
+
+00:44:15 - 00:45:43
+Ne kadar fazla gereksiniminiz olursa, doğal olarak ağ daha yüksek performansa sahip olabilir. Tipik olarak saniyedeki işlem (TPS) gibi terimler duyarsınız. Ancak ne kadar fazla gereksiniminiz olursa, o kadar az merkeziyetsizliğiniz olur. Yani bu ikisi arasında doğal bir trade-off var. Düğüm operatörlerinin, ortaya çıkarmak istedikleri yetenek türlerine kendilerinin karar vermesine izin vererek, katılabilecek düğüm operatörü türlerinin sayısına daha fazla çeşitlilik verebileceğimize inanıyoruz.
+
+00:44:58 - 00:46:16
+Bu yüzden, hobi düğüm operatörlerinden profesyonel düğüm servis şirketlerine kadar herkesin katılmasını bekliyoruz ve her birinin ağ kapasitesine anlamlı bir katkısı olacak. Pekala, eklediğin için teşekkürler Peter. Burada duyduğum şey, Blocksense'ın sistemin her unsurunda çok fazla düşünce süreci ve optimizasyon olduğu, böylece bu çok verimli sisteme sahip olabileceğimiz.
+
+00:45:37 - 00:46:54
+Twitter'daki bir topluluk üyesi tarafından gündeme getirilen son soru şöyle: "Sosyal itibar (social reputation) şeyini pek anlamıyorum. Bu, daha yüksek itibara sahip operatörün her zaman diğerlerine hakim olacağı anlamına mı geliyor?" Bu konuda ne söylemek istersiniz? Öncelikle, sosyal itibar bazı diğer fikirlerimiz kadar tam olarak geliştirilmiş değil, yine daha çok arzulanan bir hedef, sanırım. Ama bunun doğru olması gerekmediğine inanıyorum.
+
+00:46:16 - 00:47:41
+Kimliklerini açıklayan operatörlerin bir şekilde teşvik edilmesini istiyoruz ve sosyal itibarın ilk etapta nasıl çalıştığına dair kısa bir özet vereceğim. Buradaki öncül, sosyal itibarı kriptoekonomik güvenliğin üzerine koyarak protokolün güvenliğini artırabileceğimizdir. Çünkü şu anda oracle endüstrisine bakarsanız, tamamen sosyal itibar üzerinden işliyor. Yani bir grup şirket isimlerini söylüyor ve temelde, herhangi bir gerçek parasal risk (monetary skin in the game) olmadan kötü niyetli davranmayacaklarına söz veriyor.
+
+00:46:58 - 00:48:21
+Ve bir dereceye kadar sosyal itibarın değeri var, bu gerçeği kabul ediyoruz ve onu harmanlayarak, protokole yönelik olası kriptoekonomik saldırılar için çıtayı yükselteceğiz. Çünkü merkeziyetsiz bir protokol olarak, geleneksel %51 saldırısına karşı savunmasıız ve yerel stake etmeyi (native staking) kullanarak bu seviyeyi umarız çok yüksek bir seviyeye çıkaracağız. Sosyal itibarı bunun üzerine koyarak, %51 saldırısı belki %80 veya %90 saldırısına dönüşecek.
+
+00:47:40 - 00:49:12
+Bunun çalışma şekli, Blocksense'taki büyük pay sahiplerinin kimliklerini açıklayabilmeleri ve ardından veri akışlarının kullanıcılarının, yani Blocksense ağı tarafından üretilen veriyi tüketen gerçek DeFi protokollerinin, krediler veya puanlar diyebileceğimiz bir şey kazanmaları olacak. Bu kredileri, kimliklerini açıklamış operatörlere olan güvenlerini devretmek için kullanabilirler ve bu, oylama sürecinde bu operatörlerin etkisini artırır.
+
+00:48:26 - 00:49:54
+Yani, eğer sistemde çok sayıda büyük, itibarlı operatör isimlerini ortaya koymuşsa ve sistemin kullanıcıları güvenlerini onlara devretmişse, bu, herhangi bir kötü niyetli saldırgan için, tüm bu sosyal güvenin oyunculara yüklediği etkinin üstesinden gelmek zorunda kalacağınız anlamına gelir. Şimdi, kamuya açık operatörlerin finansal teşviklerle çok güçlü bir şekilde teşvik edilmesi gerektiğine inanmıyoruz. Açıkçası, onlara bu vizyona katılmaları için bir neden vermek için bazı finansal teşvikler olmalı.
+
+00:49:09 - 00:50:29
+Ancak diğer taraftan, onlar zaten Blocksense protokolünde pay sahibi oldukları için, protokolün başarısıyla zaten çok uyumlular. Yani onların bunu özverili bir şekilde yapacaklarını neredeyse bekleyebilirsiniz ve onlar için finansal teşvikleri çok artırmak zorunda kalmayız. Bu yüzden sadece çok çok küçük bir prim yeterli olacaktır. Büyük olasılıkla, bu parametreler protokol içindeki bir tür yönetişim (governance) mekanizmasına tabi olacak ve zaman içinde, ağ en sağlıklı şekilde işleyecek şekilde onları ayarlayacağız.
+
+00:49:50 - 00:51:11
+Pekala, Zakari için takip eden bir soru: Bunu bir delegeli proof-of-stake (DPoS) sistemi olarak özetlemek doğru olur mu ve bu tasarımı diğer L1 veya L2 zincirlerindeki delegeli proof-of-stake ile nasıl karşılaştırırsınız? Benzer işlem türleri olduğu için benzer olduğunu savunabilirsiniz, ama bence çok yeni bir fikrimiz var: Protokolün kullanıcıları, bu sosyal itibar katmanında kullanabilecekleri bu tür kredileri havadan (out of the air) kazanıyorlar.
+
+00:50:30 - 00:51:48
+Evet, delegeli proof-of-stake'ta hala piyasadan elde ettiğiniz fonları stake ediyorsunuz veya benzeri bir şey yapıyorsunuz, oysa burada, protokolün kullanıcısı olarak bu sosyal puanları kazanıyorsunuz, yani biraz farklı. Evet, yani düğüm operatörlerinin stake'lerini devredebilmelerinin aksine, aslında çok daha fazla riske maruz kalan, veriye güvenen kullanıcılar var. Evet, bu, kullanıcıların risk altında olanlar olduğu bariz gerçeğine dayanıyor.
+
+00:51:09 - 00:52:25
+Evet, onlar için protokolün son derece güvence altına alınmış olmasını sağlamak en önemli olduğu için, onlara bu küratörlük mekanizmasını, yani "Tamam, bu operatör şüpheli görünüyor veya bu operatöre güvenebilirim" gibi kararlar verebilecekleri mekanizmayı emanet etmek mantıklı. Yani ne kadar çok veri akışı tüketirseniz, o kadar çok risk token'ı kazanırsınız - evet, işlem hacmine dayalı ama genel olarak evet, çok iyi.
+
+00:51:47 - 00:53:07
+Konuşmaların nasıl döndüğünü gerçekten beğendim. Beyler sadece gün içinde tartışmaya fırsat bulamadıkları şeyleri tartışarak eğleniyorlar. Harika. Alam'dan Dad isimli birinin sorusu var, soruyu sohbete yazmış. Beyler, eğer bir sorunuz varsa belki devam edip sorabilirsiniz, ama şimdilik bununla devam edeceğim. "Hangi tür Protokoller (DeFi, Social, Game vb.) Blocksense'ı kullanmaya daha yatkındır?" Sorusu.
+
+00:52:29 - 00:53:38
+Blocksense'ı gerçekten, daha önce bahsettiğim gibi, bir inovasyon platformu olarak görüyoruz. Benim kişisel hayalim, şu anda burada, birisinin Gerçek Dünya'dan veriyi nasıl kullanacağına dair gerçekten iyi bir fikirle geleceği ve bizi şaşırtacak olan son uygulamayı (killer app) hayal bile edemiyoruz. Bu yüzden, Blocksense ile en uyumlu belirli protokoller olduğunu söylemezdim. Platformumuzu çok genel amaçlı olarak değerlendiriyoruz, yani hemen hemen her mevcut Oracle kullanım durumuna hitap edebilir.
+
+00:53:05 - 00:54:27
+Üzerinde çok konuşma fırsatımız olmayan ama Blocksense protokolü içinde oluşturduğunuz bu oracle betikleri, gerçekten keyfi hesaplamalarla ilgili. Örneğin, en son AI modelinin ağırlıklarını indiren bir oracle betiği yazmanızı hiçbir şey engellemez ve ardından oracle betiğinizin bir parçası olarak çıkarım (inference) çalıştırıp, sınıflandırmaları, etiketleri zincire gönderebilirsiniz. Bu, blok zinciri alanında AI'nın akıllı uygulamalarını görmeyi umduğumuz bir dikeydir ve öncü olmaya çalışıyoruz.
+
+00:53:45 - 00:55:09
+Web Assembly tabanlı mimari ve gizli anlaşma / rüşvet direnciyle yaklaşımımızın, bizi aynı yeteneği sağladığını iddia eden diğer bazı protokollerden gerçekten ayırdığına inanıyoruz. Sanırım konumlandırmamızı şöyle özetleyebiliriz: Şu anda, geleneksel oracle sağlayıcılar tarafından yetersiz hizmet alan, zincir dışı veri için çok uzun bir kullanım durumu kuyruğu var.
+
+00:54:26 - 00:56:01
+Bu yüzden, kullanıcılarımızın işi kendi ellerine almalarına (Oracle betikleri yazarak) izin vererek, şimdiye kadar hayal edilmemiş, geliştirilmemiş uygulamaların gerçekten gelişen bir ekosistemini görmeyi umuyoruz. Tıpkı Ethereum ve genel olarak web3 ekosistemiyle birlikte, daha önce hayal edilmemiş yeni uygulamaların patlamasını gördüğümüz gibi. Oracle dünyasına programlanabilirlik getirerek Blocksense'ın da böyle bir inovasyon seviyesi görmesini umuyoruz.
+
+00:55:14 - 00:56:31
+Evet, Peter, bunun için teşekkürler. Bunları gerçekten kapanış konuşmaları olarak adlandırıyorum çünkü gerçekten yapmak istediğimiz şey bu ve merkeziyetsizliğe o kadar çok inandığımızı görmek beni çok mutlu ediyor ki, aslında güçlendirmek için bir şeyler inşa ediyoruz ve gelecekte neler olacağını görmek harika olacak. Bu toplantıdan çıkaracağınız üç ana sonuç nedir? Şimdiye kadar üzerinde çalıştığımız şeyler ve ayrıca gelecek olanlar hakkında çok şey duydunuz.
+
+00:55:53 - 00:57:16
+Bu yüzden kesinlikle yeni duyuruları takip etmek için sosyal kanallarımız Discord ve Twitter'ı takip etmelisiniz. Ayrıca topluluk tarafında bahsettiğim gibi, yaklaşan kampanyalar, dahil olabileceğiniz şeyler var. Aklımda olan, üzerinden geçtiğimizi düşündüğüm şeyler bunlar ve aslında bu tartışmada beklediğimden çok daha fazlası paylaşıldı ve bu fırsata sahip olduğumuz için gerçekten mutluyum. Bir dahaki sefere tekrar bir araya geldiğimizde neler söyleyeceğimizi görelim.
+
+00:56:34 - 00:57:51
+O zamana kadar sosyal medyada bizimle iletişimde kalabilir ve bize herhangi bir soru sorabilirsiniz. Ayrıca, bağlantılarınızın olduğu protokollerle tanıştırmalar yapabilir veya Blocksense üzerinde çalışmak isteyecek geliştiricilere projeyi tanıtabilirsiniz. Söyleyeceklerim bu kadar ve bugün bu ilk Topluluk Çağrısı'na katıldığınız için herkese teşekkür ederim. Bunun artık bir gerçek olmasından çok mutluyum. Bunu düzenli bir şey haline getirmeli miyiz? Evet, bu süper bir nokta.
+
+00:57:12 - 00:57:57
+Bu ayda bir olmalı. Yani bir araya gelip bugünkü gibi eğleniriz. Bugünkü kurulumumuzla, birkaç görüşmeden sonra eminim çok daha rahat olacağız. Belki yanımıza bazı arkadaşlar davet edip yolculuğumuzu onlarla daha fazla paylaşabiliriz. Evet, kesinlikle. Evet, teşekkürler, teşekkürler beyler. Aramızda olmayan ekip üyelerine de teşekkür etmek istiyorum, bazıları çok uzaklarda, bu yüzden kesinlikler katılamadılar. Ama evet, Blocksense adlı gemide olmak harika bir macera. Uzay, uzay bize ait diyebilirim.
+
+00:57:57
+Bizi izlemeye devam edin çocuklar. Herkese teşekkürler, bize katıldığınız için. Bizden daha fazla güncelleme için bizi izlemeye devam edin. Herkese görüşürüz.

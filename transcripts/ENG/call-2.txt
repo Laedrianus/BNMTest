@@ -1,0 +1,213 @@
+00:00:00 - 00:01:25
+Just in time to start everyone is well positioned in their in their habitual place nice to see you bro also it's actually great to Great to connect in this way also with the community and share this moment together and also the information so thanks so much for organizing this yeah I'm very excited thanks Cho yeah I should I should say sorry to the community that we missed last one but we had really a lot of things going on and yeah just things piling you can see the progress but also much is not
+
+00:00:42 - 00:01:58
+still communicated I would say so let's let's try to bring more light in what what the team is doing okay I look at my agenda of course I mean everyone need to have an agenda but let's let's first for those who don't know the team and those that are now with us let's make a quick intro I start myself I'm the community lead as you as you might know me crystal I'm happy I've been since day one in this project and I see it growing thanks to your help guys and this wonderful
+
+00:01:21 - 00:02:46
+gentleman join us afterwards but everyone is contributing equally for the success of B sense I'm very happy organizing with u my super friend rail who I see he just joined a lot of community events but I'll jump on this a little bit later and yeah I'll I'll give the word to who whoever who who want to present himself Stan do you want to say a word about you sure let's go chronologically or like at least do how the pictures for me I have the same I have the same line on the screen so it's good we are lined
+
+00:02:03 - 00:03:18
+at least that thing synced right I joined Block sence in April as a software engineer and currently I have a bit of a coordination role helping everybody get on the same track it's very exciting before that I've worked for Google for a while did a PhD and I wear a shirt and a tie because I think it's funny as a software engineer to be overdressed so here we are yeah tan is definitely killing it in the office when everybody sees him he's so serious this is I I love to see him
+
+00:02:40 - 00:03:59
+this way well for we also had great fun with him in his in stano when we went for the istan blockchain week she was in theit Dancing with the suit in front of everyone like presenting blo s of course we guys do everything for blo S you should know this we are very committed yeah perfect so we let's let's go yeah let's go this way let's go this way Magnus what about you it's me I guess actually actually the squares are that way for me as well so I guess it's for everyone not for me but good thing you
+
+00:03:22 - 00:04:49
+guys are aligned yeah well it's you you joined late maybe should have been ready Martin should have been ready kidding yeah hey everyone really nice to to be here Magnus I'm head of product joined this amazing team at the start of summer this year and before that I've spent three years in the decentralized identity space working on problems like creating privacy preserving AI assistance and reusable kyc did a long s at Amazon before that so I haven't been in web 3 for too long
+
+00:04:07 - 00:05:26
+yet but not too short either and yeah I'm originally from the country of England although I'm based in Berlin I don't know if that's relevant or if I'm giving away too much information about myself but here we go it's a brand new world yeah is it information or disinformation maybe you're just telling us that I use a VPN so you won't be able to tell from my IP great man great leave the oversharing there then we are fully dogs Team bro so there's no no worries like no one is no one I
+
+00:04:52 - 00:06:13
+mean we're all proud I mean I'm proud of what we're doing so why why why hide my face we spent so many hours hiding our face in front of the screen so now it's opportunity we also get to chat with the community and to see how is everyone doing so that's great and yeah let's move to Martin I I don't know where where he is but on my screen he's here hey guys good to see the community here U see a lot of familiar profile pictures here hey T neck Z sard Jack hey Ivan or Ivan I should say so
+
+00:05:35 - 00:06:51
+thanks for joining name is Martin my background is building technology companies so I've been doing this for 12 years so build and sell a natural language processing machine Learning Company in the mid 2010s which was a wild ride I consult a couple of VC companies that are friends like their portfolio businesses and the most recent thing I was doing before a blockchain context was a former CFO of Docker so if you work in Tech I wish people could raise their hands how many people actually are Engineers or
+
+00:06:12 - 00:07:21
+developers if you work in Tech you probably know what Docker is so former CFO of Docker started a new startup raised 5 million from a drawn Adventure so I held them build go to market I'm in Block sense and I'm having the most fun I've had working and I didn't know I could consistently do 12 hour work days and still kind of end the day with Good Vibes so this is an amazing team and it's a big mission so building technology companies for 12 years I now I have the luxury of not
+
+00:06:47 - 00:07:48
+getting a job just to have a job I'm super fortunate to have that but I feel that here you have amazing people you have a big vision and this whole thing is coming together and you guys are making it happen in the community and these guys on the call making happen so it's just a very exciting time and a very exciting context I think it's a good kind of high level overview Magnus was saying we shouldn't overshare but I think at some point maybe not on this community call we could do a two truths and a lie
+
+00:07:17 - 00:08:44
+or something just to share more about ourselves yeah maybe it's the S sandwich approach yeah we could do that I'm I'm actually really looking forward having those calls regularly like once a month to keep it up this way and to have this level of emotion of excitement I was really like excited about joining the call last time we were all sitting in the office really seriously with the founders with the cameras pointing on us now everyone is from the comforter his home or office I see you
+
+00:08:02 - 00:09:25
+yeah yes some some of us are fortunate we can work from home which which adds to what Martin said you 12 hours a day but it's including the weekends right so yeah let this is what is required now to make this happen because we have competitive market and edges on delivering on time quality stuff so yeah I want to jump in the agenda that I kind of hijacked just by willing to present everyone and to say what we're going to be speaking to today we're going to go through some project
+
+00:08:44 - 00:10:03
+updates what happened since our last call of course many of you maybe followed some news but you you might have missed some some of the big announcements so I'm happy we go over it again and what events I mean those those are updates are kind of events very important for us also the community stuff what we're doing in the community what we're planning to do what are the successful things we can we mark this time almost two months now I'll say also on the side of the marketing and then we'll jump on
+
+00:09:23 - 00:10:40
+quick questions from your side guys if you have some if you want to clarify something after this conversation to know what's going on and I I jump with the the significant events that happened that are very important that we allow us to to continue working so dedicatedly one one of them is the fundraising I'd like Martin is the one that is mostly involved with this and he's very close to the founders also being in New York so can you share a little bit more like why why this is so important what's
+
+00:10:02 - 00:11:05
+happening there and what's going on in the space sorry I I move I moved the agenda at the last moment but I hope you're good you're good so when did we we hold we held the last meeting with the last Community call it was before we actually did the fund raise right or well before we announced the fund raise so I think I I imagine most of the people who are actually on here have learned about this already if you you haven't that's going to be a pleasant surprise but we announced a 4 million
+
+00:10:33 - 00:11:47
+raise seed funding so kind of in this group we had secured this funding a while ago it was kind of a strategic decision to announce it now and even actually before I came into the team there was already a lot of demand so there were literally people knocking on the founders doors to put more money in so it was a strategic decision to keep the initial r at this cap if you actually look at the raise amount of course I can disclose the valuation on that raise but if you look at the raise amount in
+
+00:11:10 - 00:12:30
+the context of our operation I think block senses on the upper end of projects based on the raise and what percentage that raise amount is from the business especially at this stage so there's a lot of appetite from investors and there has been a lot of appetite even before we announced the raise now that we announced the raise and this kind of leads into the demo day there's people getting in touch with us on a dailyweekly basis so we become this no name in a ZK and Oracle context and that's really cool to see
+
+00:11:51 - 00:13:05
+because we're just starting you may know that I don't know how familiar you guys are on the community side about this but we have a very very capable technical team so the founder that was on the last Community called zahari he was one of the co-creators of the Nim programming language so I feel that in the space you have one of two camps you either have teams that are really deep research focused and these teams don't necessarily have like the best social presence and then you have people that Meme super hard and are
+
+00:12:26 - 00:13:43
+really Community Driven so you guys are super both lucky to be here and we're lucky to have you because of you being part of this kind of incredibly capable technical team and this research driven organization so even though we've been more low-key there was a lot of attention on us even before we did the fundraise and now there's even more so we announced the fund raise a month ago that 4 million raise and we joined the a16s at crypto CSX accelerator if you guys want to learn more about the other
+
+00:13:06 - 00:14:11
+companies you can actually pull this up so you can search for CSX fall 2024 there's some really really good themes there it's 21 companies so I don't know how most of you ended up on in the community but this might inspire you or give you some insight into other projects that are worth following there is definitely a lot of attention both from an investor perspective in and in the space in General on ZK Tech I feel more now than say a year ago and the last point is on Friday I'm
+
+00:13:38 - 00:14:41
+flying off to New York so I'll be with the founding team and we'll be doing a demo day so you have investors if you're basically a crypto investor that matters and you're in New York on Friday and a lot of people are flying there you're going to be there and people are going to hear the block sense founding team do their presentation so this is a very kind of exciting time and yeah these are the updates I wanted to bring in so the fundraise announcement from last month I
+
+00:14:10 - 00:15:32
+was joining the a16 at accelerator and a16 at crypto CSX accelerator and giving you some info on the other companies so again it's CSX fall 2024 and demo day is literally next week on Thursday so a week from now yeah thank you Martin it's important to notice I mean Martin put it in a pretty good way of course but it's not just that we got the race and we beged someone for money but we had very good companies and funds support us so this is really showing much of the recognition of what the promise of block
+
+00:14:50 - 00:16:14
+sense is and speaking about the promise and where we are now I'd like to jump to Magnus to see what what is the overview of what we achieved since last time that we are so proud of if you can tell us a little bit more I'll switch out the light here yeah so things are really getting going in the build and we are really excited to have made some serious progress since the last call we're now we've got contracts live on 18 different test Nets on evm chains we are moving towards svm chains
+
+00:15:33 - 00:17:04
+later this year and move VM next year we have been pursuing very hard Partnerships with some of the top l1s and l2s that are coming out this cycle especially newer ones which you all will have heard of but also some of the larger existing players and what we kind of proposing to those guys is our first our first product so we see this in phases our first product is essentially a chain link replacement which a lot of you know we have this kind of playful relationship with chain link and
+
+00:16:18 - 00:17:26
+got the chain link Marines well we're the Pirates and in a way what we're trying to do is bring our pirate ships to the game that chain link plays and disrupt it right and so we've built a product that is dead easy to migrate to if you've ever worked with chain link before because the interfaces are identical and you can you can have access to the same data feeds same price feeds that you would get on chain link but we're much faster to on board to chains and so whereas with your chain
+
+00:16:52 - 00:18:00
+link it may take you six months or a year as an L1 or L2 to get them on to get them on and very large deal size we do that in you know I mean in cases we we're launching on the test night on the same day as as we have the call with that chain so we try to massively reduce the barrier to entry of getting Oracle data on any on any new chain and that's going to be very disruptive in the build we're we're ironing out the final bits to be able to publish data both on
+
+00:17:26 - 00:18:48
+those test Nets and eventually main net as get to the end of the year so the team is yeah putting the finishing touches on the Node software the ability for us to publish the data with our sequencer and We've we've actually been testing this out live in the last couple of weeks we've done two different hackathons one in East sofhia and one in London at in code London last weekend they've been super fun it's been the first first chance for real developers to kind of get their hands on
+
+00:18:07 - 00:19:16
+the on the product and try it out and the feedback has been been good so far so we had several teams actually hacking in those hackathons building some really interesting use cases I think the key takeaway for me from those hackathons is the creativity that this unlocks so you heard me just now kind of make a comparison to an ex exting Oracle Network and and everything that it can do I think what's really cool about what we're building is the the use cases that it unlocks with our permissionless
+
+00:18:42 - 00:19:54
+SDK people can just build their own Oracle scripts and that's a huge enabler for for dat Builders because previously where previously you would only be able to get some limited price data on chain now any data that's available from an API you can just script that in an oracle script and our network will kind of do the rest and so we saw use cases around weather and flight tracking data to create like prediction Market insurances and so
+
+00:19:18 - 00:20:25
+you can actually bet on the insurance claims of of flights that are in progress similarly for like a the agricultural sector using weather data to to address claims and so these are really interesting funky use cases that you you just can't do with other oracles you would just have to sort of do the work yourself to bring that data online and that's not really a good option on chain you really want to go through an oracle to make it decentralized and secure and so
+
+00:19:51 - 00:20:58
+they're really fired of the team knowing that you know there's there's demand for these different use cases and more creativity that we can bring to the space yeah I think like as I said we're we're building this in phases and so initially we have those price feeds and we're working with some some really cool projects as as our distribution partners and they're introducing us to their ecosystems and we are we've already got multiple different projects
+
+00:20:25 - 00:21:29
+who are asking for custom data feeds to be built and and helping them to create those I could probably go on a lot longer I don't want to take too much time yes there's so there's just so many different things that we're working on right now that I that I find really interesting but I try to keep it keep it focused on the you know like what's happening right now but the the the kind of long and the short of it is we're getting everything launched on test Nets and we'll be on the first main
+
+00:20:56 - 00:22:23
+Nets towards the end of this year and you'll see us kind of expanding to to many more chains from there Stan thank you thank you magnos to also add there yeah you want you you want to go outstand but I take on my role of managing the co and I wanna just say that it's great to see the truction of what we what the technical team is achieving and those guys are working really hard you can you can see them like crash crashing the Cod and I mean what what has been achieved in this
+
+00:21:39 - 00:23:03
+short time now it's great and what is the technology behind and what are the challenges also and maybe stun can can share a little bit more I was hoping that I cover the topics that M was covered now it's slightly different but that's fine yeah let me see where you can always you can always add your perspective on things because we have multiple perspectives that's why we get together and speak about things and try to see how we can like really improve stuff right so
+
+00:22:25 - 00:23:36
+if you have something to add on the H on the hackaton because you are there also and helping the teams and setting up the whole thing you can also share this information I think it's it's the most important thing here that we're doing in this go is share with the community because I let's be honest those guys are real the real deal I mean I love you all guys because you you are with us supporting us since day one and you don't really know what's behind the scenes we are really motivated to to
+
+00:23:00 - 00:24:14
+bring this incredible technology but you just sense that there's something in there so that's why maybe the B box Community is the sensors or the Pirates we can we can go for it but and I'm so happy we we we share this information that we have like what we are building and it obviously takes time because this is yeah it's Challen challenging thing to do like we're the Forefront of Technology developing absolutely like no no Technologies so but let's St share more from technical perspective and his
+
+00:23:37 - 00:24:47
+own experience about the process so far of course I just want to agree with both of you guys and mostly wanted to speak about the hackathon it's things that Magnus already said we saw a lot of people that are very excited about technology and this is what you're saying Christo as well is the same thing right the community it's the community here and the community that we meet in person it's the same Community right and some are Builders some are just the fans and this is the thing that really keeps us
+
+00:24:12 - 00:25:23
+motivated and in the weeks building up to the hackathon just you could feel in the office all this energy of people wanting to come together you know and have something that we can really be proud of when we give it to people to build things with and I think we there's no at least within the team there's no doubt about it that we actually managed to get to a point that we're happy with and we thanks to this we saw some interesting ideas built on top of the Technologies we're
+
+00:24:48 - 00:26:03
+developing and the stuff that Magnus mentioned again yeah the thing about the prediction Market on flight tickets was really out there but it's actually great like new idea that that's why we need the diversity of the community to come up with this these ideas that's why it's so cool I'm not sure how like important is to go in depth about the technology we have interesting things the way we make the whole thing work is that one thing we can drop as a you know just as a buzz word is we use web
+
+00:25:25 - 00:26:42
+assembly so even though at the moment this kind of just with the setup we have it means that we need to use rust as the programming language this is not Blocker in any way and just today I was in a meeting when people were I seeti even though he's in the audience he's a a member of the team so I'm calling him out he we just discussed about him working on assembly script to write wasm apps with rather than R just to keep building on these capabilities of the things that can be built with our
+
+00:26:04 - 00:27:23
+stuff and to reach to a broader community of developers that we want to take on board so again we just trying to make it as easy as possible to use and also as useful to as many people as possible which is why we develop we're deploying to all of these networks and at the moment we're test that face you know still kind of final steps there and hoping to get to Main net as soon as possible whenever that is thank you Stan the the good thing the crazy time is that we have this super complex
+
+00:26:44 - 00:28:12
+technology that we make super easy to use super developer friendly and what you both mentioned we are just starting and being surprised by the use cases that the developers come up with we that's that's the magic of this technology right if we just sit all together as a team we might not come up with so amazing ideas and seeing this being used by great developers around the world and really having their idea come to fruition in within few hours or few days like what's happening on the hackaton
+
+00:27:27 - 00:28:54
+it's it's really amazing right super absolutely thank you thank you guys I mean I unless you want to add something I can share a little bit update and everyone knows maybe in the community but I'm super happy with what we have achieved since the last call the community Grew From near 3,000 people to now like almost 15,000 people I don't say that's Soo much because I think we we blow the 50,000 and 100,000 and 150,000 very easily it just our effort is more like to attract
+
+00:28:11 - 00:29:17
+quality members and developers and that's that's where most of the focus is sorry to interrupt just I just wanted to say that's one thing that really impresses me because I'm not a community expert like you Christo but I really notice that you make a lot of effort to make sure there's no Bots or no people that spam or anything like that so this 15,000 really is like an achievement right because actually we make it what you said we make it so hard that even a real person if it's not motivated can
+
+00:28:44 - 00:29:49
+can drop out of the server and we had this experience with Martin trying to join with the important person and they're just looking how can I get verified what does it mean do I have to speak with this bot now and this is a moment to shout to all the wonderful mods that are always there and responding within 3 minutes of time you guys amazing I see teic here Fox parade you guys really crushing it like what can we do without you it's like really it's so important to have everyone on
+
+00:29:16 - 00:30:32
+board and yeah we a very small funny story there one person from the tech team was finding it very hard to get on the community so that really shows moderation is top not hacking hacking through your way you know we wanted to be motivated and actually ra is doing this all this hard work to to make it possible following best practices what we're trying to achieve those of those of you guys who have been with us since the beginning know that we have implemented many changes and improvements and we are not
+
+00:29:55 - 00:31:09
+stopping we don't say this is a final version we are open for like suggestions and we we try to implement everything as soon as possible so to to have a really nice nice Community one thing that we will do when we grow a little bit more is I'll be very happy to have really active community so those members that are not active we just say goodbye because what's the point of hanging in some Discord Channel if you're not contributing and this is the power of this community that we can share ideas
+
+00:30:32 - 00:31:38
+and also use this technology to build crazy things to support each other I've been saying this from very early days if you scroll the telegram group even before we had this server now we focus all most of our attention here because this is our home base and this is where we can share most of the information the efficient way so yeah we it's true we have real people although some are not so active and I know that they wait for more big news so it's important that we keep up with
+
+00:31:04 - 00:32:16
+those updates and inform the people with the the current development many many actually joined with the invite campaign this is what I wanted to share it was very successful thank you everyone for inviting your friends um those who invite more than 100 people they got the special role congratulations though that invite less than 100 people you're not forgotten we did not communicate but we you're still there you you remain on the list so we have an eye on on every contribution every contributor so you're not
+
+00:31:40 - 00:33:02
+forgotten this is very important to mention another campaign that we had and was very successful also in my regard due to support of many KS also it sometimes happening almost organically because people notice this Pro and something really good to to speak about to their communities we had the interact quest one and I know everyone has been so much asking for quest to and what's happening and we wanted to focus this one more in the docks that we released recently so I want to inform you that after this
+
+00:32:21 - 00:33:37
+call Quest two will start so you can go and check the quiz read the dos and see what's there learn a little bit more about really the specialities out would say and how to how to make sense of this wonderful protocol that we're building so in the community side I would say that that those are the most important things we of course still have in mind the ambassador program it's not forgotten just wait for a better moment when we grow a little bit more the community we are St starting slowly with
+
+00:32:59 - 00:34:20
+growing our local channels and again thanks for everyone that is a moderator in in a local channel this helps a lot to know what is happening in those channels to grow those channels and slowly the motivation is to to get ambassadors in each region each language and people that will represent us all around the world by also physical events also organizing all sort of events we'll we will get to this point this is on the on the road map so yeah this is this is what I can say and most of the things we have done
+
+00:33:39 - 00:35:02
+I mean it seems like wow we said it in in about 40 minutes we could we could share work that is months taking months in preparation but that's most of it I I'm happy to to open now the possibility for some questions of course we can go back and clarify some some of the things that we spoke about you can ask either in the chat or if you feel Brave you can also raise your hand I give you the mic your family I'm happy to hear everyone's voice [Music] also otherwise I look at my agenda to
+
+00:34:22 - 00:35:41
+see if I have some bonus bonus say you're the boss Crystal but I see we haven't mentioned anything about upcoming events like that we attend person I think Martin Martin Martin mentioned quickly about Defcon and maybe he can say a few words why it's so important everyone knows what def is right but what's happening there I mean we also been to toen and we didn't speak about it and toen is great event Martin was there in person we do like to share a little bit more yeah mag thanks
+
+00:35:02 - 00:36:22
+Christo Magnus was also at token in Singapore so it was a very kind of eventful time you I'm from Bulgaria I had my bachelor's degree in the UK I worked in Germany moved to Montreal then to Toronto um before working with bloxs my teams would typically be East Coast West Coast like typically California San Francisco um palalo but then also some teams in Boston Miami so I'm just like from all over the place and my family lives in Dubai it's really cool though because at this space events like this really get people
+
+00:35:42 - 00:36:56
+together from all around the world and you can really connect with folks that are building the coolest deck folks that are connected to the best kind of makers folks are connected to Capital cuz you know you could could build cool stuff but being plugged in and having the relationships and building the relationships and building your reputation with capital holders is important here um token was amazing um it's really funny because at one point through someone that Magnus knows we ended up being invited
+
+00:36:19 - 00:37:37
+to the penthouse at the Mandarin Oriental overlooking the Formula 1 track as the F1 cars were driving around and there you meet people that you know run funds or build some really important and big projects in the space and everybody's just so smart working so hard but they're also so kind so it's just a great kind of vibe and energy booster um I think that this is something that really helps us kind of push through and just keep super high performance going so what's coming up is
+
+00:36:58 - 00:38:17
+devcom so next week I'm going to New York the week after me Magnus Stan as well as gorgi one of the co-founders um and one more engineer um Stefan are going to Defcon if you guys don't know what Defcon is check out devc con.org it's a conference this one happens in Bangkok November 12th to 15th and we are Co we're sponsoring an event there so actually Magnus is going to be giving up talk at an event that we're a modular event and so man got the venue and you've got some really big speakers
+
+00:37:37 - 00:38:45
+from big chains and protocols there um it's really exciting I don't know if any of you guys are going to to to Defcon by any chance if you are please just message anyone on here just message us on Discord um and we'll share we can share an invite link we can also meet up um at other times or tell the other venues that we're going to so it would be really cool to just catch up face to face we're also sharing info on Twitter about the events but seriously just reach out in case you reach out to
+
+00:38:12 - 00:39:21
+someone DM don't go through or you don't your back depending on who you're messaging just do a public ask um in the channel as well because I know everybody's trying to make sure we stay on top of stuff but it's a lot right now especially with demo day coming up so yeah Defcon is going to be exciting and we are pushing to organize more and more hackaton so I think you see a lot more organization um and speaking slots from us as well as prep for events and hackaton in the coming year we're kind
+
+00:38:46 - 00:40:01
+of building this across all functions so everybody's pushing hard very true thank you Martin I wanted to add on this great feeling of the community I've been to few events this year as well the blockchain week in Paris blockchain week and in istano also e Sophia and every time it's hard to warming to to to see those wonderful people in the space um building great stuff and I I really like how everyone is High Caliber I I would say and having great communities and projects but in the same
+
+00:39:24 - 00:40:42
+time really awesome people I also had a chance to hang around with some great great guys some people from PSG some people from bance where we also end up in some in some crazy overlooking Sofia place that I I myself live in Sofia for a few years now and I never seen Sophia for from this perspective it's actually great great experience and one thing that you mentioned that we we did not speak about it's a partnership with Manta it's something that we've been together since
+
+00:40:02 - 00:41:22
+the very beginning because some of you might know that actually Gori he's part of the founding team not founding but one of the first employees of manta so the the very first actually both L1 and L2 he's same like me now I'm in his position I'm the very first employee of BL sense yeah that's that's why I continue carry on so many different different hats I would say since the beginning I do the community V and a little bit marketing and some PM it's actually my day is always full filled
+
+00:40:41 - 00:41:56
+with like different multitasking possibilities i' say it's always great I'm always well entertained I can say yeah and beside besides partner ship what what do you I mean we just didn't announce it but it's pretty important for us right yeah so I don't know how many of the people on the call actually know of and about Manta it's a very smart team building things out there very smart and thoughtful Team U so we're very close with the fing team as well as
+
+00:41:20 - 00:42:26
+honestly people in different parts of the York and this relationship really comes through gki so the Manta Foundation is actually one of the investors in that 4 million round that we closed and because of our existing relationships and just knowledge of the Manta ecosystem this is one of the first places where we're already integrated on testet as of this week wo good job Stan and team and there we're talking to ecosystem projects both existing ones where we could potentially support them
+
+00:41:53 - 00:43:07
+as a fallback or we can create custom feeds for them to expand the protocols or we're talking to well and we're talking to protocols that are looking to come to the Manta ecosystem and we can unlock capabilities through the chain Ling drop and replacement or creating new custom feeds for people so it's a very exciting time I really see the way we think about growth right now from a BD side is engage with these existing networks as well as new chains and do a really good job serving people
+
+00:42:30 - 00:43:35
+and creating like just removing barriers in front of people so create custom feeds help the protocol succeed because if you help the most connected and the most promising protocols succeed on a chain the rest will follow and so that's really the approach and the thinking we're taking with Manta and this partnership is very favorable and very important because we're building things it's kind of like you're building a car as you're driving on the highway you're upgrading it so it's important to be
+
+00:43:03 - 00:44:08
+able to work with close partners and be able to squash as many bugs and Co-op so I really think this close partnership is important and actually this is something that at one point we're going to bring to the community we'll bring to you guys we'll bring to the mods as also we will create some structure on this but I would love to co-op so that key chains that we integrate with you guys are backing us
+
+00:43:35 - 00:44:48
+up and you can also be our eyes and ears there because the community is a key part of a protocol and we can be driving things on the BD side but we can support you guys better and then we can get more support from you as well so this will come down the line we still have important work to do to kind of further these relationships but I think this could be a cool way to just Co-op better with the community with our mods with the people that are leading this space for us yeah thank you Martin it's
+
+00:44:11 - 00:44:14
+great point.
+

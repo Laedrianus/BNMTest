@@ -1,0 +1,251 @@
+00:00:00 - 00:01:24
+Let's just get started. We should give me a second, keep losing my my not technical guy is asking if you would like to start your camera, it's up to you. Oh yeah, hold on. Yeah, I do that. Well, while Google is preparing, I mean some of you might not know him. I'm CST Community lead, so maybe maybe you know me, they're new guys, so I'm happy we greet you here, welcome guys, family is growing, have nice partnership and Community is growing, but for those of you that might not know, gii he's
+
+00:00:42 - 00:01:58
+one of the co-founders and the guy that I work the most from the very beginning. It's a big wrestler you could say that what we achieve here is based on a lot of his hard work coming from the Manta mentality with Manta never stops. It seems like G never stops as well. I personally speak with him in every possible hour of the day so he's always active and yeah today he joined to to to speak what we have done this year and what we're looking for to achieve next year very
+
+00:01:20 - 00:02:40
+important updates I think and also overview of what we have achieved so far so getting the direction and yeah the Milestones let's go. It's going to be a short call. The moment we're done you can go go and have with the questions but we don't we know it's like in between holidays. Yeah good you're here and yeah we can take yeah we can take as much time as it needs but yeah anyway I was reflecting on the last last year actually we did we did a lot of stuff you know it's been it's been it's been pretty pretty pretty hectic and pretty been pretty interesting the whole year. I mean we started l s towards like the end of 2023 and I think the first kind of major place that we went to and then we got some kind of our initial investor commitments was at the def connected disto at the end of 2023 and since then you know it's it's been it's been it's been pretty interesting. I'll just go like I guess like kind of one by one of of stuff for one thing I mean first
+
+00:02:42 - 00:03:54
+thing that we did was kind of on board like 10 Engineers from one of our previous projects and then over time kind of hire 10 more you know we have now we have a ZK team a front end team a backend team a tooling team and and you know we even have this new we like we took some time but we build a a BD and a marketing kind of arm which you know the company didn't really have at all because I mean a lot of these Engineers they worked in the past together but anyway over time we built this kind of
+
+00:03:18 - 00:04:44
+team of 10 marketing and BD team and you've seen Magnus you've seen Martin and you seen a lot of our community folks and marketing folks so that's kind of on the on the people side we went from 10 to roughly 30 which is pretty crazy you know we finan this with our kind of seed seed race seed round which you know we got participation with some really cool some really cool funds like the a16z crypto CSX which is the accelerator program of of a6c crypto and we got like public public goods
+
+00:04:00 - 00:05:27
+and like ta adventures and a bunch of like really cool Angels like VC Builder and and some really good advisers like folks from from like Kenny from Manta for example and that kind of kicked us off and yeah like I mentioned we went through the a6z crypto accelerator and we even we even got around U you know our seed round was 4 million but we also got around like pretty good trunk of cash and grants and and different kind of incentives from our partners so
+
+00:04:44 - 00:06:05
+we're very strong on we're very well funded at the moment and we're doing really well and that that kind of some of the major stuff and that brings us to today I guess I'll before like I move on from these points and into the product I guess do you guys have any and I can stop and like maybe questions or or comments if something's not making sense and then I'll tell you guys a lot we B about the products and yeah well basically guys can go with the
+
+00:05:25 - 00:06:34
+questions in the chat or leave the questions for the last part so it's it's more convenient I'll just ask you to slowly move the lid of your laptop so we can this is what the technical guys say you you have to know guys we have a technical guy in the background always taking care the sound is good the quality of the recording is good so we have we have we have those we have those C recorded for those of you that will miss it can go back and see it's a great source of information for
+
+00:05:59 - 00:07:00
+what what we're doing right I guess to summarize really quickly these points like we we got this funding and then we built a really good team like of almost 30 people engineers and bedian marketing and we got some good grants and some good aird drops for for the company with from our partners and now we're really ready to take on 2025 and and we're go to market basically with what we've built and I'll tell yeah and I'll tell you about the products yeah we we can we can
+
+00:06:31 - 00:07:55
+definitely I move on yeah anyway so the product that's pretty it's been yeah the products so now we have one that is pretty much almost ready for to to go into production this kind of interface for def for def for new defi ecosystems to basically support anything that chain link or Redstone or or like even guys like P can can support and provide we can provide to brand new chains that are coming up and and this this is something that that that's been that's pretty much ready we have
+
+00:07:13 - 00:08:25
+a couple of I think three chains that they're pretty much ready to even go into to main net and around like 18 in test net major majority of all of them are evm chains but soon we'll have support for svm as well and and these are like some of the some of the the chains in the pipeline I know guys like morph baras Trea know atte monut like really good really good chains and we have so much more in the pipeline and then we're like working with the best kind of PLS like the U arbitrum and
+
+00:07:49 - 00:09:07
+the zings and the op stacks and so forth so this this product that is kind of helping new chains set up a defi ecosystem and where we can be the first Oracle provider that's that's pretty much ready to go and we're going to go live with it and at least two or three chains maybe end of January beginning of February something like that least like end of q1 so this product we're seeing good good traction and we'll be live soon the next Pro that we're building is this very low latency
+
+00:08:29 - 00:09:46
+you know pool Oracle or more like a PO pool Oracle basically the point here is that it's very low latency here we can either enshrine it or make it a pool Oro but we have a a very like a very high like a tier one basically layer one that would potentially like this to be enshrined into their into their protocol and we are hopefully going to win this deal and implement this next year and and I don't really want to go into details but if it happens it's going to be a huge huge win for us
+
+00:09:06 - 00:10:18
+so fingers crossed guys so that's like this this low latency product and then with the with with this first two product this is kind of the the one two punch for every new chain will need that every new chain will need and we will provide then we also took some time over the last few months to to build up this kind of AI capabilities one of them the main thing being kind of providing a verifiable inference we're well into development of it's kind of like aura or
+
+00:09:44 - 00:10:54
+ritual you can say some of our competitors but we are May in the middle of developing it hopefully we'll have it in a few months and or like two or three months because especially now that we're seeing all this hype with the like all these AI agents that are popping up it's something I mean we we we kind of bet on it when we were six months ago we thinking what what should be developed so hopefully we'll be we'll be read in a few more and we can write this wave so that's that's
+
+00:10:18 - 00:11:29
+that should be coming up very soon and yeah this is kind of the the Oracle product and on top of that we also developed some internal tooling which we for Z for zik stuff and really that's tooling that revolves around Noir the programming language from attec and this this this tooling can be leveraged by you know all kinds of other developers like ZK developers and we hope to find yeah we hope that basically that will happen and that will give us a lot of a lot of
+
+00:10:54 - 00:12:09
+popularity at the very least and a lot of appreciation from like the the best developers the best developers out there so that's yeah that's very interesting work for example like providing custom backends for the for Noir like different than plon like plony 2 or expander or whatever other proving systems or providing like formal verification capabilities or yeah or like providing like debugging tools for for the language this kind of stuff we managed to develop over the last N9 months and
+
+00:11:30 - 00:12:42
+yeah we're we'll see how the wider Community how they how they appreciate it and even on top of that the final thing that we kind of did on this product side is that we developed two really strong Partnerships with the like with ecosystem Pro want to use us as a as a as a Oro in their system one being this llm router and then the other one being this kind of defi aggregator and in both of these we have a very deep relationship where if these projects do well we're betting
+
+00:12:07 - 00:13:18
+a lot on them so we have we we've put some effort and soon we will be able to like show them off maybe within the next like two or three months again so that's kind of on the product side we have the the the like the push Oracle which is for new chains which is a like a a replacement for chain link and Redstone and we have a a low latency pool Oracle which is more of a replacement for p these both of these like help new chains get off the ground running and we have a bunch of
+
+00:12:43 - 00:13:48
+deals that are in the pipeline pretty much almost ready to to to go and then on top of that we have this kind of AI and tooling lines of products that that that I getting some traction and this kind of makeshift ecosystem incubator where we're we're putting a lot of in some of the projects that they're building with block sense so yeah that's the that's on the product front yeah if you if you allow me to summarize it's like wow you you say it pretty well but not
+
+00:13:15 - 00:14:31
+to to to remove any confusion or look it's much more than Oracle and also in the Oracle space we're building different product so you could look at Bens as yeah we we developing different products that can serve in the the space and to companies from early stage protocols that don't have workouts and it's very making very easy for them to have one and also a programmable one so they can do whatever use case that they need to and that's that's a niche for sure and many of the projects we speak with and 
+
+00:13:53 - 00:15:06
+Can U correct me if I'm wrong but we spoke with more than 120 or 130 projects so far so the feedback is many of those companies they they they like this feature very much because this is what allows you to the program programable part of box is what allows you to make the use case that you you dream of and you cannot find feeds for it but also we are focus on different products and because the technology that we're developing is allowing it and we have wide range of possibilities when speaking should
+
+00:14:30 - 00:15:49
+connect block sense to something much wider than an oracle also the inference part it's very interesting think to see how it grows and how it matures in the space because it's pretty much new and so far we we would say that it needs time to for us to see how it how it matures but we are working on multiple lines to say developing different products and with different partners exploring those opportun unities so this is pretty pretty great thank you for updating the community on this yeah I mean all of these
+
+00:15:08 - 00:16:20
+products we try to really work with the the the the best like Market participants it's call them that way in those categories like like I said with the with the chains we are working with in our pipeline it's like guys like more Barra craa you know atte monad you know then for for like these kind of AI use cases we're trying to integrate our system into like the the Frameworks like AI 16z or like virtuals and for this tooling we're we're really trying to work with the like with War which is
+
+00:15:44 - 00:16:50
+like the best ZK language right there the only one right there so like all the best developers are using it and really put provide value in all of these areas so so like the best people out there are using our systems and our and our tools and and hopefully that's going to that's going to leave an like a trail right an impact and people people will talk about this more and then set us up for very very good 2025 what we are definitely building and it might seem slow in the community side
+
+00:16:17 - 00:17:34
+but we're setting the super solid foundation for a longlasting and very successful product here and project and yeah as Google mentioned on few sites I mean growing a company from five people to now 35 and maybe next round we getting 60 this is a challenge by itself and developing developing the product and figure out the market fit and all those things they are challenged by themselves so every one of those steps are very important and we put a lot of effort into exploring and making things
+
+00:16:56 - 00:18:20
+the best possible way we have super bright te of U professional X Google and I don't want to mention all the fun companies people that are in the team but definitely very very smart people that are putting their valuable lifetime even into this we're like 247 team seriously there I think BL never blon never sleeps this must be this must be the our slogan because we are available all around the world so this is also very distributed team yeah yeah the team is that'ss are I think probably the most proud we
+
+00:17:38 - 00:19:03
+we we we really got a an amazing team going you know guys like like Chris said like from like Google from like uber from like phds and and compilers and guys that have built multibillion dollar systems and U so the team crazy but anyway now the the the next thing I wanted to say to you guys is that we also did a few Partnerships that were more like okay we need certain piece of tech or something from another team and then we use it and then this kind of partnership is for
+
+00:18:21 - 00:19:39
+example we we got a very strong partnership with air like we're going to be using becoming an ABS and tapping into the economic security of of the Risk Takers that are RIS taking on N kind of like e Oracle or or whatever other ABS systems that is very crucial for for the security of our system and we prioritized it that from from day one and very happy that we managed to to to get that going and on top of that we're also building we're trying to additionally like enforce this this line of
+00:19:00 - 00:20:13
+thinking and and add additional like raking and the protocols like additional security from other RIS taking protocols like for example like symbiotic or or some of the other folks and we we are talking to a few of them and and hopefully 2025 we can add few more of these Partners to our roster obviously on the Z side we've talked to you know we are working closely with like teams like nebra and cindry and and the cisc and even like U guys like FMA so we're very well connected
+00:19:36 - 00:20:42
+and and obviously like the Noir team and so forth and one other U partnership that we've been exploring but we haven't really executed and hopefully we'll execute in 2025 is with the data availability partner either you know we've had like preliminary discussions with guys like Hive or but we we need to we need to push this along and and hopefully we'll do that fairly soon so this kind of the three main kind of tech Partnerships on the reaking side on the
+00:20:09 - 00:21:44
+
+ZK and the and data availability so two out of three for 2024 is decent and hopefully we'll we'll do the da exit in in the next six months so yeah that's in terms of like Tech part parip now we also managed to get our kind of initial set of infrastructure Partners and of our node operators and our data providers I would say 60 70% complete and set up which should be in time for main net launch our plan main net launch at kind of end of January or early February so that's that's good news
+
+00:20:56 - 00:22:15
+we got very reputable rable node operators to to be in the initial set and also like really good variety of data providers either like exchanges or market makers so we have a a good variety in that sense and yeah I mean that's in terms of the Partnerships and then the final thing I would say is kind of what we did on the marketing side and yeah but maybe if you have any questions for for these Partnerships for well sorry guys I I had some issues with my my connection here I missed a part
+
+00:21:41 - 00:23:01
+but of the conversation but as G is online I'm iy things are under control just can you can you tell me where we are oh I just went through kind of our what we the tag that we using our Partnerships and then the that we setup of our node operators and our and our initial node operators and data providers is pretty much complete as well and then and the final thing that I would touch on is the kind of what we did on the marketing side it's Pro probably I mean Christ and I have
+
+00:22:24 - 00:23:48
+been working on this for for the longest I mean we started on this this earliest I my attention split especially last 6 months I was much more focused on on our kind of the the BD in and some other operational stuff so maybe I had a little bit less of input but anyway in the beginning we really focused on he trying to set up this this little community that we have we managed to you know to to meet some great folks like like know some of you that are are here like are
+
+00:23:06 - 00:24:22
+Hill and U we tried a bunch of stuff like you know I remember trying streams some different meetups and and I guess we're still figuring it out and and I hope we will really we'll really get get much closer over 2025 I feel like I like I said started off tried to start off strong and then slacked off with the community building the last 6 months or not slack off but I was really focused on on something else but now that we hopefully win a few of these deals and deploying a few really good
+
+
+00:23:43 - 00:24:58
+chains and I'll be able to really put a lot more effort into community building and and yeah and hopefully make it make it better right and and we have some big stuff planned here right like really big stuff obviously you see you see stuff that are happening with with other teams so you you know you see where the winds are blowing in terms of kind of the the sentiment the market sentiment so you would yeah I me I would expect I expect big things from from from ourselves and I would you can
+
+00:24:22 - 00:25:34
+expect big things basically on the on the community side we really believe in the how say and and getting you guys involved and getting you guys really have like skin in the game and then and calling this thing your your own and and then putting your and putting your you know heart and soul into this like like we are and this is what we want and hopefully we'll get there we'll be this kind of community and culture and I think we have been trying to and yeah hopefully we will
+
+00:24:57 - 00:26:22
+get there and and then I I personally promise that I I'll spend much more time now that we have some win or hopefully we get some wins on the on the V side but anyway we we grew up to like 15 20K right with some I guess most people are not very active but the the people who are very who are active are are quite active and we have this kind of new wave of like Partnerships with different communities like like Mon and Van and this is hopefully we'll continue we'll continue exploring
+
+00:25:40 - 00:26:52
+those and and like bringing in more people from all sorts of different places and yeah one big thing was the eat sopia that was a an event that we planned for for a few months and we helped or organize and bring in a lot of the the sponsors and the teams and it the whole team got involved and it it turned out very well I think we learned a lot as a team it was kind of the first major test for for the team how how we're going to execute whether we can get a test net out whether we can get an
+
+00:26:16 - 00:27:32
+MVP out whether some people can actually use it whether we can provide them technical support and help them integrate and you know like end to end actually have something working and it it did work out right so we were very happy and after that we also executed a few other pons you know with in cold club with Oxford blockchain society and a few other kind of project Partners so I mean yeah the tactic was mixed results but I think it off especially was was very good and we yeah anyway the now we're
+
+00:26:53 - 00:28:06
+also doing a big Rebrand I mean not a Rebrand but we're kind of finding the visual identity of the the project we we had left it at the back burner for a while and now we have it now now now it's I think it's almost complete and we Al like we reveal it within a month I think and oh yeah and the another thing was we really especially in the last six months the last three months we tried to ramp up kind of the public speaking and we've been speaking a few events a few
+00:27:30 - 00:28:34
+
+podcasts especially like zakari and then especially like guys like Martin have been Super Active on Twitter and I think hopefully that will like put like that that would help us know people start talking about us but anyway that's we are putting a lot of effort into it personally I've started also posting a lot on on Twitter and hopefully you know guys like Stan and then beo have also been posting a lot and and just more public speaking more Twitter and then the whole team become kind of sing
+
+00:28:02 - 00:29:17
+KS and and we help you guys also become sing KS and that that PST the whole P the whole project and I think we will put a lot of effort into this over the next year as well so that's on the marketing right we got started we started up we really tried to focus on on especially the like the good good like core contributors of the community we executed in a bunch of hackaton and it s was especially good we're almost done with the with the new look and kind of the new visual identity
+
+00:28:40 - 00:30:01
+and we did a bunch of events and public speaking especially in the last three month so and that should be how we yeah I mean that's that's what happened 2024 I guess to go over 2025 it will take another 30 minutes maybe but what the main thing what should be the main thing to expect I would say deployments on these really good chains that I was mentioning earlier deployments at least well at least one deployment for each product right on a very good chain and putting our
+
+00:29:21 - 00:30:48
+tools into the hands of the best developers and having svm ready having our ABS ready having more kind of Tech Partnerships especially the da and then over time slowly expanding our initial set of operators and data providers and just doing just going harder on the marketing especially like Community and community building and I think we want to provide the more localized kind of events and budgets and yeah just that's the idea there was a question there was a question to this the
+
+00:30:03 - 00:31:14
+ambassador program and how it's going I mean this everything that g described is like a laying Foundation of what we're going to do on the community side also on the marketing we believe we are a team I would say people that believe that you need to have something to brag about speak about and and this something should be something really good so that's why all the focus went into developing and also developing strong relationship ecosystem Partners developing the product itself and we had
+
+00:30:39 - 00:32:01
+to of course Focus also on the community but expanding the community and we we'll definitely go with this the moment the community grows and to a certain point which we are reaching now I think 20 20K is a very healthy level Community then we can start speaking and activating this local members and starting with u local events also the ambassador program on itself it's been cooking since very long time I'll say maybe eight nine months but it didn't it didn't come out because we didn't see
+
+00:31:20 - 00:32:32
+the community to be ready I personally want like three times more people to join those calls and I want to know why those people don't join the calls if there's something you can improve many of you participate in the feedback questioner that we sent out and it was great to to see this now we are building this together and it's very important for us to hear back from us from you also so regarding the amb program just just stay tuned but it's definitely coming the I I would say maybe end of
+
+00:31:55 - 00:33:09
+QA with Q q1 next year we'll we'll have something going on already on on local levels especially where especi with virtual events or directly with iners events this those are things that we need to to figure out and I said that the community needs to grow and I already see 30 people joining from great yeah I mean guys guys you can we I we should have formalized that and we promis that they will formalize the ambassador program so you know exactly like but in general I'll tell
+
+00:32:35 - 00:33:49
+like one thing that we would want that I really want to happen is for to find Regional like actually in different like regions people who can organize get together on a little event or a little hack and then execute on that and kind of build very localized communities this is something that we would in incentivized heavily and the yeah we're prepared to like really help like really push and then the other thing that I really we really need is if you guys kind of essentially just go
+
+00:33:12 - 00:34:26
+into the different communities of like new chains or of protocols and figure out if they need something like an Oracle and let us know then if if you find if you hear about new protocols or new chains com up that that need an oracle just let let us know and that's super helpful that would also be heavily incentivized if you if you find us if essentially find us leads I think this is the two most important things we'll also do some educational stuff where we'll we'll figure out how you can
+
+00:33:49 - 00:34:58
+also just do just just talk about the product right and talk about us like let's say on Twitter and then that can also be incentivized but just easy things is finest leads of chains and protocols to users like that would be amazing and yeah yeah the these things if you can if you can do that for us it it will be much more it will be worth much more than any ambassador program because essentially what we want is when we have a problem when we have a need we want to be able to one of the first places we go
+
+00:34:23 - 00:35:35
+for for help is you guys right because our community maybe you can get help out with this for and right now our main main need is to get more chains find more chains that are early on that don't that where we can deploy our Oracle and be kind of the one of the main Oracle providers and and win some business this way this is our biggest need and then and then then finding like good developers to use us right either protocol Builders or you just just good developers to use are like ZK tooling
+
+00:34:59 - 00:36:21
+so help us out with that and I guess I'll take some time to also like list out all maybe some some some immediate or not so immediate needs that maybe you can help us out and you help us out and we we'll we'll incentivize it yeah on the site of the user generated content or pieces that go there are few people that are very active they've been always recognized and incentivized by the roles that we giving and laa Ro which actually means CH in Chinese language it means teacher so you're ping information out
+
+00:35:40 - 00:36:51
+for BL sense and the most active people in the community are getting this role and this month we have a promotion of one person which is just very good example of how things can go because he just joined our community recently and now this month is getting promoted I need to just find his name I I will shout it out later but yeah he's one of the very good examples and the other one is I see even in the chat is versus and because of his activity constant activity we decide to promote
+
+00:36:15 - 00:37:37
+him to a pirate because Pirates are the crew that is really how to say like Die Hard blocks and Ste we are those are the people that are all the time active that are all the time helping others to figure out things and essentially this is what we want to grow this core Community into a bigger community of people to help the others coming we have the V now they're really cool guys I like the whole team everyone working with them was amazing just the communications so I like to see
+
+00:36:56 - 00:38:12
+things in this level so yeah continue with this kind of contributions you you get the rewards on on the side of the content we will try to make things clearer as what kind of content but as G said there are also immediate priorities if you find leads if you think that some project is suitable for us just DM me or you're right in the also we have the section where you say partnership propos you can open a ticket in this court I'm looking at those ra also is looking at those and we are sourcing everything to the
+
+00:37:37 - 00:38:51
+founding team where they see which opportunities are good for us at the moment and how to engage with those the team is working really hard to make sure they look at all the all the potential partners and to see what are the entries we have there based on the product that we mentioned earlier that we're developing so and your work you should know it's always always seen and appreciated so just keep on the the good more guys yeah I mean we're about to ship 20 so 2025 going hopefully I mean it's going
+
+00:38:17 - 00:39:49
+to go it should go it should it should really accelerate very quickly we ship the end of January or beginning of February we have deployed on multiple chains then we roll out the next product next product and soon after that we'll have a prob soon after that we should have some kind of TG and yeah hopefully everything everything unravels next year like 2025 like 2025 seems to be the year of block sense right I mean all this prepar yeah very well set up yeah yeah we're working for this the
+
+00:39:05 - 00:40:12
+support we got from all the investors the cool partnership that we're developing at the moment the very important documentation release and what G said also we have start testing and trying those in hackaton people start developing use case using box that were not possible before could go on the blog and read some of the Articles like AG Shield or insurance is insurance for agriculture or also flight tickets Insurance things that they they don't need intermediaries anyways and it can be implemented
+
+00:39:39 - 00:40:48
+with box in a very easy and efficient way so those are the the things we are building and now the of course we are now deployed on 18 test Nets which means we already in a working relationship with those test Nets and exploring the opportunities there and all the projects that they're building on them and the cool news that mentioned the big things coming and happening in 25 is will very soon start deploying on their main Nets which means we're absolutely ready to go with V1 production right because the
+
+00:40:13 - 00:41:30
+next step of our production will be to get completely decentralized and to have our own set of permissionless validator right so everyone will be able to be a validator but at the beginning we'll start the permission like lug notes or blon or yeah exactly yeah I mean over especially probably towards the second part of the Year 2025 we'll we'll really try hard to like to to decentralize the system more validators more data providers like make it permissionless make the the the script
+
+00:40:51 - 00:42:11
+the the Oracle deployment permission is and then that's where we also deploy the ZK machinery and then we also do the TG at that point once we have the once we have roll out to for like the system decentralized yeah we have very ambitious plan but it's it's being rolled out step by step and that's how being we're testing and proving that things work and at least yeah we have the MVP now we'll we'll ship it and then we'll ship a few other products over the next
+
+00:41:32 - 00:42:52
+six months then we'll decentralize the system the ZK machiner and we we'll have the token and that should that should be 2025 2025 sounds like a very exciting year for us guys so I'm happy our community is growing also this is the i' say the first time we have around 35 people tuning in thank you everyone it's a great to see this and I always look at things this way now we're 35 and tomorrow we're 335 know I just know that we we're going to reach on more people and yeah our product will will
+
+00:42:14 - 00:43:27
+grow that's for sure and I just see the the person that I wanted to shout out to Smith agent Smith thank you for your contributions you're getting the the the ler roll because of your participation this month most active person on this on the server most active of those who does not have the role yet because okay the old guys you're killing it guys you're still continuing to do it thank you so much for your participation and as May is here T is near Abdullah is here cool guys I really love your work and working
+
+00:42:51 - 00:44:17
+together thank you so much par parade I see a some amazing and versus is now whole house is equipped with all the almost all the RS I didn't I didn't look but it actually shows that you can you can join in relatively short time make impact in the family so stay active contribute help each other be nice to each other and yeah that's the way guys what to say we have about I have planned this go to be 30 minutes but as you see there are so many things happen in a year so obviously it took more time but I think
+
+00:43:34 - 00:44:46
+those are the major points we could speak about and that we mentioned already the rise that we have the Partnerships all the events that they've been to and the product that we're developing release of the documentation the growth of the community and the community programs that are ongoing and those that we are improving and going to be coming out based on based on the size of the community the activity of the community also and yeah I would like to open the stage for questions if there are
+
+00:44:09 - 00:45:19
+some directly to me to gorg to the team in general if you if you have something you can write in the chat also say what do you think how you think 2025 will be for us what you say guys are we what do you guys want to see actually in 2025 I'm wondering what or what did you guys expect to happen in this last year compared to what actually happened I'm I'm curious did you expect more or because man writing in the chat we've been working almost a year together that's true brother we spend a lot of
+
+00:44:47 - 00:46:11
+time together and a lot of work and much much more to come but you know that's the beauty of the distributed system the more we are the more distribute the workload and easier get so then we can grow and reach to more people so 2025 will make sense for book yeah fact very amazing if anyone want to unmute otherwise in the chat is also okay I know we make those calls also with the Pirates learning slowly to to communicate but as y said and we're supporting this vision from the very beginning you know we'd like to support
+
+00:45:30 - 00:46:51
+everyone to become a better version of them themselves and to support your journey in in becoming a k or semi K or even learning things while working with us I mean there are so many possibilities I learned many things from rail but I think he he's also learning things working with us that's the the beauty of this exchange we're not competing we we are doing this all together so let me look at the chat if there are some other Min comments everyone looks pretty excited I like this pirate faces
+
+00:46:10 - 00:47:41
+also inspiring inspiring I don't have much to add and if you are good G we could say that anding up oh Martin is joining us you couldn't you couldn't hold it please hey guys I'm at my wife's mom's place so I just wanted to step on stage for a little bit it's good to see everybody here if you look at the history of a lot of other oracles projects hey tnic hey Smith if you look at the history of a lot of other projects teams took a super long time to get up and going so we announced
+
+00:46:58 - 00:48:25
+the 4 million rays in September we're already ready by December on 18 test Nets and we're looking at going on M Nets early next year which is it's freaking crazy guys like the speed at which this team is moving is really astonishing and when we're on the inside it feels like we're not moving quick enough but even look at the numbers that gorgi wed in terms of Team growth so cheers stack appreciate all of you guys just looking at facts parade hasia hes here so things are moving quickly if you look
+
+00:47:42 - 00:48:43
+at the trajectory things are moving much faster than pretty much anybody else that's been doing something similar to what we're going for or operating in the same space so in one of the upcoming Community calls I want to take some time and just talk you guys through how we're basically how massive this is how big this is why we're doing what we're doing and so you've been getting you've been piecing things together over time I feel like now we're in a place where I would
+
+00:48:12 - 00:49:16
+just love to give you that gift in this group here we're 30 people just talk you through what's the big vision and how and why we're democratizing oracles this is going to be massive for the space and you guys are in this with us at the right time as well so for sure the ambassador program is going to come in there's going to be a lot more Community work but I want you to understand the why right a lot of projects talk about Community a lot of projects look at you know we need to
+
+00:48:45 - 00:49:51
+pump retail this isn't what this is about this is much bigger and so I just feel super excited about listening to GGI walking you guys through listening to risto and just seeing the community on December 27th popping in for this meeting so I want to step on stage to say I really appreciate you in one of the coming sessions I just want to give you a super high level rundown so you guys understand the why when you understand the why at that level it's really going to click for you I'm I'm pretty
+
+00:49:18 - 00:50:30
+sure you're not going to want to miss another Community Co after so because I see you show up here I want to give this to you as well so we'll figure out whether it's going to be the next one or the following Community call based onisto says but U really looking forward to just walking you guys through and continuing to grow this into next year so really appreciate you all super amazing thank you Martin and I really like this idea you know and the thing is it took us some time even to me
+
+00:49:54 - 00:51:04
+took us some time to see the scope of boxing and and why it's so important and what we actually doing we just got the good feeling that this is something great but you when the think is moving and growing you start understanding how important it is and I think it's very good moment now that we're ready to start deploying on Main Nets to to communicate actually why why this is so cool what you're doing and why we believe so much in it and why we're working so much for it so
+
+00:50:29 - 00:52:00
+thank you Martin for joining us and also for this opportunity to to share this information we're gonna do either include this in a call like this or I can I can do I can see doing an Anye with you maybe even another another person and yeah speak speak about it that's very important thank you so much perfect guys y do you want to add something I mean no I'm I'm good basically thanks yeah we really appreciate you guys for joining us and for you know working with us helping us out figured this out
+
+00:51:19 - 00:52:29
+throughout the year and we'll you know we'll do our best to to you know to kind of show that we deserve your support and really give back to you as well yeah because honestly the first thing that we tried to build that we started with with this company because before we didn't have before the engineers join it was like before like some of the ideas got like developed and so for it was really we started off with the building the community and then just at some point like all the other stuff
+
+00:51:55 - 00:53:14
+like building the products kicked in and we had to like really put a lot more effort into that and like do video work and maybe we sidelined the community a little bit over the last six months but I think we will we will we will need you guys you know behind our back and to help us distribute to sell this product to the blockchain world right now to get into the best chain the best developers and yeah and I I hope you stick with us basically next year is going to be crazy we're definitely getting there and
+
+00:52:34 - 00:53:55
+I think really looking back one year of hard work is I really appreciate Martin coming in and giving this perspective he joined us some time in the middle of the year but he jump with greatest speed and every person joining the team as every person joining the community just helping us accelerate and other said District do this workflow making things possible so looking back amazing year filled with a lot of work me I I learn to work from anywhere all the time like it's pretty crazy but yeah I like to see those
+
+00:53:15 - 00:54:33
+results and I see that every team is building and every every team is delivering and I also want to thank all the people I've been working with for the hard work we all trying to figure out and to do it in the best possible way we're putting a lot of our effort and time into it and there's no doubt 2025 going to be the blockness year so thank you everyone for supporting us for being with us and yeah for tuning in today I wish you nice celebration for the new year and let's let's start I mean I'm I'm
+
+00:53:54 - 00:55:00
+already excited about I feel like the things coming into 25 going to be very very big things so good to have a community that being with us for one year there are some real real Believers in the project so thank you thank you everyone looking forward to continue to good work together yeah guys thank see you see you and have a great New Year and see you next year guys see you in the Ser bye everyone bye bye yeah
+

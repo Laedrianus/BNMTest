@@ -1,0 +1,105 @@
+/* Community Calls Specific Styles */
+
+/* Community Calls List */
+.community-calls-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+    gap: 12px;
+    padding: 10px;
+}
+
+.community-call-item {
+    background: var(--update-item-bg);
+    color: var(--text-color);
+    padding: 15px;
+    border-radius: 10px;
+    border: 1px solid var(--border-color);
+    text-align: center;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    text-decoration: none;
+    display: block;
+}
+
+.community-call-item:hover {
+    border-color: var(--link-bg);
+    background: var(--link-bg);
+    color: white;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px var(--shadow-hover-color);
+}
+
+/* Video Container */
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 aspect ratio */
+    height: 0;
+    overflow: hidden;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+
+/* Transcript Links */
+.transcript-links {
+    margin-top: 20px;
+    padding: 15px;
+    background: var(--stat-card-bg);
+    border-radius: 10px;
+    border: 1px solid var(--border-color);
+}
+
+.transcript-links h3 {
+    margin-bottom: 15px;
+    color: var(--update-item-title-color);
+}
+
+.transcript-buttons {
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+.transcript-buttons a {
+    text-decoration: none;
+}
+
+/* Error and Loading Messages */
+.error-message, .transcript-placeholder, .loading-transcript {
+    text-align: center;
+    padding: 30px;
+    background: var(--stat-card-bg);
+    border-radius: 10px;
+    border: 1px solid var(--border-color);
+}
+
+.error-message a, .transcript-placeholder a {
+    margin-top: 15px;
+    display: inline-block;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+    .community-calls-list {
+        grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+    }
+    
+    .transcript-buttons {
+        flex-direction: column;
+    }
+    
+    .transcript-buttons a {
+        width: 100%;
+        text-align: center;
+    }
+}

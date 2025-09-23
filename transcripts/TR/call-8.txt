@@ -1,0 +1,272 @@
+00:00:00 - 00:00:39
+Belki bu şeyi çalıştırabiliriz, katılımcılar katılırken. Açılış konuşmasının sadece gündemi belirleyeceğini düşünüyorum. Sanırım önce geçen ay hakkında genel bir güncelleme ile başlayacağım. Bunu geçen sefer yaptığım gibi yapacağım ve size aylık raporumuzda yatırımcılarımıza anlattığım şeylerin çoğunu anlatacağım. Yani evet, sanırım bu yeni ortaklıkları, bazı fırsatları veya evet, önce bunları ele alacağım ve sonra önce pazarlama topluluğu tarafı için bazı topluluk güncellemeleri yapacağız ve sonra bıraktığınız tüm sorularınızı gözden geçirebiliriz ki evet, elimden geldiğince cevaplamaktan memnuniyet duyarım, hepsine zamanımız olursa. Ve evet, sanırım sonunda bir özet olacak ve belki yakında gerçekleşecek bir sonraki adımlar olacak. Ama bunu Chris'e bırakacağım. Yani sanırım aylık raporla başlayayım.
+
+00:00:39 - 00:01:21
+Sanırım geçen sefer konuştuğumuzda esasen sadece ana ağa gidiyorduk ilk müşterilerimizle ve gerçek bazı gerçek para ile beta testleri yapmaya başlıyorduk evet ve ana ağda temelde sanırım büyük olan Order ile ilgili ilk duyuruları zaten gördünüz ve evet, dün Volatility X ile bir tane daha vardı ki bu DeFi ve agent protokolü ve virtuals ve yakında bir sürü daha çıkacak. Bunları çıkarmada biraz yavaşız ama evet geliyorlar. Ve aslında dağıtımlar ve benzeri şeyler sırasında birkaç hata bulduk ve bunları düzeltmek için biraz zaman almamız gerekti ve hala birkaçını düzeltiyoruz. Yani beta testi iyi gidiyor, sanırım. Ve bu hafta her şeyi tamamlamış olmalıyız ve neredeyse üretim hazır durumda olmalıyız.
+
+00:01:21 - 00:01:56
+Ve bu arada ayrıca henüz konuşmadığımız zincir ortaklıklarımızın bir sürüsünü duyurmaya başlayacağız. Ve sonra evet birkaç protokol daha. Protokol tarafında önemli protokoller açısından önemli olmayan ama sanırım önemli bir metrik olan TVL almak açısından ve sanırım söyleyebilirim ki potansiyel TVL'de yaklaşık iki yüz ila üç yüz milyon ile iyi bir pipeline'ımız var.
+
+00:01:56 - 00:02:28
+Bunları kazanabileceğimiz bazı yeni zincirlerde ki bunlar ya zaten çıkmış olan Hammi gibi ya da Tuck on Ton gibi çıkmak üzere olanlar. Evet, çok fazla detaya girmek istemiyorum çünkü evet, örneğin T'de bir vault kampanyası yürütüyorlar ve şu anda çalışan bu vaultlardan birkaçıyla konuşuyoruz ve umarım onları destekleyebilir ve ihtiyaç duydukları fiyat beslemelerini ve farklı ücretleri sağlayabiliriz. T üzerinde launch olmadan önce ama sonrasında da, şu anda vaultlar Ethereum'da canlı ama birkaç hafta sonra T ana ağı çıktığında migrate olacaklar ve umarım en az birkaçını kapatmış ve orada önemli miktarda TVL ile canlı olmuş oluruz.
+
+00:02:28 - 00:03:07
+Yani bu iyi haber. Ana ağa ve ilk TVL'e ulaşmak biraz bir yıldan fazla sürdü, test için çok küçük miktarda para olmasına rağmen ama yine de orada ve önümüzdeki bir iki ay içinde umarım birkaç on milyon hatta yüz iki yüz milyon bile değil, biliyorsunuz bu hedef ve pipeline'ımız var, yani bize şans dileyin. Ve ortaklık tarafında dikkat çekici bir başka şey de şu ki sanırım belirtmiştim, bir gerçek zamanlı oracle olmaya çalışıyorduk ama ne yazık ki farklı bir sağlayıcı seçtiler ya da sanırım bizim tür nemesis'imiz olan Redstone'u seçtiler ki bu bizim için sorun değil.
+
+00:03:07 - 00:03:42
+Ama onlar için hazırladığımız ürün ve öneriyle ne yapacağımız konusunda zaten bir B planımız var. Onların zaten iki üç büyük rakibi var ve hepsiyle konuşuyoruz. Yani er ya da geç sanırım o ürünü kullanacak ve bizi sarkıtmayacak bazı geliştiricilerin eline geçireceğiz. Ama evet, büyük bir anlaşma kaybettik ama aynı hatta hazır olan üç dört tanesi daha var. Yani yine bize şans dileyin. Umarım önümüzdeki bir iki ay içinde bu anlaşmalardan birini tamamlarız ve gerçek zamanlı oracle fırsatları da var.
+
+00:03:42 - 00:04:18
+Başladığımız diğer büyük şey başka bir fonlama turu. İnsanlara ulaşmanın tam başında sayılırız. Yani paylaşacak gerçek bir ilerleme yok ama pitch'imizi ve belgelerimizi gerçekten keskinleştirdik ve her şey tertemiz ve çok fazla gidip gelme ve çok fazla öz eleştiri ve çok fazla düşünme geçirdi ve sanırım iyi bir durumdayız ve piyasa şu anda çok zor olmasına rağmen bizi görebileceğiniz gibi birkaç ay içinde bu turu tamamlayacağımıza güveniyorum.
+
+00:04:18 - 00:04:54
+Takım açısından aslında takımdan ayrılan birkaç kişi oldu. Ancak zaten oldukça iyi yedekler bulmayı başardık ve aslında takımı büyüttük. Yeni bir bölüm ekledik, DevOps takımı ve bu DevOps takımı dahili iş yüklerini ele alacak. Ancak ayrıca müşterilerimiz için sahip olduğumuz tamamlayıcı hizmetlerimizden birini de ele alacak. Oracle'a tamamlayıcı olan onlar için validator çalıştırma. Zaten birkaç ortağımızla validator çalıştırmak için anlaşmalarımız var ve bunu Oracle tarafından oluşan bazı gas maliyetlerini karşılamak için kullanabiliriz.
+
+00:04:54 - 00:05:29
+Yani Oracle hizmetine gerçekten güzel bir değer katkısı ki onu daha ucuz hale getiriyor ve bizi bu zincirlere ve ortaklarımıza daha yakın hale getiriyor ve onlarla daha bütüncül çalışmamızı sağlıyor. Bu adtech ile yaptığımız anlaşmaya ve onlar için noir üzerinde yapacağımız çalışmaya benzer. Yani esasen şimdi iki tamamlayıcı hizmetimiz var: tooling'imiz ve validator'larımız. Sanırım bu bizi gelir elde etmek için de çok iyi konumlandıracak.
+
+00:05:29 - 00:06:08
+Herkes şimdi gelir hakkında konuşuyor ve bunlardan tooling tarafından zaten gelir elde ediyoruz ve yakında validator'lardan da. Yani o tarafta oldukça iyi durumdayız. Takım açısından yani evet, sanırım paylaşmak istediğim şeylerin çoğu buydu. Yine pipeline TVL açısından iyi görünüyor. Beni duyabiliyor musunuz? Evet. Evet. Evet. Şimdi duyabiliyoruz. Sözü sana vereyim. Sadece özetleyeyim. Yani evet iyi pipeline'ımız var, iyi miktarda TVL var. Duyurular gidiyor, mevcut ortaklarla test ediyoruz, hataları buluyoruz, düzeltiyoruz, kendi ayaklarımızın üzerinde duruyoruz ve fonlama turu. Belgelerimizi hazırladık ve şimdi sadece ulaşıyoruz ve bazı yeni takım üyeleri ve ortaklarımızdan bazılarına verdiğimiz gelir elde eden hizmet için tamamen yeni bir bölüm.
+
+00:06:08 - 00:06:46
+Yani hepsi hepsi evet, işte bu. Chris'e geri vereceğim, topluluk tarafını yapması için. Onun sahip olduğu başka şeyler var ve sonra tüm soruları cevaplayabilirim. Onlar için bazı cevaplar hazırlamaya başlayacağım. Evet, ama aslında isterseniz az önce bahsettiğim tüm şeyler hakkında şimdi bile sorular sorabilirsiniz. Onları almayı umursamıyorum. Sanırım soru yok. Yani Chris, topluluk pazarlama tarafı ile devam edebilirsin. Harika. Bu ilk kısmı ele aldığın için teşekkür ederim çünkü bağlanırken geleneksel olarak bazı sorunlar yaşıyorum ve şimdi bile kendimi unmute ettim ve internet kesildi ve kabloya bağlıyım yani bu aramın etrafındaki elektriğin gerçekten yüksek olduğunu tahmin ediyorum.
+
+00:06:46 - 00:07:34
+Yani her seferinde çılgın şeyler oluyor. Güncelleme için çok teşekkür ederim ve ayrıca zorlukların bazı kısımlarını ve alternatif fonlama akışlarını paylaştığın için çok mutluyum ki topluluk bu şeyleri öğrensin ki her zaman daha geniş düşünüyoruz ve tabii ki bazı şeyler zaman alabilir, bu dağıtım gibi ama sadece dağıtım yapalım demek için acele etmiyoruz, mükemmel ürünler yapmaya çalışıyoruz ve bu şeyler hazır olduğunda süreç çok daha hızlı olacak, değil mi? Yani yanlışımı düzelt, ama sanırım bu Oh evet evet evet kesinlikle geçen sefer bahsettiğimiz ve geçen ay çalıştırdığımız ilk entegrasyon dalgası tam olarak sorunları ve hataları bulmak için tam olarak buydu.
+
+00:07:34 - 00:08:11
+Böylece gerçekten üretim hazır şeyleri yapmadan önce çözebiliriz. Yani evet, sürecin bir parçası. Evet, bu harika. Ve ortaklıklar gidecek, dağıtmaya başladığımız anda daha fazla şey duyurulacak ve bu da muhtemelen gelecek ay gelecek olan şey. Mikrofonunun kapalı olduğunu görüyorum, ama benim mikrofonumdan bahsediyor musunuz? Sadece merak ediyorum, onu aslında duyabiliyorum. Evet, oldukça iyi. Ama belki diğerleri duyamıyor. Evet, bu garip çünkü bazıları beni duyabiliyor, bazıları duyamıyor. Tamam, beni duyabiliyorsunuz. Bu konuyu netleştirelim. Çoğunuz beni duyamıyorsa, o zaman sorun belki sadece diğerlerinde. Ve bu adam hala duyamıyor. Belki sen de aynısını yapmalısın, adamım. Benim yaptığım gibi bilgisayarını yeniden başlat.
+
+00:08:11 - 00:08:43
+Mükemmel. Teşekkürler. Yani çoğu insan duyabiliyor. Ve evet, çok fazla iş devam ediyor, ama bu gelecek ayın aslında patlama ayı olduğunu görebiliyorum. Yani çok fazla şey çıkaracağız ve bunu bir süredir söylüyoruz, ama şeyler hazır olduğunda çıkacakları açık. Yani bu ekmek pişirmek gibi. Çok erken çıkarmak istemezsiniz, ama aynı zamanda yakmak da istemezsiniz. Yani sanırım bu konuda iyiyiz.
+
+00:08:43 - 00:09:22
+Topluluk tarafında biraz paylaşacağım. İş adamları çok iş yaptı ve hala yapıyorlar. Gorgi'nin bize katılmayı başarması çok mutluyum çünkü takım üyelerimizden ikisi şimdi Dubai'de, yani Martin ve Magnos, ikisi de farklı panellerde yer aldı. Magnos açık kaynakın geleneksel tekellerle rekabet edip edemeyeceği hakkında konuştuğu bir panele katıldı ve bu açıkçası blok zincirinde tekelleri zorladığımız şey, yani Magnus bu konuda konuşmak için doğru yerdeydi ve diğer kişi hepinizin bildiği Martin, ekosistem başkanımız, sana nasıl söyleyeceğimi söyleyebilirim ve blockchain disturb disrupt'ta panelistti, kripto ve blockchain'i genel olarak bozma hakkında konuşuyorlardı ve blockchain'de şeyleri organize etme şeklimiz kesinlikle düşük maliyetli veya ücretsiz dağıtım ve dağıtım için ücret almayarak alanı bozuyor.
+
+00:09:22 - 00:10:00
+İşte bu şekilde ağımıza daha fazla kullanıcı çekmeye başlıyoruz ve insanların gelip test etmesine ve sağladığımız hizmeti kullanmaya başlamasına izin veriyoruz. Yani Martin Dubai'de büyük bir izleyici kitlesi önünde konuştu ve temelde fikirlerimizi ve bu çok rekabetçi piyasada şeyleri nasıl gördüğümüzü paylaşıyordu, neyin daha iyi yapılabileceği ve blok zinciri tasarımı sayesinde bu tür bir kurulum sunabilmemiz çünkü protokolümüz gerçekten çok verimli, yani hatırlanması gereken şey bu, bunu sık sık tekrarlıyoruz ama durum bu.
+
+00:10:00 - 00:10:49
+Bu ayın başlarında da EAT etkinlikleri serisinde başka bir etkinlik vardı, eat bookerest'ti. Kendim oraya gittim kalabalığı görmek için, çok sayıda hacker'ın yeni teknolojileri denediğini görmek için ama ayrıca geliştiricilerimizden Jordan, belki bazılarınız onu tanıyorsunuz çünkü o da konferanslarda konuşmada çok aktif, orada bir konuşma yaptı ve fiyat oracle'larının ötesinde başka hangi kullanım durumları olduğu hakkında konuştuk ve özellikle rastgele üretilen sayıların kullanımını keşfetti, bunların bazı uygulamalar için ne kadar önemli olduğu ve neden blok zincirinde bu teknolojiyi sunmada iyi konumda olduğumuzu.
+
+00:10:49 - 00:11:17
+Bu konferansta çok sayıda tutkulu insan vardı, çok sayıda hacker, hepimizin gördüğü şirketlerin isimlerini söyleyebilirim, çoğunlukla deneyimi ve topluluğun bu enerjisini paylaşmaya yönelik. Yani katılacak iyi bir etkinlikti. Bu ay başka ne yapıyorduk? Bu ayı sarıp sarmaladığımız anı seviyorum. Ayın başında yeniden markalaşma yaptık. Umarım yeni logoyu beğenmişsinizdir. Tüm korsanları yönlendiren kuzey yıldızı gibi. Belki herkes bunun arkasındaki anlatıyı anlamadı, ama bunu daha fazla dağıtmak için çalışmamız gerekiyor.
+
+00:11:17 - 00:11:53
+Ve çoğunuz bu konuda çok olumluydunuz. Bunu duymaktan mutluyum, burada topluluk kodunda olanlar. Yeni logoyu ve yeni görselleri beğendiniz mi? Sadece sohbette yazabilirsiniz. Daha fazla öğrenmekten mutluyum. Ve ayrıca o kadar çok beklenen Quest 3'ümüz vardı. O kadar uzun süre erteledik ama yeniden markalaşmaya ihtiyacımız vardı ve evet teşekkürler çocuklar. Bunu duymaktan çok mutluyum, aylarca süren sıkı çalışma. Quest 3'ü bitirmek için yeniden markalaşmaya ihtiyacımız vardı ve çok başarılı bir kampanya oldu diyebilirim. Bu sefer bize katılan yaklaşık 4.000 kişi vardı. Genel olarak topluluğumuz son iki üç ayda çok büyüdü ve şimdi gerçekten tüm aktivitelerle bir ev ortamı gibi hissediyor ve takılmak için harika bir yer.
+
+00:11:53 - 00:12:36
+Tüm korsanları görmekten mutluyum ve ayrıca lous topluluğu da haftalık aktivitelerle büyüyor ve hepiniz katkıda bulunuyorsunuz. Daha fazla insana ulaşıyoruz. Bunun için teşekkür etmek istiyorum. Ayrıca bu ayın en aktif katkıda bulunanlarını özellikle teşekkür etmek için özel bir an kullanmak istiyorum ve en aktif olan ödüllendirilecek. Adı Lat Krypto ve en aktifti. Bu bot'tan aldığınız metrikler. Yani lous rolü ile ödüllendiriliyor ve diğer kişi Kagan. Adını doğru telaffuz edemezsem özür dilerim, ama topluluğa sürekli desteğiniz için korsan rolü ile ödüllendiriliyorsunuz ve korsan mürettebatına hoş geldiniz.
+
+00:12:36 - 00:13:20
+Oldukça harika. Tüm aktif üyeler ve tüm korsanlarla ayda bir iki kez özel olarak konuşma fırsatı bulduğum için çok mutluyum. Onlardan çok fazla geri bildirim topluyorum ve şeylerin nasıl geliştirilebileceği hakkında çok şey öğreniyoruz ve tüm bu fikirleri hayata geçirmek için sıkı çalıştığımızı düşünüyorum ve tüm fikirlerin iyi olduğunu ve çok iyi çalıştığını görüyorum, yani o rolleri alan çocuklar için tebrikler, diğerleri nasıl çalıştığını biliyorsunuz, katkıda bulunmaya devam edin, çoğunuz sürekli içerik yazıyor ve ayrıca sanat yaratıyorsunuz.
+
+00:13:20 - 00:13:54
+Uzayda herkesin yapmaya başladığı tüm sanat karşısında büyülendim, tüm harika resimler. Böyle yetenekli bir topluluğa sahip olduğumuzu bilmiyordum ama şimdi evet, görmekten süper mutluyum. Sohbette çok fazla soru görmeye başlıyorum, topluluk soruları zamanına yaklaştığımızda sadece sohbeti açacağım ve bazılarını göreceğim, sanırım burada bile açıyorum ve resimler ve sanat görüyorum, oldukça çılgın, sadece sorulara bakalım çocuklar.
+
+00:13:54 - 00:14:38
+Gerçekten beğendiğim ve belki kaçırdığınız ama cevaplamak önemli olan sorulardan biri. Blok zinciri yakın gelecekte EVM uyumlu olmayan blok zincirlerini desteklemeyi planlıyor mu? Evet, sadece yakın şeyi tanımlayabilirseniz ama kesinlikle hedefimiz ve tasarım gereği zincir agnostikiz, bu da EVM uyumlu olmayan blok zincirlerini destekleyeceğimiz anlamına geliyor. Sadece önce kendimizi çok fazla TVL ve çok fazla proje olan alanda konumlandırmamız gerekiyor ve sonra Lana'ya genişleyeceğiz.
+
+00:14:38 - 00:15:21
+Tabii ki, Blox'un onlar için ne sunabileceği konusunda ilgilenen projelerle pipeline'da anlaşmalarımız var, ama takımımızın bu noktaya gelmesi için geliştirme zamanı gerekiyor. Yani cevap evet. Eğer sorulardan geçiyorsan, bazılarını cevaplayabilirim. Evet. Tamam. Yani sanırım bir evet, bazı sorular doğrudan sana çünkü sen en fazla bağlama sahipsin ve şimdi gitmen daha kolay olacak, eğer cevaplayacak bir sorun varsa sadece git cevapla ve ben de diğerlerine bakacağım.
+
+00:15:21 - 00:16:03
+Yakın vadede ilginç şeyler hakkında bir soru vardı. Yani yakın vadede sanırım T ana ağı bizim için çok ilginç olacak ve Oiler ile yaptığımız işi nasıl genişlettiğimiz ve ayrıca bulduğumuz bu gerçek Vchain fırsatları da. Yani sanırım bunlar evet, pazarlama tarafında da çok havalı bir etkinlikleri var, belki gelecek hafta değil ama evet ve bu evet çok ilginç olmalı. Uzun vadede başka bir soru vardı, önümüzdeki sekiz ay içinde 2026'da nasıl yapacağız diye düşünüyorum.
+
+00:16:03 - 00:16:43
+8 ila 12 aylık bu dönemde ana hedefler öncekiyle aynı kalıyor, yani daha fazla zincir, daha fazla protokol, daha fazla ürün ve protokol tarafında TVL metriğine gerçekten odaklanmaya çalışacağız ve en azından oda neden olmasın bir flu almak, bu 8 ila 12 aylık dönemdeki hedefimiz. Zincirler açısından 50 ila 100 arasında soğan dağıtmak istiyorsunuz, bu plan. Yani 2026'da çok fazla TVL, çok fazla zincir ile başlamak istiyoruz ve umarım fiyat beslemeleri ve finansal veri kadar büyük olmasa da bu yeni oracle'lar gibi başka finanse olmayan veri ürünleri bulmuş oluruz.
+
+00:16:43 - 00:17:21
+Şu anda etrafta dolaşan birkaç fikir var. Bunların nasıl gideceğini göreceğiz. Yani bu önümüzdeki sekiz ila on iki aylık hedef ve gerçekten başka bir fonlama turunu güvence altına almış olmak ve sonra kim bilir, TG konusunda muhtemelen gerçekten merak ediyorsunuzdur. Somut söyleyemem ama çok fazla TVL ve çok fazla müşterimiz olduğunda TG'yi yapacağız. Yani birkaç milyar TVL aldığımızda bu iyi ve 50 zincir 50 müşteri gibi bir şey, bu üzerinde çalıştığımız şey.
+
+00:17:21 - 00:18:02
+Yani önümüzdeki 12 ay içinde yeterli çekim gücü, yeterli müşteriye sahip olacak konuma gelmenin mümkün olduğuna inanıyorum ki zincirimizi ve tokenimizi launch edebiliriz. Yani zincir derken sadece oracle'lar için özelleşmiş, genel amaçlı bir zincir değil ama tüm bu oracle'ları çalıştıran merkezi olmayan bir zincir ağı. Yani 12 ay içinde ve 2026'da evet yapmak istiyoruz, bu fikir.
+
+00:18:02 - 00:18:44
+Daha fazla yatırım olacak mı sorusu cevaplandı. Evet, şimdi yeni bir fonlama turu üzerinde çalışmaya başlıyoruz ve ayrıca belki daha fazla yapmak için planlarımız var, belki topluluktan daha fazla insan ve melekler için bir tür tur yapmak veya hatta belki bir tür NFT satışı yapmak topluluğa daha fazla maruz kalma verebiliriz.
+
+00:18:44 - 00:19:26
+Yani bu evet potansiyel yatırımların geleceği yer, özel tur ve belki echo'da halka açık tur veya bir tür NFT satışı ama yine önümüzdeki 6 ila 12 ay içinde. Ve evet yani bu yatırım sorusu. Sonra yeni ortaklar için strateji sorusu var. Çok fazla şey var. Ortaklıklarımızın çoğu dış kaynaklı geliyor. Yani sadece çok güçlü bir saha oyunumuz var. Satış adamlarımızı ve takımımızı farklı konferanslara gönderiyoruz.
+
+00:19:26 - 00:20:11
+Yani zaten yardım eden birçok farklı projede gerçekten büyük bir BD insanları ağımız var ve sonra da yatırımcılarımız ve farklı sağlayıcılarla bazı dağıtım ortaklıklarımız var ve IP sağlayıcıları ile de. Yani temelde nasıl elde ediyoruz evet. Yani gerçekten dağıtıma ve tür dış satışlarımıza odaklanmak, ortaklarımızın çoğunun geldiği yer.
+
+00:20:11 - 00:20:53
+Zamanla vizyon gerçekten büyük web'den geleneksel teknoloji şirketlerine daha fazla satış organizasyonu, pazarlama organizasyonu inşa etmek. Kripto'da gerçekten o kadar iyi yapılmamış bir şey çünkü sadece kripto o kadar genç bir endüstri ki çoğu için iyi süreçler bile kurmadık, en temel fonksiyonlar için bile en iyi uygulamalar, satış gibi. Yani organizasyonumuzu çok fazla geleneksel teknoloji türüne dayalı olarak modelliyoruz.
+
+00:20:53 - 00:21:35
+Yani evet çok güçlü bir satış organizasyonuna bahse giriyoruz, temelde tüm farklı seviyelerle çok iyi yağlanmış, lead generation'dan teknik satış, hesap yönetimi ve yeni satışlara, sonra pazarlama insanlarına ve böyle devam ediyor. Yani evet, temelde strateji güçlü referanslar almak ve çok güçlü bir satış organizasyonu. Şimdi sanırım bir sonraki soru bizi ne ilham ettiydi? Aslında şirket blok zinciri alanında tür danışmanlık yapan başka bir şirketten çıktı.
+
+00:21:35 - 00:22:18
+Ve özel geliştirme işi üzerinde çalışıyordu ve esasen bu projeyi ilham eden şey ZK şeyleri ve staking ürünleri ve ne varsa için çok farklı hibeler yapıyorduk ve gerçekten yapacak daha fazla hibemiz kalmamıştı. Yani ilham gerçekten tüm takımı geçiş yapmaktı. 20 kişilik takımımız vardı ve onları bırakmak istemiyorduk ve inşa etmek için ilginç bir şey bulmak istiyorduk ve lido ve rocku ve div.a'nın dahili oracle'ları için ziki devre inşa etme konusunda biraz deneyimimiz vardı.
+
+00:22:18 - 00:23:02
+Bunun için hibemiz vardı ve o sistemler üzerinde yaptığımız çalışma üzerinden daha genel amaçlı bir Z oracle yapabileceğimizi fark ettik ve sonra bunu kullanarak biraz sermaye toplayabilir ve tüm takımı hareket ettirebilir ve birlikte çalışmaya devam edebiliriz. Yani sanırım evet, çoğunlukla insan kararıydı ama ayrıca geçmişimizden benzer işlerden biraz deneyim. Bu projeyi ilham eden şey buydu.
+
+00:23:02 - 00:23:44
+Ve ilginç şeyler hakkında başka ne var? Sohbette burada birkaç soru daha var. Evet, tabii ki. Devam et. Ve sana okuyabilirim ve kimin cevaplayacağına karar verebiliriz. Ama ayrıca takımı ilham eden şey hakkında perspektifimi de sunmak istiyorum. Kesinlikle daha iyi bilen kişi sensin ama insanlar bir şey ama deneyim de başka bir şey ama ayrıca tamamen izinsiz sistemler inşa etme vizyonu da var.
+
+00:23:02 - 00:23:44
+Bu yeni bir yenilik dalgası getirecek ve takım geçmişte farklı projelerle çalışırken kısıtlamaların neler olduğunu fark etti ve bu projeyi kurmak bu ihtiyaçlara cevap vermenin ve blok zincirinin gerçek potansiyeli olan yeni kullanım durumlarına izin verecek bir proje inşa etmenin yolu oldu. Tamamen izinsiz merkezi olmayan sistem diyebilirim. Yani bu tüm şey hakkında benim bakış açım ve önümde olan soru da bazı yeni teknolojilerle ilgili.
+
+00:23:44 - 00:24:27
+Layer'ın blok zinciri güvenlik modelinde oynadığı rol nedir, aktif validatör hizmeti olarak layer entegrasyonu geleneksel oracle çözümlerine göre herhangi bir özel avantaj sunuyor mu ki bunlar dahili staking gerektiriyor? Bu soruyu cevaplamak için iyi konumdasın. Evet evet tabii ki. Aslında layer'ın amacının ne olduğunu ve layer'a benzer hizmetlerin bizim için ne anlama geldiğini söyleyeceğim.
+
+00:24:27 - 00:25:10
+Bu, sahip olduğumuz validator sayısını ve sistemdeki stake miktarını bootstrap etmemize yardımcı olmanın bir yolu. Aslında kendi özel layer birimimiz var, belki oracle hizmetleri için özelleşmiş bir layer bir olarak düşünebiliriz. Yani kendi validator setimiz, kendi staking'imiz, kendi native token'imiz var ki mevcut ama bunun hem validator sayısı hem de stake açısından mümkün olduğunca büyük olmasını istiyoruz.
+
+00:25:10 - 00:25:53
+Yani attığımız bir adım, hepsini farklı restaking protokollerine entegre etmek ve o ekosistemlerdeki staker'lara dokunmak oldu. Biri orada ABS olarak olmak ama ayrıca bir VDN veya kernel inşa edebiliriz ve ismini unutuyorum ama symbiotic hizmet diyelim, önce I ile başlayacağız çünkü önce onlarla çalışmaya taahhüt ettik ama sonunda tüm diğer staker'lar için aynı şeyi geliştirmek isteyeceğiz.
+
+00:25:53 - 00:26:36
+Ağ ve validator sayısını ve stake miktarını genişletmek için. Yani esasen sistemi merkezi olmayan hale getirmenin bir yolu, kendi staking ağımızın üzerinde bir basamak taşı. Yani evet, sadece daha fazla değer, daha fazla stake ekliyoruz ve evet sistemi güvence altına almak için. Teşekkürler. Sohbette gelen sorulardan biri de. Tüm soruları takip etmeye çalışıyorum çünkü bu ilk kez bu kadar çok soru aldığımız an.
+
+00:26:36 - 00:27:19
+Yani bunu ele almaktan gerçekten mutluyum. Sohbetler sırasında çok fazla soru cevaplıyoruz ama bu insanların sorularını sorabileceği an ve bunlar kaydedilecek ve sonradan bu kaydı izlemeye gelen diğer insanlar proje hakkında öğrenebilecek. Yani tüm sorular için teşekkürler çocuklar ve blok zinciri ne farklı yapıyor ve soru biraz daha uzun ama bunun temel kısmı bu.
+
+00:27:19 - 00:28:02
+Zaten birkaç kez bahsettik, farklı yaptığımız şey blok zincirinin bu izinsiz doğası ve SDK'nın kendi scriptinizi dağıtmanıza ve inşa etmeye çalıştığınız uygulama için ihtiyacınız olan kendi verinizi almanıza izin vermesi. Yani bu hype'ın ötesinde diyebilirim anlayışıma göre. Bir şey için gitmek zorunda değilsiniz, sadece inşa etmenize izin veren bu harika aracınız var. Yani blok zinciri farklı yaptığı şey bu. Rakip analizime göre hiçbir rakibimiz bunu bizim yaptığımız seviyede yapmıyor.
+
+00:28:02 - 00:28:44
+Bazıları gerçekten çok temel, özelleştirilebilir olmayan çözümler sunuyor. Yani blok zinciri tamamen bu esneklik hakkında ve ayrıca insanları gerçekten ihtiyaç duydukları şeyi inşa etmeye güçlendirmek. Bu da bir soru, diğerlerini okumaya devam ediyorum. Kesinlikle Chris'in söylediği programlanabilirlik bir yön ve sonra da maliyet verimliliği, veriyi itme şeklimiz ve tüm ağın kurulma şekli operasyonel olarak ağımızda bu hizmetleri çalıştırmak daha ucuz.
+
+00:28:44 - 00:29:27
+Ve sonra gerçekten uzun vadeli şey merkezi olmayan bir oracle ağımız olacak. Mevcut tüm sağlayıcılar sınırlı sayıda validator ile bir tür imza şeması çalıştırıyor ve bunun bir şekilde merkezi olmayan olduğunu savunabilirsiniz, tür merkezi olmayan ama Ethereum merkezi olmayan ölçeğinde değil, on binlerce node, milyarlarca stake gibi şeyler biliyorsunuz.
+
+00:29:27 - 00:30:10
+Bu tür mimari kimse yok, herkes bir tür loot sig çalıştırıyor ve biz bir layering mon veya oracle çalıştırıyoruz, bu şekilde düşünebilirsiniz. Yani evet, bunlar üç şey: programlanabilirlik, verimlilik ve merkezi olmayan oracle hizmetleri, bunlar ana şeyler ve taktiksel olarak yaptığımız çok fazla başka şey var, özellikle satış satış tarafında.
+
+00:30:10 - 00:30:53
+Ama evet, çok fazla taktiksel olarak farklı şeyler olacak..
+
+00:30:53 - 00:31:36
+Daha büyük şeyler, kriptoya gerçekten yerli olmayan ama aslında işe yarayan. Yani bu ana şeyler bunlar. Ve sonra tabii ki tooling adamları, tooling kimse bunu yok, kimse compiler mühendisleri ve z mühendisleri yok ve VM'ler inşa edebilir ve debugger'lar inşa edebilir ve bu tür düşük seviye tooling inşa edebilir. Bu birçok farklı ekosisteme ayak basmamızın yolu.
+
+00:31:36 - 00:32:19
+Dün maiden'ı gördünüz mü, çok büyük miktarda para topladılar, biz zaten maiden ile çalışıyorduk, onlara debugger sağlamak için. Stylus ile aynı, daha önce konuştuğumuz art state ile aynı. Yani bu tooling DNA'sı kimse yok. Yani bunlar ana şeyler: programlanabilirlik, verimlilik, merkezi olmayan, satış yapısı ve tooling. Teşekkürler Google.
+
+00:32:19 - 00:33:02
+Burada sohbette takip sorusu var çünkü bahsettik, SDK ve geliştirme araçlarının geliştiricilerin özel oracle'lar ve veri kaynakları oluşturmasını kolaylaştırmak için tasarlandığı gerçekten güzel. Evet, doğru. Platformda yeni bir oracle geliştirme süreci ve teknik olmayan geliştiriciler için mevcut destek seviyesi hakkında daha fazla paylaşabilir misiniz?
+
+00:33:02 - 00:33:44
+Hızlıca cevaplayacağım ve belki Gorgi bu noktada bir şey ekleyebilir çünkü henüz herkese açık değil, dağıtım sadece dokümantasyondan sahip olabileceğiniz yönergeler var ama takım bu teknolojiyle çalışmaya istekli projeler ve insanları desteklemek için burada. Sadece takıma bir talep yapmanız gerekiyor zaten.
+
+00:33:44 - 00:34:27
+Gelecekte her şey launch olup herkese açık olduğunda daha fazla rehber olacak ve bunlar kullanımı oldukça basit olacak. Ayrıca tüm geliştirme dağıtım süreci script üzerinden yapılıyor ki bu kullanımı çok kolay hale getiriyor. Ama yine takım burada ve evet destekleyebiliriz. Projeleri geliştirmek için her zaman destek ayırabiliriz.
+
+00:34:27 - 00:35:10
+Belki Gary bunu daha net söyleyebilir eğer bu soruya eklemek istediği bir şey bulursa. Evet, Crystal'in bahsettiği gibi SDK sonunda izinsiz ve herkesin kullanımına açık olacak, ama şu anda sadece kullanıcılar. Ama sadece bize sorabilirsiniz eğer ilginç bir oracle hakkında bir fikriniz varsa, ulaşın ve herhangi bir başka müşteriyle olduğu gibi konuşuruz ve bu aşamada sizin için inşa edebiliriz.
+
+00:35:10 - 00:35:53
+Eğer ilginç ve havalı bir şeyse sizin için inşa edebiliriz, nasıl yapacağınızı gösterebiliriz ve birkaç ay sonra veya evet birkaç ay içinde SDK'yı herkesin kullanımına açacağız ve sonra sizinle birlikte kodlayabilecek birkaç daha fazla fire sahibi olacağız ve çok fazla rehber yazılmış olacak ve umarım hala developer workflow'ları hakkında canlı yayınlar yapıyoruz.
+
+00:35:53 - 00:36:36
+Yani birkaç ay içinde online olup kendiniz yapabilmeniz gerekir. Ama şu anda sadece Discord'da veya GitHub'da doğrudan bir fikriniz varsa ulaşın ve bunun hakkında konuşmak için biraz zaman ayarlayabiliriz ve görelim ve inşa edip edemeyeceğimizi görelim. Evet, harika. Teşekkürler.
+
+00:36:36 - 00:37:19
+Sohbette başka harika bir soru daha var. Oracle ağlarının chain link, super oracle'lar ve pit gibi büyük isimlerden kıyasıya rekabet gördüğü bir bağlamda, blok zinciri kendini nasıl konumlandırıyor ve özellikle esnek ve düşük maliyetli oracle çözümlerine ihtiyaç duyan yeni projeleri nasıl çekiyor?
+
+00:37:19 - 00:38:02
+Google, cevap vermek ister misin? Söylediğin sorunun yarısının cevabı sorunda diyebilirim. Temelde bahsettiğin oracle'lar düşük maliyetli oracle çözümleri sunmuyorlar ve o kadar esnek değiller, bu da blok zinciri tam olarak bu yeni zincirleri hedefliyor. DeFi'nin uzun kuyruğunu ve gelişmekte olan blok zincirlerini çok erken hedeflemeye başladık.
+
+00:38:02 - 00:38:45
+Onlara gün birinden kullanabilecekleri verimli ve esnek çözümler sunabiliriz ve chain link uyumluluğumuzla tasarım gereği onlar da mevcut pazara ve tüm TVL'e erişime sahipler. Yani söyleyebileceğim bu ve yeni zincirleri çekmek için nasıl öne çıktığımız bu.
+
+00:38:45 - 00:39:28
+Ayrıca blok zinciri yeni projelerin geçmişte mevcut olmayan şeyleri inşa etmesine izin veriyor. Yani bu da yeni projeleri nasıl çektiğimiz. Geliştiricilerin bulamadığı mevcut veri sorunlarını çözüyoruz ve bu alanda çok erkeniz, alan 10-15 yıldır var olmasına rağmen oracle'lar o kadar eski değil ama blok zincirinde o kadar fazla bilgi aktarılmamış ve ticarileştirilmemiş.
+
+00:39:28 - 00:40:11
+Yani bu alanda yapılacak çok şey var ve alanın kendisi olarak büyüyecek çok fazla alan var ve sadece pazarı paylaştığımızı söylemiyorum, tasarım gereği blok zinciri yeni pazarlar, yeni olanaklar yaratıyor. İşte kendimizi böyle konumlandırıyoruz.
+
+00:40:11 - 00:40:54
+Google bir şey eklemek ister misin? Evet, önceki soruda farklılaştırıcılar hakkında çok şey ele aldık. Ayrıca tooling ve validator'larla yaptığımız bu tamamlayıcı hizmetleri de bahsetmiştim. Bazı müşteriler farklı şeylerle tek yerde alışveriş yapmayı seviyor. Yani bu evet yaptığımız başka bir şey ve bu yardımcı oluyor.
+
+00:40:54 - 00:41:37
+Ve biz sadece çok hızlıyız. Bu büyük bir şey çünkü insanlar diyelim ki zincirler, protokoller incentive programları var ki bunların son tarihleri var, onları sonsuza kadar yapmıyorlar. Yani birisi bir zincire sadece 6 hafta içinde dağıtabilirim ama kampanya 6 hafta içinde bitiyor derse, tabii ki ne anlamı var?
+
+00:41:37 - 00:42:20
+Ama evet çok fazla zaman sadece geliyoruz ve çok hızlıyız. Yani bu başka büyük bir artı. Ama evet, durumsal olarak bağımlı diyebilirim. Çok fazla şey yapabiliriz. Rakip analizinin yapabileceği şeylerin çoğunu biraz daha iyi yapabiliriz ve kimsenin yapamayacağı birkaç şeyimiz var.
+
+00:42:20 - 00:43:03
+Yani aslında çok farklı seviyelerde insanları geçebiliriz. Ama evet, bunlar ana olanlar. Evet, sadece gelip bu tür bir altyapı projesi inşa etmek fikri olmamasının nedeni bu tür altyapı projelerinin yüksek düzeyde teknik ve karmaşık olması. Yani böyle bir projeye başlamadan önce arkasında çok fazla düşünce var.
+
+00:43:03 - 00:43:46
+Yani birçok fırsat daha önce görüldü ve şimdi pazarda test ediliyorlar ve daha önce bahsettiğim gibi henüz keşfetmemiz gereken kullanım durumları var ve ayrıca fiyat beslemelerinin ötesinde de Gorgi'nin bahsettiği gibi önümüzdeki 12 ay içinde teknolojimiz için çok fazla yeni olanak keşfedeceğiz.
+
+00:43:46 - 00:44:29
+Sadece fiyat beslemeleriyle başlamıyoruz ve kesinlikle durmuyor. Benzersiz tasarımı sayesinde blok zinciri AI ve çok daha fazlası gibi kullanım durumlarını sunabilecek. Ayrıca herhangi bir tür veri ve bir noktada internette olan şeylerin doğru mu yoksa yanlış mı olduğunu doğrulayabileceğiz.
+
+00:44:29 - 00:45:12
+Yani hem blockchain hem de web iki ve web üç teknolojilerini birleştirebiliriz. Ve bu bizim için gerçekten heyecan verici bir an olacak. Yani söyleyebileceğim bu. Zaman ilerledi. Sadece tekrar kontrol edeceğim, cevaplayabileceğim bazı sorular var mı diye.
+
+00:45:12 - 00:45:55
+Evet, gerçekten güzel bir arama, diğerlerinden farklıydı. Soruları cevaplamak için yaklaşık 25-30 dakika harcadık ve bu aktiviteye sahip olduğumuz için süper mutluyum çocuklar ve ayrıca blok bilimini nasıl algıladığınızı, proje hakkında ne kadar iletişim kurduğumuzu ve sorularınızı ne kadar cevapladığımızı görmek ve duymak.
+
+00:45:55 - 00:46:38
+Bunu görmekten gerçekten mutluyum. Gelecek ay topluluk aktivitelerine devam edeceğiz. Davet mektubu kampanyasının hala devam ettiğini hatırlatmak istiyorum. Yani arkadaşlarınızı 100 kişiye kadar getirebilirsiniz ve lousia rolü alırsınız. Bu rolü almanın diğer yolları topluluk aktivitelerine katılmak, blok artist rolü almak ve ayrıca sohbette sorulara cevap vererek aktif olmak ve seviye 20'ye yükselmek.
+
+00:46:38 - 00:47:21
+Ve NFT drop'ımız olacak ki bunu şu an için erteliyoruz, belki gelecek hafta. Şimdi kendimi bir tarih söyleyerek taahhüt etmiyorum ama üzerinde çalışıyoruz ve belki beklenmedik bir şekilde düşecek. Kim bilir? Sadece takip etmeniz gerekiyor ve devam edeceğiz.
+
+00:47:21 - 00:48:04
+Sanırım gerçekten iyi bir Mayıs ayımız olacak çünkü dağıtım zaten orada olacak. Bir sonraki aramada tartışabileceğimiz çok fazla teknik şey olacak. Yani çocuklar ayarlı kalın, sahip olduğumuz tüm gönderileri destekleyin, tüm iletişimi destekleyin ki topluluk büyürken çok fazla insana ulaşmaya devam edelim.
+
+00:48:04 - 00:48:47
+NFT drop ile toplulukta ikiye katlanacağımızı düşünüyorum. Yani şimdi bu topluluğun kurucu insanlarısınız ve size sorumlu davranmanızı, topluluğa gelen yeni insanlara nazik olmanızı, yardımcı olmanızı hatırlatmak istiyorum. Sohbette onlara yardım etmek için kullanabileceğiniz çok sayıda rehber var.
+
+00:48:47 - 00:49:30
+Bu aynı zamanda fark edileceğiniz bir yol. Katılımınız için ödüllendirileceksiniz. Yani sadece korsanların nasıl yaptığını, moderatörlerin nasıl yaptığını görün ve sorularınız varsa bu adamlardan herhangi birine sorun ve ayrıca la insanları. Onlar alanda en aktif insanlar.
+
+00:49:30 - 00:50:13
+Yani bu ciddi katkıları yapan ve bu fikri daha fazla insana ulaştırmak için iten her birinize zaman ayırmak istiyorum çünkü burada teknik takımız. Herkes bu gerçeği yapmak için gerçekten koordineli ve sıkı çalışıyor ama siz çocuklar bu fikri çok daha fazla insana ulaştırmak için itiyorsunuz.
+
+00:50:13 - 00:50:56
+Yani bunun için teşekkür etmek istiyorum. Ayrıca Gorgi'nin bu aramaya katılması için teşekkür etmek istiyorum ve hala bizimle mi diye bakayım. Bu soruyu cevaplayabilecek bir soru var mı? Evet, sohbette bir soru var, okuyacağım ve bu son soru olacak çocuklar.
+
+00:50:56 - 00:51:39
+Blok zinciri SDK'sı AI veri entegrasyonuna nasıl izin veriyor, AI destekli oracle'ları kullanmanın somut örnekleri var mı? Ah, projedeki kullanıcılara uzaktan erişim sağlayabilir ve projeyi tanıtabiliriz. Tamam. Yani burada genel bir anlayış var AI hakkında ama blok zinciri AI'daki çıkarımı doğrulamak için hizmet verebilir.
+
+00:51:39 - 00:52:22
+Bu bizim için bir kullanım durumu. AI destekli oracle'lar. Gorgi genel olarak AI konularında çok uzman. Yani bu soruyu cevaplayabilecek kişi varsa, onun cevaplamasına izin vereceğim. Bunu bilmiyorum, ama evet, AI cephesinde desteklemeliyiz, birkaç şey var.
+
+00:52:22 - 00:53:05
+İlki, bazı AI projelerini zaten sadece düzenli akıllı sözleşme verisiyle destekliyoruz, fiyat verisi gibi, örneğin volatility X, onların tahmin pazarı var, zincir üzerinde binary opsiyonlar pazarı yapan ve bazı opsiyonlar sunan ve fiyat beslemeleri sağlayan bir agent var.
+
+00:53:05 - 00:53:48
+Ve umarım bunu çok sayıda başka agent ile çoğaltırız. Şimdi ikinci şey çıkarımı doğrulanabilir şekilde yapmak. Yani bu yönde devam eden bir ürünümüz var ve bu yine agent'lar için veya pazar yerleri için kullanılabilir, çıkarım pazar yerleri ve entegre edilmiş veya aslında normal geleneksel web iki pazar yerleri bile bunu entegre edebilir.
+
+00:53:48 - 00:54:31
+Yani bu AI için ikinci adım. Sonra üçüncüsü esasen tüm agent'ı çalıştırmak olacak, tüm farklı şeyleriyle, sahip olduğu tüm farklı hizmetlerin mümkün olduğunca çoğunu Oracle doğrulanabilir Oracle scriptlerinde çalıştırabilir.
+
+00:54:31 - 00:55:14
+Yani bu AI için yürümek istediğimiz yön. Ama hala agent'lar için sadece düzenli fiyat beslemeleri ve bunun gibi şeyler inşa ettiğimiz çok ilk adımdayız. Ve yakında belki daha fazla özel veri beslemesi yapmaya başlayacağız. Ama evet, durum bu.
+
+00:55:14 - 00:55:57
+Doğrulanabilir çıkarımı henüz entegre etmedik. Yani evet, bu biraz daha zaman alacak. Evet, bunlar kesinlikle geliştirmeyi planladığımız adım adım farklı ürünler. Teşekkürler Gorgi, bize katıldığın için. Yine, bu aktiviteden çok mutluyum ve soruları cevaplamak.
+
+00:55:57 - 00:56:40
+Sanırım bu insanları daha fazla soru sormaya teşvik ediyor ama bu son olacak diyorum çünkü aram zaten bir saati aştı ve blok zinciri şu anda oldukça teknik odaklı ama ileriye dönük olarak platformda daha fazla kullanım durumu yaratmayı teşvik etmek için developer topluluğunu genişletme, dokümantasyon, hackathon düzenleme veya hibeler konusunda özel planlar neler?
+
+00:56:40 - 00:57:23
+Eğer zaten uzun süredir bizimle olan biriyseniz, blok zincirinin farklı hackathon'lara ve konferanslara katıldığını biliyorsunuzdur, bu etkinlikleri destekliyoruz ve sponsorluk yapıyoruz ve insanların hack yapmasına ve teknolojiyi test etmesine izin veriyoruz.
+
+00:57:23 - 00:58:06
+Bu bizim için gerçekten önemli. Ayrıca geliştiricilerin keşfedebileceği gerçekten iyi yazılmış dokümantasyonumuz var. Geliştiricilerin iletişim kurabileceği ve özel developer soruları sorabileceği sunucuda özel rolümüz var. Sanırım şu anda o kadar iyi gelişmemiş, belki henüz tam olarak dağıtılmadığımız için ve bu gelecek ay gelecek.
+
+00:58:06 - 00:58:49
+İnsanlar bu tür sorular sormada o kadar aktif değil. Yani bu hackathon'lar hipotezlerimizi test edebileceğimiz ve insanların hangi kullanım durumlarını bulduğunu görebileceğimiz yerdi ve umarım bu sorunuza cevap verir, ilk ve öncelikle yaptığımız şey teknolojiyi insanların eline vermek.
+
+00:58:49 - 00:59:32
+Bu hackathon'lara ya sponsor olarak ya da bu süreci desteklemek için katılıyoruz. Bu sonbahar Sophia'da yapılacak eat Sophia'nın aktif organizatörü olarak hazırlanacağız ve aktif olacağız çünkü proje de Sophia'da. Bu yaptığımız bir kısım ama ayrıca diğer konferanslara gidiyoruz ve diğer hackathon'ları destekliyoruz.
+
+00:59:32 - 01:00:15
+Ve mevcut dokümantasyona sahip olduğumuz tüm bilgileri ekliyoruz, onu genişletiyoruz ve daha da geliştiriyoruz. Bu bize teknolojiyi geliştiricilerin eline verme imkanı sağlayacak. Yani bu aramaya katıldığınız için çok teşekkürler çocuklar. Süper arkadaşım Raill'in organize etmesi için teşekkür etmek istiyorum.
+
+01:00:15 - 01:00:58
+Ayrıca bugün burada çok sayıda arkadaş görmekten çok mutluyum. Uzun süredir bizimle olan insanlar. Tik Abs'ı görüyorum, kesinlikle uzun vadeli katkıda bulunan diyebilirim. Ivan, başka kim görüyorum? Yani çok fazla çocuk var. Yani kaydırıp kaydırmalıyım. Ayrıca çok fazla korsan görüyorum, Zafir, Fox, parade çocuklar harika iş çıkarıyorsunuz, değerli Misha, vay çok mutluyum.
+
+01:00:58 - 01:01:41
+Topluluğun harika desteği var ve blok zinciri başarısı da sizin desteğinize bağlı çocuklar, yani yaptığınız harika işe devam edin, asla eğlenmeyi unutmayın ve ayrıca diğerlerinin desteğine güvenebileceğinizi unutmayın çünkü biz toplulukuz ve birlikte büyüyoruz.
+
+01:01:41 - 01:01:41
+Ve bir sonraki sefere kadar inşa etmeye devam ediyoruz, değil mi? Hoşça kalın. Görüşürüz çocuklar. Mike.

@@ -1,0 +1,296 @@
+
+00:00:00 - 00:00:34
+Herkese hoş geldiniz. Bize katılmak için zaman ayırdığınız için çok teşekkürler. Bu bir sohbet olacak. Format biraz daha konuşma tarzında olacak ve konuşacağımız şey son değişiklikler ve yaklaşan yön. Kemerlerinizi bağlayın ve başlayalım. Bugün Zahari ile birlikteyim ki BlockSense'de resmi olarak yeni bir role geçecek ve Magnus BlockSense CEO'su. Yani bu topluluk için büyük bir güncelleme. Liderlik değişiklikleri var. Light paper çıktı, bazılarınız zaten bunun üstesinde olabilir.
+
+00:00:34 - 00:01:10
+Aynı zamanda yol haritası güncellemesi de var. Yani soruları önceden topladık. Topladığımız her şey öncelikle Discord topluluk sohbetinden. Yani bunlardan geçeceğiz ama sonra da sohbetten yorumlar ve diğer sorular alacağız, zamanımız olduğu sürece. Zahari, seninle başlayarak, yeni unvan hakkındaki bakış açını paylaşmanı, toplulukla yeni unvan hakkında daha fazla bilgi vermeni ve bunun BlockSense'deki planlarla nasıl uyumlu olduğunu istiyorum.
+
+00:01:10 - 00:01:42
+Yani, bir anlamda yeni resmi bir unvan var ama günlük aktivitelerim o kadar değişmiyor. Şimdiye kadar amacım her zaman BlockSense protokolünü nasıl geliştireceğimizi bulmaktı ki gelecekte mümkün olduğunca çok kullanım durumunu ele alabilen bir ağa sahip olabilelim ve son birkaç aydır light paper üzerinde odaklandım ve temelde bu yeni rol bana bu odağı sürdürmeme izin verecek çünkü uygulama ekibi light paper'daki fikirleri uygulamaya doğru ilerliyor, bir yöneticiye ihtiyaçları var, daha çok pratik olan ve onları light paper'daki fikirleri uygulama yolculuğunda rehberlik eden biri ve benim derin teknik geçmişim var, bu yüzden bu en rahat hissettiğim rol ve Magnus şimdiye kadar yapmak zorunda olduğum işin diğer ihtiyaçlarını ele almak için adım attı, fon toplama, konferanslarda bizi dünya önünde temsil etme ve şirket için stratejik kararlar alma gibi.
+
+00:01:42 - 00:02:19
+Evet, Zahari ile tanışmamın beni alana geçmeye ikna ettiğini ve yeterince heyecanlandırdığını belirtmeye değer. Ateşle vaftiz olmak gibi oldu, alan hakkında her şeyi öğrenmek, insanlarla tanışmak. Çok heyecan vericiydi. Ama Zahari gerçekten büyük bir teknik zihin ve zihnine hayranım. Bu pozisyona geçmesinden gerçekten heyecanlıyım çünkü bu işin hedefleriyle iyi uyumlu.
+
+00:02:19 - 00:02:58
+Magnus, lütfen kendini bu yeni rolde tanıt ve bize liderlik yapısı, vizyon ve bu yeni BlockSense bölümü hakkında bakış açısı ver.
+
+00:02:58 - 00:03:35
+Evet, kesinlikle. Zahari'nin söylediği gibi ekip yapısı açısından pek fazla şey değişmiyor ama burada iki ana şey var. Light paper'da ortaya konan hırs ve vizyonla mühendislerle çok pratik olmamız gerekiyor ve ağın gereksinimlerini belirleme rolünde pratik olmamız gerekiyor. Bu yüzden bunun üzerinde daha fazla zaman geçirmesinden gerçekten mutluyum çünkü orada şirket olarak ve ekip olarak bizim için çok değer katabilir. Aynı zamanda işin karmaşıklığı artıyor. Ve bu büyüdükçe, ekibin o yolculukta desteklenmesi için yapıyı yerinde olması gerekiyor.
+
+00:03:35 - 00:04:12
+Ve bu yüzden yeni rolde üzerinde çalıştığım şeylerden biri bu yapıyı içeride dışarıda getirmek, fon toplama hakkında konuştuk, fon toplama çok bant genişliği ve çok zaman alıyor ki bu inşa etmek için harcanabilecek zaman ve bu yükü ve dünya çapındaki tüm bu çeşitli konferanslara gitme yükünü alabildiğim için mutluyum ve hem protokollerle hem yatırımcılarla konuşma ve müşterilerin ihtiyaçlarını birinci elden anlama.
+
+00:04:12 - 00:04:43
+Yani hala yaptığım şeylerin çoğunu müşterilerle doğrudan konuşarak ve pazarı anlayarak ürün stratejisini geliştirme açısından önceden yaptığım şeylere benzer görüyorum. Ve bir anlamda daha çok ön ofise geçiyorum ve Zahari daha çok mutfağa geçiyor. Ve ikimiz de sırasıyla güçlü yanlarımızı kaldırıyoruz.
+
+00:04:43 - 00:05:20
+Yani evet, bu yeni yapıdan oldukça heyecanlıyım.
+
+00:05:20 - 00:06:02
+Teşekkürler Magnus. Sohbette light paper'ı kaçınızın gördüğünü merak ediyorum, tamam mı? Tabii ki, bunun üstesindesiniz. Sürpriz yok. Yani insanlar cevap verirken, bu light paper'da çok kavram var. ZK shelling point ile bağlantı bariyerini çözmekten bahsediyoruz. Sınırsız throughput motoru ile throughput bariyerinden bahsediyoruz ve sonra BlockSense'i otonom ekonomi için evrensel doğrulama katmanı olarak konumlandırıyoruz.
+
+00:06:02 - 00:06:36
+Topluluk sorularına dalmadan önce, Zahari, ana kavramları özetleyebilir misin? Yani birisi light paper'ı almadıysa, bu topluluk sorularından geçerken yardımcı olacak çünkü insanların dokümanı incelediğini ve etrafında dolaştığını biliyorum. Ana fikirlerin özetini verebilir misin?
+
+00:06:36 - 00:07:14
+Yani bu zorlu bir görev. Fikirler dedim ama tamam. Sanırım ana fikirler blok zincirlerinin gerçek dünyada ilgili olması için gerçek dünyayla çok aktif olarak iletişim kurabilmesi gerektiği ve endüstrinin şimdiye kadar cevabının oracle'lar olduğu. Ama oracle'lar şu anda uygulandıkları şekilde orijinal blok zinciri etosunun çoğunu karşılamıyor. Hala bilgi akışını kontrol eden merkezi oyuncular var. Yeni ve özgün bir fikri olan veya gerçek dünya verilerinden yararlanan yeni bir DeFi'si olan biri için çok kolay değil.
+
+00:07:14 - 00:07:49
+İhtiyacınız olan veriyi kendi başınıza zincir üzerine getirmenin kolay yolu yok. Bir Oracle ortağı bulmanız gerekiyor ve genellikle bu yavaş bir süreç. Belki çok pahalı. Çok siyaset var ve bunu teknik bir çözümle çözmek istiyoruz ki temelde herkesin yeni veriyi zincir üzerine getirmesine ve tamamen izinsiz olmasına izin veriyor. Bu büyük bir yenilik. Veriyi nasıl zincir üzerine getirirsiniz? Bunu mümkün kılan ZK sharing coin protokolünde gerçekten bir atılımımız var.
+
+00:07:49 - 00:08:27
+Söylediğiniz gibi diğer çok ilginç yenilik, blok zinciri benimsenmesini gerçek dünyada sınırlayan şey, blok zincirlerinin dünya ekonomisinin ihtiyaçlarını ele almaya hazır olmaması. Çok basit bir örnek vereyim. Dünyada herhangi birinin aylık maaşını blok zinciri ödemesiyle almasını hayal edin. Temelde saniye başına işlem açısından ağların kapasitesi bu çok temel ihtiyacı bile karşılamaya yetmeyecek, harcama hakkında konuşmuyoruz ama sadece ayda bir ödeme almak.
+
+00:08:27 - 00:09:08
+Blok zincirlerinin bu siberpunk vizyonuna ulaşmak için ilgili olması için, herkesin kendi kriptosuna sahip olması, kendi kendine egemen olması ve böyle devam etmesi için bu throughput sınırlamasını ele almamız gerekiyor ve bu tasarımımızın diğer büyük atılımı. ZK mimarilerinin ön saflarındayız ve ağımız en güçlü merkezi sistemlerle rekabet edecek şekilde tasarlanmış, Google gibi teknoloji devlerinin Spanner sistemi gibi inşa ettiği sistemler için işlem yönetimi.
+
+00:09:08 - 00:09:51
+Bu çoklu kıtaları kapsayan ve farklı kıtalarda çalışan bu örnekler boyunca bilginin yeterince senkronize edilmesine izin veren bir veritabanı türü motor. BlockSense'i benzer şekilde güçlü mimariye sahip ve veri işleme throughput'una sahip bir şey olarak düşünebilirsiniz. Temelde bugün Google ölçeğinde inşa edebileceğiniz herhangi bir uygulama türünü gelecekte BlockSense ile potansiyel olarak yapabilirsiniz.
+
+00:09:51 - 00:10:30
+Ve bunun çok heyecan verici olduğunu düşünüyorum.
+
+00:10:30 - 00:11:13
+Bu çok önemli bir nokta Martin çünkü belki bu topluluktaki insanlar için en yeni olan şey bu, bizi öncelikle DeFi oracle'ı olarak görenler için ve gerçek şu ki Zahari'nin az önce ortaya koyduğu şey her zaman ana plan. Light paper'ı henüz yayınlamamıştık ve light paper oracle'ın nasıl da GTM stratejisinin bu daha geniş vizyona nasıl uyduğunu açıklıyor, otonom ekonomi için otonom hizmetler için temelde bir mimari ve oracle da çok yüklü bir terim çünkü birisi oracle düşündüğünde on kezden dokuzunda fiyat beslemelerini düşünüyor.
+
+00:11:13 - 00:11:49
+Ve gerçekten oracle teriminin Ethereum'un erken günlerindeki başlangıcı, bu çok daha geniş, daha genel bir terimdi ki temelde zincir dışı dünyadan zincir üzerine herhangi bir şeyi getiren sistemi kapsıyor. Ve bu fiyat beslemelerinin çok ötesine geçiyor, sadece fiyat beslemelerinin bugün oracle'ların ana uygulamalarından biri olması. Ama Zahari'nin az önce hem throughput hem de izinsizlik ve bu hizmetlerin doğrulanabilirliği açısından özetlediği sınırlamalar nedeniyle oracle'ların aldığı merkezi kurulum nedeniyle.
+
+00:11:49 - 00:12:25
+Oracle'ların daha geniş, daha genel uygulamaları uygulanabilir hale gelmek için mücadele etti. Ve bu yüzden burada etkinleştirmekten bahsettiğimiz kullanım durumlarının çoğunun bugün zincir üzerinde yaygın olmadığını tanımanın önemli olduğunu düşünüyorum. Ve bu başarmaya çalıştığımız şey. Web iki dünyasında mümkün olan ile web 3 dünyasında mümkün olan arasındaki bu bariyeri yıkmak bizim görevimiz.
+
+00:12:25 - 00:12:57
+Web 3'ün bugün blok zincirlerinin sınırlamaları içinde mümkün olan belirli kullanım durumlarıyla sınırlı kaldığı. Sadece bunu eklemek istiyorum.
+
+00:12:57 - 00:13:29
+Teşekkürler Magnus. Herkesi aynı sayfada tutmak için bu bağlam için ikinize de teşekkürler. Şimdi topluluk sorularına atlayabiliriz. Burada sahip olduğum ilki light paper'da POA'dan tam ZK konsensüse DAO ve hazine ile geçişten bahsettiniz. Erken topluluk katkıları TGE'ye nasıl tanınacak? Bu açıkçası topluluk için çok önemli bir soru.
+
+00:13:29 - 00:14:05
+Evet, bunu cevaplayabilirim. Tüm projeler gibi ağın yüzdesinin farklı oyunculara ve aktörlere tahsis edildiğini düşünüyorum ki ağı farklı şekillerde destekliyorlar, operatörler var, erken destekçiler var ve tabii ki topluluk var ve bu yüzden orada planlanan şeyin tüm fasulyelerini gerçekten dökemeyiz. Yasal nedenlerle de. Ama bu tahsislere sahip olma niyeti bizimle yolculukta olanları ödüllendirebilmemiz ve özellikle yolculuğun erken aşamalarında bize inananları.
+
+00:14:05 - 00:14:40
+İnanmanın daha zor olduğu zaman, büyümemize yardım etmemize yardım eden inancı olanları. BlockSense'deki herkesin bunu çok önemli bir parça olarak gördüğünü düşünüyorum. Topluluğa çok dikkat ve özen gösteriyoruz çünkü sizi büyümemizin gerçek itici gücü olarak görüyoruz ve görülmemize ve tanınmamıza yardım ediyor. Deneme, geliştirme, teknolojiyle oynama, tüm bu geri bildirimlerin hepsinin çok hoş geldiğini ve bizim için değerli olduğunu söylemeye değer.
+
+00:14:40 - 00:15:13
+Yani evet, umarım soruyu cevaplar. Ama temelde topluluğun BlockSense hikayesinde oynadığı rol önemli bir rol ve buna göre ödüllendirmek istiyoruz.
+
+00:15:13 - 00:15:48
+Teşekkürler Magnus. Şimdi ikinci soru POA'dan token stake POS'a geçişin ölçeklenebilirliği, yönetişimi ve ekonomik güvenliği nasıl etkilediği? Bu biraz geniş bir soru olduğunu biliyorum. Hanginiz bunu almak ister?
+
+00:15:48 - 00:16:29
+Bunu alabilirim. POA ağında güvenlik tamamen güvene dayalı ve şu anda gerçek şu ki oracle operatörlerinin çoğu itibar üzerinde çalışıyor. Söylemek istediğim bu. Yani güvenlik itibara dayalı. Proof of stake bileşeni getirdiğinizde artık oyunda ek cilt var, artık sadece itibar değil aynı zamanda birisi kötü niyetli davranırsa kaybedilebilecek bir tür para var ve BlockSense ağı kullanıcıların güvendiği operatörleri belirleyebilmesi gerçeğinden güvenlik türetmemiz için hem itibarı hem de para birikimini kaldırabilecek şekilde tasarlanmış.
+
+00:16:29 - 00:17:08
+Yani hala tüm blok zinciri endüstrisinde önemli oyuncular olan büyük ölçekli operatörlere sahip olacağız ve ağın koruyucuları olarak hareket edecekler. Ama sonra kendi paralarıyla sisteme giren ve ek güvenlik katmanı sağlayan stake'çılar da var. Ve son olarak, ağımız için çok benzersiz olan şey, ağ saldırı altındaysa, gelecek anahtar tabanlı mekanizmamız aracılığıyla ağı korumak için temelde ek sermaye çağırabilmemiz.
+
+00:17:08 - 00:17:47
+Tüm bunları açıklamak biraz uzun ama light paper bu mekanizmaların nasıl çalıştığını açıklamak için büyük detaya giriyor. Ama sonuçta ağın bu kripto ekonomik güvenliği, dünyadaki tüm likit sermayenin BlockSense ağı tarafından yayınlanan tüm bilgileri koruduğunu söyleyebiliriz. Temelde birisi veriyi manipüle etmeye çalışırsa dünyadaki tüm kamu likit sermayesini aşmak zorunda kalacak.
+
+00:17:47 - 00:18:20
+Evet, bu öneriyi ve tasarımı seviyorum. Gerçekten akıllı teknik insanlarla, alandaki yatırımcılarla bazı konuşmalar yaptık ve bunun gerçekten takdir ettikleri bir nokta olduğunu biliyorum. Topluluğun da yaptığını gördüğümüz şeylerden biri bize özel projeler getirmeleri, belki zincir üzerine fiyat verisi getiren özel script'lere ihtiyaç duyabilecek projeler. Yani gerçek zamanlı hava durumu verisi için özel bir Oracle script tasarlayacaksanız, bu hangi yenilikçi veya yeni özellikleri destekler ve hangi uygulamaları güçlendirebilir?
+
+00:18:20 - 00:18:58
+Anahtar burada nihai esneklik sağlamamız. BlockSense ağı için Oracle script'leri tasarlarken temelde akıllı kontratlar geliştirmekle tamamen aynı şeyi yapıyorsunuz. Kullanabileceğiniz zengin işlevselliğe sahip bir programlama diliniz var. Yani hava durumu verisi oracle script'iniz muhtemelen birden fazla veri kaynağını tüketecek. GPU hızlandırmalı algoritmalarla uydu görüntülerini işleme gibi gelişmiş şeyler yapabilir. Geliştiricilerin aklındaki veri işleme pipeline'ını tam olarak inşa etmesi için çok esneklik sağlıyoruz.
+
+00:18:58 - 00:19:41
+Şimdi bu özel script'e sahip olduğumuza ve script bu dApp'leri güçlendirebileceğine göre, BlockSense zincir dışı beslemelerde bütünlüğü nasıl sağlayacak ve manipülasyonu nasıl önleyecek ve doğrulayıcılar nasıl teşvik ediliyor?
+
+00:19:41 - 00:20:19
+Güvenli oracle script oluşturmanın anahtarı gerçek dünyadan birden fazla bağımsız veri kaynağından yararlanmak. Ağımız içinde çalışan Oracle script'in sonucunu sahte yapamayacağınız güçlü bir argüman yapıyoruz. Ama script'in kendisi bazı internet veri kaynaklarına bağlı olabilir ki bunlar temelde çılgına dönebilir ve geçersiz veya kötü niyetli veri sağlayabilir. Buna karşı korunmanın yolu birden fazla bağımsız veri kaynağı kullanmanız ve aykırı filtreleme gibi algoritmalar kullanmanızdır.
+
+00:20:19 - 00:20:50
+Temelde kaynaklardan biri diğerlerinden tamamen farklı bir şey iddia ediyor. Bu kaynağı atıyorsunuz. Görmezden geliyorsunuz. Ayrıca anomali tespiti algoritmaları yapıyorsunuz. Örneğin, gerçek dünyayı gerçekçi şekilde modelleyen bir hava durumu modeliniz olabilir ve bir anomali tespit ederseniz burada potansiyel olarak bir şeyler oluyor diyebilirsiniz, bu durum çözülene kadar güncellemeleri yayınlamayı erteleyeceğim.
+
+00:20:50 - 00:21:10
+Yine veri işleme pipeline'larının nasıl davrandığını ve çalıştığını programladığınız için her kullanım durumu için özel olarak tasarlanmış bu tür sofistike algoritmaları kullanabilirsiniz.
+
+00:21:10 - 00:21:43
+Teşekkürler Zahari. Sohbette yaptığım şey light paper linkini paylaştım. blogsense.net/resources/lightpaper. Paylaşmamın diğer nedeni orada yol haritamızın bölümünü de göreceksiniz. Ve bu yüzden bir sonraki konuya geçeceğiz ki bu yol haritası. Test ağı kilometre taşları, ana ağ lansmanı ve ABS entegrasyonu, Q1 2026 genişleme, çok zincirli entegrasyon ve stratejik ekosistem ortaklıkları var.
+
+00:21:43 - 00:22:16
+Magnus, aramadan önce yol haritasına atlamayan biri varsa sorulara tekrar geçmeden önce yol haritasının genel bakışını verebilir misin?
+
+00:22:16 - 00:22:49
+Evet, yol haritasıyla da net olmak istiyorum, light paper'da detaylandırılan şeylerden bazıları günümüzde yapılan şeylerin en son teknoloji, keskin kenar veya keskin kenarın biraz ötesinde. Özellikle bu bileşenlerin nasıl bir araya getirildiği şeklinde. Daha önce hiç yapılmamış. Ve bu yüzden yol haritasının çeşitli şeyleri uygulamamız gereken zaman çizelgeleri konusunda şimdi en iyi tahminimiz olduğu konusunda uyarı vermek istiyorum.
+
+00:22:49 - 00:23:24
+Ama bu şeyler değişebilir çünkü burada bazı AR-GE var, bu inşa etmek için çok karmaşık bir sistem ve evet bazen yol haritaları eksik bilgiye dayalı bir son tarihe bağlı kalabilirsiniz çünkü bazı şeyleri inşa etmeye başlamadan önce bilgi her zaman eksik. Bu yüzden yol haritasındaki zaman çizelgelerinden bazıları kasıtlı olarak tıbbi derece hassasiyetle verilmiyor.
+
+00:23:24 - 00:24:00
+Yol haritasının genel çizgilerini vermek için temelde bugün bulunduğumuz yer, proof of authority ağımız var, ADFS'imiz var ki zincir üzerine toplu şekilde çok verimli şekilde yayınlama mekanizmamız. 70'ten fazla EVM ağıyla entegrasyonlarımız var. Birkaç farklı EVM'de ana ağ entegrasyonları olan protokollerle çalışıyoruz. Dün Somnia ana ağında canlıya geçtik. En son olan bu.
+
+00:24:00 - 00:24:40
+Ve ana ağları iki gün önce başlattı. Yani Somnia'da Somi'den USD'ye, yerel token'dan USD'ye besleme sağlayan ilk oracle'ız ve orada ana borç verme protokolü olan, ana ağda entegre eden bir protokole sahibiz ve şeyler proof of authority ağının versiyonunda hızla ilerliyor. Yol haritasına geri dönmek için bir sonraki aşama, bir sonraki büyük kilometre taşı ABS entegrasyonu olacak ki bu operatör setini merkezi olmayan hale getirmemize izin verecek.
+
+00:24:40 - 00:25:16
+Bundan önce bile operatör setini bazıları önceki turdan stratejik yatırımcılar olan başlangıçta seçilen düğüm operatörleriyle hafifçe merkezi olmayan hale getireceğiz. Ama ABS entegrasyonu ağa daha fazla stake getirmemize ve operatörlerin daha fazla çeşitliliğini getirmemize izin verecek. 2026'da ilerleyerek gelecek yıl Zahari'nin başta özetlediği ZK sharing coin konsensüsü tarafından yönlendirilen ağın test ağını inşa edeceğiz.
+
+00:25:16 - 00:25:52
+Ve başarılı test ağından sonra ana ağ ve TGE'yi çıkaracağız, TGE için çok katı son tarihler vermek istemiyorum çünkü bazıları projenin elinde değil, merkezi borsalar kendi programlarında çalışıyor ve bu yüzden belirli bir zaman çizelgesi vermek aptalca bir oyun. Ama şu an için en iyi tahminimiz gelecek yılın sonuna doğru.
+
+00:25:52 - 00:26:22
+Ve bu arada oldukça ilginç yeni kullanım durumları üzerinde çalışıyoruz. Ve bu yüzden ağın doğrulanabilir AI yeteneklerini test eden inşa ettiğimiz uygulama etrafında bazı duyurular için gözlerinizi dört açmanızı istiyorum. Ve bu şu anda üzerinde çalıştığımız ve bu yıl çıkarmayı planladığımız şey. Ve bu aşamalı bir yayın olacak.
+
+00:26:22 - 00:26:52
+Ama bu yayının ilk kısmı AI ajanlarıyla çalışmak için açık kaynak araçlar. Cloud Code ve Codex gibi en son ajan araçlarıyla deneme yapan herkes için gerçekten ilginç olacağını düşünüyorum. Şimdi uygulama olarak geliştirme aşamasında olan altyapı değil ama uygulama katmanında gerçekten ilginç, zorlayıcı bir ürüne sahibiz.
+
+00:26:52 - 00:27:15
+Ve dahili olarak benimsemeye çalıştığımız ve yakında herkesle paylaşmak istediğimiz şey. Yani evet, bu küçük bir önizleme, o duyuru için gözlerinizi dört açın. Sizin için oldukça ilginç olacağını düşünüyorum.
+
+00:27:15 - 00:28:02
+Martin'in çok hareketsiz mi yoksa donmuş mu oturduğundan emin değildim. Düştü gibi görünüyor. Bizi hala duyabiliyor musunuz? Tamam. Bize bir evet verin. Evet. Tamam. HGU'yu duyabiliyorum ve hiçbir şey duyamıyorum. Tamam, Martin'i sahneye davet etmeye çalışacağım. Martin'i tekrar davet etmem gerekiyor. Martin. Tamam, hem Martin'i hem de davet ettim. Çocuklar, şimdi beni duyabiliyor musunuz? Duyuyoruz. Evet. Tamam. Yeniden bağlanmaya çalıştım ve sohbeti görebiliyordum ama sizi duyabiliyordum.
+
+00:28:02 - 00:28:37
+Bu yüzden özür dilerim. Tamam. Yol haritası bölümünde topluluk sorularını başlatmadığınızı hayal ediyorum, değil mi? Hayır, henüz yapmadık. Tamam, mükemmel. Şimdi 70 ağda canlıyız. Yani bir sonraki büyük kilometre taşı nedir Magnus?
+
+00:28:37 - 00:29:21
+Evet. Daha önce bahsettiğim gibi, ana ağ dağıtımları, bu ay ve gelecek ay ana ağa geçecek en büyük zincirlerden bazılarından hibeler almaya çalışıyoruz. Bunun nasıl gittiği konusunda güncel kalmak için en iyi yer Twitter'ımız. Duyuruları geldikçe ev sahipliği yapacağız. Ama dediğim gibi doğrulanabilir çıkarım etrafındaki uygulama. Yani neden AI'ya ayak bastığımızı sorabilirsiniz ve AI'nın yazılımın hemen hemen her öğesini nasıl dönüştürdüğüne bakın.
+
+00:29:21 - 00:29:55
+Oldukça şok edici. Dünya nüfusunun %10'u haftalık ChatGPT kullanıyor, değil mi? Bu 3 yıl önce canlıya geçen bir uygulamaydı, 3 yıldan az önce. Hiçbir şey o hızda büyümedi. İnterneti geçti ve BlockSense'de dahili olarak mühendislik kültürümüzü AI öncelikli olmaya kaydırdığımızı gördük.
+
+00:29:55 - 00:30:29
+Ajanlarla çalışmaktan gelen verimlilik artışını birinci elden gördük. Temelde mühendis olarak yönetebileceğiniz daha fazla çalışan veya işgücü setiniz var. Ve bu araçları benimsemeye gerçekten çok çalışıyoruz ve bu araçları benimserken bazı engellerle karşılaştık. Kenarları pürüzlü ve bugün ekipler için istediğiniz gibi tam olarak çalışmıyorlar.
+
+00:30:29 - 00:31:02
+Ve sonuç olarak dahili olarak kendi araçlarımızdan bazılarını geliştiriyoruz ve bu bahsettiğim şey buydu. Ajanlarla nasıl çalışılacağına dair cevabımız, kodlama ortamında ajanlarla nasıl çalışılacağı ama bunun ağa nasıl bağlandığı. Yani evet, dünyanın %10'u haftalık ChatGPT kullanıyor ve kaçının sohbetlerinin asla silinmediğini bildiğini bilmiyorum. ChatGPT OpenAI'ın resmi politikası artık sohbetleri asla silmemeleri, sil'e tıklasanız bile.
+
+00:31:02 - 00:31:39
+Bu arada hiçbir şey yapmaz. Ve bu öncelikle gizliliğiniz için büyük bir sorun ama sonra bu sohbetler çeşitli şekillerde sızdırılabilir. Bir yol mahkemede sohbetlerin kolayca keşfedilebilir olması. Başka bir yol bu kullanıcıların çoğu için sohbetlerin aslında modeli eğitmek için kullanılması ve modeli kişisel olarak tanımlanabilir bilgilerle, hassas bilgilerle eğitiyorlar.
+
+00:31:39 - 00:32:16
+Ve bu hikayeyi daha önce oynadığını gördük, dot com döneminden bugün hala var olan büyük teknolojilere bakarsanız, işleri temelde kullanıcıları hakkında mümkün olduğunca fazla veri toplama ve bu veriyi üçüncü taraflara satma etrafında oluştu ve Alphabet ve Meta'nın trilyon dolarlık işler kurduğu şey bu. Ve bu şirketlerin aldığı para cezalarında görüyorsunuz.
+
+00:32:16 - 00:32:46
+Sadece bu hafta Google, kullanıcıların takibi kapatmayı seçtikten sonra bile kullanıcı verilerini topladığını bulan bir sınıf davasında 400 milyon para cezası aldı, temelde Google'da her hareketlerini takip ediyor ve bu veriyi reklamcılık için kullanıyor. Yani bu kötü olmamaya geri dönüyor ki Google'ın sloganıydı, şirket mottosu ki para cezaları gelmeye başladığında web sitesinden sessizce kaldırdılar.
+
+00:32:46 - 00:33:22
+Ve sonra kötü olmama var ve kötü olamama var ve kötü olamama çok daha inandırıcı bir iddia, ah söz veriyorum kardeşim kötü olmayacağım, kötü olmayacağım, tüm ekonomik teşviklerim kötü olmam gerektiğini öneriyor ve aynı oyunu AI ile oynadığını görüyoruz. Ve bu yüzden büyük model, temel model yapıcıları veri toplamak için son derece yüksek teşvike sahip çünkü modelleri böyle daha iyi oluyor ve piyasada başarılı olmaya devam edebiliyorlar.
+
+00:33:22 - 00:33:58
+Ve şirketler ile kullanıcıları arasında benzer bir çıkar çatışması. Ve bununla savaşmanın bir yolumuz var. Kullanıcı gizliliğine saygılı ve donanım operatörlerinin bile kullanıcıların sistemde işlem yaptığı veriyi görüntülemesine izin vermeyen kötü olamayan sistem sağlamanın bir yolumuz var. Ve burada light paper'da BlockSense OS referanslarını göreceksiniz.
+
+00:33:58 - 00:34:29
+Buna girebiliriz ve bu uzun bir sapma oldu. Çok basit bir soru sordunuz ve size çok uzun bir cevap verdim. Ama burada BlockSense OS devreye giriyor ki temelde güvenilir yürütme ortamlarının sınırları içinden LLM'leri, AI modellerini sunabiliyoruz ki bunlar temelde doğrulanabilir ve özel hesaplama ortamı.
+
+00:34:29 - 00:35:05
+Ve bu şekilde gerçekten bu kötü olamama sözünü veriyoruz. Bunu ajanları kullanmak için araçlarla sardığınızda, bunun etkinleştirdiği olasılıklar ve bunun sadece bireyler için değil aynı zamanda hassas bilgilerle uğraşan şirketler için de benimsenmeyi nasıl kilitleyeceği konusunda dahili olarak çok heyecanlıyız. Ve şirket derken, beyaz kağıtta gördüğünüz gibi hem web 3 hem web 2 ile konuşuyoruz, değil mi? Sistemimiz bu bariyeri yıkmak için tasarlanmış.
+
+00:35:05 - 00:35:40
+Ve bu tür yazılım, evet, kripto inşa eden bir projeyiz ama inşa ettiğimiz ürünler web 2 dünyası için de aynı derecede uygulanabilir. Yani bu üzerinde çalışılan başka bir büyük kilometre taşı ve hazır olduğunda bunun hakkında daha fazla paylaşmak için dahili olarak herkesin oldukça heyecanlı olduğunu düşünüyorum.
+
+00:35:40 - 00:36:19
+Çok teşekkürler. Zaman konusunda bilinçli olduğumu biliyorum, bu yüzden buradaki sorulardan sadece birkaçına atlayacağım ama bu ilginç. Şimdi blok zincirleri veri depolama ve programlanabilirliğe genişleyecek mi, Filecoin, Walrus, BNB Greenfield gibi depolamada Walrus ile çok dikkat ve çok kafa çevirme gördük, çok sayıda zincirin bununla deneme yaptığını veya strateji değiştirdiğini görüyorsunuz, hatta büyük oyuncuların birçoğu, bu konuda düşünceleriniz neler?
+
+00:36:19 - 00:36:58'den devam ediyorum:
+
+00:36:19 - 00:36:58
+Depolama konusunda özgür ekonomi ve çoğulluğa inanıyoruz. BlockSense protokolü birçok farklı depolama protokolüyle entegre edilecek. Yani az önce tarif ettiğim veri işleme pipeline'ları veya basit oracle script'leri hedef zincirde bir şey yayınlamadan önce çok fazla veriyi birleştirdikleri geçici depolama veya bir yere ihtiyaç duyuyorlar. Birçok farklı seçenek sunacağız ve bu seçenekler farklı saklama politikaları, farklı çoğaltma politikaları, farklı veri kullanılabilirlik politikaları ile gelebilir.
+
+00:36:58 - 00:37:30
+Yine BlockSense ağının bu esnekliği bu farklı mekanizmaların ve hizmetlerin sorunsuz entegre edilmesine izin veriyor.
+
+00:37:30 - 00:38:08
+Teşekkürler Zahari. AI'ya ve doğrulanabilir hesaplamaya geçişe atlamak istiyorum. Yani projenin AI'ya yakın zamandaki odak değişimi ile doğrulanabilir AI BlockSense hizmetlerine nasıl entegre edilecek? Topluluktan aldığımız harika bir soruydu. Bunu kim alacak?
+
+00:38:08 - 00:38:50
+Sanırım bunu alabilirim. Doğrulanabilir AI birkaç farklı bağlamda ilginç. Magnus daha önce ima etti. Ve blok zinciri ağının müşterilerinin çoğunun aslında geleneksel işletmeler veya blok zinciri ile uğraştıklarını bile fark etmeyen kullanıcılar olacağına inanıyoruz. Görünmez blok zinciri kavramımız var. Uygulama geliştiricilerinin, son kullanıcılar için blok zincirinin arka plana çekildiği ürünler oluşturmasına izin verecek bir şey yaratmak istiyoruz.
+
+00:38:50 - 00:39:25
+Son kullanıcının bilmesi bile gerekmeyen kaputun altındaki bir şey. Doğrulanabilir AI çıkarımı BlockSense ağındaki operatörler tarafından sağlanacak ve bazı müşteriler zincir dışı API kullanacak, belirli bir AI'ın çıktısını üretmek için istekler yapacaklar ve bu çıktı sonucu üreten operatörün doğruluk verisi için hesap verebilir olduğunu doğrulayabileceğimiz şekilde imzalanacak.
+
+00:39:25 - 00:40:06
+Daha ucuz bir model sunmaya çalışırlarsa veya böyle bir şey yapmaya çalışırlarsa BlockSense ağındaki stake'lerinden kesilebilirler. Yani doğrulanmış çıkarımın çoğu zincir üzerindeki kullanım durumları için bu tür zincir dışı geleneksel çıkarım API'leri olacak ve otonom AI ajanlarının zincir üzerinde eylemler gerçekleştirdiği çok zorlayıcı ürün yapacak QR uygulamasını bekliyoruz.
+
+00:40:06 - 00:40:41
+Zincir üzerinde karar veren bir ajana sahip olduğunuzda, bu ajan kararlarının otantik olduğu, kimsenin onları manipüle etmediği yüksek düzeyde kesinlik, yüksek düzeyde güvenliğe sahip olmak çok kritik. Basit örnekler verebilirim. Örneğin, insan oylaması yerine AI ajanı tarafından çözülen bir tahmin pazarı hayal edin. Geçen yıl tek başına UMA protokolünde pazarı manipüle eden birçok vaka vardı ve böyle durumlardan yanan çok insan vardı.
+
+00:40:41 - 00:41:15
+Ama tarafsız bir AI ajanının yayınlanan haber raporlarının analizine veya hatta video analizine dayalı pazarı belirlediğini hayal edin, burada vahşi olabilirsiniz. Böyle bir sistem tartışmasız tamamen tarafsız olurdu çünkü ajan hata yapabilir ama kimse ajanı manipüle edemez, ajanın çıktısı pazarın dediği şey olurdu. Yani böyle potansiyel AI uygulamalarından heyecanlıyız.
+
+00:41:15 - 00:41:44
+BlockSense ağı otonom akıllı kontratlara sahip olabileceğiniz birkaç ağdan biri, kullanıcı işlemleri tarafından dışarıdan tetiklenmeyen ama zamanlayıcılar gibi şeyler tarafından kendiliğinden tetiklenen veya olaylara tepki veren. Yani gerçekten AI ajanı tarafından işletilen ve otonom kararlar veren ve artık kimsenin gerçekten kontrol edemeyeceği bir iş kurup başlatan bir şirket gibi çılgın hikayelerden bazılarını yapabilirsiniz.
+
+00:41:44 - 00:42:12
+Tahmin pazarları kullanım durumuna geri dönmek için, zincir üzerinde AI için çok ilginç bir uygulama olduğunu düşünüyorum ve bugün UMA gibi protokollerle ve Poly Market'te nasıl kullanıldıklarıyla tahmin pazarının boyutu insan müdahalesini garanti edecek kadar büyük olmalı, yeterince büyük bir olay olmalı ki bunun sonucunun bu olduğu konusunda fikir birliğine varacak insanlar olacak.
+
+00:42:12 - 00:42:37
+Ve bu tahmin pazarlarında bahis yapılabilecek şeylere bir tavan koyuyor. Ama AI'nın tahmin pazarlarını otonom olarak çözdüğünde, tahmin pazarlarına girebilecek şeyler için potansiyel olarak gökyüzü sınırdır ve çok daha küçük, çok daha zaman sınırlı aktiviteler, sadece aptal bir örnek için, LAN partisi yapıyorsunuz ve Counter Strike oynuyorsunuz, o maçı kimin kazanacağına dair tahmin pazarı kurabilir ve arkadaşlarınızla bahis yapabilirsiniz.
+
+00:42:37 - 00:42:54
+Ajanların bu konularda güvenilir şekilde hakemlik yapabileceği aşamada olması gerektiği makul sınırlar içinde. Ama bunun sadece Zahari'nin söylediği gibi zincir üzerinde öldürücü uygulamayı beklediğimizin açıklayıcı bir örneği olduğunu düşünüyorum ama bu sistemler daha kararlı ve güvenilir hale geldikçe bugün mümkün olmayan ama doğrulanabilir AI ile mümkün kılınan çok kullanım durumu olduğunu hayal edebilirsiniz.
+
+00:42:54 - 00:43:36
+Teşekkürler Magnus. Hayır, bu harika bir nokta. Ve LAN partisi hakkında iyi bir nokta. Şehirde sadece üç gün olduğunu biliyorum ama bir dahaki sefere bunu takvime almamız gerekiyor. Orada diğer ekranda ikiniz olduğunu biliyorum. Bilgisayarın orada olduğunu biliyorum. Terörist bekliyor gibi görüyorum. Terörist. Yani stratejik yön ve oracle'ların ötesine geçip AI'ya girmek altında sahip olduğumuz başka bir soru ZK'ydı. Bu arada eğlenceli gerçek, eğer hiçbiriniz bilmiyorsanız Zahari'nin soyadı K ile başlıyor.
+
+00:43:36 - 00:44:16
+Yani ZK ama ZK teknoloji, ZK kişi değil, ZK bu AI adaptasyonu bağlamında ileriye doğru mimarinin temel bir parçası olmaya devam edecek mi?
+
+00:44:16 - 00:44:51
+Kesinlikle. BlockSense Ağı ZK rollup'ların nasıl organize edildiği ve kanıtlandığı konusunda en son teknolojiyi itiyor. Bizim için yol haritamız çok esnek, BlockSense'i platform olarak mümkün olan ürünlerden bazılarını gönderme konusunda çok fazla dahili aciliyet görüyoruz. Bu ürünlerin çoğu ZK uygulamasına bağlı değil. Bu yüzden her zaman platformun faydalarını geliştiricilerin eline en kısa sürede nasıl getirebileceğimizi düşünüyoruz.
+
+00:44:51 - 00:45:24
+Sonunda tam ZK mimarisini de teslim edeceğimiz öncülü altında. Söylediğim şey gerçekten değer yaratmaya odaklandığımız ve ZK mimarisi throughput bariyerlerini kırma gibi uzun vadeli vizyonumuzu sağlamanın bir yolu. Ama BlockSense'de çok daha fazla şey var ve bunu dengelemek zorundayız.
+
+00:45:24 - 00:46:01
+Teşekkürler Zahari. Bu harika bir cevap. Şimdi en önemli bölüm, son ama en az değil, dedikleri gibi, ekosistem ve topluluk. Orada birkaç farklı nokta var. Topluluk katılım fırsatları, DAO yönetişimi için uzun vadeli vizyon ve genel olarak topluluk katılımı konusundaki planları netleştirme. Belirli bir soruyla başlayacağım ve sonra Magnus, topluluk katılım fırsatları hakkında daha fazla konuşman için daha geniş açacağım. Korsan Bayrağı NFT gibi daha fazla NFT olacak mı ve hangi faydaları olacak?
+
+00:46:01 - 00:46:30
+Bu aşamada başka bir NFT planı yok. Daha önce söylediğim gibi, topluluğu dahil etmenin, erken katkıda bulunanları ödüllendirmenin yollarını arıyoruz. Ama bu aşamada başka bir NFT kampanyası yapmayı planlamıyoruz. Kısa vadede tabii ki. Uzun vadede olabilir ama bunun olacağını söyleyip 20 ay sessiz kalmak istemiyorum.
+
+00:46:30 - 00:47:04
+Yani şu anda topluluğun en etkili şekilde dahil olabileceği yollar neler? Test ağları, ortaklıklar, geri bildirim. Söyleyin. Evet. Daha önce ima ettiğim gibi, AI ajanlarıyla ilgili gelecek çok önemli bir yol var. Ve bizden duyacaksınız, endişelenmeyin, çıktığında. Ama bazılarınızın vibe kodlayıcıları olduğunu biliyorum.
+
+00:47:04 - 00:47:44
+Ve topluluk sohbetinde vibe kodlamanın sonuçlarından bazılarını da görüyorum. Topluluk üyelerinin yakın zamanda yaptığı katkılardan bazılarını görmek gerçekten güzel. Ve daha önce bahsettiğim üzerinde çalıştığımız ürün de bununla ilgili. Yani topluluktan geri bildirim almak, ürünü denemenizi ve arkadaşlarınızla paylaşmanız, bunun bir numaralı şey olacağını düşünüyorum.
+
+00:47:44 - 00:48:18
+Ama aksi takdirde zaten yaptığınız tüm şeyler, sosyal medyada bizimle etkileşim kurmak, bizi zorlamak, iyi sorular sormak, bazı soruların cevaplarının ne olduğunu düşünmeye zorlamak, bu forumlara katılmak ve bizimle konuşmak, bunların hepsi gerçekten yardımcı. Elçi programı ne olacak? Bunu da soru olarak getiren insanlar olduğunu biliyorum.
+
+00:48:18 - 00:48:53
+Evet. Bu zamanda elçi programı planı yok ama değişirse size haber veririz. Not edildi. Burada topladığım sorular bunlar. Güzel çünkü daha önce bir soruyu atladığımı biliyorum ama zamanla iyi olduğumuzu düşünüyorum. Gelecek beş dakika için burada daha fazla soru almaktan mutluyum.
+
+00:48:53 - 00:49:30
+Sizi teşvik etmek istediğim başka bir şey, başka sorularınız varsa, buradaki topluluğu kaldırabilir veya doğrudan bizimle iletişime geçebilirsiniz. İşte Rakio sohbete giriyor. Korsanlar. Evet, aslında alanda birçok projeyle tanıştım. Birçok ekip tanıştım. Sadece korsanların ve Raill'in yaptığı işin sadece olağanüstü olduğunu söylemek istiyorum.
+
+00:49:30 - 00:50:18
+Size selam vermem gerekiyor çünkü farklı aşamalardaki birçok farklı projede içeride şeyler görüyorum. Bu sadece seyahat etmenin, insanlarla bağlantı kurmanın, şimdi gayri resmi olarak bazı Arbitrum ekosistem projelerine yardım etmenin bir parçası ve korsanlar bunu öldürüyor. Ve Raquel, BlockSense ekibiyle başarılarınız hakkında çok şey söyleyen bir sistem ve program kurduğunuzu düşünüyorum.
+
+00:50:18 - 00:50:59
+Yani olağanüstü. Sadece iyi iş çocuklar. Yaptığınız şeyi ve işleri ne kadar ileriye götürdüğünüzü görmek gerçekten heyecan verici. Bu hızla gelişen bir alan. Gerçekten akıllı birçok insan var. Çok rekabetçi. Ama burada ilerleme kaydediyorsunuz. Bu yüzden size bu selamı vermek istedim.
+
+00:50:59 - 00:51:36
+Birkaç dakikamız daha var. Mer "reporter node hakkında sorabilir misiniz?" diyor. Merd, sorunuzla biraz daha spesifik olmak ister misiniz? Zahari ve Magnus burada cevap vermek için. Yani biraz daha spesifik olursanız, onların burada cevaplaması için saha sizin olacak. Yani reporter node bilimi geliştirme aşamasında. Magnus'un daha önce söylediği gibi, başlangıçta reporter node'u çalıştırmak için birkaç dikkatli seçilmiş ortakla çalışıyoruz.
+
+00:51:36 - 00:52:10
+Ama zamanla ABS olduğumuzda bu fırsat daha fazla katılımcı için açık olacak ve sonunda bir noktada tabii ki vizyonumuz tamamen merkezi olmayan ağda herkesin reporter çalıştırabilmesini mümkün kılmak.
+
+00:52:10 - 00:52:43
+Bu için teşekkürler Zahari. Birisi "Tamam, Rahil CEO rolüne geçiyor, yorucu mu Magnus ve korsanlarla çalışmak nasıl?" diyor. Hayır. Yorucu mu? Evet, yani Raill olmak yorucu. Raill sonuçta uyumuyor. Ben hala uyuyorum, bu yüzden muhtemelen işiniz daha yorucu Raill.
+
+00:52:43 - 00:53:21
+Şaka bir yana, havalı. Dürüst olmak gerekirse zaten nispeten düz bir organizasyonuz. Yani Walmart'ın CEO'su olmak gibi değil. Ve aniden ayrı bir ofisiniz var ve asistanınız var ve günlük bin gelen kutunuz var. Sadece sorumlulukların hafif yeniden karıştırılması ama sonuçta hepimiz oldukça yakınız, birbirimizi iyi tanıyoruz.
+
+00:53:21 - 00:53:58
+Ve BlockSense'in bazen şirket gibi hissettirmediğini düşünüyorum ve bu anlamda sadece günün sonunda farklı şapkalar ve farklı işler üstlenmek. Korsanlarla çalışmak nasıl? Her zaman korsan olmanın havalı olduğunu düşünmüşümdür. Ve bu topluluğumuzun adının kökeni, değil mi? Korsan olmak istiyorsanız bu da havalı.
+
+00:53:58 - 00:54:34
+Ama burada olan insanların tarihte önemli bir amaç hizmet etmiş korsanlar olduğunu düşünüyorum ve İngiltere'nin sömürge öncesi zamanındaki erken maceracıların buccaneer deniyordu ama onlar korsandı ve yeni ticaret karakolları ve toprak kuruyorlardı ve bizim yaptığımız bu, değil mi? Yeni fırsatlar arıyoruz.
+
+00:54:34 - 00:55:10
+Ve şehirde hegemon var ve alandaki oksijeni çok emiyorlar ve dürüst olmak gerekirse kapı bekçisi oluyorlar ve korsanların amacı bu, değil mi? Kapı bekçisinden kurtuluyoruz ve yeni bir sistem yaratıyoruz. Yani bu havalı. Bu hikayeyi seviyorum. Magnus'un Twitter profilini kontrol etmenizi istiyorum. No escrow. Hala no escrow, değil mi? Evet. OS. No escrow.
+
+00:55:10 - 00:55:44
+Bu handle'ın hikayesini link paylaşırken insanlara anlatmak ister misiniz? Özür dilerim. Tamam. Evet, bu arada bu toplantı kaydediliyor. Evet. Evet. Bunu paylaşmanızın sorun olmadığını düşünüyorum. Sorun yok.
+
+00:55:44 - 00:56:10
+Evet. Kripto hakkında ilk öğrendiğim yer, hala üniversitede öğrenciyken. 2011'de aslında, erken. Ve hükümet kontrolü dışında anarşist eğilime sahip dijital para olasılığından gerçekten heyecanlanmıştım. Ve sadece birazını elime almak istiyordum. Ve aslında komik bir şekilde o zamanlar escrow sistemleri bugünkü kadar sofistike değildi ve kriptonuzu almak biraz riskli bir aktiviteydi.
+
+00:56:10 - 00:56:20
+Çok şey ters gidebilirdi. Ama 2011'de ilk Bitcoin'imi elime alma şeklim, iade adresi olmayan bir zarf içine biraz nakit, sterlin koydum ve bilinmeyen bir kişiye posta ile gönderdim. Ve oradan her gün Bitcoin cüzdanımı yeniliyordum, geldi mi? Dolandırıldım mı? Tamam, muhtemelen dolandırıldım. Beşinci gün kesinlikle aptalım dedim. Zaten harcayacak param yok. Neden bunu yaptım? Yakıldım. Sanırım altıncı gündü. Meraklı adam. Bitcoin gerçekten cüzdanıma indi. Bu yüzden no escrow'a sahibim.
+
+00:56:20 - 00:56:20
+Bu hikayeyi seviyorum. Harika bir isim köken hikayesi, handle köken hikayesi. Tamam. Burada zaman aştık. Sizlere çok teşekkür ediyorum. Sohbette sizlerle yakalanmak ve sorulardan geçerken çocuklarla yakalanmak harikaydı. Her zamanki gibi, bir sonraki topluluk araması ayın sonunda olacak. Ve zamanınız ve desteğiniz için teşekkür ediyorum. Çok şey ifade ediyor ve tüm bunları çok daha eğlenceli ve değerli kılıyor.
+
+00:56:20 - 00:56:20
+Magnus ve Zahari'ye de zaman için teşekkür ediyorum ve yakında görüşeceğiz. Kendinize iyi bakın. Teşekkürler. Katıldığınız için teşekkürler çocuklar. Sohbet etmek güzeldi. Bir dahaki sefere görüşürüz.

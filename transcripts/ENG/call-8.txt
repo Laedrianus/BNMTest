@@ -1,0 +1,269 @@
+00:00:00 - 00:00:39
+Maybe we can get this uh thing going uh while there joins. Um I think the opening remarks will just kind of set up the set up the agenda. Um well, I think I'll start first with some kind of uh overall uh update over the last month. I'll do this kind of similar thing that I did last time and just tell you guys uh mostly the same stuff that I tell our investors in our monthly to monthly report. So um yeah, I guess that will cover like some new partnerships, some opportunities or yeah, I'll go
+
+00:00:39 - 00:01:21
+through that first and then uh um first we'll do some community updates for the marketing community side and um then uh we can go through all of your guys questions that you left which uh yeah I'll be happy to answer uh as much as I can if we have time for all of them. And uh yeah, I guess there's going to be like a a wrap- up at the end and maybe uh a next uh top steps that are going to happen uh soon. But uh that I'll let Chris do that. So I guess let me start with kind of the
+
+00:01:21 - 00:01:56
+monthly monthly report. Um I think last time when we talked we were essentially just like going to mainet uh with our first with the first customers uh and starting to do some beta testing uh on uh yeah and uh with on mainet basically with like real uh some real money and uh yeah we have you've seen already like the first announcements coming out with uh I think the big one was with order Um and uh yeah there there was another one yesterday with volatility X which is like an uh DeFi and agent protocol and
+
+00:01:56 - 00:02:28
+virtuals and uh soon a bunch more are going to come out. Uh we're a little bit slow but on the on rolling them out but yeah they they're coming. Um, and we actually found uh, you know, during the deployments and stuff, we found a few bugs and uh, we had to take some time to fix them and uh, uh, we're still fixing a couple. So, the beta testing is going well, I suppose. And, uh, but feel I think this week we should have everything wrapped up and be like kind of almost production ready.
+
+00:02:28 - 00:03:07
+Um and uh that's when we're also going to start announcing all of our kind of a bunch of our chain partnerships which we haven't spoken about uh so far. Um and then yeah a few more protocols. Um in terms of kind of on the protocol side in terms of uh the the important protocols I mean not important but I guess an important metric is getting a lot of TVL and uh I mean I'm I'm happy to say that we have a good good pipeline um with around two to 300 million uh in potential TV that we can
+
+00:03:07 - 00:03:42
+win. um on some of these new chains that either have already come out like Hammi or that are about to come out like Tuck on Ton. Um yeah, I don't want to go into too much details because uh uh yeah, for example, on T, they're running a a vault campaign and a few of these vaults that are running now are we are talking to them and hopefully we can uh get to support them and give them the price feeds and u the different fees that they need. even before they they launch on tag but after as well like after they
+
+00:03:42 - 00:04:18
+they're currently like the vaults are currently live on Ethereum but they will be migrated uh in a couple of weeks when the mainet tet goes and we'll um we'll hopefully have closed at least a couple of them and and and be live there uh with a significant amount of TVL uh so that's that's kind of good news we it took us uh I mean a little bit over a here to get to kind of our first mainet and first TVL even though it's like very small amount of money just testing but it's still there and um in the next uh
+
+00:04:18 - 00:04:54
+the next month or two we'll hopefully get to a few tens of millions or even well not even 100 200 million you know that's kind of the the goal and we have a pipeline so wish us luck guys um and uh another noteworthy thing about on the partnership side is like is that uh I think I had mentioned that we were trying to win a uh they we were trying to become like the real time oracle on on maybe but uh unfortunately they they chose a different provider or I guess our kind of our nemesis redstone which
+
+00:04:54 - 00:05:29
+is fine by us u but uh we already have like a plan B uh what to do with with the product and proposal that we had for them. Um I mean they have a already like two or three major competitors and uh we are talking with all of them. So sooner or later I think we'll get that product into the hands of uh into the into the hands of some builders that are going to use it and not going to leave us hanging. But so yeah, I mean uh we lost a big deal but uh we have three or four on the same line lined up ready to take that take
+
+00:05:29 - 00:06:08
+that place. So again, uh, wish us luck. Hopefully in the next one or two months, we'll have one of these deals wrapped up and, uh, we'll be able to. Um, right. So yeah, that's kind of on the on the on the protocol side. We went to mainet, found some bugs, we're fixing them. We had our first announcements going good amount of TV in the pipeline and uh some uh real time Oracle uh opportunities that are uh there as well. The other big thing that uh we are starting uh we're starting is
+
+00:06:08 - 00:06:46
+another another funding round. Um we're right at the beginning of uh reaching out to folks. So I can't I don't really have any progress to share but we have um we have really sharpened like our our pitch and our documents and everything is squeaky clean and uh it's uh it's gone through a lot of like back and forth and a lot of uh a lot of retrospection a lot of uh you know um yeah a lot of just thinking about it and and I think we are in a good place and even though the market is very rough
+
+00:06:46 - 00:07:34
+right now as you guys can see uh feel I feel confident that we'll get this we'll get this um we'll get this round um wrapped up in a in a few months. So um yeah that's that's on the on like a just quick on the race and um on terms of the team actually we had um we had a couple of people uh uh leave the team. However we managed already to to find u pretty pretty good replacements and uh also actually we grew the team. We added a um a new um division essentially um which is a DevOps team and this DevOps team will
+
+00:07:34 - 00:08:11
+handle internal workloads. However, also handle um some of our compliment one of our complimentary services that we have for our customers. It's complimentary to the Oracle which is kind of running validators uh for them. We have already uh some agreements with a couple of uh couple of our partners to to run a validator for them and we can use that to offset some of the cost for um for some of the gas costs that are that are incurred by the Oracle. So, it's a a really nice um it's a nice kind of value value ad to
+
+00:08:11 - 00:08:43
+the Oracle service that makes it cheaper and uh and helps us uh kind of get closer to these to these chains and to our partners and work with them more holistically. That's similar to the to our tooling business that uh last time I think I told you about our deal with adtech and the work we'll be doing with for them on the on the noir for noir. So essentially now we have two complimentary services our tooling and our um and our validators. So that's um I think that's going to set
+
+00:08:43 - 00:09:22
+us up very well to also you know generate revenue um everyone's talking about revenue now and these are we have already generate revenue from the tooling side and uh soon on the validators as well. So uh we're fair we're pretty well set up on that side in terms of the team. So um yeah, I mean that's uh yeah that's mostly the stuff that uh that I wanted to share. Um again pipeline looking good in terms of TV. Can you guys hear me? Yes. Yes. Yes. Now now we can hear I give you the word. Let me just uh wrap
+
+00:09:22 - 00:10:00
+up. Um so yeah we have good pipeline good amount of TVL. Uh the announcements are going um we're testing with the existing partners. We're finding bugs, fixing them. We're standing on your own and funding around. Uh we've prepared all our documents and we're just reaching out right now and u some new team members and a whole new division for kind of a revenue generating um service that we're giving to some of our partners. So, um, all in all, yeah, that's it. I would, uh, I
+
+00:10:00 - 00:10:49
+I'll throw it back to Christo, um, to do the community side. There's some other stuff that he has and then I I can answer all the questions. I'll just start preparing some answers for them. Uh, yeah, but actually, if you want, you can even ask some questions now about all the stuff that I just mentioned. Uh, I don't mind taking them. I guess no questions. So Christ, maybe you can go on with the community marketing side. Great. Thank you for Thank you for covering this first part because I'm
+
+00:10:49 - 00:11:17
+kind of like traditionally experienced some issues when I'm connecting and even now I just unmute myself and the internet was gone and I'm plugged into a cable so I'm really I guess the electricity around this call is really high. So every time there are some crazy things that are happening. Thank you so much for the update and also I mean you shared some parts of the like difficulties maybe some people living and also alternative streams of funding that I'm really happy that the
+
+00:11:17 - 00:11:53
+community get to learn those things that we are always thinking uh like broader and uh of course some things might take time like this deployment but we we are not in a rush to deploy something just to for the sake of saying let's deploy we are working to making perfect um products and once those things are ready the process will be much uh quicker right I mean correct me if I'm wrong but I think that's that's kind of the takeaway with Oh yeah yeah yeah the for sure yeah the that's the the initial
+
+00:11:53 - 00:12:36
+wave of integrations that we talked about last time and that we've been running for the last month was exactly to find um find like problems and bugs and um so we can resolve them before they do the really production ready stuff. So, uh yeah, I mean it's part of the process. Yeah, that's cool. And uh partnerships will be going, more things will be announced uh as we are progressing the moment we start deploying also and this is what is uh most likely coming next month. I see that his mic is
+
+00:12:36 - 00:13:20
+muted, but do you guys speak about my mic? I just wonder I can actually hear him. Yeah, pretty well. But maybe the guys can't. Yeah, that's strange because some people can hear me, some can't. Okay, you guys can hear me. Let's make let's make this clear. If most of you can't hear me, then the problem is maybe only in some of the other guys. And this guy still can't hear. Maybe you should do the same, man. Restart your computer like I did. Perfect. Thank you. So most of the
+
+00:13:20 - 00:13:54
+people can hear. And yeah, I mean a lot of work in progress, but uh what I can see that uh this coming month is actually the month of the boom, I see. So, we we're going to put a lot of things out and uh we've been saying this for some time now, but it's obvious that when things are ready, they they'll go out. I mean, it's like baking a bread. You don't want to take it out uh too early, but also you don't want to burn it. So, I think I think we're good with this.
+
+00:13:54 - 00:14:38
+Um so, I will share a little bit on the community side. I mean business guys they did a lot of work and they are still doing. I'm so happy Gorgi managed to join us because uh two of our team members are now in Dubai namely Martin and Magnos both were part of different panels. M Magnos joined a panel where he was talking about the I if open source can compete against traditional monopolies and this is obviously um what we're doing here challenging monopolies in block sense so Magnus was in the right place speak about about
+
+00:14:38 - 00:15:21
+this and the other person everyone of you know um Martin our head of ecosystem I can say any way you tell you tell it and he was panous in blockchain disturb disrupt where they were speaking about disrupting crypto and in blockchain in general and the way that we are organizing uh things in blockchain is definitely disrupting the space by uh offering low cost or no cost deployment and uh no fees for deployment. That's how how we are starting to attract uh more more users to to allow the people
+
+00:15:21 - 00:16:03
+to come to our network and test and try start using the service that we are providing. So Martin was speaking uh in front of large audience in Dubai and basically sharing our ideas and how we see things in this very competitive market. what can be done better and we can um due to the design of block sense we can allow ourselves to offer this kind of setup because our protocol is really high highly efficient so it's something that one can have to remember we're repeating it often but that's that's how
+
+00:16:03 - 00:16:43
+it is and earlier this month also there there was another event it's In the series of EAT events, it was eat bookerest. I myself went there to see the crowd to see a lot of hackers trying new technologies but also um one of our developers Jordan maybe some of you know him as he is kind of also very active and speaking in conference he delivered a speech there where we were speaking about uh what's beyond the price for oracles what other use cases there are and specifically he was exploring the use of uh random
+
+00:16:43 - 00:17:21
+generated numbers how important they are for some applications and why at block since we are well positioned into delivering this uh kind of technology. There was a lot of passionate people at this conference a lot of hackers I I can say uh names of companies that we have all seen mostly oriented towards uh like sharing this experience and this vibe of the community. So, it was uh it was a good event to attend. Uh what else we been doing this month? Like I love this moment of the of the month when we are wrapping up
+
+00:17:21 - 00:18:02
+everything that we're doing. Uh we have the rebrand at the beginning of the month. I hope you guys like the new logo. It's like the northern star that is guiding all the pirates. Not everyone maybe got the narrative be behind it, but uh that's something we should probably work more to distribute. And uh most of you were very positive about this. Um happy to hear the ones that are here in the community code. Did you guys like the new logo and the new visuals? You can just write in the chat. Happy to
+
+00:18:02 - 00:18:44
+learn more. And also we had the Quest 3 that was so anticipated. It uh we put postponed for so long time but we needed the rebrand and yeah thank you guys. I'm so happy to hear this hard work for many months. We needed the rebrand to to finish the quest three and it was very I would say successful campaign. We have around 4,000 people that joined us at this time. Overall, our community grew uh a lot in the past two three months and now it really feels like a home space with all the activities and uh it's a great place to
+
+00:18:44 - 00:19:26
+hang out. So happy to see all the pirates and also the lous community is growing with u the weekly activities now being present and everyone of you contributing. We are reaching to more and more people. So I want to thank you for this. Also I take the special moment to thank to all the active contributors and namely the most active of this month and he will be rewarded a lous. His name is Lat Krypto and he was the most active. This is the metrics that you get from the bot. So is a word with the
+
+00:19:26 - 00:20:11
+LO and the other person Kagan. Sorry mate if I can't pronounce your name so correctly, but you are rewarded a pirate role due to your continuous support to the community and welcome to the pirate crew. Pretty amazing. Uh all the active members and I'm so happy to have the opportunity to speak with all the pirates personally privately once or twice a month. I gather a lot of feedback from them. and we learn a lot of things how things can be improved and I think we work hard to put all those all those ideas into
+
+00:20:11 - 00:20:53
+place and I see that um all ideas are good and they're working very well so congratulations for the guys that got the those roles the others you know how it works continue contributing many of you are contributing continuously writing content and also for creating art. I was blown away by all the art that uh start everyone start being uh doing in the space all the amazing pictures. I didn't know that we have such a talented community but now I'm like yeah I'm super happy to see to see
+
+00:20:53 - 00:21:35
+it see it many questions I start seeing in the chat um as we approach this time of community questions I'll just open the chat and see some I think wow even here I open and I see pictures and art pretty crazy let me just look at the questions guys Um so one one of the questions that I really like and maybe you missed but it's important to answer this question. Does block sense plan to support nonvm compatible blockchains in the near future? Yes, only the the catchy thing is near and if you can define it but definitely
+
+00:21:35 - 00:22:18
+our goal and by design we are chain agnostic which means that we are going to support nonem compatible blockchains. Um just first we need to establish ourselves in the space where there's a lot of TVL and a lot of uh projects and then we'll be expanding to Lana to move. Of course, we already have uh deals in the pipeline with uh projects that are interested in what Blox can deliver for them, but it takes development time for our team to come to this point. So, the answer is yes. Uh fairly let me check. Oh, if you're going
+
+00:22:18 - 00:23:02
+through the if you're going through the questions, I can I can answer some of them. Um, yeah. All right. So, I think one Yeah, some of the questions are directly to you because you have most most of the context and it's going to be easier if we just go I mean you go now if you have a question to answer it just go answer it and I'll look at the others also. I'm looking at those in the right. Uh, okay. So that there was like a question about interesting things coming up. So in like the soon term in the near
+
+00:23:02 - 00:23:44
+term uh I would say like the the uh attack mainet will be very interesting for us and for us and um how we expand the work we're doing with oiler and uh also the these real Vchain opportunities that we that we have found as well. So um I think those are let's see well also we have some on the marketing side they have a really cool event coming up um not in the next week maybe which will be yeah and uh that should be yeah that should be very interesting in the long term there was another question like in the next eight
+
+00:23:44 - 00:24:27
+months how we would do 2026 I think uh in the 8 to 12 months this period the main I mean the main goals are um they remain the same as before so more chains more protocols more products um and on the on the protocol side we're really going to try to focus on the the TVL metric and get um at least the room why not a flu uh that's kind of our goal for the 8 8 to 12 months terms of chains since you want to do that's that's the easier part like deploying onions at 50 to 100. Um that's kind of the plan. So in 2026
+
+00:24:27 - 00:25:10
+we want to get in want to start it off with a lot of TV a lot of chains and hopefully we have found some other nonpric non-financial data products like more of these novel oracles that we can be category leaders in. Um yeah there's a few there's like a few ideas that are floating around now. them as you know as big as the price feeds and the financial data but we'll see how they go. So that's kind of the uh the goal for the next eight or eight 12 months and really to have secured
+
+00:25:10 - 00:25:53
+another another funding round uh to extend and then uh who knows we can uh I mean we could in terms of uh you guys are probably really wondering about the the like the TG. I don't want to I can't really say concrete but we we will do the TD as soon as we have a shitload of TVL and a lot of customers. So as soon as we get like a few billion TVL that's fine uh and like 50 50 chains 50 customers something like this is what we're working towards. So I believe in the next day 12 month it is possible to get
+
+00:25:53 - 00:26:36
+into a position where we have enough traction enough customers to kind of launch our our chain and our token. So uh and by when I say chain I mean like specialized for only oracles not like a general purpose chain but it's like a network decentralized chain where it's running the all these oracles. So um that's that's how I would put say 12 months and 2026. Yeah, we want to do the yeah that's kind of that's the idea. Um I think will there be more investment kind of answers is answered. Yes, we
+
+00:26:36 - 00:27:19
+are we have starting we are starting to work now on a new funding round and uh we also have some plans maybe to do um uh more of like maybe do some kind of a round or for like angels and more people from the in the community or maybe even do some kind of NFT sale um where we can give more more exposure for the community um to the uh to the I mean maybe similar to something like what soon or maybe it's good. Um so this is the where the yeah potential investments are going to come from like a private round and maybe a public round
+
+00:27:19 - 00:28:02
+on echo or some kind of NST sale but uh that's in the next 6 to 12 months again. Um and the yeah so that's the that's the investment question. Then there's a question about strategy for new partners. I mean uh there's a there's a lot of things. Uh most of our most of our partnerships are coming from like outbound. So we just have a very strong ground game. We send uh our sales guys and our team to different to different conferences. So we have a really big network of actually of of BD people
+
+00:28:02 - 00:28:44
+across many different projects that are helping us out already and they're and then also our um our investors and uh we have some distribution partnerships with different providers and with the stock providers IP as well. So um basically how do we get Yeah. So really focusing on on on distribution um and uh and on our kind of outbound sales that's that's the that's the majority of our partners are coming from um over time I mean the vision is to really build a sales organization sales
+
+00:28:44 - 00:29:27
+marketing organization more into uh the big web to traditional tech companies. Um something that hasn't really been done so well in crypto because just because crypto is such a such a young industry where most of the we haven't even set up good processes like best best practices for most of the function even for like the core functions like sales. So um I think uh uh we're modeling our organization a lot uh based like on kind of traditional tech. So um yeah we're we're betting on a very
+
+00:29:27 - 00:30:10
+strong sales organization basically very welloiled with with all the different levels to like from lead generation tech sales account management and new sales uh then marketing people and and so forth. So yeah, basically strategy is to get uh strong referrals in a very strong sales organization. Um now I guess the next question was that what inspired what inspired us? Uh well, if you guys uh actually the company found out of a um of another company that was working on kind of consultancy in the blockchain space and
+
+00:30:10 - 00:30:53
+on um custom development work and um essentially what inspired this project is to we had we were doing a lot of different guns work uh for like ZK stuff and uh staking products and whatnot. and uh we kind of had no more grants to really do. So the inspiration was really to um to transition the whole team. We had 20 people team and uh we didn't want to let them go and we wanted to find something something interesting to to build and uh we had some experience using u building like a ziki circuit for
+
+00:30:53 - 00:31:36
+the internal oracles of lido and rocku and div.a uh we had a grant for that and through that kind of work on on that on those systems we realized that we can do ZT oracle a more general purpose Z oracle and then use that to to to like raise some capital and to move the whole team and to continue working together. So I think um yeah it was mainly people it was mainly a people decision uh but also some experience with similar work from from our from our from the past. That's kind of what inspired
+
+00:31:36 - 00:32:19
+um the project. And uh what is it? What else about the interesting things coming up? I have few more questions in the chat here. Yeah, sure. Go ahead. And that that I can read to you and maybe we can decide who is going to answer. But um I want to offer also my perspective on on what inspired the team. I mean you're definitely person that knows better but I know that people is one thing but it's also this this uh the experience is the other thing but it's also this vision of uh building fully permissionless uh
+
+00:32:19 - 00:33:02
+systems that uh will bring new new wave of innovation and the team while working in the past with different projects has realized what are the uh restrictions and find uh founding this this project was a way to to answer those uh like needs and to build a project that that can deliver something that is going to allow new use cases and to happen in a way that this is really the full potential of blockchain. I can say fully permissionless decentralized system. So that's that's my take on the the whole
+
+00:33:02 - 00:33:44
+thing and the question that I have in front of me is also related to some novel technology like uh layer what role does layer playing in blocks and security model as an as active validate service does integrating layer offer any specific advantage over traditional oracle solutions that require internal staking I think you're well positioned to answer this question yeah yeah sure Actually we um I'll tell you what what the what the point is of of air and actually similar services to air. Uh for us it's a way to
+
+00:33:44 - 00:34:27
+kind of bootstrap the to help us bootstrap the amount of like the amount of validators that we have and the stake on the system. We actually have our own like boxes with in a way uh its own we can think of maybe even as a layer one but a specialized layer one for oracle services only. So that means we have our own validator set with our own staking with with our own native token uh that exists and that but we don't want to uh we want to kind of have this be as big as possible both in terms of the number
+
+00:34:27 - 00:35:10
+of validators and also in terms of the stake. So once one step that we're taking was to integrate them all into all the different uh restaking protocols and tap into the the stakers in those ecosystems. uh one being through by being an ABS in there but uh also we can build a VDN or kernel and I forget the name but of of a symbiotic service let's say we'll first start with I uh because we have committed to working with them first um but um eventually we'll want to develop the same thing for all of the
+
+00:35:10 - 00:35:53
+other stakers in order to expand the network and amount of validators and amount of stick Um so so it's essentially like a way to decentralize the system uh like a stepping stone uh on top of our own staking network. So it's uh yeah that's it. We're just adding more value to more stake and uh yeah that to secure the the system. Thank you. [Music] one I mean one question that uh come here for chat as well. I try to follow all the questions because it's uh it's like a break moment the first time we
+
+00:35:53 - 00:36:36
+have so many questions. So I'm I'm really happy we address those. We do answer a lot of questions during the chats but this is a moment where people can um ask their questions though those will be recorded and other people that come to watch this recording afterwards will will be able to learn about the project. So thank you guys for all the questions and what is box doing differently and the question is a little bit longer but that's the essential part of it. We mentioned few times already what
+
+00:36:36 - 00:37:19
+we're doing differently is this permissionless nature of block sense and uh SDK that allows you to deploy your own uh script and to get your own data that you need for the application that you're trying to build. So this is beyond hype I would say in my understanding. You don't have to go and ask for something. You just have this amazing tool that allows you to build it. So this is what blockchain is doing differently. None of our competitors based on my understanding is doing this thing at the same level as we're doing.
+
+00:37:19 - 00:38:02
+Some offer really very basic um like not so customizable solutions. So, lock sense is all about this uh flexibility and also empowering the people to build what they they really need. Um that's one question I continue reading the others. Um sorry I would say exact I mean what's Chris is saying the programmability to one aspect for sure and then also the uh cost efficiency uh the way the way we're pushing the data and the way the whole network is set up is we uh operationally it's cheaper in our network to run these
+
+00:38:02 - 00:38:45
+services and then the big thing really the long-term thing is um that we'll have an actually decentralized All of the current providers are are you running some kind of um uh signature scheme with a limited number of validators and you can argue it's kind of decentral in a way sort of decentralized but not to the scale of Ethereum decentralization you know tens of thousands of nodes stuff like this um you know billions of state so this um this kind of architecture no one has it everyone is running some kind
+
+00:38:45 - 00:39:28
+of loot sig and we're running like a layering mon or Oracle you can think of it this way um where yeah so that's those are the three things the programmability the efficiency and the the the decentralization in local services those are the main things and there's a lot of other things kind of on tactically that we're doing differently I would say especially on the sales sales side um and that. But yeah, there there's going to be a lot of like tactically just um different things more
+
+00:39:28 - 00:40:11
+grown up stuff uh that uh not really native to crypto but that actually work. So that's what I would that's what I would say. And then of course the tooling guys uh the tooling no one has this no one has compiler engineers and z engineers and that can build vms and I can build debuggers and they can build this kind of low-level tooling. This is how we get on to this how we put our foot in the door with many different ecosystems. I don't know if you guys saw maiden yesterday they were they raised a
+
+00:40:11 - 00:40:54
+huge amount of money we had already been working uh with maiden to kind of provide them a debugger. uh same with stylus same with with art state that we had talked about before. So uh this kind of this tooling DNA is well no one has this uh so these are kind of the main thingsability efficiency decentralization the sales structure and the tooling to thank you Google um followup question here that because we mentioned it's really nice that there is in the chat the plans SDK and development tools are designed to make
+
+00:40:54 - 00:41:37
+it easy for developers offers to create custom oracles data data sources. Yeah, correct. Can you share more about the process of developing a new oracle on the platform and the level of support available to nontechnical developers as I would just answer quickly and maybe Gorgi can add something at this point as it's not public yet like uh the deployment there's only the guidelines that you have from the documentation that you can have but the team is um here to support projects and people were willing to work
+
+00:41:37 - 00:42:20
+with our technology and you just need to make a request to the team already. Um I think in the future there will be more guides that are made when everything is launched and public and those guides will be pretty straightforward to use. Also the whole development deployment process is uh done through a script which is kind of making very easy to use. But again um the team is here and uh yeah we are here to support. We can always um dedicate uh how to say yeah support for projects to to develop this. Maybe Gary can say it in a
+
+00:42:20 - 00:43:03
+more clear way if you find if you find what to add on this question. Um yeah, so like Crystal mentioned the SDK will eventually be permissionless and open to anyone to use, but currently we're it's only users. So um but you you can just you just just ask us um if you have an idea about an interesting oracle like reach out and uh we'll we'll talk it through just like with any other customer and we can we can build it for you at this stage at the same stage. If it's if it's
+
+00:43:03 - 00:43:46
+something something interesting and cool we can build it for you. can show you how to do it and um in a couple of months or yeah in a few months we'll have the SD open up the SDK for everyone to use and then we'll have um a few uh more fires in terms of like dero people so they can code together with you and we'll have a lot of uh guides written and also hopefully we're still running some live streams um about the developer workroughs uh yeah so you would should be able to uh in a few months you'll be able to get
+
+00:43:46 - 00:44:29
+it online and do it yourself. But right now just uh reach out either in Discord or directly on GitHub if you have an idea and uh we can set up some time to to to to chat about it and see um and see if we can build it. Yeah, great. Thank you. There's another great question here by the end of the chat. In the context where Oracle networks are witnessing fierce competition from big names like chain link, super oracles and pit, how does block sense position itself to stand out and to attract users
+
+00:44:29 - 00:45:12
+especially new projects that need flexible and low cost oracle solutions? I mean Google, do you want to answer? I can I can start by saying that. Sure. Sure. Half of half of your answer is uh half of the answer is in your question. I mean basically the oracles that you are um mentioning are not offering low cost oracle solutions and they're not so flexible which means blocks has target exactly this uh new chains. this we we started very early with uh targeting the longtail of uh DeFi and upcoming
+
+00:45:12 - 00:45:55
+blockchains. So we can offer them uh efficient and flexible solutions from day one that they can use and by design with our chain link compatibility those guys they have also access to the existing market and the whole TVL. So this is this is what I can say we are doing and how how we are positioning uh how we're standing out to attract new new chains and I was just explaining also this particular part that blockchain allows uh new projects to build things that they they have in mind but they are not available in the past.
+
+00:45:55 - 00:46:38
+So this is also how we attract new projects. we are solving uh let's say problems of u developers that can't find the existing uh data and we are so early in this space guys I mean even if the space has been around like 10 15 years oracles are not so old but not so much information has been transferred and commoditized on the blockchain so we have a lot of uh let's say um a lot of things to do in this space and a lot of space to grow as a space itself and there's not purely saying
+
+00:46:38 - 00:47:21
+like we are sharing this market and so restricted by design block sense is creating like new markets new possibilities so that's that's how we position ourselves if Google want to add something that's that's my take on the on your question no I mean guys so we we covered a lot of in the previous question about like the differentiators. Uh I mean I also mentioned it earlier we have these complimentary services that we do with the tooling and with the validators people um I don't know some
+
+00:47:21 - 00:48:04
+customers like to shop in one place with different stuff. So that's um yeah that's another thing that we do and that's it helps. Um and uh we're just very fast honestly. That's a big that's a big um uh that's a big thing because uh people let's say chains protocols they have u incentive programs which have um due like they have um due dates I mean expiration dates or whatever they're they're not doing them forever. So if uh someone tells a chain that oh I
+
+00:48:04 - 00:48:47
+can only deploy in 6 weeks but the campaign is over in 6 weeks obviously what's the point? Um but yeah so a lot a lot of times we come in and we were just very fast. So that's another another big plus. So, but yeah, I mean I would say it's very situational situationally dependent. We can do um I say we can do a lot of things. We can do a lot of the things that competitors can do uh like slightly better and we have a few things that no one else can do. So, we can actually um one up people in a lot of different
+
+00:48:47 - 00:49:30
+levels. But yeah, those are the main ones. Yeah, I mean the the reason why it's not just an idea to come and build something in a very technical doing this kind of infrastructure project is highly technical and complicated. So there is a lot of thought also behind before starting such a project. So uh many opportunities has been seen before and now they are being tested on the market and as I mentioned earlier uh we are yet to discover say use cases and also beyond price fees also as Gorgi mentioned
+
+00:49:30 - 00:50:13
+um in the in the next like 12 months we'll be exploring a lot of uh new possibilities for our technology. It does not stop with price feeds for sure. we're just starting with them and uh because of its unique design I think block sense is uh going to be able to serve use case like uh AI and uh um a a lot a lot more than what you can think also uh any kind of data and at some point we'll be able to verify things that are happening on the internet whether they're truth or not. So we can kind of merge both
+
+00:50:13 - 00:50:56
+technologies, blockchain and and web two and web three. And this is going to be a really exciting moment for us. So this is what I can say. Uh time has advanced. I'll just to check again if there are some questions that I can answer. [Music] Yeah, I would say no, not really. It was really nice uh call meeting different than the others. We spend around 25 30 minutes answering questions and I'm super happy to have this activity guys and to also see and hear how you are perceiving block science how much we
+
+00:50:56 - 00:51:39
+managed to communicate about the project and how much we managed to answer your questions. I'm I'm really happy to to see this. In the next month we'll continue with community activities. I would remind you that the invite letter campaign is still ongoing. So you can bring your friends up to 100 people and you get the lousia role. Uh the other ways to get this role is to participate in the community activities, get the block artist role and also being active in responding to questions in the chat
+
+00:51:39 - 00:52:22
+and level up to level 20. And uh we'll have the NFT drop which we we are delaying for the moment maybe next week. We don't I don't engage myself now with saying a date but uh we are working on it and it's going to drop maybe unexpectedly. Who knows? Just you need to just you need to follow and we'll continue. I think uh we we'll have a really good May because um the deployment will be there already. We'll have a lot of technical things that we can discuss on the next
+
+00:52:22 - 00:53:05
+call. So guys stay tuned support all the posts that we have all the communication so we continue reaching a lot of people as the community is growing. I'm super happy to see more Chinese people, more Vietnamese people and people from Nigeria also everywhere. I think with the drop with the NF drop will kind of double in the community. So you are now the founding people of this community and I would remind you to act responsibly to be kind to the others to the new people that are coming in the community to be
+
+00:53:05 - 00:53:48
+helpful. There are a lot of guides in the space in the Discord server that you can use to help them answer questions and this is also a way where you'll be noticed. You'll be rewarded for your participation. So just see how how pirates are doing it, how moderators are doing it and if you have questions just ask any one of those guys and also la people. Those are the most active people in the space. So I want to take the time to thank everyone of you that is making those serious contributions and pushing
+
+00:53:48 - 00:54:31
+this idea further because we are the technical team here. Everyone is working really coordinated and um hard to make this a reality but you guys are pushing this idea to reach out to many more people. So I want to thank you for this. Also want to thank Gorgi for joining this call and uh let me see I think there's one last question maybe on maybe G can answer this question if he's still with us which question yeah there's one question in the chat I'll read and this will be the last question guys how does Boxense
+
+00:54:31 - 00:55:14
+SDK allows for AI data integration are there any concrete examples of using AIdriven oracles. Oh um we can let users in the project remote and introduce the project. Okay. So this is some idea here. This is a general understanding about AI but box can can serve for verifying the in inference in in the AI. This is a use case for us. um AIdriven oracles. Gorgi is much of an expert of the all things AI in general. So if there's a person that can answer this question, I'll let him answer. I don't know about that, but uh yeah, I
+
+00:55:14 - 00:55:57
+mean we should uh support um on air front there's like a few things. Um um first is that we already like support some AI projects with just regular um smart contract data like price data like for example volatility X um they have like a prediction market is there an agent that's going to that's um doing a binary options market on chain and doing some options and providing the price feeds and um it uh hopefully replicate this with a lot of other agents. Um now the second thing is to um to do the inference uh
+
+00:55:57 - 00:56:40
+verifiably. So we have a uh a work in progress product uh on that in that direction and that can be used for agents again or for market marketplaces like influence marketplaces and integrated or um actually normal traditional like web two marketplaces could integrate it with a um yeah so this is Um this is the second step on the iPhone. Then the third would be to essentially run the whole um the whole um let's say you have an agent with all of its um uh it's with all of the um the different stuff that it does. It can uh
+
+00:56:40 - 00:57:23
+to to run as much of the services that it has into in Oracle verifiable Oracle scripts. So, um that's kind of the the the walk like the direction we want to walk for AI. But, um uh we're still at the very first step where we're building like just regular price feeds and stuff like this for regions. And uh soon maybe we'll start doing more custom data feeds. But yeah, that's the situation. Um that's the situation with the fun. We haven't integrated the inference the verifyable influence yet. So,
+
+00:57:23 - 00:58:06
+uh yeah, that that that's going to take some some more time. Yeah, those are definitely step by step different products that we that we are planning to develop and to support the growth of the project. Thank you, Gorgi, for joining us. Again, there's one last question. I'm so happy of this activity and uh like answering uh answering those questions. I think it's like encouraging people to ask for more questions but I I say this will be the last one we're going to answer. um cuz the call is like taking over an
+
+00:58:06 - 00:58:49
+hour already and blocks is currently pretty technical in focus but going forward what are the specific plans to expand the developer community support documentation organize hackathons or grants to encourage the creation of more use cases on the platform if you have been and I see that you're allow longterm with us already you know that blog sense is taking part of different hackathons and conferences where we are supporting uh and uh sponsoring uh those events and allowing for people to hack and to test the
+
+00:58:49 - 00:59:32
+technology. This is really important for us. We also have really well written documentation which developers can explore. We have specific uh role on the server where developers can communicate and ask specific developer questions. I think it's not so well developed at the moment. Maybe uh there's the m because we're not like uh fully deployed yet and this will come in the coming month. People are not so active in asking those questions. So those hackathons were the place where we could
+
+00:59:32 - 01:00:15
+test and get feedback. So this was pretty much uh the way we are uh testing some some of our hypothesis and see what use cases people come up with and I hope this answer your question this is what we're doing like first and foremost we're trying to get the technology out in the hands of the people um we're doing taking part of those hackathons uh either as a sponsor for supporting this process. Uh we will be preparing and being active organizer of eat Sophia and coming this autumn as a project that
+
+01:00:15 - 01:00:58
+is based also in Sophia. This is uh one part we are doing but also we're going to other conferences and supporting other hackathons and yeah we are adding all the information that we have to the existing documentation enlarging it and developing further. This will allow us to to give the technology in the hands of the developers. So thank you guys very much for joining this call. I want to thank my super buddy Raill for organizing it. Also, I'm so happy to see u a lot of friends here today. People
+
+01:00:58 - 01:01:41
+that been with us for a very long time. I see Tik Abs absolute I'd say long-term contributor. Ivan, who else do I see? I mean, there you're a lot guys. I mean, I should be scrolling and scrolling. I also a lot of pirates meet Zafir Fox parade you guys killing it you precious Misha wow I'm so happy there's a great support of the community and success of box also depends on your support guys so continue the awesome work that you're doing never forget to have fun and don't also forget you can count on
+
+01:01:41 - 01:01:41
+the support of the others because we're community and we're growing together thank you so And till the next time we continue building, right? Bye-bye. See you guys. Mike.

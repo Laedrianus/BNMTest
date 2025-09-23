@@ -1,0 +1,502 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blocksense Network Monitor Info & How To</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="light.css">
+    <style>
+        /* Header düzenlemeleri */
+        .header-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 16px;
+        }
+        
+        .header-left {
+            flex: 1;
+        }
+        
+        .header-description {
+            margin-top: 5px;
+            margin-left: 64px; /* Logo genişliği kadar boşluk */
+        }
+        
+        .header-description p {
+            margin: 0;
+            font-size: 0.9rem;
+            color: var(--update-item-content-color);
+            font-weight: 500;
+        }
+        
+        .header-right {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+        
+        .back-to-main-btn {
+            background: linear-gradient(180deg, #74b9ff, #0984e3);
+            color: white;
+            padding: 7px 11px; /* %30 küçültme (10 * 0.7 = 7, 16 * 0.7 = 11) */
+            border-radius: 14px;
+            font-weight: 700;
+            text-decoration: none;
+            font-size: 0.63rem; /* %30 küçültme (0.9 * 0.7 = 0.63) */
+            transition: all 0.25s ease;
+            box-shadow: 0 4px 12px rgba(116, 185, 255, 0.25);
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        
+        .back-to-main-btn:hover {
+            transform: translateY(-2px) scale(1.02);
+            box-shadow: 0 6px 16px rgba(116, 185, 255, 0.35);
+            background: linear-gradient(180deg, #0984e3, #0770c2);
+        }
+        
+        /* Litepaper butonunu %30 küçült (monitör ekranında) */
+        .litepaper-link {
+            font-size: 0.63rem !important; /* %30 küçültme (0.9 * 0.7 = 0.63) */
+            padding: 7px 11px !important; /* %30 küçültme (10 * 0.7 = 7, 16 * 0.7 = 11) */
+        }
+        
+        /* Yeni sayfa için özel stiller */
+        .info-howto-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .info-howto-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid var(--header-border-color);
+        }
+        .language-selector {
+            display: flex;
+            gap: 10px;
+        }
+        .language-btn {
+            padding: 8px 16px;
+            border-radius: 8px;
+            border: 1px solid var(--border-color);
+            background: var(--container-bg);
+            color: var(--text-color);
+            font-weight: 700;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+        .language-btn.active {
+            background: var(--link-bg);
+            color: white;
+            border-color: var(--link-bg);
+        }
+        .tabs {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+        .tab-btn {
+            padding: 10px 20px;
+            border-radius: 8px;
+            border: 1px solid var(--border-color);
+            background: var(--container-bg);
+            color: var(--text-color);
+            font-weight: 700;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+        .tab-btn.active {
+            background: var(--link-bg);
+            color: white;
+            border-color: var(--link-bg);
+        }
+        .tab-content {
+            display: none;
+        }
+        .tab-content.active {
+            display: block;
+        }
+        .content-section {
+            background: var(--container-bg);
+            border-radius: 16px;
+            border: 1px solid var(--border-color);
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 6px 18px var(--shadow-color);
+            backdrop-filter: blur(var(--glass-blur));
+        }
+        .content-section h2 {
+            font-size: 1.5rem;
+            margin-bottom: 15px;
+            color: var(--header-color);
+        }
+        .content-section ul {
+            list-style-type: disc;
+            padding-left: 20px;
+        }
+        .content-section li {
+            margin-bottom: 10px;
+            line-height: 1.6;
+        }
+        @media (max-width: 768px) {
+            .header-content {
+                flex-direction: column;
+                align-items: stretch;
+                gap: 10px;
+            }
+            
+            .header-right {
+                justify-content: space-between;
+                width: 100%;
+            }
+            
+            /* Logo, başlık ve açıklama yazısını 4 karakter sağa taşı */
+            .header-left {
+                margin-left: 16px !important; /* 4 karakter sağa taşı (4 * 4px = 16px) */
+            }
+            
+            /* Açıklama yazısını başlığın altından başlat ve alt satıra geçmeyecek kadar küçült */
+            .header-description {
+                margin-left: 0px !important; /* Başlığın altından başla */
+            }
+            
+            .header-description p {
+                font-size: 0.6rem !important; /* Daha da küçük - telefon ekranında alt satıra inmesin */
+                white-space: nowrap !important; /* Alt satıra geçmesin */
+                overflow: hidden !important; /* Taşan kısmı gizle */
+                text-overflow: ellipsis !important; /* ... ile göster */
+            }
+            
+            /* Back to ve Litepaper butonlarını %50 küçült ve hizasını içe doğru kaydır */
+            .back-to-main-btn {
+                font-size: 0.45rem !important; /* %50 küçültme */
+                padding: 5px 8px !important; /* Küçük padding */
+                margin-left: 10px !important; /* İçe doğru kaydır */
+            }
+            
+            .litepaper-link {
+                font-size: 0.45rem !important; /* %50 küçültme */
+                padding: 5px 8px !important; /* Küçük padding */
+                margin-right: 10px !important; /* İçe doğru kaydır */
+            }
+            
+            .back-to-main-btn {
+                order: 1;
+                align-self: flex-start;
+            }
+            
+            .litepaper-link {
+                order: 2;
+                align-self: flex-end;
+            }
+            
+            .info-howto-header {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+            .language-selector {
+                margin-top: 10px;
+            }
+            .tabs {
+                flex-direction: column;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="header-content">
+                <div class="header-left">
+                    <h1 class="modern-header" style="color: #000000;">
+                        <img src="pirate.png" alt="Blocksense Network Monitor" class="logo-icon" id="blockIcon"/>
+                        Blocksense Network Monitor
+                    </h1>
+                    <div class="header-description">
+                        <p>Track All About Blocksense Network updates, latest posts & announcements.</p>
+                    </div>
+                </div>
+                <div class="header-right">
+                    <a href="index.html" class="back-to-main-btn">
+                        <i class="fas fa-arrow-left"></i> Back to Main
+                    </a>
+                    <a href="https://cdn.prod.website-files.com/685a93bdfac38ce03d82868d/68a72c43d78a25f46a2b4909_Blocksense_Lightpaper.pdf"
+                       class="litepaper-link" target="_blank" rel="noopener">
+                        LITEPAPER RELEASED
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="info-howto-container">
+            <div class="info-howto-header">
+                <h1>Blocksense Network Monitor Info & How To</h1>
+                <div class="language-selector">
+                    <button class="language-btn active" data-lang="en">English</button>
+                    <button class="language-btn" data-lang="tr">Türkçe</button>
+                </div>
+            </div>
+
+            <div class="tabs">
+                <button class="tab-btn active" data-tab="info">Info</button>
+                <button class="tab-btn" data-tab="howto">How To</button>
+            </div>
+
+            <div id="info-content" class="tab-content active">
+                <div class="content-section">
+                    <h2>Blocksense Application Features</h2>
+                    <ul id="info-list">
+                        <!-- İçerik JavaScript ile doldurulacak -->
+                    </ul>
+                </div>
+            </div>
+
+            <div id="howto-content" class="tab-content">
+                <div class="content-section">
+                    <h2>How To Use Blocksense Application</h2>
+                    <ul id="howto-list">
+                        <!-- İçerik JavaScript ile doldurulacak -->
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer Info -->
+    <div class="footer-info">
+        <div class="made-by">
+            Made By Laedrianus with love for Blocksense Network
+        </div>
+        <div class="app-version">App Version: v1.4.0</div>
+    </div>
+
+    <!-- Theme Toggle Button -->
+    <button id="themeToggle" class="theme-toggle">
+        <i class="fas fa-sun"></i>
+    </button>
+
+    <script>
+        // Dil çevirileri
+        const translations = {
+            en: {
+                infoTitle: "Blocksense Application Features",
+                howtoTitle: "How To Use Blocksense Application",
+                infoItems: [
+                    "Real-time monitoring of Blocksense Network website updates with automatic change detection and notifications.",
+                    "Comprehensive display of website changes in both chronological list and interactive timeline formats for better user experience.",
+                    "Complete listing of all supported blockchain networks and available data feeds with detailed specifications and connection status.",
+                    "Advanced search, filtering, and export capabilities for networks and data feeds, including CSV export functionality for data analysis.",
+                    "Live GitHub integration showing recent commits, issues, pull requests, and releases from official Blocksense repositories.",
+                    "Interactive modal windows displaying detailed network information, contract addresses, and technical specifications.",
+                    "Seamless light/dark theme switching with persistent user preferences and smooth transitions.",
+                    "Interactive cross-chain connectivity visualization showing relationships between different blockchain networks.",
+                    "Detailed information about widely-used smart contracts including addresses, functions, and usage statistics.",
+                    "Comprehensive network health dashboard displaying activity statistics, total networks, data flows, and most-used assets.",
+                    "Step-by-step visualization of cross-chain data flow processes with clear explanations of each stage.",
+                    "Simulated Oracle performance dashboard showing key metrics, response times, and reliability indicators.",
+                    "Simplified ZK proof process observer with interactive flowcharts explaining the cryptographic verification steps.",
+                    "Detailed comparison between BlockSense ZK and SchellingCoin technologies versus other oracle solutions in the market.",
+                    "Custom scenario builder allowing users to define specific oracle requirements and get tailored recommendations.",
+                    "Complete BlockSense ecosystem map showing integrations, partnerships, and supported platforms.",
+                    "Application usage statistics including check frequencies, timestamps, and user interaction analytics."
+                ],
+                howtoItems: [
+                    "Launch the Blocksense Network Monitor application in your web browser for comprehensive network tracking.",
+                    "Click the 'Check' button to manually trigger a website update scan and receive real-time notifications of any changes.",
+                    "Switch between 'List' and 'Timeline' view modes using the view options to customize your data presentation preference.",
+                    "Access the 'Networks & Data Feeds' section to explore all supported blockchain networks and their available data feeds.",
+                    "Utilize the search functionality to quickly locate specific networks, data feeds, or contract addresses.",
+                    "Apply advanced filters to narrow down results by network type, asset pairs, or other specific criteria.",
+                    "Export filtered data feeds to CSV format using the 'Export Addresses' button for external analysis and record-keeping.",
+                    "Monitor the 'GitHub Repository Updates' section for real-time development activity and code changes.",
+                    "Interact with the 'Chain Connectivity Map' by clicking on networks to access detailed information and connection status.",
+                    "Investigate the 'Common Contracts Details' section to understand key smart contracts and their functionality.",
+                    "Analyze network performance through the 'Network Health & Activity' dashboard for comprehensive statistics.",
+                    "Study the 'Cross-Chain Journey Flow' diagram to understand how data securely moves between different blockchain networks.",
+                    "Review performance metrics using the 'Oracle Performance Dashboard (Simulated)' for reliability assessments.",
+                    "Learn about cryptographic processes through the 'ZK Proof Observer (Simplified)' with step-by-step explanations.",
+                    "Compare BlockSense technology advantages using the 'Unique Offer: ZK & SchellingCoin Comparison' feature.",
+                    "Customize oracle requirements using the 'Scenario Builder' to receive tailored recommendations for your specific needs.",
+                    "Explore partnership networks and integrations through the comprehensive 'Blocksense Ecosystem Map'.",
+                    "Personalize your experience by switching between light and dark themes using the toggle button in the bottom right corner."
+                ]
+            },
+            tr: {
+                infoTitle: "Blocksense Uygulama Özellikleri",
+                howtoTitle: "Blocksense Uygulaması Nasıl Kullanılır",
+                infoItems: [
+                    "Blocksense Network web sitesindeki tüm güncellemeleri gerçek zamanlı olarak izler ve otomatik değişiklik tespiti ile bildirimler sunar. Web sitesindeki herhangi bir değişiklik anında kullanıcılara bildirilir.",
+                    "Web sitesindeki değişiklikleri hem kronolojik liste hem de etkileşimli zaman çizelgesi formatlarında kapsamlı bir şekilde gösterir. Bu sayede kullanıcılar değişiklikleri daha iyi analiz edebilir ve takip edebilir.",
+                    "Desteklenen tüm blockchain ağlarını ve mevcut veri akışlarını detaylı özellikler ve bağlantı durumları ile birlikte eksiksiz bir şekilde listeler. 74 farklı ağ ve 700+ veri akışı hakkında bilgi sunar.",
+                    "Ağlar ve veri akışları için gelişmiş arama, filtreleme ve dışa aktarma yetenekleri sunar. CSV formatında veri analizi için dışa aktarma işlevselliği dahil olmak üzere kapsamlı filtreleme seçenekleri bulunur.",
+                    "Resmi Blocksense depolarından son commit'leri, issue'ları, pull request'leri ve sürümleri gösteren canlı GitHub entegrasyonu sunar. Geliştirme aktivitelerini gerçek zamanlı olarak takip edebilirsiniz.",
+                    "Detaylı ağ bilgileri, kontrat adresleri ve teknik özellikleri gösteren etkileşimli modal pencereler sunar. Her ağ hakkında derinlemesine bilgi alabilirsiniz.",
+                    "Kalıcı kullanıcı tercihleri ve yumuşak geçişlerle sorunsuz açık/koyu tema değiştirme özelliği sunar. Tema tercihiniz otomatik olarak kaydedilir.",
+                    "Farklı blockchain ağları arasındaki ilişkileri gösteren etkileşimli zincirler arası bağlantı görselleştirmesi sunar. Ağlar arası bağlantıları kolayca anlayabilirsiniz.",
+                    "Adresler, fonksiyonlar ve kullanım istatistikleri dahil olmak üzere yaygın olarak kullanılan akıllı sözleşmeler hakkında detaylı bilgi sunar. En önemli kontratlar hakkında kapsamlı bilgi edinebilirsiniz.",
+                    "Aktivite istatistikleri, toplam ağ sayısı, veri akışları ve en çok kullanılan varlıklar dahil olmak üzere kapsamlı ağ sağlığı kontrol paneli sunar. Ağ performansını gerçek zamanlı olarak izleyebilirsiniz.",
+                    "Zincirler arası veri akışı süreçlerinin adım adım görselleştirmesi ile her aşamanın net açıklamalarını sunar. Verilerin güvenli bir şekilde nasıl hareket ettiğini öğrenebilirsiniz.",
+                    "Anahtar metrikler, yanıt süreleri ve güvenilirlik göstergelerini gösteren simüle edilmiş Oracle performans kontrol paneli sunar. Oracle sisteminin performansını değerlendirebilirsiniz.",
+                    "Kriptografik doğrulama adımlarını açıklayan etkileşimli akış şemaları ile basitleştirilmiş ZK kanıt süreci gözlemcisi sunar. ZK teknolojisinin nasıl çalıştığını anlayabilirsiniz.",
+                    "Piyasadaki diğer oracle çözümleriyle karşılaştırıldığında BlockSense ZK ve SchellingCoin teknolojilerinin detaylı karşılaştırmasını sunar. Teknolojik avantajları net bir şekilde görebilirsiniz.",
+                    "Kullanıcıların özel oracle gereksinimlerini tanımlamalarına ve özel ihtiyaçları için özelleştirilmiş öneriler almalarına olanak tanıyan özel senaryo oluşturucu sunar. Projeniz için en uygun çözümü bulabilirsiniz.",
+                    "Entegrasyonları, ortaklıkları ve desteklenen platformları gösteren eksiksiz BlockSense ekosistem haritası sunar. Ekosistemin genişliğini ve derinliğini keşfedebilirsiniz.",
+                    "Kontrol sıklıkları, zaman damgaları ve kullanıcı etkileşim analitikleri dahil olmak üzere uygulama kullanım istatistiklerini görüntüler. Uygulamanın nasıl kullanıldığını takip edebilirsiniz."
+                ],
+                howtoItems: [
+                    "Blocksense Network Monitor uygulamasını web tarayıcınızda başlatın ve kapsamlı ağ izleme özelliklerine erişim sağlayın. Uygulama otomatik olarak en son verileri yükleyecektir.",
+                    "Web sitesi güncelleme taramasını manuel olarak tetiklemek ve herhangi bir değişiklik hakkında gerçek zamanlı bildirimler almak için 'Check' (Kontrol Et) butonuna tıklayın. Bu işlem web sitesindeki tüm değişiklikleri analiz eder.",
+                    "Veri sunum tercihinizi özelleştirmek için görünüm seçeneklerini kullanarak 'List' (Liste) ve 'Timeline' (Zaman Çizelgesi) görünüm modları arasında geçiş yapın. Her mod farklı analiz perspektifleri sunar.",
+                    "Desteklenen tüm blockchain ağlarını ve mevcut veri akışlarını keşfetmek için 'Networks & Data Feeds' (Ağlar ve Veri Akışları) bölümüne gidin. Burada 74 farklı ağ ve 700+ veri akışı bulabilirsiniz.",
+                    "Belirli ağları, veri akışlarını veya kontrat adreslerini hızlı bir şekilde bulmak için arama işlevselliğini kullanın. Arama çubuğuna anahtar kelimeler yazarak sonuçları daraltabilirsiniz.",
+                    "Ağ türü, varlık çiftleri veya diğer özel kriterlere göre sonuçları daraltmak için gelişmiş filtreleri uygulayın. Filtreleme seçenekleri ile istediğiniz verileri kolayca bulabilirsiniz.",
+                    "Dış analiz ve kayıt tutma için 'Export Addresses' (Adresleri Dışa Aktar) butonunu kullanarak filtrelenmiş veri akışlarını CSV formatında dışa aktarın. Bu dosyayı Excel veya diğer analiz araçlarında kullanabilirsiniz.",
+                    "Gerçek zamanlı geliştirme aktivitesi ve kod değişiklikleri için 'GitHub Repository Updates' (GitHub Depo Güncellemeleri) bölümünü izleyin. Son commit'leri, issue'ları ve pull request'leri takip edebilirsiniz.",
+                    "Ağlara tıklayarak detaylı bilgilere ve bağlantı durumuna erişmek için 'Chain Connectivity Map' (Zincir Bağlantı Haritası) ile etkileşim kurun. Her ağın özelliklerini detaylı olarak inceleyebilirsiniz.",
+                    "Temel akıllı sözleşmeler ve işlevselliklerini anlamak için 'Common Contracts Details' (Ortak Sözleşme Ayrıntıları) bölümünü araştırın. En önemli kontratlar hakkında kapsamlı bilgi edinebilirsiniz.",
+                    "Kapsamlı istatistikler için 'Network Health & Activity' (Ağ Sağlığı ve Etkinlik) kontrol paneli aracılığıyla ağ performansını analiz edin. Gerçek zamanlı metrikleri ve trendleri takip edebilirsiniz.",
+                    "Verilerin farklı blockchain ağları arasında güvenli bir şekilde nasıl hareket ettiğini anlamak için 'Cross-Chain Journey Flow' (Zincirler Arası Yolculuk Akışı) diyagramını takip edin. Her adım detaylı olarak açıklanmıştır.",
+                    "Güvenilirlik değerlendirmeleri için 'Oracle Performance Dashboard (Simulated)' (Oracle Performans Panosu (Simüle Edilmiş)) özelliğini kullanarak performans ölçümlerini inceleyin. Oracle sisteminin güvenilirliğini değerlendirebilirsiniz.",
+                    "ZK teknolojisinin nasıl çalıştığını anlamak için adım adım açıklamalarla 'ZK Proof Observer (Simplified)' (ZK Kanıtı Gözlemcisi (Basitleştirilmiş)) özelliğini inceleyin. Kriptografik süreçleri öğrenebilirsiniz.",
+                    "BlockSense teknoloji avantajlarını görmek için 'Unique Offer: ZK & SchellingCoin Comparison' (Benzersiz Teklif: ZK ve SchellingCoin Karşılaştırması) özelliğini kullanarak BlockSense'u diğer oracle'larla karşılaştırın.",
+                    "Özel ihtiyaçlarınız için özelleştirilmiş öneriler almak amacıyla oracle gereksinimlerinizi tanımlamak için 'Scenario Builder: Define Your Oracle Need' (Senaryo Oluşturucu: Oracle İhtiyacınızı Tanımlayın) kullanın.",
+                    "Entegrasyonları ve ortakları görmek için kapsamlı 'Blocksense Ecosystem Map' (Blocksense Ekosistem Haritası)'nı keşfedin. Ekosistemin genişliğini ve derinliğini anlayabilirsiniz.",
+                    "Kişisel deneyiminizi özelleştirmek için sağ alt köşedeki tema geçiş butonunu kullanarak açık ve koyu temalar arasında geçiş yapın. Tema tercihiniz otomatik olarak kaydedilir."
+                ]
+            }
+        };
+
+        // DOM elementlerini seç
+        const languageButtons = document.querySelectorAll('.language-btn');
+        const tabButtons = document.querySelectorAll('.tab-btn');
+        const infoContent = document.getElementById('info-content');
+        const howtoContent = document.getElementById('howto-content');
+        const infoList = document.getElementById('info-list');
+        const howtoList = document.getElementById('howto-list');
+        const infoTitle = document.querySelector('#info-content h2');
+        const howtoTitle = document.querySelector('#howto-content h2');
+
+        // Varsayılan dil ve sekme
+        let currentLang = 'en';
+        let currentTab = 'info';
+
+        // Dil değiştirme fonksiyonu
+        function switchLanguage(lang) {
+            currentLang = lang;
+            // Aktif dil butonunu güncelle
+            languageButtons.forEach(btn => {
+                if (btn.dataset.lang === lang) {
+                    btn.classList.add('active');
+                } else {
+                    btn.classList.remove('active');
+                }
+            });
+            // Sekme içeriğini güncelle
+            updateTabContent();
+        }
+
+        // Sekme değiştirme fonksiyonu
+        function switchTab(tab) {
+            currentTab = tab;
+            // Aktif sekme butonunu güncelle
+            tabButtons.forEach(btn => {
+                if (btn.dataset.tab === tab) {
+                    btn.classList.add('active');
+                } else {
+                    btn.classList.remove('active');
+                }
+            });
+            // Sekme içeriklerini göster/gizle
+            if (tab === 'info') {
+                infoContent.classList.add('active');
+                howtoContent.classList.remove('active');
+            } else {
+                infoContent.classList.remove('active');
+                howtoContent.classList.add('active');
+            }
+        }
+
+        // Sekme içeriğini güncelle
+        function updateTabContent() {
+            const t = translations[currentLang];
+            
+            // Info sekmesi içeriğini güncelle
+            infoTitle.textContent = t.infoTitle;
+            infoList.innerHTML = '';
+            t.infoItems.forEach(item => {
+                const li = document.createElement('li');
+                li.textContent = item;
+                infoList.appendChild(li);
+            });
+
+            // How To sekmesi içeriğini güncelle
+            howtoTitle.textContent = t.howtoTitle;
+            howtoList.innerHTML = '';
+            t.howtoItems.forEach(item => {
+                const li = document.createElement('li');
+                li.textContent = item;
+                howtoList.appendChild(li);
+            });
+        }
+
+        // Olay dinleyicilerini ekle
+        languageButtons.forEach(btn => {
+            btn.addEventListener('click', () => {
+                switchLanguage(btn.dataset.lang);
+            });
+        });
+
+        tabButtons.forEach(btn => {
+            btn.addEventListener('click', () => {
+                switchTab(btn.dataset.tab);
+            });
+        });
+
+        // Sayfa yüklendiğinde varsayılan içeriği göster
+        document.addEventListener('DOMContentLoaded', () => {
+            updateTabContent();
+            
+            // Theme toggle functionality
+            initThemeToggle();
+        });
+
+        // Theme toggle functionality
+        function initThemeToggle() {
+            const themeToggle = document.getElementById('themeToggle');
+            let currentTheme = localStorage.getItem('theme') || 'light';
+            
+            // Set initial theme
+            setTheme(currentTheme);
+            
+            themeToggle.addEventListener('click', () => {
+                currentTheme = currentTheme === 'light' ? 'dark' : 'light';
+                setTheme(currentTheme);
+                localStorage.setItem('theme', currentTheme);
+            });
+        }
+
+        function setTheme(theme) {
+            document.documentElement.setAttribute('data-theme', theme);
+            const icon = document.getElementById('themeToggle').querySelector('i');
+            if (icon) {
+                if (theme === 'dark') {
+                    icon.classList.remove('fa-sun');
+                    icon.classList.add('fa-moon');
+                } else {
+                    icon.classList.remove('fa-moon');
+                    icon.classList.add('fa-sun');
+                }
+            }
+        }
+    </script>
+</body>
+</html>

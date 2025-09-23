@@ -1,0 +1,415 @@
+00:00:00 - 00:01:07  
+So, thanks everybody uh for joining. This call is different. Now, some of you have been in our past eight community calls and shout out to the OG's uh that have been here early on. This call is different because we've actually grown the community quite a lot. So, our Twitter profile grew with 70,000 new followers recently. Discord grew with 60,000 people. And we actually have a lot of regional communities uh that are active and uh not only going through quests but also creating content and
+
+00:01:07 - 00:01:33  
+participating. And so the purpose of this call and bringing the founders as well as our head of product here is to bring people up to speed if you've been following us so far, but also to introduce ourselves, introduce the team, and introduce where we're at to all of the new followers. So what we'll do is we'll take some time for an introduction. Then you'll hear directly from the founders, create a bit of structure to talk about what is block sense, what makes us unique and then the
+
+00:01:33 - 00:02:04  
+spicy bit is actually going down through partnerships. Uh we'll have our head of product specifically touch on some new opportunities that are we're making a difference not just as an oracle but we're making a difference in the space um and in what's happening with stables as well. So we'll share some some um details about this. Now what we'll touch on also is what's next for BlockSense, but then we'll open up Q&A. So with this in mind, what I want to kick us off with is just
+
+00:02:04 - 00:02:43  
+introductions. And so Zahari, uh the abbreviation of your name is also an abbreviation for ZK, uh which is hilarious because we are building a ZK rollup. you are the co-founder but also the originator of the block sense idea. Um tell me more about yourself and give an introduction to all of these new members that have joined us that don't know Zahari's story and what brought him here. All right. My career career in blockchain and I started in a bit unusual way. I was working on a programming language
+
+00:02:43 - 00:03:26  
+and the first major kind of project in this programming language which is called Nim was actually an client. Some of you may have heard about the Nimbus client. Um I basically was the first team member of the Nimbus project. uh I helped recruit some of the most prominent uh kind of developers in the NI community and we were able to be one of the kind of the most efficient and energy efficient Ethereum plant even today. And Zahari, it was through your work there that you also got pretty close to
+
+00:03:26 - 00:04:09  
+the Ethereum Foundation, right? Uh that's right. um with our my connections with the Ethereum Foundation and led me to the creation of a much larger team which originally worked on kind of various projects developed with grants from the Ethereum Foundation and other kind of prominent blockchain institutions such as Lido, Rocket Pool. uh kind of we developed the first zero knowledge client for Ethereum uh which is able to kind of sync the network by downloading the head block of the network by downloading a single zero
+
+00:04:09 - 00:04:45  
+knowledge pro and also this is a very useful technology for the construction of bridges between blockchains. Most bridges nowadays rely on trusted third parties. But with having a ZK client, you can eliminate any trust and uh have a client that actually verifies that all the information from the target blockchain is authentic and kind of we build a lot of uh experience with developing zero knowledge technologies during this period and this was the foundation of uh blog sense team today. Thanks so much EK. So guys, when
+
+00:04:45 - 00:05:21  
+I met Zahari, for me, this is one of the men with the cleanest and clearest ways of thinking I've ever met. And so the Blockloxsense team has gained notoriety, not just back home in Eastern Europe, but this is a very rare team because you have three Ethereum Foundation researchers investing and backing up the team from the get-go. And so Zahari has been a core part of enabling this. Gorgi, just on uh based on the layout on my end here, yours is the next photo. Tell us what's the Gorgi story. Give us
+
+00:05:21 - 00:06:19  
+an intro. Um yeah, of course. So I'm not sure I've really gone into it before, but um I you know in school I did a lot of math and uh out of school I actually did first job was sales um and like for we're selling like different data centers uh and like my main like reselling Microsoft Asia um like competing against kind of like 10 years ago maybe. Um and after that I did I know I kind of I became a programmer. I did some engineering for like five six years and I got into blockchain uh with with the Manta project manta
+
+00:06:19 - 00:07:02  
+network. We had this um uh we had this kind of privacy preserving products. So for me it was very uh I was just trying to make like private digital cash and uh we had that product we did that product but no one used it which was kind of sad. So uh we did other stuff but um yeah and then I I met the guys uh towards my end and uh we've been building u for like a year and a half since then. So that's kind of very brief about about me. Yeah, thanks Gorgi. Now Gorgi is very humble. Uh I since I came in the
+
+00:07:02 - 00:07:21  
+team, he has been a massive support lifting p he pulls in the right people in and then he lifts them and puts them front and center. Some of you guys may have just seen posts from me on Twitter. I actually wasn't tweeting a year ago. It was all Gorgi. Uh so he encouraged me, he showed me and he kind of pushed and guided me for this and um super humble guy but also a math prodigy that made stuff happen at Manta from the very beginning. Okay, Peter, you're next on my list here. Give us the
+
+00:07:21 - 00:07:59  
+better story. Um I know when we do the community calls, you're often busy getting stuff done and I don't rope you in as often here, but I'm super happy to have you tell people more about the origin story. Yeah, thanks Martin and thanks everyone for having me here. Uh, so similar to Zahar actually um my background is in systems programming and um for a long long time I was a contributor to the deep programming language. So uh we share a common passion with him. Um during u working on
+
+00:07:59 - 00:08:53  
+systems programming for example I worked at uh VMware where we implement some of our uh core API for uh for platform obstruction. Um uh I found the uh Ethereum uh project and that got me quite interested. Um I joined a team called Jarvis where we built uh initially a forex trading um uh application where the idea was to reimagine uh forex trading as the name as it may sound. It was a cool experience and just during this time um Ethereum and DeFi was starting starting to have a huge uh uh effect on many of
+
+00:08:53 - 00:09:45  
+the projects around us. This was somewhere around 2017 2018 and um as as other teams we we piv pivoted to defy which was a great decision. So uh at Jarvis we built um um uh a smart contract platform which allowed uh um which issuing stable coins backed by um um uh issuing uh synthetic stable coins backed by other stable coins such as USDC and apart from that like borrowing and lending and uh this was um how say a relatively hard but quite deep like introduction into the um world of building smart contracts. Um and I met
+
+00:09:45 - 00:10:09  
+Zahari at at the conference. Usually I met I meet a lot of cool people at conferences. So it was a very good occasion where uh it was a conference about the name programming language and uh um and since then we exchanged various ideas and uh at the end he was able to convince me to join forces with him. uh um with him I worked at a team which implemented the staking uh as a service API for one of the largest note operators where we uh implemented staking for Ethereum later on for uh other blockchains such as Suana,
+
+00:10:09 - 00:10:58  
+Cardano, Polka Dots and and Polygon. I I work I also worked with a team which um implement which was dendrit which is zero knowledge based there's a few things a zero knowledge based live client and also um a service that allows verifying uh the liquid the liquid staking uh protocols uh operation um so after this we started working on boxes and the rest of is history. Thanks a lot for that overview. Peter, I was just saying this in the Discord chat. Uh CTO who has been doing DeFi since 2017. That's the It's hard not to
+
+00:10:58 - 00:11:42  
+be bullish on a team like that. Magnus, our head of product, the floor is yours. Hey everyone. Yeah. So, um these three co-founders are clearly very technical brains. Um, I come at things from a different angle. I spent four years studying people, still studying humans at Oxford. Uh, I'm an anthropologist by training. Um, and somehow that sort of led me down the the product uh route um in tech and uh that's kind of like where I where I come at product problems from. Um, very kind of human oriented design. Uh I yeah
+
+00:11:42 - 00:12:15  
+before kind of getting into crypto professionally I um I worked on making AI algorithms at Amazon talk to each other better so that products get delivered faster. Um but I've always had a personal interest in privacy and privacy tech. Um got into Bitcoin pretty early. Bought my first fun fact actually bought my first Bitcoin through the UK mail. um posted an envelope in 2011 and ended up waiting a week to finally get the funds in my wallet. Um anyone who follows me on Twitter, that's where the
+
+00:12:15 - 00:12:54  
+no escrow account handle comes from. Wasn't really escro back then for uh for crypto uh buying on ramps. Um but yeah, I wish I was as good at holding and storing it as I was at buying it. um maybe I'll be retired by now but uh have yeah kind of had a a long interest in in crypto and um through my work uh previously like previous to this I was um uh doing special projects at a Tamasc incubated startup that focused on privacy tech and um over there we were using the DK to do stuff like privacy
+
+00:12:54 - 00:13:22  
+preserving uh KYC so being able to authenticate on KYC users without leaking their personal information. Something that's very relevant if you've been following the Coinbase case from a couple of weeks back um where they leaked a whole bunch of their customers details um through KYC. Uh but yeah, so kind of familiar with the ZK space and um friends with George uh from way back in school and uh got the chance to to uh take a new challenge with BlockSense and um that was last year's summer and
+
+00:13:22 - 00:13:51  
+haven't looked back since. Thanks, Magnus. So, an anthropologist that studied anthropology at Oxford and bought Bitcoin in 2011, a math prodigy, a CTO who did DeFi since 2017, and a co-creator of programming language that has a passion for compiler engineering. That's I messaged this in Discord, but I'm like, that's literally lore building in action. So, thank you guys for taking a minute to introduce yourselves, especially to the newcomers to the BlockSense community. This is a very
+
+00:13:51 - 00:14:35  
+special team and I'm super grateful to be a part of it. Um, very brief overview on my end. I've been building technology companies for 15 years now. Um, I been part of two exits. One of them was in the machine learning and AI space. So, we built this company up 2015 to 2021. I had always looked at the space from a distance. Um, part of what kept me away was not knowing what are what is legit and what's not. And I think you see this even today. Uh, you would see these hype projects and then you would realize how
+
+00:14:35 - 00:15:11  
+uh people are dumping on or extracting from retail. And what really inspired me was meeting the block sense team. So my first conversation was with Zahari and Gorgi. And so I already advised and support companies backed by tier one investors. So I helped a friend get into Y Combinator and build out a fintech. Um I was helping the former CFO of Docker build his new company as well. But when I met Zahar and Gorgi, I decided to drop everything else and jump into the space. And it's been the hardest I've worked in
+
+00:15:11 - 00:15:44  
+my life. and it's been the most rewarding journey at the same time. So, there's been a lot of building, but I'm really excited about this point that we're at right now because you're going to see a lot of things are in motion. So, now that we have the overview from the founders, especially for these newcomers here, I want to talk a bit about what is BlockSense. And Zahari, you're the best person for me to ask this question to hear. Why was BlockSense created? I guess uh um the reason I was initially
+
+00:15:44 - 00:16:37  
+interested in block sensors because I have this kind of inner drive for achieving efficiency and efficiency I think we're addressing in three ways. First of all, we make uh kind of increase significantly the bandwidth how the blockchains can uh consume data from the real world. Um with our technology uh you could upload a lot more information on chain and build kind of arbitrary information that will allow kind of new use cases to be addressed and you know that the blockchain developers can now
+
+00:16:37 - 00:17:10  
+innovate by introducing new information to the chain. But the another source of inefficiency is how the kind of business is organized right now. Basically, if you are an an entrepreneur and you want to create a new sort of DAP that le you have some idea how to leverage information from the real world, your only option today is to practically beg some large blockchain uh institution to kind of lay you a hand and publish the data that you need uh for you. And we think this is kind of wrong. It creates
+
+00:17:10 - 00:17:59  
+an imbalance of power that uh leads to high cost, low execution of new projects and ultimately many entrepreneurs kind of just give up on their ideas. So what we do instead is that we introduce an SDK that allows anybody to essentially program how the data should reach the chain. And with the SDK they can permissionlessly register their program which is very much like a smart construct. So they register registered in the blossom network and the data they they need starts flowing on on the very next day and the block network really is
+
+00:17:59 - 00:18:33  
+designed to operate as the most efficient marketplace possible that meets kind of the consumers of the data on one side with the reporters of the data on the other and this network is designed in such a way that there's a lot of competition between the reporters. So this guarantees that consumers are never overpaying for the data they need. They're always getting the best possible price just for because of the market dynamics that we are creating. And again this is a source of uh efficiency. Um, so I guess that's you
+
+00:18:33 - 00:19:12  
+could argue but okay there's also another way to answer what block sense is and this is the uh a technical answer which is that we are introducing a new decentralized consensus protocol that for the first time makes it possible for kind of validators in distributed blockchain networks to agree on what is called interubjected truths in an interubjected truth is something that almost everybody on the in the world would agree upon. For example, who is the current president of the United States or what's the current
+
+00:19:12 - 00:20:01  
+temperature in New York? So these are facts but they these facts cannot be computed like they uh the blockchain networks today they reach consensus only on kind of objectively computable facts such as what is the result of executing particular set of computer instructions um in a particular virtual machine. And this is the reason why the current blockchains their kind of the subject of computation is limited to the only information that is already in the blockchain. Mhm. We think that the use case of blockchain
+
+00:20:01 - 00:20:38  
+would be very uh limited very uninteresting if this was the case. So with block sense the kind of subject of smart contracts can now expand to anything in the world as long it is a truthful fact. Um so oracles are clearly the first uh kind of gold use case and our go to market strategy but the potential of gold science uh goes much further like we'll see we'll be disrupting a lot of existing data middleware solutions such as indexers bridges and basically anything that needs to work with large scale data in
+
+00:20:38 - 00:21:19  
+an efficient way. Thank you Zahari. So, I know this in and of itself requires a whole community call and maybe we even do something a bit more private there. Um, people that want to learn and that have also been in the community for a while because I do know this gets technical. Um, but the biggest takeaway for you guys that it took me a while to realize is block sense is something so much bigger than oracles and even within the context of oracles uh we're going to bring tremendous efficiency. So, Gorgi Zahari
+
+00:21:19 - 00:21:55  
+gave us this overview of what is uh why block sense is created specifically talking about inefficiencies at scale and his drive to make things better. How would you summarize the mission of BlockSense especially from where we're sitting today? Right. Right. Um well I'll just re reiterate um or maybe rephrase kind of what Zakari said and in one sentence I'll say we're really trying to kind of make oracles and middleware more generally sexy again and uh I don't know if again but kind of
+
+00:21:55 - 00:22:40  
+interesting uh because people just when you say oracle people think directly or pricey is changing it's kind of there but it's boring but I feel uh we can uh we can really mix that up and um or artist try and then and then also the other thing is to to make them uh to make this um uh these things that are created uh with our with our network we actually decentralized a lot of the a lot of the oracles a lot of the middleware um kind of multic uh yeah not uh yeah usually just like a multi so Um we can uh we can make
+
+00:22:40 - 00:23:20  
+a real progress on that side as well and kind of have a fully uh fully decentralized uh permissionless system where people can can uh be like validators can deploy uh services run them and uh and like do all these things for for their smart contracts. So that that's okay to make oracles in middleware interesting um and decentralized and uh you know obviously to make a sustainable business out out of it that uh we can share with with the community over over the long terms. Um yeah that's because obviously
+
+00:23:20 - 00:23:52  
+decentralization also means um it can decentralization is on many layers but one of them is uh kind of the ownership of this um yeah of this network and of the business. So um that's that's how I would uh I would summarize and I personally I really like honestly I really like the uh the competitiveness of this market of the or the oracle market especially it just shows that it's important uh even though it's boring now I mean it's there for a reason um uh yeah it powers all of D5 at the very
+
+00:23:52 - 00:24:24  
+least but we're looking for kind of also new gems for like different use cases But just for DeFi itself, it's it's super important obviously and uh who controls it also is a is a very important role in uh yeah like all of crypto. So um yeah that's that's kind of the that's great points go and you're leading into the next question that I wanted to direct to better. So Peter, you've been leading this function as a CTO. You've been a CTO for years now and working in DeFi as a technical lead
+
+00:24:24 - 00:25:16  
+since 2017. So this problem that we're talking about, why is it so important to solve? Uh why is there so many companies in the space looking at addressing this problem? Uh go said himself this is big and important and he did touch on DeFi but how would you answer this specific question? All right. So, uh I'll just put uh some like I think major projects that happened in the let's say uh 10 15 years that's for me are the highlights which brought us to this point. So uh of course to reiterate for the minute time
+
+00:25:16 - 00:25:52  
+we had Bitcoin which was the first um attempt to bring an actual alternative to the traditional uh finance uh system and shortly after there was like a a small explosion of many blockchains that did certain things incrementally better than than Bitcoin but at least my impression which may not be 100% historically accurate is only once there's a product like Ethereum which uh had um uh strived to have Turing complete programming environment basically allowing anyone in the whole world to uh to write new programs to to
+
+00:25:52 - 00:26:25  
+develop new use cases is only when the the blockchain industry like started to to grow and to reach many new frontiers. Uh there was there was a lot of incremental progress before that but only when uh programmability was solid is that the uh the whole ecosystem started to to touch new places that no one imagined that something like Bitcoin can touch before uh and um of course like a programming platform there's many programming platforms like we all know that like in the past mainframes data
+
+00:26:25 - 00:27:17  
+centers cloud providers and so on. So uh in one way you could think that compute is ready readily available but I think one of the things that is like truly missing is verifiable compute being able to tr the data and in in this age where AI it's entering so many spheres of our life and like misinformation and so on. uh being able to trust the data I think is very important and um uh still like even like 10 years ago Ethereum did a like huge step function uh in that regard by um like having a a a place a system of of
+
+00:27:17 - 00:27:49  
+computers like a worldwide computer where uh uh like this like thousands and hundreds of thousands of uh uh like entities can reach consensus on on various uh programming facts. But I think this is like was very limited like um to be deterministic and to have this very high level of guarantees. This requires uh severely limiting the use the use case the the what is possible from a programming language like solidity and uh I think this was very necessary at the time because you you have to focus on one thing and do it
+
+00:27:49 - 00:28:24  
+well. uh but uh um I think 10 10 years later we can see that a lot of the companies that are adopting blockchain uh they still have this like mix of web two and web three. So the web three stuff they're like uh uh they're trustworthy uh but still there's a large portion portions that are still web two which just means uh trust me bro like we're doing we're doing this but we can't trust it. And so basically um Boxense mission is about uh extending what the serum offers as programmability
+
+00:28:24 - 00:29:02  
+and the verifi verifiability of data to uh to a much wider uh much wider spectrum of of use cases. Uh and oracles for us are one of the core um things that we want to address. uh there's many existing players in the space but uh we we think we can do a better job. Beautiful Peter. Thanks so much. That that's exactly why I wanted to direct this question to you because I love the perspective and the experience you have and how you framed it in terms of let's not just talk about something shiny in
+
+00:29:02 - 00:29:40  
+the moment but let's understand the bigger context and the perspective of why all of us are here on stage and why everybody else is in the community listening live right now. Magnus, we spoke about why BlockSense was created, the mission, and then why this problem is important, but you've been front and center in the space working with protocols of all kinds, working with chains. How does BlockSense compare to what's out there in the market? And how would you summarize this for people who haven't been in the 450
+
+00:29:40 - 00:30:13  
+group chats that you and I are in in the past 6 to9 months? Yeah. Um that's a great question, Martin. I think uh it's funny you mentioned these several hundred group chats that we're in because uh how BlockSense is different has also evolved over the past year, right? we've been figuring that out um and finding where the best fit with the market is and we've started to find really strong partners and um and niche like fits with niche um parts of the market which I'll go into in a second. Um I think like on
+
+00:30:13 - 00:31:00  
+a very broad scale I don't want to repeat what the others said before me but um there's no other provider today of data data middleware who can answer the the following three questions reliably like who's the president of the US right now what's the price of Bitcoin a second ago in dollars and what is the output of my prompt from this specific LLM um say Llama 13B or um GBT4 or whatever. Um there's no one that does all three of those things seamlessly. And there are providers that are
+
+00:31:00 - 00:31:21  
+specialized in each one and have, you know, different trust assumptions, usually quite high trust assumptions. Um, and I think what's really compelling about the the vision and the future of LockSense is the ability through the ZK Shellencoin consensus to handle all of these different use cases, all these different verticals from oracles to bridging to verifiable inference to intent solving um without having to rely on the uh the honesty of operators of the network because the consensus solves
+
+00:31:21 - 00:31:58  
+for the incentives gain theoretically. So I think that's kind of a killer differentiator in the long run. Um in terms of how you know we are differentiating ourselves today. Uh obviously our our GTM is primarily focused on in the Oracle space although we're making foray into these other verticals that I just mentioned. Uh we are we're finding kind of initial fit with oracles. And if you look at how oracles historically, like legacy oracles have worked, they're essentially, you can think of as dumb
+
+00:31:58 - 00:32:36  
+quote unquote price givers, right? So they give the price of an asset and it's up to the protocols who consume that price to decide how to handle it. Um but what we find is that not all not all assets are created equal in crypto and uh not all pricing should be done at the same with the same methodology right um and this is where the programmability of the block face the block sense interface um comes into play. So um we were able to essentially arbit um execute arbitrary logic and arbitrary scripts
+
+00:32:36 - 00:33:05  
+behind the scenes with those um with those data feeds that we provide to protocols such that they're for example able to act and behave differently depending on market conditions. And so if you look at um so what I'm kind of hinting at here is uh this new emerging field of riskaware defy oracles. Uh so certain DeFi assets are or certain crypto assets that are used in DeFi money markets like yield bearing stable coins um and other yield tokens they because of their dynamics because they're um heavily staked like a large
+
+00:33:05 - 00:33:37  
+percentage of the circulating supply tends to be staked which means that the um the actual liquidity depth in um trading venues is very low. those assets tend to be prone to manipulation like price manipulation and if you such that if you just give them kind of market price of a DEX uh T-Watt um you you may end up actually giving a very manipulated price back and um this is where we've been doing some R&D and um in pegaware oracles. So for a stable coin asset for example um there's a
+
+00:33:37 - 00:34:03  
+there's a big difference to a money market when a stable coin deps because there's a structural defect. Let's say the uh reserves have been drained and that stable coin is actually debased. It's not worth what u the market thinks it's worth and then the price goes down. You really want to be able to reflect that um in the money market to pro to protect lenders from occurring bad debt. But then there are these minor fluctuations that can be caused by malicious actors manipulating the price
+
+00:34:03 - 00:34:31  
+or purely just the trading, you know, the arbitrage trading activities that cause stable coins to jitter around that $1 mark or whatever asset they're pegged to. Um, and these cause things like unwanted liquidations in money markets, uh, and changes in interest rates for borrowers that are actually undesirable for all players in those money markets, but they just kind of a feature of, um, going with a dumb price feed. And I call it dumb just because it's, you know, like it's onedimensional, right? It
+
+00:34:31 - 00:35:10  
+always returns the same logic. And so, uh, that's really what we're trying to like, um, double down on with our riskaware feeds is being able to in in that case of the stable coins, being able to just default to a 1.0 even if the price like the market price of the asset is say 1.001 or 0.998. Um, because, you know, that's more efficient for the money market. But then when an actual DPEG event happens, we flip uh and the the script the the Oracle feed starts reporting on the market price um to protect lenders from
+
+00:35:10 - 00:35:41  
+Korean bad debt. So kind of went into a lot of detail on that example. Hope it's not I haven't lost everyone with with the technical aspects but um just to say like we are we're going very very broad um as a middleware platform servicing many different kind of verticals. Oracles are of our GTM and where we're initially finding the fit with the market. And um one of the areas that I'm like I'm most excited about for us in the coming weeks and months with the partners that we have lined up is um
+
+00:35:41 - 00:36:16  
+modernizing the way that money money markets DeFi money markets um use price and uh the kind of price feeds that that get fed into these money markets which ultimately will lead to like higher LTV ratios and just more efficient money markets in DeFi. Thanks a lot, Magnus. Uh, you did talk a bit about partnership. We're actually going to pick this up in a bit again. So, thank you for hinting this. I mentioned this in the Discord. By the way, if you have any questions, drop the questions in the Discord chat. Um,
+
+00:36:16 - 00:36:48  
+people are going to help us out collect all of these and we can use them for the Q&A at the end. So, if you have questions, please put them in the chat so we can collect them. Now what we did is we gave an introduction and an overview of the team specifically for the new people uh that have joined us but also giving a bit more of the lore and the story to existing community members. Then we spoke about what is blocksense. Now you guys are a very diverse bunch and I love how we all complement each other here.
+
+00:36:48 - 00:37:28  
+And what I want to ask you is what makes blocksense unique? What makes the team unique? And I imagine I'll get very different answers from all of you, but especially from where you're sitting, what do you think sets the team apart or you see it as an outlier of sorts, an outlier characteristic and Zahari, I'll start with you. All right. I mean, there's one obvious question answer that we are one of the first properly decentralized or we already covered that. There's also another more unusual answer uh which is
+
+00:37:28 - 00:38:19  
+that our team has this unique DNA where myself Peter and other team members we have been involved in the creation of programming languages developer communities um ecosystems very advanced tools for developers for example we recently published uh a time traveling debugger for noir which on the very first day of its publication gained nearly 1,000 stars on GitHub. And this DNA of the company is something that would help us I think over time build an edge over the competitors because if you think about
+
+00:38:19 - 00:38:56  
+it we are introducing this programmable platform. So the developers that are going to build applications on top of our platforms platform is what would uh set us apart and our unique DNA will help us create make this platform the as developer friendly as possible. I think kind of our understanding of developer tooling how to design libraries and programming languages is something that I haven't seen in any of our competitors. Thanks a lot, Sahari. That was a great answer. Gorgi, what do you think makes
+
+00:38:56 - 00:39:47  
+us unique? And the rule here is no one can repeat something that anybody else said. Uh if this was a primary unique feature for you, you can select a secondary or a tertiary to share. Right. Right. I mean, for me, um for me, it's always um more about the people. So I mean we have we're 30 people now 20 engineers and uh we scaled up uh 10 man like operations and marketing team uh and we have access to a great I mean already we have amazing amazing people amazing talent uh and then we have
+
+00:39:47 - 00:40:28  
+access to a lot more um and we can scale up um and like uh in order to meet like all these challenges and all these open lines that they're seeing and all these opportunities and um yeah all these people kind of so out of all these people but it distills down to I think to a couple of things kind of we have this big brain line and also we have this kind of the gen uh hostile line and uh I mean these two these two parallel um uh characteristics I suppose of the team and uh I think most I think most
+
+00:40:28 - 00:41:16  
+successful teams uh have had this. So um continue to have this. So, uh I think that's kind of what gets me most. Uh I think it's like very uh I think very unique especially for uh the uh for the for our stage like so I'll kind of thank Kiri. Uh that's a great answer and one of the big factors for me was how goated the founding team the core team is. There's a reason why A16Z crypto CSX once they found out about BlockSense they actually wanted to lead this right and support the team. And to
+
+00:41:16 - 00:41:37  
+this day, I would love someone to correct me, but I haven't heard of a team in A6 CSX that had three Ethereum Foundation researchers, not just as advisers, but as investors and as involved as they are with our team. So, the team, it's not just the core team uh that is coded, but also everybody else that's backing up the project. And I want to give a special shout out to Rail. Rail never sleeps. Everybody knows this. He he's a superstar. Uh what Raill does on the community side. I actually haven't seen
+
+00:41:37 - 00:42:22  
+anybody else do in other communities. Um so shout out to not just the core team and the founders and the rest of the project of Bloxense, but also you guys in the community and the people making stuff happen in the community to get us to where we're at today. We're going to go so much higher from here. Peter, what makes us unique in your experience? Um so uh Gary talked about the people as Harry talked um about about the vision. I would say I would like to talk about the road map. I I think uh we're kind of a unique
+
+00:42:22 - 00:43:12  
+project because um we have this very high ambitious goals of building uh a general system that can serve uh many use cases and to be pretty decentralized uh open and allow for great innovation. But at the same time, we're uh like super focused on a very aggressive go to market uh fund. Uh and specifically uh um I I think what maybe sets up apart from some of the other players that are more how to say uh compute focused perhaps is that we really uh very early on started working on partnerships with
+
+00:43:12 - 00:43:49  
+teams. uh and I think for me this is very important because we we uh it's best to understand the to have empathy for the people you're serving uh not just uh build this uh pipe dream but to to serve actual people and to serve real use cases. So for me this uh the I would say the what makes us un unique is this combination of like having very high goals of building something that is very robust with our shenon consensus but also uh just being very aggressive at um at serving partners very early on.
+
+00:43:49 - 00:44:16  
+Thanks a lot Petra. This is kind of a it's a bit of a twist because you said the road map, but then we're having the CTO talk about the aggressive expansion approach that we have. Uh so I love that you're the one that actually brings up this point. Magnus, what makes the BlockSense team unique? I want to hear this anthropologist 2011 Bitcoin buying uh converted to a blockchain product lead perspective. I'll try and I'll try and weave in some anthro. Um I think one of the great
+
+00:44:16 - 00:45:03  
+strengths is that we're pirates, right? There's this other project, this other crypto project that has uh Marines and um we chose pirates quite deliberately because uh we sure we see ourselves as the smaller player that's maybe the underdog for now. Um, but that uh is willing to do what it takes to to uh to get on top and uh big great things can come from pirates. Actually, people usually think them think of pirates as thieves, but uh um well, I don't want to draw too much of a comparison with the British Empire
+
+00:45:03 - 00:45:38  
+because that's fraud, but uh the British Empire was started by pirates. The buccaneers were individual pirates who found uh new lands. They explored and they they went out and they created enterprises that ended up being um like nations that uh that were part of the empire that um you know became this big hamon and uh I think uh yeah I'd rather be a pirate than a marine. So I'm going to go with that. I love I love this. I love this answer. Um, so this is a great point. I actually had no
+
+00:45:38 - 00:46:18  
+idea about the this origin of the British Empire. See, it does pay off to have an Oxford educated anthropologist amongst us. Uh, so I wasn't actually going to direct this question to myself as well and I haven't thought of an answer in advance. Uh, but I just based on what I heard from you guys, I feel like just taking it off uh the cuff here. I met the founder of a chain that has raised hundreds of millions and well I mean 100 plus million and I met them at a cigar launch at a side event in Denver and he was
+
+00:46:18 - 00:46:54  
+talking to some big shot um liquidity providers. Um and when I met the guy he's like what do you do and I was like oh I'm with BlockSense and what does BlockSense do? And I'm like, well, BlockSense looks like an oracle, but it's actually a the distributed compute network in disguise. Um, and you know, A6Z backed us up. Uh, we raised 4 million preede in September last year. And he said, why the hell would A16Z uh put that much money in an Oracle in 2024? And I'm like, great question. By
+
+00:46:54 - 00:47:31  
+the time we ended our meeting, he was the one asking me to scan his telegram uh for us to connect. So the vision here is massive and like Magda said the business we are adapting, the business is adapting and it's like a living organism. But the thing is you have some really big brains behind this figuring it out. And it even took me I would say probably half a year to fully understand the scale of what we're doing. And that's what we're also trying to convey in this community call here.
+
+00:47:31 - 00:48:03  
+Just give you a glimpse of the way bigger vision. Blocksense isn't just an oracle. Block sense has the architecture and the capabilities to build technology that essentially addresses multiple industries and segments. And over time, I would love to get as many of you to understand this because regardless of how involved you would be with BlockSense, if you are able to understand what's being built here in its potential, you will have a much deeper understanding of the whole blockchain space. So, I'm just getting
+
+00:48:03 - 00:48:48  
+goosebumps just talking about it. But when I say what makes BlockSense unique, there is a vision here. Um, a vision with scale. And I've been building technology companies for 15 years. I've always been pursuing big thinkers and big builders. So what makes it unique is this big vision that's real. Uh it's not a a PowerPoint deck or like unknown founders on a landing page convincing you to like put money in buy a token uh for them to dump on a pump fund a week later. Okay. So we we gave the introduction we spoke
+
+00:48:48 - 00:49:21  
+about what is BlockSense and then what makes us unique and now I want to talk about partnerships. Now there is a limit to what we can share publicly or what we'd like to share publicly right now. Uh but I will give you guys some tidbits. So we spoke with a very promising probably the most promising RWA project uh that's involved with the AC layer. We're very close to the founders now. And the literal quote I have for from you from them for you is, "Oh, I'm so excited to not pay millions for this number of
+
+00:49:21 - 00:49:50  
+price feeds." So, this project is building really exciting um protocols. So, it's a chain, but it's supporting really exciting protocols in the RWA space. And they're actually an advocate for us. They've raised a substantial amount of money. they're already uh a part of a very vibrant ecosystem, but we have them as an ally and we have them as someone who's referring business to us. Um, a second example is a project on arbitum. Um, and this protocol, even though it's been approached by some of
+
+00:49:50 - 00:50:24  
+the dominant oracles and some challenger oracles as well, it's a no-brainer for them to work with us. So this protocol will be launching a stable coin and they're actually even though others are chasing them as an oracle and people didn't know the blocksense name a year and a half ago uh they have already committed to working with us. A third example is we are pretty close to people at optimism. Some of us has p have personal connections there. But literally from someone at optimism that
+
+00:50:24 - 00:51:03  
+is in a position for partnerships, we heard this. Your thesis makes so much sense. We hear it time and time again. What a challenge oracles are for chains. And so it's taking time to meet the right people, build the connections, build the technology, and start delivering results. And once you deliver value, you grow within an ecosystem. But you're seeing both from new promising projects with serious funding, leading chain ecosystems and stacks as well as protocols that have been around for a
+
+00:51:03 - 00:51:39  
+while. U you're hearing this and you're seeing this, I don't know what to call it exactly. They are becoming allies and they're becoming they're spreading the word for us as we're building things up. So I think this is very exciting and I'm very bullish on it because if you look at the Oracle space generally it's very competitive but having this support from chains stacks and protocols where we are today I'm incredibly optimistic about what can be done. Um, Magnus, you did
+
+00:51:39 - 00:52:22  
+touch on stables a little bit. Um, and you did talk about riskaware oracles, but can you highlight some of these examples and maybe highlight them uh in a more succinct way, especially because I see more people joined. Uh, we're four almost five times more than when we kicked off the call 45 minutes ago. Yeah, definitely. Um I think we've got partnerships with stable coin issuers and or money markets um across some of the new chains some of the new very hyped chains that are uh launching soon
+
+00:52:22 - 00:53:21  
+such as Monad uh Citra TAC which is uh got its mainet coming very soon imminently in fact um working with a couple of yield uh protocols there um very bullish contact uh base. We people already saw our announcement with uh Oiler um who recently passed a billion in TVL amazing redemption arc from the hack few years back. Um they are very very very much on the cutting edge of uh risk aware and risk optimized money markets. Um, and I think we've got some pretty big announcements coming up soon. We've
+
+00:53:21 - 00:53:42  
+been sitting on a few um that are oven ready and uh about to be um sent out. Um I don't want to yeah take too much time to to go into all the details, but hopefully that gives a flavor. Um, essentially we're uh we're working with some of the top new chains where there's kind of green field opportunities and um it's not out competed uh and getting in very early and doing our proposition and I think it's selling very well um and then on some more established chains um getting embedded with risk curators and
+
+00:53:42 - 00:54:22  
+and money markets there um which you've seen in the announcements already. So yeah, I'll probably leave it at that and pass it back to you Martin. Thanks Magnus. So we spoke about protocols, we spoke about quotes from some chains. Uh this is where I'd love to actually address better. So we're also working really hard to integrate a number of chains. Would you like to say a bit more about this better? Uh sure. So, Magnus already mentioned some of the chains, but um I would say that um especially on the EVM side, uh
+
+00:54:22 - 00:55:08  
+um our architecture allows us to very rapidly uh just surf new chains. Um our consensus and our batching mechanism allows us to uh like almost instantly um just go to to to new markets. And uh uh we've been we've been seeing uh very rapid growth especially on with many partners uh uh on their test nets and some of their mainetss. Um I think it's also very exciting some of the non EVM EVM chains. Uh so for example we've been partnering with with that stick. Uh um for me they're a
+
+00:55:08 - 00:55:48  
+pretty cool project because they they uh they have a very um very deep R&D focus uh on um on leveraging ZK not just for scalability but also for privacy. So uh basically it is one of the projects that we're partnering on different levels and I'm very excited of um where our mut mutual partnership can go. Thanks for that overview Peter. So I actually quoted I noted down this quote from you. Our architecture allows us to start new chains very rapidly guys. I I wish there was a way to survey you. If you talk to anyone
+
+00:55:48 - 00:56:18  
+building a chain and you ask them about oracles some companies take months uh some can take up to half a year a lot charge you hundreds of thousands to even integrate. So the velocity that's enabled here through the through our architecture um is something else and u this is what kind of leads me to generalize about what's next. So in terms of upcoming partnerships and ecosystem plays you will be pleasantly surprised to see a lot more activity and announcements over the coming months. Again I wish I could share some of the
+
+00:56:18 - 00:56:58  
+names now but keep an eye you will see announcements publicly. you see announcements on Twitter as well as in Discord. Now, our primary focus right now, well, my primary focus as someone who's supporting the ecosystem is connecting with layer 1's, layer 2s, layer 3es, anyone that would need an oracle. And the secondary thing is, well, secondary, the second but not secondary is connecting with lenders, LSDs, LRTs, stable coin issuers. If you are involved with or support any such projects, so you know the team, you're
+
+00:56:58 - 00:57:26  
+doing some work there already, uh please drop us a response in the early adopters form. So you can find this at the bottom of the BlockSense network website. And so if you guys share project there, we'll review these. We'll match them against who we're talking to. Share context on what's your involvement with the project is. If we're not already connected with them and you report someone, we meet with them. Um, I'm personally going to print you one of these shirts. It's basically This, by
+
+00:57:26 - 00:58:05  
+the way, is one of the highest highest quality shirts you could wear. Uh, I love it. Um, Block Sense paid for it. So, uh, I wasn't cheap on uh, making sure I get us a good shirt. So, I will personally print the shirt and I will mail it to you myself. So again, if you're connected with and deeply working with L1's, L2s, L3s, Lenders, LSDs, LRTs or stables, fill in the early adopters form and u I'll be working with the team to go through these and get back to you. Um talking about what's next. So, we
+
+00:58:05 - 00:58:43  
+recently uh had our NFT campaign and Gorgi, I would like to bring you up on stage. By the way, how many people do we have here? Hey guys, so it's Gorgi's birthday today. Can we get a happy birthday in the chat? Cuz I wish I could bring you all on stage, but this is going to be incredibly chaotic. Um, happy birthday, Giri. I hope you you better be logged in this course to actually see these uh see the messages now. I can do this. Let's see if it's going to work. Okay, you're getting some
+
+00:58:43 - 00:59:26  
+confetti. Happy birthday, G. Oh, there you go. We got birthday. So, happy birthday. And I also want to bring you on stage. Um, tell us a bit more about what's next now that we had this NFD campaign. Um, right. I mean in terms of in terms of the NFP campaign, it was uh what we're planning on next is uh the second kind of experience, let's call it that way, where we will really um try I mean we will really u get to see what everyone uh like everyone in the community is kind of made out of and
+
+00:59:26 - 01:00:21  
+what their strengths are. whether you guys are uh like onchain DJs uh NXT DJs like art go people like and all the developers and all the the yappers on Twitter and so forth. So the goal of this experience will be to really really see kind of everyone's metal and uh and uh the collection on I mean we will do uh some kind of some kind of collection that will reflect uh what what you guys are made of. Um yeah, and uh we we're we're at the beginning stages of kind of planning out planning it out and setting up all the
+
+01:00:21 - 01:00:57  
+um like what exactly this experience is going to be. So I don't want to spoil it, but um basically we're we're getting the best out of all the all the pop uh uh Esther collections that we've seen in the past few years. uh we've like taken the time to really to really study them and make something um and take something from the from each of them and make something of our own. So yeah, that should that should uh give us like a few months and uh we'll roll it out. But I say I'm very excited about it and um
+
+01:00:57 - 01:01:32  
+yeah, that's yeah, that's all I have to say I would say. Mhm. That's great. Ki actually we sorry we did the we did already like if you guys are curious about the artist um we have a really cool uh artist who's working with us he's a kind of a a real world artist actually like a pop artist has a very interesting style which makes this kind of 90s decently like uh themes with uh yeah with with some some other stuff but uh yeah we we recently also about them. So, um you can you can check out
+
+01:01:32 - 01:01:59  
+his work to kind of get the vibe of of uh what they're thinking about from those of the art. Thanks, GoGo. Um so, we did start the meeting a bit later and I know we have a lot of people in the chat. So, we're going to extend this call to address community questions. And the first questions I'll start with, we have a we had a lot of questions about the NFD actually. So the first question go is directed to you. Will there be a second NFD drop? And is there still a chance for those who missed out on the
+
+01:01:59 - 01:02:54  
+pirate NFD? Yeah, I mean uh right like I mentioned, we'll do we'll do um a second uh like NFT draw kind of experience. So um do so there will be that and uh the way we're thinking about it is there will will be other ways that uh people will be able to participate in that uh not just so one way would be you will get a chance to participate for sure if you manage to commit the first one and like do it the proper way by uh following the instructions. So that's uh one but like I mentioned we want to see
+
+01:02:54 - 01:03:14  
+uh we want to see the different characteristics of the community like we want to see the people who are really active on socials we want to see the people who are really active on GitHub or uh we want to see the people who are really active on change and different protocols and different partner protocol. So there will be other ways to get in uh to participate into that. So, uh, and what about those who missed out on the, uh, pirate NFT? Is there still a chance? Right. That's what I mean. Yeah.
+
+01:03:14 - 01:03:42  
+Okay. You'll be able. Okay. And how did the idea for the NFD drop come to the team? There were a couple of questions about this. Um, I mean, we uh, we've been in the space for a while. We've seen we've seen different stuff. Uh and we have um uh we have kind of the different pieces that are needed are in place especially we have the uh an artist like a real world artist who is uh who is actually doing you know exhibitions and like New York and Paris and like Asia and different cities like kind of getting
+
+01:03:42 - 01:04:02  
+maybe one day he'll be like uh super famous but right now he's like a little bit famous and um he's a friend of the project So there just like all the pieces are there and there's an opportunity like we're fans of of doing stuff like this and uh and he wants to um bring over his brand over to onchain as well. So and actually tangent I mean in in he's also connected to some other kind of sier uh collections like a zuki and pie penguins. Uh uh so we'll be um yeah we have we have everything there and we're
+
+01:04:02 - 01:04:41  
+we're trying so good. Uh and I think that's going to be a very cool experience for the community. So um yeah that's uh that's part of it as well. Yeah. Now uh sorry just give me a second. I just looking at questions. Um, so I'll take this verbatim. Um, and you can address the part of it that's more relevant now based on what you added. NFTs were minted before and now there's going to be another mint. Is it true that only those who minted before can mint again? How is the NFT valued in
+
+01:04:41 - 01:05:17  
+the project's ecosystem? I mean, I think I already said about that's why I'm like I'm just reading it as is uh for context. Yeah. Right. I mean, yeah. I maybe to reiterate, we'll figure out maybe like different qualificating in the second experience. Um, and yeah, it won't be just the if you if you did the first one, but if you did the first one, that definitely going to help. Got you. Okay, now we're changing up the questions a little bit. We'll step away from the
+
+01:05:17 - 01:05:53  
+NFDs. This is a good one. Do we have or are we planning to integrate programmable oracles? I love that this is framed as we this is the way you got to think because so I'll just do a side note here. A lot of oracles have community and they have missions and they have activities. But how many of these oracles if you're a builder you can build oracles on? how many of these companies you can run a node for or actually benefit from being an operator. Um, you can't. So, BlockSense is very uniquely positioned
+
+01:05:53 - 01:06:41  
+to be a decentralized solution starting with oracles. And this means that that's why it makes a lot of sense to build this community. That's why it makes sense to do this from the get- go. It's not a marketing tool to pump numbers. If we're going to build the most decentralized oracle out there, and eventually it's going to be a no-brainer for every chain that has DeFi or needs an oracle to run BlockSense, it also makes sense that we build it together. U one of the simplest points about this is
+
+01:06:41 - 01:07:14  
+anyone would be able to run a node and both secure these networks and benefit from it. So with this being said, do we have or are we planning to integrate programmable oracles with ZK Starks and TE and what do you think about that? Now between Zahari and Peter, I see Zahari you already came off mute so this is yours. Uh definitely like Zik's uh zero knowledge proofs are kind of core component of our architecture. They are what guarantees that the information produced by the Zing consensus is authentic
+
+01:07:14 - 01:07:58  
+and what we have this unique property that we'll soon write about a bit more that uh the cryptoeconomic security of the block sense network arguably extends to all the liquid capital in the world. Basically there are mechanisms in the protocol where that allows any attack to be addressed by kind of even players outside of the protocol who step in to kind of stomp the attacks. Uh these they have their certain role. Uh there are use cases where the T is potentially the only reasonable solution. Most of these use cases
+
+01:07:58 - 01:08:44  
+are about uh for example uh real world asset protocol proving something about their reserves. Now this is highly sensitive information. It may require credentials but then it the information has to be delivered in a trustworthy way that kind of prevents any postfield manipulation on the part of the kind of real world assets uh the owners of the protocol. So the one reasonable and secure way to do it is to have a published source code which defines how the information will be obtained. run this um program in a trusted
+
+01:08:44 - 01:09:23  
+execution environment which guarantees that it cannot be tampered the program cannot be tampered with but this trusted execution environment will store the necessary credentials that has to be kept to the sensitive information. So use cases like this would be possible within the block science network and the way it would work is that uh the ZK circuits they would verify the so-called remote attestations which are produced by the trusted execution hardware. So transitively when once the information reaches the target
+
+01:09:23 - 01:09:55  
+blockchain it is verified with the knowledge proofs which uh kind of recursively have proven that uh the origin the true source of the data is the tr execution environment running a particular and audited uh source code which kind of obtains the data from the real world. Thanks, Ari. Uh, and great question by the way. I love that we have people in the audience that are digging into this. Um, next thing, what is the most unique thing you want to achieve with BlockSense that other oracles haven't
+
+01:09:55 - 01:10:40  
+done yet? So, between Magnus and Petra, whoever unmutes first gets this. Oh, don't be so both of you are such gentlemen. Like, someone has to do it. Uh okay. No. Uh there you go. I'll give it a try. Although uh it's it's a difficult question. So I I'll give my best. Uh so uh what is the most unique thing that we want to achieve? All right. Um as an oracle, um I would say just breaking the barriers of what it means to be an oracle. yeah. This is actually a really good answer. So guys, we had this thing,
+
+01:10:40 - 01:11:12  
+okay? Uh, since I met the team, they had already secured a fundraising and when you pitch the long-term vision, investors get excited. Um, but if you only look at BlockSense just as an oracle, it limits things so much. Like we can do so much more, right? And so it's a problem when when we tell what is block sense and I'm like it's an oracle and then people think h price feeds right there's a lot of oracles out there that raise a lot of money and they're integrated in like five chains or their
+
+01:11:12 - 01:11:43  
+um token um FDV is less than the money they raised and I'm like I don't want to be grouped with these people like that's not what we're building. So a part of our challenge and I'm saying our it's all of us here. It's you guys in the community. It's the pirates. It's the founding team. It's everybody working in the block sense team. We want to redefine what an oracle means because it can be so much more. So that's why we're saying well this has a bigger vision and
+
+01:11:43 - 01:12:23  
+we'll start with oracles. But if we're successful at what we do we will redefine what that term means. So better that was a banger enter. Uh, thank you. Um, Magnus, you're going to get the next one now. Will oracles you're picking on me now? No. Uh, we we got to be uh it's an egalitarian uh group here. Um, will oracles become the default layer in every L2L3 in the future? Will oracles become the default layers in air quotes? Yes. in the well not air quotes in the air quotes since use of
+
+01:12:23 - 01:13:02  
+the word air quotes but yeah well well oracles become a default layer in L2s L3s in the future I think oracles are a default layer of the infrastructure stack um that most chains will strive to fill um whether every L2 and L3 needs an oracle you know if they're successful probably they do um if you're a gaming focused uh roll up then you're going to need RNG at some point. Um if you're a D5 focused one speaks for itself. Uh AI focused similarly you know everything that's getting data from the outside world and
+
+01:13:02 - 01:13:30  
+bring it on chain is an oracle at the end of the day. Um and most chains if they're going to be useful need to interact with outside world information. Um do I think every L2 and L3 will get there? No. like there's so many that are being launched and um you know a lot of these are very cheap experiments that some of which some of which will not work out and so naturally they don't get to the stage where they actually require an oracle and that's totally fine they shouldn't focus on that if they're not
+
+01:13:30 - 01:13:52  
+there but um I think yeah beyond a certain level of success then pretty much every chain will need oracles as infrastructure. Thanks, Mag. Uh, let me see. How how does taking tokens to provide data help the network? That's a great question. What happens if someone lies or messes up? Do they lose their tokens? Yes, definitely. Like that's the intention of the protocol. And I can explain how it works very briefly. Uh, it works a little bit like a game. Imagine a game with say 10,000 participants and you ask this
+
+01:13:52 - 01:14:12  
+participant an arbitrary question like I already used this example. What's the current temperature in New York? And the rules of the game are such that if you provide an answer that the majority of other answers that agrees with the majority of other answers, you get a profit. You get a reward. But if your answer disagrees with the majority, you get a penalty. But the trick here is that you don't get to see the other answers. Only they revealed kind of after everybody has submitted their
+
+01:14:12 - 01:14:47  
+answer. So in this game, you don't have information how others would vote. And it's not obvious, but the winning strategy in a game like this is actually to tell the truth because if everybody tells the truth, everybody is going to win. And if you try to lie because there's so many possible ways of lying, it's very unlikely that you will end up in a majority. So basically the rules of the game incentivize the report reporting of truthful data. And this sounds very easy, right? Like why
+
+01:14:47 - 01:15:18  
+haven't anybody done it already? Varic introduced this idea many years ago. uh there are issues around potential collusion between the participants or potential bribery attacks and here's where kind of the block sense protocol comes in. We use the power of DK proofs to make this voting secret and to actually make the participants in each vote also a secret. So basically if you want to collude with somebody or if you want to bribe somebody the first problem is you don't know who to target. Basically, you have
+
+01:15:18 - 01:15:54  
+to address the whole network which may be consisting of many many many participants. And the second problem is you make it very difficult for anybody to prove how they vote. But if you think about it, if nobody can prove to you how they vote, it becomes very irrational to try to bribe anybody because uh whoever you are trying to bribe can take your money. they can vote whatever way they want and you will have no way to verify whether they follow your orders or not. So basically this vote secrecy and kind of
+
+01:15:54 - 01:16:27  
+secret voting committees we really make this simple kind of voting protocol truly secure for for the first time. Thanks a lot for addressing this question Zahari. Um, what are scalability trade-offs of using a rollup model for data feeds? And how does blocks optimize data availability and latency? That's a good question. Um, let's see. I'll look for because I've been directing questions. Zahari took the last one. Does anybody want to lead this one? So, let me repeat. What are scalability trade-offs of using a rollup
+
+01:16:27 - 01:17:10  
+model for data feeds and how do we optimize for data availability and latency? Maybe it makes sense to talk about like what we're doing short term in terms of go to market. What are we doing shortterm to take product to market faster versus the longer term vision here? Um but yeah, I feel that someone more technical should grab this one. Okay. Okay. Again. Okay. So, the major difference between blob sense and the other oracle providers is that traditionally uh when Oracle providers publish data,
+
+01:17:10 - 01:17:52  
+they publish every data point as a standalone transaction. So this means that to upload a very minuscule amount information such as the price of something you usually have to put on the blockchain a whole bunch of signatures from the kind of providers of this information. Usually in most networks there is kind of multiple institutions which are signing each update. So the signatures of these institutions end up on chain and every single data point uh has many many different signatures have to be verified
+
+01:17:52 - 01:18:28  
+which increases significantly the gas cost of putting data on chain. um being we are not a rollup in the traditional sense like standard kind of EVM based roll up where you have smart contract execution and transactions between the kind of different account holders rather we are roll up in the sense that when we publish uh data we use a single zero knowledge proof to verify thousands of different updates. So the blocks that the block size network is producing, they're very tightly packed uh packets of information
+
+01:18:28 - 01:19:08  
+containing thousands of updates over different data bits. And this is where our scalability comes from. Uh if you compare the kind of gas cost of getting a single data point in the block blog science network compared to traditional oracle provider the advantage could be 极速赛车开奖直播历史记录-极速赛车开奖直播历史记录 30 to 50 times uh reduce gas cost. Now when it comes to data availability uh we will support a very wide range of kind of guarantees regarding data availability. Some of data ends up on chain directly. So there's no need for a
+
+01:19:08 - 01:19:47  
+data availability layer. Uh other data can can exist only in the block sense network and can be verified on chain with kind of magnum such as MCO probes or KG probes and certain data in the block sense network which is used for kind of tempor temporary scratch part for the programs that operate within the block size network. This data can ex exist in various kind of data availability third party networks. So basically we our SDK allows for pluggable it's modular in the sense that any data availability network can be plugged as
+
+01:19:47 - 01:20:29  
+an API in our SDK and basically the developers of the um blob sense data services or Oracle scripts as we call them sometimes they can decide what kind of uh data persistence they need. Thank you, Sahari. I'll take one last question here. I think this is a good question. Going to give you guys some more meat. Uh someone said, "Could you kindly provide an overview of the BlockSense road map and any notable milestones ahead?" Um Magnus, our head of product, give me uh give me an answer to this
+
+01:20:29 - 01:21:07  
+one. Yeah, sure. So um I think you can bucket the road map into three main parts. Um distribution so expanding block sensor distribution to all chains. Um feature completeness so that we're competitive with uh competitors across wider range of verticals and enter into new verticals. Um and then progressive decentralization. I'd put a fourth one of just reliability and stability which is a forever thing that every team always has to work on. Um, and it's one where we're putting a
+
+01:21:07 - 01:21:49  
+lot of emphasis now is we've just done a big um a big upgrade of the network, making sure that um all of our tees are crossed and eyes are dotted uh so to speak and um ensuring like kind of buttressing the the reliability and stability of the system. just to uh go one level deeper into each of those other points that I mentioned across chains. You know, currently we're on um 30 to 40 EVMs. Um there are more EVMs to launch on for sure, but they're also all VMs um and so we'll be expanding to SVMs, SVM and MUVM
+
+01:21:49 - 01:22:30  
+uh in due course later this year. Uh feature completeness. When I talk about feature completeness, I'm talking about um you know in the Oracle space specifically. We're currently primarily a pull uh sorry push based Oracle. Um we'll be adding uh the compatibility with pull oracles um random number generation. I lost Magnus's audio. Can you guys still hear him? I think we all lost him. Okay, I'm just messaging. What a cliffhanger. Um, so just most interesting I could speak a little bit a
+
+01:22:30 - 01:23:28 ...a bit more core about the roadmap, but I really want to hear Magnus's... Yeah, yeah, because I know we're 30 minutes over. So I'm not sure he's like, his computer might have died or his device might have died. Oh, Magnus, welcome back. I was just saying it was quite a cliffhanger that you left us on. You were like, "as well as RNG," and then you just disappeared. Sorry about that. So you have one minute to finish what you were going to say. All right. Yeah. RNG, uh, sports betting, prediction market settlement, low latency oracles, AI inference. These are all what I call feature completeness for us to be able to attack every vertical.
+
+01:23:28 - 01:24:04 And then finally, progressive decentralization. So, bringing in the VK machinery, expanding out the node operator set to permissionless node operation, and becoming an ABS through restaking partnerships. These all come under the bucket of progressive decentralization of the network as we protocolize. So, yeah, hopefully that gives an overview. And I hope that you can actually hear what I just said and I'm not disconnected again, because my screen has gone dark. Okay. Yeah, we can hear you. You're good. You can hear me? Good. You're good. I was talking there. You're good. We got you.
+
+01:24:04 - 01:24:37 So, I know we went over by almost half an hour, but we still have about 200 people in the Discord. So thank you everybody for sticking around. If you missed the beginning, there's going to be a recording made available. So, I want to thank everyone for joining. So very deliberately even though BlockSense can be seen initially as an infrastructure product we've been building community. And the reason for this is: there's so much to optimize in this space, and BlockSense is a platform that will be able to address this multitude of use cases.
+
+01:24:37 - 01:25:08 There will be whole verticals that we're essentially rolling into the technology that we're bringing to market. And so, community is important to spread the word. Community is important to educate because if you guys get it, on one hand, you walk away with a far deeper understanding of the space. On the other hand, you can be an ambassador and an advocate. But also, community is essential because we want to finally democratize oracles here. So, anyone should be able to build scripts and run oracle scripts. Anyone should be able to be an operator and run a node. And everyone should be able to benefit from this as well.
+
+01:25:08 - 01:25:44 So thank you everybody for joining, and I want to give a special shout-out to people that are making stuff happen in the community. Specifically, a shout-out for Rael again. So, there are a bunch of people supporting this whole project. There is a "Loshi" role that you can get for being the most active member of the month. I want to congratulate Stanley Wu on this. We also welcome eight new pirates for successfully completing six weeks of tasks. So that's Asen hope I don't butcher it Ko Art, Kiter, UTA, Penny X, Cat Loose, Chunme, and Blat Crypto as well.
+
+01:25:44 - 01:26:16 So, I know people have a different level of engagement. Some of you have been around for a while and you've been sticking with this throughout respect. Some of you are new. I will give you a bunch of different ways that you can engage and stay active. One: we have ongoing quests at the moment on Intract, and members can earn XP for participating. We also have an invite ladder that is ongoing. So, if you invite 100 people plus, you get the Loshi role that I mentioned shout-out to Stanley. Woo! Woo!
+
+01:26:16 - 01:26:57 But 500+ people will get a Pirate role. These roles are really important because you can game joining a Discord server, you can game following an account on Twitter but sticking around, being curious, contributing this is also a filter, a qualifier. Because I would love to also spend more time. We've been talking about this with Fristo. I can see us organizing some smaller private groups with people who have been committed, engaged, and supportive for longer because we can do some training, or the example that Zahari gave.
+
+01:26:57 - 01:27:32 We can spend some time to actually break things down deeper almost do a class on Bloss because we will need these allies to spread the word of what we're doing as we scale things up. So there's the Intract quests, there's the invite ladder, and the Loshi role associated with that, the Pirate role.
+
+01:27:32 - 01:28:10 In addition, you can invite people to create content. You can create content to promote the project. And we have a community content guide. So if this is your thing, make sure you check out the community content guide. And last but not least, there's actually a lot of activities going on. You can check the server activities. Join us for poker nights, for example. We have poker night with Fragmentic as well.
+
+01:28:10 - 01:28:43 Final reminder here: If you are deeply involved with an L1, L2, lender, LST, LRT, or stablecoin project, fill out the early adopters form at the bottom of our main page. We'll check if we're already working with them or talking to them. And if we're not, we'll let you know and I'll get you one of these sweeties myself.
+
+01:28:43 - 01:29:20 So, thank you so much everybody for joining. And thanks guys for taking time to connect with the community. I appreciate you, everybody. Thanks everyone for joining the call. Take care.
+

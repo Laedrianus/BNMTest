@@ -1,0 +1,245 @@
+00:00:00 - 00:00:41
+I'm really happy to be today with Magnus and uh and Gogo for those of you who don't know them. Maybe everyone can say a word. How are you guys doing? Just say how is your day? How are you feeling? Doing good. Doing good. Yeah. Busy times as always. Uh we're we've been heads down the last I don't know how long now, but it feels like the last month we a very intense month of uh getting getting the product into shape and uh going live on mainets. Uh so yeah, I'm feeling optimistic. I'm feeling
+
+00:00:41 - 00:01:18
+pumped. I'm a little tired and uh looking forward to explaining and uh talking to everyone today about what's happening in BlockSense. man, thank you for taking of your time to join here and to share with the community what's going on because everyone likes to know, needs to know what's going on. So, let's also hear a short word from Google and then we'll jump on the review of the agenda and get to know what what we going to talk about it today.
+
+00:01:18 - 00:02:06
+Yeah, I mean um thanks everyone for joining. It's it has been has been quite busy um at boxes. Um yeah and uh also personally been quite busy uh you know but at least uh my uh my my wife graduated law school last the week so we have that in the family and uh yeah we'll get into the blocks and stuff uh with uh with the school.
+
+00:02:06 - 00:02:45
+That's really cool man. Congratulations. I see some people getting the big guns out. So law school is a big thing for sure. And okay, let's have a short preview of the of the agenda. What's the most exciting things we got this month? And I think the most beside what we are building and all the partnerships and everything what comes to first place for me is the legislative I mean environment and the Genius Act passed in the US. It's getting a a a real positive outlook for the space for everything that is to come in the future because now there's uh all those regulations with the genius act, the clarity act, the stable act and everything and where is blocks in in this how we can serve this new wave of
+
+00:02:45 - 00:03:19
+stable coins coming. I'm happy to direct this question to Magnus because I know he's aware of uh the product that we work on the pegawware oracles and security that they bring to the space. So Mark, what what can you say about it? Why it's why it's important? Why why if you think it's a big news? I do think it's a big news and opportunity.
+
+00:03:19 - 00:03:51
+Yeah, for sure. For sure. I mean the stable and the genius acts. I think Trump called out that he that they're named after him, stable genius in charge. So, uh it's uh it's definitely going to have big impacts. Um there there's some restrictions uh that are in place as a result of these regulations obviously. So, it does also limit the scope of things that are possible especially if you look at the regulations around like ICOs. I mean it actually explicitly allows for them for US citizens to participate in them but it also puts pretty strong controls on like um uh you know who like which kind of projects can can do an ICO and the
+
+00:03:51 - 00:04:25
+terms for buying and selling uh which is very expected and what everyone always says about regulation is you'd rather have regulation than uh you'd rather have clarity than not have clarity even if the clarity is more restrictive and so I think what that's going to lead to is just even more projects coming on board especially in the institutional sphere. Uh so you know you know DJ small DGEN projects probably were always less concerned about the regulation if anything but um your larger uh fintex
+
+00:04:25 - 00:05:01
+and institutional types of players definitely need that check mark before they go ahead with big projects because they have a lot more to lose. And so you're already seeing, you know, Robin Hood launching an L2 uh on on the arbitrum stack. Uh you have yeah like a big announcement coming from fintech launching on optimism very soon. Uh Stripe like uh it's you know there's been a raft of you know like JP Morgan partnering with Bass like it it's kind of all happening now uh in the web 2 and
+
+00:05:01 - 00:05:33
+fintech and institutional space. Um, and I think all those players are also going to want to like be launching stable coins u because it's just a more efficient way of transacting on the back end um for for their customers and it gives them access to like much more uh not just like lower cost but also yield. So what that means for for us is we're going to be seeing a lot more kind of stable coins hit the market and moreover lot more types of stable coins. you know, there's the very vanilla kind of
+
+00:05:33 - 00:06:06
+like treasury, US Treasurybacked stable coins, and then there's the more exotic ones that are, you know, let's say like other RWA uh backing like real estate or uh corporate debt or other kinds of instruments. And all of these have like very different profiles and very different risk profiles. And for them to be on boarded into DeFi, there's going to have to be uh intelligent oracles that can deal with these kind of peculiarities. um of those different stable coin setups and um you know dealing with the kind of
+
+00:06:06 - 00:06:38
+DPEGs that come with it. Uh because in the earlier stage of stable coin's life, they're also like much more prone to DPEG, but all throughout right they're kind of low liquidity assets because of the staking mechanisms. So um you actually have just like always a high risk of DPEG. And so we uh at Luxense we you know we have a product out there that's uh pegawware oracles and it it is designed to specifically tackle this. Uh so if you most people are actually not familiar with this but in DeFi if you
+
+00:06:38 - 00:07:11
+look at borrow lend protocols specifically the status quo tends to be to hardcode the value of stable coins used as collateral. That means that if you're borrowing against USDC on uh somewhere like Morpho, um there's a good chance that that that Oracle feed is actually just a 1.0 zero hard code and that that obviously then means that if the USDC DPEGs or let's take you know I'm not going to name names but like you know let's say more exotic kind of stable coins are used as collateral if
+
+00:07:11 - 00:07:45
+they dep uh then the market's not going to actually see that the market is still going to return 1.0 zero and as a result the the lenders in that market are going to have bad debt acrew on their balance sheet because uh liquidations that should have happened will not happen. Um but at the same time there's a kind of a reason like a historical reason why you see this 1.0 zero hard code on stable coins. And it's because um if you have like a a market rate of a stable coin that has low liquidity and is only
+
+00:07:45 - 00:08:19
+traded on chain, that's actually uh possible to manipulate because of the low liquidity. And so attackers can come in and sort of change the price of the stable coin um with say flash loan and a single block and steal from the from the kind of lending market. And so um having the market rate is also kind of kind of risky uh in a sense. Um what you really need is the best of both worlds. You need you need a mixture of these two. Um which is what pegawware oracles from block sense deliver. That
+
+00:08:19 - 00:08:53
+is to say when the stable coin is in peg, we just return the 1.0 zero hard code and uh that's it's kind of um protecting borrow borrowers from these kind of fluctuations because stable coins are rarely actually at 1.00 they're like you know 1 to 0.998 to the dollar and so we that's not necessary like you don't need to have that kind of um fluctuation when stable coin's obviously in peg and the fundamentals are good. uh but then as soon as it goes out of peg out of a kind of sensitivity
+
+00:08:53 - 00:09:28
+range then we start to return the market price and that allows the bad the bad debt to be flushed out of the the markets. So that's maybe like a long tangent but um should give some flavor as to sort of the the innovative things that we're doing in DeFi oracles and with stable coins specifically. This is this actually applies beyond stable coins. applies to um you know like liquid staking tokens uh restaking tokens um people would have seen like the staked ETH uh token deped last week or yeah I think it was last
+
+00:09:28 - 00:10:04
+week um you know this this the same kind of peg where's protect against uh will protect lending markets that are using those sorts of assets as well. Um, so yeah, I think to bring it back to the regulation, um, it's good because it means that more players will be willing to enter the game and launch their own stable coins and, uh, that means that more people are going to be needing uh, oracles and uh, learning how to deal with the inherent risks that come with uh, pricing stable coins in DeFi. So, um, we're expecting
+
+00:10:04 - 00:10:50
+to see see that good, uh, kind of growth out of that in the coming weeks and months.
+
+00:10:50 - 00:11:26
+Thank you, man. I'm really, um, eager to hear what the how the community feels about it. I mean, yeah, I see some excited stickers again. And, uh, you explained pretty well uh, how well position is. I I wanted to avoid using well two times but yeah like how well position is block sense to jump on this market and to provide value to all the new like emerging and those be huge right or oracle stable coins in the space coming from
+
+00:11:26 - 00:12:05
+mainstream I'll say banks and everybody that's aware that crypto is dead I mean they were speaking about this for 10 years my favorite guy is uh Mr. Jamie Diamond. No, he was always saying crypto is dead. This is a scam. And now they're into doing some stuff also. So eventually everybody will realize that you cannot beat the crowd. You cannot uh just compete with uh like this technology because of its efficiency. So that's what I what I think. That's my opinion. I wanted to hear the the IC
+
+00:12:05 - 00:12:55
+people generally excited about this. So let us move to the next step which is partnerships and infra and there are few projects listed here on divide George to say words about them like I have plasma we are live on forest test net also in hyper EVM and we also got live on tuck. So you want to go like maybe George can say one or about one or two projects and Mike if you feel like you can jump on. I love this part where we can have like a conversation and see why it's important, why it's exciting to be on those
+
+00:12:55 - 00:13:36
+projects and what does it really mean and show for our progress in general. So, do you want to jump on this one? Yeah, I mean, yeah, I um uh we do believe those are probably the some of the more exciting um up and cominging ecosystems. Obviously, everyone um everyone's uh really into Hyperlid and and the the the whole DeFi ecosystem is building up around that exchange. Uh so that's why we just went live um and trying to talk to a few of the protocols that are that they're building there to support them. Um yeah,
+
+00:13:36 - 00:14:22
+obviously with D you guys know that uh we had the we did participated in their in their NFD sale and we were supporting them since uh the first day of their test net. So we're also live on the main net now and uh talking to a few projects to to support them. Um and yeah on farros that's still test net right but we are working with a very cool RWA protocol which is uh tokenizing uh corporate bonds and uh actually it can token it's tokenizing a few different types of assets like bonds and
+
+00:14:22 - 00:15:02
+equities. So, uh it's it's pretty interesting project and um yeah, I think um it's a very it's a very um kind of buing ecosystem. So, um yeah, that's why we uh that's why we're going to be focusing uh on these guys in the next in the next few months obviously. Yeah, we uh going to uh try try to focus on plasma as well uh who who did very well. I have this whole focus on stable coins uh that that we're going after. So uh yeah, that's kind of the reasoning very very briefly about these uh about
+
+00:15:02 - 00:15:48
+these ecosystems.
+
+00:15:48 - 00:16:25
+Yeah, thanks. I was trying to follow up the chat and u see if there's some questions that we could answer, but we'll leave this for the uh end of the call. So guys, make sure to drop your questions there. And Mark, do you want to add something to this topic with the partnerships and infra like uh yeah there's a project that specifically you you've been involved with and you want to share how this work is going on or you think the what uh Yorgi said is like
+
+00:16:25 - 00:17:02
+clear enough. I think uh yeah, George summarized it pretty well. Like um our a lot of our strategy is being very early to the new most hype uh wellunded high performance chains that are coming out that have prospects to um really like level up the the state of DeFi and applications on chain in general. Um cuz we we see this as an area where our infrastructure can deliver a lot, right? We've got a low latency oracle solution coming out soon. Um we are we are able to kind of uniquely offer uh data solutions for even non-pric or
+
+00:17:02 - 00:17:38
+like non-defi kind of use cases. thinking about onchain AI inference um prediction markets uh like other kinds of like non let's say you know onchain insurance things like this things more um more advanced or or tricky use cases that um a lot of the time haven't been tried so much on uh the the chains that are cut more costly in terms of I guess and also like slower um so I think our strategy is to get in very early with those chain when the ecosystem is still new and to really get embedded and um that means that
+
+00:17:38 - 00:18:11
+we're that some of our best integrations are still on test nets um and we have multiple across uh chains like Monet I mean George kind of already mentioned it but Faros uh so on and um I think we're yeah we're kind of like getting very um ingrained in these and these ecosystems and expect that to pay dividends as they move to mainetss kind of later this year. um you know both in case of monad and farros and others like citra so I think it's a yeah so one one person asked what our TVs is uh in the chat so um we're we
+
+00:18:11 - 00:18:48
+have few hundred million TVs in the pipeline uh of our like of our BD pip of our BD pipeline in stages where we're counted as kind of like being likely to come through and I think that but again like a lot of the protocols we're working with don't TVs yet because they're on test net. Um, so that's kind of how we're measuring our progress at the moment and I think it'll come through. Um, but uh, yeah, hopefully that makes sense as well. Feel free to add George if I if I missed something there.
+
+00:18:48 - 00:19:26
+Someone also asked if we're on HyperVm or plan to be on HyperVm. We're there already. Um, we're talking to a couple of protocols on Hyper EVM at the moment. Just had a conversation earlier today with one of them actually.
+
+00:19:26 - 00:20:04
+That's really cool from the oven. Thanks thanks for those news. Um did I maybe missed this but did did we discuss the opportunity that uh that we have now with this core infrastructure already that we that we can go in several product directions with like the integrate for private agents and codex. Did George mention this? That's this is like a question because I had my eyes on the chat. So I don't know if we went into those points here.
+
+00:20:04 - 00:20:39
+I think we can talk about that a bit more. Yeah. Um let's let's dive into it. So this is I mean clearly exciting. I I think you already start saying that we can serve different different use case also that uh uh like touching on the AI inference and but let's let's go through those also right what is the um yeah can you can you speak a little bit about the opportunity of the the product and the directions we can take from from here
+
+00:20:39 - 00:21:16
+yeah definitely um and George, you jump in if you also want to mention anything. So, um, at the moment, one of the things we're we've got cooking is, um, the first party app that we want to own in the network. So, um, block sense network is a it's a kind of universal uh it's a universal verification layer uh for all kinds of input output, right? So um there we are making oracles uh primarily for DeFi at the moment um as a as an initial foray into this but um there's so many other applications of blocks as a network as a general purpose compute network and uh those are both web extend from web 3 but also web 2 users um taking advantage of the extremely high throughput that we're able to that we're able to uh generate with parallel um execution architecture. It actually means that um we're able to sort of serve web 2 customers even without them
+
+00:21:16 - 00:21:47
+necessarily needing to quote unquote be onboarded to web 3. And one of the use cases I'm pretty bullish about is um leveraging trusted execution environments. So secure software enclaves um to provide uh agents for for coding. So like AI agents for privacy preserving uh coding experience. So if you look at you know like the vibe coding that you can do on cloud code or with um open AI's codeex like the all these uh command line tools and IDE tools that are coming out that are AI enabled. Um you're actually kind of
+
+00:21:47 - 00:22:20
+exposing your whole codebase to these uh these LLM uh companies and that presents a pretty big risk uh for privacy. Like there's an article that came out just last week about Sam Alman saying, you know, um people don't realize that their chats can be used in the court of law and that uh lawyers can just like pull pull your chat history from open AI. So all of you
+
+00:22:20 - 00:22:53
+Yeah, man. I was reading this
+
+00:22:53 - 00:23:23
+as therapist or as your lawyer. Yeah. Good. Yeah, I was reading this. It's really shocking. I mean, we you could definitely expect it, but that's not where we want to end up, right? I mean, that's that's why privacy is so so crucial.
+
+00:23:23 - 00:23:53
+Yeah, you wouldn't accept it if your actual lawyer was talking about you uh or like recording your conversations and leaking them like that. So, it's weird that you would accept it from an AI. Um so BlockSense like that's one of the applications we're looking at um developing uh for to be like one of the killer apps on on block sense the
+
+00:23:53 - 00:24:20
+network is privacy preserving AI agents that may be used for coding maybe used for therapists or for uh legal clerk work so on um there's kind of lots of applications of that but we're able to uh with block network and set up with with trust execution environments with tees um able to actually provide that as as as an application. Um another interesting one is around prediction markets, right? So um we've seen a lot of investment in one specific area of betting of sports betting which is uh in
+
+00:24:20 - 00:24:55
+esports. Um and in the Middle East there's uh there's a huge amount of funding going into that. Um there aren't any real esports prediction markets out there today. Um but uh that second other kind we're we're doing some validation around that and and speaking with um sovereign wealth funds and some investors to see kind of what the appetite is for that uh as as sort of another avenue to to go down for the um for the first party applications we own on block sense. I think these two polar
+
+00:24:55 - 00:25:31
+um use cases that one of them is quite uh more like web two friendly. Of course like those agents can be on chain as well but like one of those kind of like more web two um sounding use case and one of them is like very much a web 3 like prediction markets is a native web three use case. I think it demonstrates the generalizability of what we're building that it's uh that it's capable to kind of cater to both of these and the the thread that runs through it like how are these two things related is that
+
+00:25:31 - 00:26:09
+uh you need uh you need verifiable execution right so in a prediction market you need to have verifiability that the data was got correctly um that you're publishing the right information so that people don't lose their funds. And similarly with uh with you know private verifiable AI agents, you want to make sure that you're like getting the right model. Um you're not getting jibbed with like a cheaper model um and that you can actually like fully verify that the execution was done per the
+
+00:26:09 - 00:26:46
+configuration um of your agent. So that's kind of like the the hidden thread between these diverse use cases. And there's a bunch of other ones um that I haven't touched on here, so I don't want to ramble for too long. Um, but I'm sure we can we can cover those in another community call. But I think the the bottleneck for us is like there's actually too many different applications that we would like to build and we need to really prioritize down into which one to build today to get like the most
+
+00:26:46 - 00:27:37
+impact um right now. But I think uh yeah, that's that's something that that we've been talking about internally a lot uh in the last few weeks. Yeah, that's awesome. And the potential is huge. So I'm um happy we start opening this conversation here not only on this call mentioning what have we have been doing but what what kind of avenues we've been exploring also and this clearly can show the potential of the technology we're developing right so that's why I'm
+
+00:27:37 - 00:28:28
+happy to have this like pirates here and I'll move on to the next step if You guys don't have anything to add on this product site, but uh there's a really exciting news that dropped out today. If you follow the announcements, maybe you guys seen, but I'll just drop the link here in the chat. Have brand new website and shout out to the whole team that worked on this one. I wanted to go have a look on the website and give give us feedback. How do you feel? Do you think it aligns with our vision? Do you
+
+00:28:28 - 00:29:03
+think it's sleek enough for to represent Block Sense? So really looking forward to all your comments. And on the marketing, another thing that happened this month is uh we already see the result of this mascot that we dropped and all the stickers after the sticker contest. So thanks everyone for participating and congratulations to the winners. I'm sorry I didn't get out the names of the three winners. Um, but yeah, you know who those people are and they're getting praised and recognized by all their stickers being
+
+00:29:03 - 00:29:46
+used in the server and they're really cool guys. Thank you. It's uh it's really fun to to see. I'm happy this this has been it it took us some time but it there was a lot of the involvement of the community. there's a community member uh like uh all come from suggestions from you guys the pirates mostly saying we need a we need this mascot we need a mascot. Well, eventually we get into the point of making one, but we we wanted to make sure we don't just do a any kind of mascot, but something that aligns with
+
+00:29:46 - 00:30:18
+the the vision of the pirate. And what more obvious than a a pirate, I'd say, pirate pirate, of course. And Abdullah did great work. So, shout out to Abdullah for making this uh awesome mascot that we can all enjoy. So I move on to next step around this community marketing stuff that this um past week I think uh the creator of the NFT Sean go uh got interviewed by Vogue presenting his work and his um like way to look at things and also bits of his life and it's really cool that we got this kind of like he got this kind of
+
+00:30:18 - 00:30:57
+attention but that we got we have this this level of artist and I think uh Yorgi he he's more closely related to him and if you want to come on stage and say something about Sean I'm sure you had conversations with him on his art basically that we're going to be using also probably in the second collection that's I'm not really aware of so I don't want to speculate about about it but uh that's what we we got right um so if
+
+00:30:57 - 00:31:37
+Sure sure I mean yeah we actually is also kind of u related uh yeah but um basically uh we have uh the second collection pretty much ready and we just want to figure out how to how to uh uh presented in a cool way. So, uh yeah, as soon as we have when we have that figured out, we'll let you guys know. But yeah, it's I think the art is super cool. So hopefully hopefully everyone will like it. Um and yeah, you can read more about Sean in Vogue basically, right? I think we linked it on the on the main page. Uh so yeah, check it out.
+
+00:31:37 - 00:32:16
+It's pretty cool. Yeah, it's great. This guy is getting recognized. So I mean this also means something for everyone getting his right. Yeah. Imagine if he becomes like um what was like the super famous artist like uh I don't I'm not really into that world so I don't know their names but imagine if he's like I guess like top 10 or like top 100 level like contemporary artists or whatever then uh yeah might be pretty cool. I mean having having there might be pretty
+
+00:32:16 - 00:32:57
+cool. I have one name of one guy that is really crazy. He's uh uh putting diamonds into people's clothes. It's called diamond curs. He was uh really like um doing some kind of thoughtprovoking art. And maybe maybe Sean is on the way of also because of his life story. I think uh bringing topics that are interesting and important to explore. So yeah, thank you. Thank you for sharing a little bit more about what is coming and about the work with Sean. Also, um I want to give a special shout out to
+
+00:32:57 - 00:33:48
+the winners of the fairy tale contest. I think not many people took place. Maybe you guys were intimidated. What happened? I don't know why. Uh maybe sometimes this kind of task is uh not so motivating or you think it's a lot of work. But those of you who took uh play uh yeah he who have been participating had obviously demonstrated that they had fun. And I want to shout out to Zero X Kimov. He got the first place. If you guys miss this information, it's important to like shout out to those people because they
+
+00:33:48 - 00:34:37
+put extra effort in making some something cool. And the second place is for I'm sorry, but PFF 7430. It's like sounds like a AirJet or something. You You're really cool. Do I see you here in the call? I have no idea, but people can can really get to know those people by what what they were doing. And the third place go for um Alpha. Congratulations, guys. And continue being so motivated. This can this can lead to more like recognition or roles like the the guys that uh most active most
+
+00:34:37 - 00:35:23
+active members of the community this month. You know, we have this the one that is getting the la is the Revo. Congratulations for the good work, dedicated work. And also we got two new pirates that were promoted. Um, one is Ko and the other one is uh, sorry, bear with me. Bill Gin Furan. Okay, congratulations man. Welcome to the pirate club. I mean, I think this is the most exclusive uh part of our server where a lot of ideas um, discussions, proposals, a lot of the the things we are implementing on the
+
+00:35:23 - 00:36:05
+community side come from the pirates. I'm super here for this cooperation. Also, the people that are pirates, they have um we have special sessions with them where we discuss what's the vibe in the community, what we can improve. So, I welcome those people to the club and looking forward to hear them out on the next uh session. And speaking about community stuff, we will be doing uh really soon um starting doing more AMAs with partners and the first one starting with um 375 AI. Some of you guys are in their server
+
+00:36:05 - 00:36:38
+as well. I know um being there as moderators or CMS and I think we we feel pretty close also both projects u have some something that we can can contribute to to each other's work and we going to be having an AMA on the 5th of August. So stay tuned for this one. There'll be more information dropped really soon. Um that's on the community site as I mentioned. There will be we plan more and more partner AMAs. This has been something on the on the list already marketing list but yeah we are slowly
+
+00:36:38 - 00:37:19
+but surely coming to it and this is most of it with the official part. I want to open now the stage for your questions. I know many of you asked questions during the during the call session but I could not uh gather those questions. So I ask her here to prepare a list and let me open it to see what are the questions so I can direct them to to my friends here to Magnus and George. Okay. Uh so one question is herbex has been launching right and right nowadays. Are you getting guys try to write some correct English?
+
+00:37:19 - 00:38:00
+Are you getting touch with any of them help secure data feeds? Okay. So I guess the question is there are many partexes launching today. Are we in touch with some of them and are we going to help them uh secure the data feeds? Okay. Who want to take this question? Mark, how do you feel about answering this one? Yeah, sure. I mean um perhaps actually we talked uh to quite a few last year and um we're seeing a lot of them new ones coming up before hyperlid really popped off. Um per require one thing they need
+
+00:38:00 - 00:38:44
+pull oracle and pull oracle is it's on the road map but we haven't yet pushed it out. So um the lux oracles are are pushed for now. Um pull will be coming soon. Mhm. Uh but that's coming after a low latency push where we're seeing some immediate traction. Um so to really like get perexes as clients, you kind of need pull. One thing that has been changing in the per world is just hyperlquid's dominance has increased so much. I think they're about like 70% of um per deck volume these days. And so they squeeze a
+
+00:38:44 - 00:39:17
+lot of the air out for smaller per decks. It's not to say that they don't matter, but the the the structure of that industry has changed a lot because of Hyperlid. Um, so yeah, long story short, we haven't prioritized uh we've prioritized other things ahead of kind of pull for the time being, including our low latency push. Um, but once we have pull out there uh in the next, I would say a couple months, then Proexis is definitely one of the key profiles for that product. All right. Thank you, Mark. Yeah,
+
+00:39:17 - 00:39:48
+also got uh some kind of clarity on this one, but it's it's hard to be specific. You guys know much more about the video and what's going on. Um, second question is I don't know it reads a little bit strange but I ask her to to take them like to organize them by importance and how they sound. So I just read the question and we can comment whether it really makes sense. What AI model use oracle specifically and is there already a use case? So there is no I would just give my interpretation and you guys can tell me
+
+00:39:48 - 00:40:25
+but there is no AI model that use oracles specifically. The idea is that we can use um tech to prove that the like the inference model that the the AI I would say provider is uh giving you is correct. So if you're buying a a model that claim to be using 10 billion parameters but they are actually shipping only or using to save only 2 billion then you're being sold something that is not real and you could verify this. That's my understanding. Um and the use case is verifiability. Again
+
+00:40:25 - 00:40:55
+this is what I would say. Mark, what do you think about or George? If you guys want to correct me maybe or extend this or approve what I just said, approval granted. Yeah, AI. Yeah, it's not that AI models use oracles. Um, it's kind of the opposite, but uh it's that, you know, oracles can provide AI models both onchain and offchain. by the way. So onchain you may I honestly I actually think that the onchain use cases are more limited today which is why we're kind of focusing on offchain for that
+
+00:40:55 - 00:41:19
+specific vertical. Um and you know onchain would look like something like the sentient AI agents that you saw like on Twitter like um Goat and uh Zerbro and so on. That feels like a long time ago now, but it was about 6 months ago that they were really big. And uh probably they'll make a comeback, but you know, for the time for the time being, we're waiting. Uh and those those do require like verifiable inference because um you need to be able to if you're if you're ascribing like a large
+
+00:41:19 - 00:41:53
+amount of value to their token, you need to kind of know that it's the same model um and it's not going to be turned off and it's like autonomous and so on. That's kind of like one use case and and uh I'm sure there'll be other onchain use cases of using AI behind the scenes coming up. But um the other use case is more like for offchain for like web 2 users um they need to have verifiability uh and not just verifiability but also privacy when it comes to uh the LMS that they're using. Um and so that's that's
+
+00:41:53 - 00:42:21
+the kind of niche that we are looking to serve with that. Yeah, great. Thank you. I was looking on the chat again and I read this comment. Box is the most underrated ZK project out there. People will know about it soon. That's right, man. Obviously. Um, I'll tie what I said to the next. What? What do you say? I was I was expressing my appreciation for that comment. Yeah. I mean people people really getting aware that this is not just an Oracle project and the people that stay
+
+00:42:21 - 00:43:18
+with us for so long patiently and I'd say uh I have many names here I see really friends like let me shout out to those guys parade one everybody being here with us for so long time even good sen Abdullah um very active recently is Leanus. Sorry guys, it's kind of hard to pronounce your uh names. But yeah, Perez also versus solid guys being with us. JJ I would say also who else? Sorry, there's something. What is it written in in Chinese like Sha I'm Sha? I'm I'm happy you you told me
+
+00:43:18 - 00:43:57
+what it really means, you know. I just got the shout. Okay. It's happy to have you on with us also. Let me move on to the next question because I want to tie to this think that we the project is underrated. Uh how does your staking model balance security and accessibility? So I'll allow myself to answer again on this. uh there will be really soon released a light paper and uh we can uh get more information about how the system would work. As you might know uh there is no staking at the moment
+
+00:43:57 - 00:44:34
+because we're not at this stage of the development. Um so it's I don't want to be providing some vague answers here. uh this I'm just dropping this information but if you guys want to give me information if you have the staking model security and accessibility and it's it's interesting to know what do you guys mean because the way this uh the way this product or protocol is designed there is it's fully decentralized permissionless uh protocol and securities guaranteed by
+
+00:44:34 - 00:45:06
+trusted committees and uh link coin like algorithm stuff like this but uh there's no limitation in accessibility uh but bear with bear with us and wait for the official release of this paper I'd say so you could get more information I'm sure this will go out u maybe next So that's my answer for this question. It's funny I'm asking the question and answering myself, but I feel like competent enough to answer to those ones. Uh so there's a question for the video guys. I think they have more information
+
+00:45:06 - 00:45:44
+on this one. That's the we have this one and one one last one. Um the only question that interests me is the new round of investment. Somebody's really concerned about it. Sir, when will be there any news about investments? So, people just want to know how we're doing with uh this. Let's answer. I mean, I'm not sure uh where exactly the question is coming from. We don't have an a currently active round of investment like we are talking to investors actively uh because we have a round of investment planned
+
+00:45:44 - 00:46:38
+um and we've been doing the rounds and like getting feedback from investors um over the over the past weeks but uh yeah when will you hear about it? Uh, I mean, we won't really be able to, to be honest, like we won't really be able to share too much until things are signed and dotted, uh, cuz that's just how these things go. It's not, uh, it's not really possible to like publicly share information about private investment rounds before they're done. Um, so I would ask you to sit tight um, on that
+
+00:46:38 - 00:47:21
+one, but I would also love to know kind of where the question is coming from. Um yeah I I I guess the idea is to know whether there's a new round maybe people interested in investing. So this this is more my understanding of the question and it's good to provide the information that there is no round at the moment and we're preparing for it. So as Magnus replied just follow all communication conversations and this will be enough. But I'm happy to inform the community anything that they really interested. Uh
+
+00:47:21 - 00:48:05
+it's good to know like we are family so things need to be discussed and this is community call is a pretty good opportunity to speak about those things. Okay, there's a last question um that goes do you guys have any relationship with intense? I'll guess uh this means projects like anoma or exploring the opportunity of doing something in the intense space in terms of tech. Rahu is wrote his answer. He said I don't think so. Uh what do you guys say? Is there something that we don't know about the
+
+00:48:05 - 00:48:48
+intense space? And do we think that we can leverage this technology and do something in the space? When I'm thinking, I also wonder is there something for blocks there? Maybe go space for George to to pitch in here. Yeah, the answer can be short, right? Just no, we have not explored or I don't know. George, what do you say? Sorry, can you say that again? Yeah, the question goes by do you have any relationship with intents which means I mean I I would say projects that uh are developing intent
+
+00:48:48 - 00:49:30
+intent based solutions because it's u one of the promising I would say things in the space. So I guess people want to know whether we also have on our have our eyes on things. We actually we actually did um with one but they they went out of business basically. Uh unfortunat I think the Yeah. And then we we have we um we had been talking with them for a for a bit and there was like um there was a good thing going but yeah anyway they had to shut down and since then we talked to maybe two or three
+
+00:49:30 - 00:50:08
+more but we never really we just talked to them once and we never really explored it any further. So um yeah right now that's that's the situation with the intense protocols but the sharing coin the zk sharing coin can be used uh for those kind of use cases intense over so um at some point we can do it because the underlying platform can allow us to do it right uh but yeah not not not right now all right part. Well, I'm happy we got some questions. The the the the community here, the listeners grew up to
+
+00:50:08 - 00:50:40
+almost 100 people. But this means also that thousands of people didn't hear about this. And if you guys think that there is a good information, share it and want to say share it to your friends. Um for just I would say we will post next week most likely the recording into our YouTube channel and you could see the whole recording. If the people that are joining now are feeling a little bit sorry that they missed the whole thing, don't worry. You can you can watch it on you can watch the recording and uh
+
+00:50:40 - 00:51:07
+yeah what to say we can we continue slowly but steady steady but what was the saying? Yeah, there but surely right that's that's how it's going and uh when good good moment I'll say I'm happy to also get people's feedback I on the on the website and all things related you you can continue the conversation in the the server if you guys have some questions also can follow up on on all those things there you guys if you have final words to say to the community. It's the summer holidays and I'm happy
+
+00:51:07 - 00:51:07
+that 101 people like joined today. Thank you very much and I want to thank you also both for making of your time to make this uh community call. It's a very special moment for me. It's opportunity to really get in touch with the community here all the questions how people perceive the project and what they really need to know or learn about. So, it's it's a cool moment for me. Yeah. Like, uh I I'm really grateful you guys take the time out of your day to listen to these calls and not just

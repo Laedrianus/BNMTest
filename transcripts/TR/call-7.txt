@@ -1,0 +1,257 @@
+00:00:00 - 00:01:09
+Bugün, geçtiğimiz ay boyunca yaptıklarımızı paylaşacağız çünkü yaptığımız tüm işlerle gurur duyuyoruz ve her birimiz kendi çalışmalarının farklı yönlerinden biraz bahsedecek. Benim açımdan, topluluk hakkında konuşacağım, Gorgi iş kısmından, anlaşmalardan bahsedecek ve Martin de katıldığı etkinliklerden ve şu anki bağlamından bir şeyler paylaşacak. Geçen ay Denver'dan bahsedememiştik. Bu çok büyük. O yüzden o da Denver hakkında bir şeyler
+
+00:01:09 - 00:01:57
+paylaşabilir. Ve evet, daha sonra sizler için soru kısmımız olacak. Bir şey öğrenmek isterseniz veya bir bilgiyi kaçırdıysanız, mikrofonunuzu açıp sorabilirsiniz ama bu daha sonra olacak. Tamam, zamanı geldiğinde size haber vereceğim. Sorularınızı sorabilirsiniz veya sohbette de sorabilirsiniz ama zaten o kadar çok şey var ki bir şeyi kaçırabilirim. Cesur olup sahneye çıkıp bizimle konuşabilirsiniz de. Evet, bu bizim zamanımızın büyük kısmını alacak. Burada sizlerle
+
+00:01:57 - 00:02:27
+olduğumuz için çok mutluyum. Öncelikle herkesin nasıl olduğunu kontrol etmek istiyorum. Sunucudaki yeni oyunlarla ve her şeyle iyi vakit geçiriyor musunuz, sohbete yazıp bana söyleyebilirsiniz. Ve misafirlerimize de nasıl hissettiklerini sormak istiyorum. Martin, haftan nasıl geçti? Ayın nasıl geçti? Nasıl hissediyorsun? Hadi bununla başlayalım, sıcaklığı ölçelim. Sıcaklığı ölçelim. Tamam. Buna sadece cevap vermeyeceğim. Yapmayı sevdiğim,
+
+00:02:27 - 00:02:58
+yüksek-düşük-buffalo dediğim bir şey yapacağım. Yani iyi bir şey, kötü bir şey ve rastgele bir şey söylüyorsunuz. İyi olan şey, harika bir ay oldu. Denver'dan gelen bir sürü enerji vardı. Bazı kişilerin "Ah, Denver eskisi kadar büyük değil" dediğini biliyorum. Ama orada gerçekten iyi insanlar vardı ve inanılmaz ilişkiler kuruluyor. Yani, enerji kesinlikle yüksek. Düşük olan, Toronto'dayım ve hava hala dondurucu. Umarım birçoğunuz
+
+00:02:58 - 00:03:47
+daha sıcak bir yerdesinizdir ve baharı yaşayabilirsiniz. Burada, Mayıs sonuna kadar kıştır diye şaka yaparım, böylece hayal kırıklığına uğramazsınız. Ve Buffalo, Buffalo için ne diyeyim? Rastgele bir şey. Umuyorum ki ben de oyunlara katılmaya başlayabilirim. Program gerçekten zor, ama birlikte daha fazla takılmak eğlenceli olacak. Bunları organize ettiğin için minnettarım, Bristo. Beni burada ağırladığın için teşekkürler. Teşekkürler Martin, çok fazla.
+
+00:03:47 - 00:04:23
+Dürüst olmak gerekirse, bu görüşmelerden önce hep çok heyecanlanıyorum. Ama bu sefer, bilmiyorum, çünkü her şey kesinlikle harika ve tüm kurulum. Buraya en harika internete bağlandım, 1 GBIT hız gibi diyebilirim ve süper teknolojik cihazlar kullanıyorum. Yani biraz rahat hissediyorum. Ayrıca, çok şey yapıyoruz ve bu, buradaki herkese daha da yakınlaşmamıza yardımcı oluyor. Ve şimdi kendimi bir aile içinde gibi hissediyorum. Bu benim için gerçekten yardımcı oluyor. Ve Gorgi de nasıl hissettiğini, etrafında neler olup bittiğini
+
+00:04:23 - 00:05:22
+söylemek istiyor belki biz başlamadan önce. Ama aslında bu, bir nevi bir araya gelmemizin bir parçası. Yani evet. Evet. Yani, izin ver sana güncellememi paylaşayım. Evet, yani Marina'nın dediği gibi, oldukça yoğun, oldukça yoğun bir ay, bir buçuk ay oldu. Ama işler her cephede ilerliyor ve önümüzdeki altı ila sekiz ay içindeki beklentilerimiz konusunda oldukça iyi hissediyorum. Yani, bu genel olarak hissettiğim vibe.
+
+00:05:22 - 00:06:01
+Size tam olarak ne paylaşacağımı düşünüyordum. Ve sanırım, bazı yatırımcılarımızla paylaştığımız şeyi temel alarak, size son bir buçuk aylık faaliyetlerimizin bir özetini vereceğim. Temelde, tekrarlayayım, oldukça zordu. Özellikle de herkes, bildiğiniz gibi, tüm piyasa değişti. Artık herkesin hemfikir olduğu gibi, bu bir ayı piyasası gibi hissediliyor ve piyasa görüşü öyle.
+
+00:06:01 - 00:06:49
+Bence insanlar nihayet pes etmiyorlar ama bu fikre katılıyorlar, ki bu iyi çünkü aslında çoğumuz daha önce ayı piyasalarında inşa ettik ve sanırım bunu tekrar yapacağız. Yani sorun değil. Ekip oldukça kendinden emin ve şu an yeniden canlanmış ve çok çok odaklanmış durumda. Ve size son iki aydaki bazı kilit kazanımlarımızı paylaşayım sanırım. İlk büyük şey, StarkNet ile olan ilişkimiz.
+
+00:06:49 - 00:07:21
+Noir programlama diline katkıda bulunmada iyi bir şeyler yapıyoruz ve orada bizim derleyicimizi ve özelliklerimizi kullanan bazı ürün entegrasyonlarımız zaten gerçekleşti ve bunun pazarlamasını gerçekten hızlandırmaya başlayacağız ve test netleri çalışmaya başlar başlamaz Oracle'ımızı da dağıtacağız ve onların ekosistemini desteklemeye başlayacağız. Yani bu, evet, temelde çok iyi bir şey
+
+00:07:21 - 00:07:58
+oldu ve oluyor. Ve sonra bence, ana ağ dağıtımlarımız da var. Coin Harbor'ı kontrol etmelisiniz, Ethereum ana ağında beta testleri yapıyorlar ve onları destekliyoruz, bu ana ağdaki ilk kullanım durumuydu. Yani neredeyse bir yıl içinde sıfırdan ana ağa geçmeyi başardık. Bu kayda değer bir şey. Ve Base üzerinde olacak ikinci ana ağ kullanıcımız var.
+
+00:07:58 - 00:08:28
+Bir borç verme protokolünde birkaç stabil coin piyasası açacağız. Dağıtımı yaptığımızda protokolün adını paylaşacağım. Çok iyi bir protokol ve açacağımız piyasalar ilginç, egzotik stabil coinler olacak. Umarım onlara da biraz likidite gelir ve çok yakında bizim de ilk TVL'miz (Toplam Kilitli Değer) güvence altına alınmış olacak. Bu Base üzerinde ve sonra
+
+00:08:28 - 00:09:12
+yakında, LRT (Liquid Restaking Token) tarafında bize çok fazla TVL getirebilecek sıraya girmiş başka protokollerimiz de var. Yani, entegrasyonları bitirene kadar isimlere girmek istemiyorum ama evet, sanırım önümüzdeki 6 ay içinde DeFi Llama'ya girmeyi ve sonraki 6-8 ay içinde birkaç yüz milyon TVL'yi güvence altına almayı hedefliyoruz, belki 6-8 ay içinde. Bu imkansız bir görev değil.
+
+00:09:12 - 00:09:50
+Hatta ortaklarımızdan bazılarının büyümesine bağlı olarak bir milyara kadar çıkabilir. Yani, iyi bir sıramız, iyi bir iş hattımız var ve beş projeden iyi TVL getiriyorlar. Ve son olarak, Monad test net'te, canlıya geçer geçmez dağıtılan ilk iki veya üç oracledan biri olmayı başardık ve dört farklı projeyi destekliyoruz. Yani sizler, şu an aslında iki ama birkaç tane daha
+
+00:09:50 - 00:10:31
+olacak ve kesinlikle gidip Nostra ve Covenant'da ve genel olarak Monad'ta neler yapabileceğinize bakmalısınız. Yani, kısaca, Monad. Sonuç olarak, tüm bu ortaklarla çok fazla pazarlama çalışması yapmaya başlayacağız. Yani, önümüzdeki birkaç hafta içinde bu duyuruları yapmaya başladığımızda, bunları gerçekten güçlü bir şekilde desteklemeniz çok seviniriz.
+
+00:10:31 - 00:11:14
+Başka ne söyleyebilirim? Sanırım birkaç yeni kullanım durumuna daha maruz kalmayı başardık. Merkezi olmayan bilim için, farklı sağlık ve wellness cihazlarından veya farklı veri kaynaklarından veri toplayacağımız ve bilim insanlarının üzerlerinde çalışabileceği, gizlilik tabanlı bir veri seti oracle'ı geliştiriyoruz. Bu bir nevi AR-GE çalışması, ayrıca intent çözücüler etrafında bazı AR-GE çalışmalarımız var
+
+00:11:14 - 00:11:55
+ve ayrıca agent'lar ve merkezi olmayan AI etrafında keşif yapmaya devam ediyoruz. Yani evet, bu iyi gidiyor ve evet, farklı RaaS sağlayıcıları gibi dağıtım ortaklarımız konusunda gerçekten çok çalışıyoruz. Stack ekosistemlerinde, Optimism ve Avalanche gibi, çok iyi çalışıyoruz. Yakında bu tarafta da paylaşmak için gerçekten ilginç sonuçlarımız olacak.
+
+00:11:55 - 00:12:41
+Ve yani, bu ekosistemlerden bir dizi test nete zaten entegre olduk. Yani evet, bence işler ilerliyor, evet ve tabii ki pazarlama tarafında, toplulukta neredeyse 10.000 yeni insan var ki bu oldukça çılgınca. Ve buraya yeni gelen herkese ve bizimle gerçekten çok çalışan ve çok sabırlı olan eski dostlara çok minnettarım. Ve topluluk için hazırladığımız iki veya üç tane çok havalı girişim olduğu için heyecanlıyım.
+
+00:12:41 - 00:13:21
+En az iki veya üç tane gerçekten havalı girişim sırada bekliyor. Size projeye çok daha fazla maruz kalma ve projenin anlamlı bir parçası olma fırsatı vereceğiz. Yani bu önümüzdeki üç dört ay içinde, biri diğerinin ardına, hayata geçirilecek ve evet, yani evet, sanırım söyleyebileceğim bu. Teşekkürler adamım. Topluluğa, yani
+
+00:13:21 - 00:13:51
+evet, bir sürü yeni insan var ve aslında burada canlı katılımda rekor sayıda var. Tabii ki insanlar YouTube kanalımıza yüklediğimizde bunu tekrar izleyebilirler ama bu kovanı arılarla doldurmuş olmaktan, veya bu gemiyi korsanlarla doldurmuş olmaktan çok mutluyum diyebilirim. Ve bu insanların birçoğu hala Boxer'ın ne yaptığını merak ediyor olabilir. Biz bu topluluğu bir yıldan fazla bir süredir yapıyoruz ve teknolojinin çoğunu perde arkasında inşa ediyoruz. Ve tabii ki
+
+00:13:51 - 00:14:21
+şimdi bu isimleri duymaya ve entegre olacağımız projeleri ve önümüzdeki haftadan itibaren duyurmaya başlayacağımız tüm ortaklıkları duymaya başlıyoruz. Şunu söyleyebilirim ki, bu yılın ilk üç ayı, geçen yıl başlattığımız birçok işin tamamlanması gibiydi. Ve şu andan itibaren, bildiğim yol haritasına göre, inşa ettiğimiz her şeyi göreceğiz ve topluluk ilerlemeyi görmek için kesinlikle sabırsızlanıyordu zaten. Bu bilgileri getirdiğiniz için teşekkür ederim.
+
+00:14:21 - 00:15:02
+Ayrıca bir sürü topluluk girişimimiz var, onlardan da bahsedeceğim ama belki önce Martin'in konuşmasına izin veririm. Bu konuda ne düşünüyorsun Martin? Tabii, ETH Denver hakkında konuşabiliriz. CB'de duyabiliyor musunuz? Bu arada, bazı kişiler bağlantı sorunları bildirdi. Kameranın biraz donduğunu hissediyorum, ama belki sadece kamera öyledir, yoksa seni iyi duyuyorum. Sadece herkese söylemek için, katıldığınız için teşekkürler ve
+
+00:15:02 - 00:15:54
+sonuna kadar kaldığınızdan emin olun. Tüm topluluk güncellemelerini paylaşacağım. Ayrıca, hangi anda olduğunu bilmiyorum, bir anlık görüntü alınacak, Rahu şu anda bunu yapıyor, neyse şimdi öyle yapıyor, yani burada olduğunuz için XP'nizi alabilmeniz için kaldığınızdan emin olun. Her şey mükemmel, sözü Martin'e verelim. Teşekkürler Christo. Kamera değiştirdim. Ah hayır, daha iyi değil, öncekinden daha iyi görünmüyor. Soru şu, hala takılıyor mu? Evet, şimdi daha iyi. Ama ben
+
+00:15:54 - 00:16:28
+takılıyor muyum? Evimde gigabit internet bağlantısı var. Evet, ama gecikme oluyor mu? Evet, en azından benim için. Bilmiyorum. Mark'ı nasıl görüyorsunuz çocuklar? Nasıl? Çünkü başkaları da bana mesaj attı. İzin ver ya da Rail. Tamam, birkaç saniye. Tamam, bakalım. Yani, bazen bu harika bağlantıya sahip olmak hiçbir şey ifade etmiyor. Geçen ay, sizlerle bu harika görüşmeyi yapmak için özel bir yere gitmiştim.
+
+00:16:28 - 00:17:23
+Ve o kadar çok sorunum oldu ki. Önce bağlantıyla başlayan, sonra bilgisayarımla, sonra kulaklıklarımla, ve yeni kulaklıklar aldım. Böylece beni daha iyi duyabilirsiniz ama hiçbir şey işe yaramadı. O yüzden teknolojinin bazen bizi yarı yolda bıraktığını biliyorum. Her ne kadar en iyi sınıf cihazlar kullansak da. Bazen böyle şeyler olabilir. Martin'in tekrar bize katıldığını görüyorum. Belki o... Evet. Hazır. Peki ya şimdi? Bu çok kötü. Seni iyi duyuyorum.
+
+00:17:23 - 00:18:14
+O halde, senin söyleyeceklerine odaklanalım. Sorun değil. Hareket ettiğinde seviyorum ama şu an sanki bir resim gibisin çünkü olay şu: Ekranımı paylaşacaktım. Yani, Ah, anladım. Bakalım bu nasıl çalışacak. Bu pek iyi çalışmayabilir. Bunu deneyelim. Bunun nasıl görüneceğini bana söyleyin. Ekranımı görebiliyor musunuz? Evet. Çok iyi. Ne kadar kötü? Ne kadar takılmalı? Hayır, mükemmel. Yani, görebildiğim kadarıyla, biliyorsun. Tamam. Yani, yapmak istediğim şey, ETH Denver deneyimini
+
+00:18:14 - 00:18:44
+resimlerle paylaşmaktı çünkü bir ETH ana etkinliğinin nasıl göründüğünü tarif etmek zor. Bu yıl birçok kişi, "Hey, önceki kadar dolu değil" dedi. Ama çılgıncaydı çünkü listelerimize baktık. Yani ben, ürün sorumlumuz Magnus, Gorgi ve mühendislik şefi Stan ETH Denver'a gitti ve sadece ben, sanırım telegramlarını değiştirdiğimiz 100'den fazla insanla tanıştım.
+
+00:18:44 - 00:19:12
+Gerçekten eğlenceli bir etkinlikti. Bu özel bir sıraya göre değil. Sadece gezeceğim ve tanıştığımız bazı kişileri ve yaptığımız bazı şeyleri göstereceğim. İşte, bu komik, bu Avalanche BD'si Matt. Herkesin üzerinde yükseliyor. Avalanche'da 3 yıldır. Avalanche, yeni zincirlerle çok ciddi bir hamle yapıyor. Yani eskiden alt ağlar veya yeni L1'ler dedikleri şeyi göreceksiniz. Bu yıl çok büyük bir hamle göreceksiniz. Ve biz ekiple çok yakınız.
+
+00:19:12 - 00:19:57
+Buradaki adam Alchemy'den, gerçekten akıllı bir adam. Kendisine zincir şefi diyor. Yani Alchemy alanda büyük bir oyuncu. Diğer şeylerin yanı sıra bir rollup servis sağlayıcısı. Ekiple çok iyi bir ilişkimiz var. Buradaki adam kesinlikle bir efsane. Tüm Arbitrum ağından sorumlu. Bu aynı zamanda Arbitrum orbit zincirleri anlamına geliyor, Vishu. Ve burada aslında Injective Zirvesi'nde bir konuşma yaptım.
+
+00:19:57 - 00:20:36
+Bu Injective ekibinden biri. Aslında bir topluluğu var. Harika bir ekip ve RWA (Real World Assets - Gerçek Dünya Varlıkları) alanında büyük hamleler yapıyorlar ve Bloxense onları desteklemek için çok benzersiz bir konumda. Caldera'yı biliyor olabilirsiniz. Bu onların yeni BD'si ve o spaces'ler düzenliyor. Bazılarınızı yakın zamanda metal katmanını duyurdukları caldera space'inde görmüşümdür.
+
+00:20:36 - 00:21:10
+Orada henüz detaylardan bahsedemem. Ama Caldera ekibiyle yakınız ve birbirimizi nasıl destekleyebileceğimiz konusunda çok fazla örtüşme olabileceğini düşünüyorum. Buradaki adam, bir yıl sonra çok daha fazla kişinin tanıyacağı bir yüz olacak. Goool'da, Avalanche L1'lerini destekleyen bir şirketin parçası, inanılmaz derecede
+
+00:21:10 - 00:21:54
+zeki ve deneyimli bir girişimci. İki tane venture destekli şirket kurmuş ve satmış ve New York merkezli. Bu yüzden onu bir ay sonra Token2049 için Dubai'de göreceğim. Bazılarınız bu yüzü tanıyabilir. Bu Dr. Ravi, Zeve'nin kurucu ortağı ve Zeve, test netten geçmiş 300'den fazla zinciri olan bir rollup, ETH Denver'da çok büyük bir etkinlik düzenlediler.
+
+00:21:54 - 00:22:28
+Bu logoyu tanımayan çok kişi olmaz sanırım. Bu Iyen Layer ve tesadüfen bu adam Toronto merkezli. Yani aslında önümüzdeki hafta bir lansmanımız var. Komik çünkü kripto dünyasında, kendi şehrinizdeki insanlarla tanışmak için dünyanın yarısını dolaşıyorsunuz. Ricky'yi tanıyor olabilirsiniz. Ricky Cyber Chain'dan, Cyber üzerine inşa edilmiş.
+
+00:22:28 - 00:23:17
+Daha çok sosyal gibi kullanım durumlarına odaklanıyorlar ama sosyal için çok benzersiz yeteneklerimiz var çünkü birçok oracle, zincir üstünde fiyat dışı veri getirmede etkili olamaz. Buradaki adam World Foundation'dan, Worldcoin, aslında tam olarak vakıfta çalışıyor ve daha sonra size World'ün iris tarayıcısını göstereceğim. Mükemmel vibraları olan bu grup, Syndicate.
+
+00:23:17 - 00:23:52
+Bunu mutlaka bilmiyor olabilirsiniz. Syndicate toplamda 20 milyonun üzerinde bir fon topladı ve arkasında A16Z var ve şirketlerin uygulama zincirleri oluşturmasına yardımcı oluyorlar. Yani, bu adamlarla özel bir proje üzerinde çalışıyoruz ve bence işleri birlikte ilerletirsek bu çok ilginç bir fırsat olabilir. Symbiotic, bu yıl kesinlikle ETH Denver'da Symbiotic hakkında çok fazla gürültü vardı ve bu BD'nin başı,
+
+00:23:52 - 00:24:20
+çok deneyimli bir profesyonel ve takılmak için gerçekten eğlenceli bir adam. Bu garip çünkü limon tutuyoruz. Açıklamam için bir dakika verin. Aslında Jackie burada mı bakayım. Jackie topluluk tarafında bize destek oluyordu ve daha önce Polygon'da çalışmıştı. Onu bize kişisel olarak A16Z Crypto tavsiye etmişti.
+
+00:24:20 - 00:25:08
+Ve Jackie, San Francisco'dan Denver'a kadar araba sürmüştü. Oraya giderken annesinin evine uğradı ve limonlar topladı. Ben Denver'a gittiğimde, Jackie'nin son iki limonu kalmıştı ve onları benimle ve Kendra ile paylaştı. Ve Kendra, Polygon ve Polygon CDK (Chain Development Kit) için iş ortaklıklarında temel başvurulacak kişi. İnanılmaz derecede yardımcı oldu ve
+
+00:25:08 - 00:25:42
+CDK zincirlerini desteklememiz için çok sağlam bir temel görüyorum. Aslında test net entegrasyonunu henüz tamamladığımız bir projemiz var. Bununla ilgili daha fazlasını takip toplantımızda duyacaksınız. Orada biraz daha ilerleme kaydetmemiz gerekiyor sadece. Bu ilginç mi? Size oradaymışsınız gibi bir his vermek ve bu insanları dolaştığımı ve size endüstri içgörüleri veya bilgiler hakkında bazı ipuçları verdiğimi hissettirmek istiyorum.
+
+00:25:42 - 00:26:21
+Size birkaç kişi daha göstermemi ister misiniz yoksa insanları atlayıp doğrudan yaptığımız bazı şeylere mi geçeyim? Sohbetten yorum yapın. Sadece sizi sıkmak istemiyorum. Evet, şahsen o yüzleri görmeyi seviyorum. O insanlardan bazılarını tanıyorum. Ve bakalım çocuklar ne diyor. Yani, eğleniyorlar gibi görünüyor. Bu harika. Siz ne düşünüyorsunuz? Daha fazla yüz görmek ve daha fazla hikaye duymak ister misiniz? Martin kesinlikle iyi bir hikaye anlatıcısı.
+
+00:26:21 - 00:26:47
+Onun bu görüşmelere katıldığı zamanları hep seviyorum. Aslında o da eğlendiğini söyledi. Yani, ona sahip olduğumuz için çok mutluyuz. Evet, bu... Bana bildirin. Topluluktan başka birinden duymak istiyorum, sonra hangi fotoğraf setiyle devam edeceğime karar verebilirim. Evet. Peki, Rael, bu henüz resmi bir şey değil. O yüzden size burada orada bazı ipuçları veriyorum, ama onları bir uyarıyla veriyorum.
+
+00:26:47 - 00:27:37
+Devam edeceğim çünkü temayı seviyorsunuz. Sadece size verebileceğim anahtar veya içgörü miktarını ayarlıyorum. Yani, bu aslında Summerfy'de CTO, Süper Sakin Bir Adam. Çok ilginç yeni bir ürün yapıyorlar. Burada, bu Coin List. Aslında bu bir ekip tarafından özel bir etkinliğe davet edildik. Ekip hakkında çok fazla konuşamam, ama kripto alanındaki 20-30 girişimci ve kurucu için büyük etkinliklerde özel etkinlikler düzenlediler.
+
+00:27:37 - 00:28:17
+Belki onlarla daha derin bir iş birliği olabilir, daha fazlasını paylaşırım. Bu aslında gerçekten ilginçti. Otelimde sadece kahvaltı yapıyordum ve bu adam beni telefonda konuşurken duydu ve sonra sohbet etmeye başladık. Meğer bu MetaMask'ın eski BD başkanıymış ve yüzlerce kişilik bir ekip yönetmiş ve yeni bir startup kuruyor. Yani, sadece kahvaltı yapıyordum ve sonra bu bir buçuk saatlik bir sohbete dönüştü ve aslında onu bazı yatırımcılarımıza yönlendiriyoruz.
+
+00:28:17 - 00:29:11
+İlginç şeyler üzerinde çalışıyor. Önümüzdeki aylarda para topladığında size daha fazlasını anlatırım belki. Ama bu size, bu konferanslara gittiğinizde, sadece takılıyorsunuz ve en ilginç insanlarla, harika şeyler inşa edenlerle karşılaşıyorsunuz. Devam edelim. Ayrıca, bazı geceler korku filmindeymişsiniz gibi hissediyordunuz. Görünüşe göre, kışın kargalar Denver'a gidiyor.
+
+00:29:11 - 00:29:42
+Yani, kuzeyden, Kanada'dan kış için Denver'a geliyorlar. Ve her günbatımında, şehrin üzerinden binlerce karga uçardı. ve sanki büyük bir olaymış gibi hissettiriyordu. Sonra Google'dan baktım ve görünüşe göre bir yuvalama yeri. Yani akşam araba ile ağaçların yanından geçtiğinizde, ağaçların yaprakları yok, ama o kadar çok karga olabiliyor ki, sanki siyah bir taç giymiş bir ağacınız varmış gibi hissediyorsunuz ve bu sadece binlerce
+
+00:29:42 - 00:30:26
+karga. Bu bir kripto banyosunun nasıl göründüğü. Birisi bunu koymuş. Her yerde mimler var. Yani, bu bir kripto etkinliğindeki bir hacker evindeydi. Oh, aslında, bir atış poligonuna gittik. Yani, bu bir ekip ve ilişki kurma egzersiziydi. Sohbette bu AK'nın nerede yapıldığını tahmin edebilir mi? Bakalım. Tahmin edin. Sadece söyleyin. Evet, işte, Ferris. Jesus. Yani, bu bir Bulgar AK'sı.
+
+00:30:26 - 00:31:13
+Aileme söyledim ve annem güldü çünkü, "Toronto'dan Denver'a bir Bulgar AK'sı ateşlemeye gittin" dedi. Görünüşe göre, AK'larımız gerçekten iyi. İnsanlar bunları ABD'deki atış poligonlarında eğitim için bile kullanıyor. Ama sadece AK kullanmadık. Aslında, bunun komik olduğunu düşünüyorum. Temelde atış poligonunda bir terapi reklamı.
+
+00:31:13 - 00:31:49
+Sanırım bu topluluktaki çocuklar relate olabilir. Terapi için bir reklam koymak için mükemmel bir yer olduğunu düşünüyorum çünkü gidip ses duvarını kıran silahları ateşlemeniz gerekiyorsa, bu eğlenceli olabilir. Ama aynı zamanda bunu ne sıklıkla yapıyorsunuz? Yani, bu pompalı tüfek, John Wick'in kullandığı pompalı tüfek. 3000 dolarlık bir pompalı tüfek gibi, ama ABD'de, sadece bir kimlik ile gidip 50 dolar ödeyerek bunu poligonda ateşleyebilirsiniz.
+
+00:31:49 - 00:32:38
+Bunu da ateşledik. Yavaş çekimin iyi oynayıp oynamayacağını bilmiyorum veya bu tetiğe basmadan önce. Evet, işte. Yani, video o kadar etkileyici olmayabilir, ama oradayken ve birisi yanınızda bunu ateşlediğinde hissettiğiniz şey sadece bomba. Çılgınca. İleri saramıyorum. Belki sonra kanala atarım. Ayrıca scar'ı da gösterdik, bu kocaman şey.
+
+00:32:38 - 00:33:18
+Counter Strike oynayan varsa, kesinlikle bu oyunda bunu kullanmışsınızdır. Ve bulduğum gerçekten komik bir şey, otele giderseniz, 21 yaşın altındakilere alkol servis edilemez, ama atış poligonunda onlarca dolara askeri sınıf silahlar ateşlemeye kesinlikle gidebilirsiniz. Yani bu ilginçti. Komik olan başka bir şey, Denver'da reklamlar vardı, yani insanlar orada gerçekten aktif.
+
+00:33:18 - 00:33:47
+İnsanları daha fazla yürümeye teşvik etmek için işaretler vardı. Ve bu spesifik poster, konferans odasına çıkmaya başladığınızda, sadece birkaç kat çıktıktan sonra sekizinci katta olduğunu fark ettiğiniz bir yerdeydi. Yani sonrasında aşağıda duran bir adam vardı, insanlara bu yolu seçerlerse sekiz kat olduğunu söylemek için. Gorgi girişimlerden bahsetmişti
+
+00:33:47 - 00:34:24
+beni kesebilirsin Fristo çünkü zamanı görmüyorum ve yorumları görmüyorum. Yani zaten bahsetmiştin. Evet. Evet. Sorun değil. Ben sadece şimdiden sonra daha dikkatli olacağım. Bu videoları gördükten sonra seninle konuşurken. Bu bir, bilirsiniz, Romadayken deyimi gibiydi, bu bir takım kurma aktivitesiydi, bazı ortaklarla da.
+
+00:34:24 - 00:35:08
+Yani aslında adtech ekibiyle çok yakınız. İşte Noarcom'dan bazı fotoğraflar var ve ekibimiz için de biraz swag aldım, mühendislik şefimiz Bulgaristan ofisine geri getirdi. Injective'den daha önce bahsetmiştim. Şehirde reklam panoları bile vardı. Yani Injective ekibi RWA tarafında çok ilginç işler yapıyor ve
+
+00:35:08 - 00:35:56
+bence harika bir ortak olabilirler. Hala erken günler, ama ekibi desteklemek için çok potansiyel görüyorum. Denver'da, daha iyi bir tabir bulamazsam, psişedelik olan ilginç bir yer var. Bir sergi gibi. Yani, burada bazı fotoğraflar ve videolar göreceksiniz. Bir kamyon vardı, ben de içine girdim. Bu yerin sadece duvarlarının fotoğraflarını göreceksiniz. Çok sürreal bir deneyimdi.
+
+00:35:56 - 00:36:52
+Bu yeri tarif etmeyi bile bilmiyorum. Bu spesifik videoda, duvarlara monte edilmiş kendi kendine çalan enstrümanlar var. Bir piyano ve sonra bir davul seti. Ve sadece çok sürrealdi, bu yüzden sürreal diyorum. Bakalım. Quantum Ulaştırma Bakanlığı. Birkaç hikaye de paylaşmıştım. Ama komikti çünkü Twitter'da paylaşımlar yaptığımda ve insanlar o mekanı bilmiyordu, Meow Wolf diye adlandırmıştım. Herkes
+
+00:36:52 - 00:37:20
+bu ne lan nerede diye merak ediyordu? Yani buydu. Burada, ürün şefimiz Magnus, block sensörü ile Modular DeFi Denver araştırma gününde bir panele moderatörlük yapıyor. Bunu yatırımcılarımızdan biri olan encode organize etti. Ve burada gerçekten ciddi konuşmacılar var. Yani Polyhedra'dan Jeff ve Pqu'nun kurucusu. Bazılarınız
+
+00:37:20 - 00:37:51
+Manta'dan Shbam'ı tanıyabilir. Manta ile çok yakın ortaklarız. Ve bu Charville. Charville, Capex'in kurucusu. Yani çok iyi bir arkadaş ve ortak. Yakın zamanda bir fon turu yaptı. Yani çok iyi bir ekip. Burada yine Caldera'da BD başkanı var. Caldera'nın çok ilginç bir mekanı vardı. İlk defa bir salatalık içinde servis edilen yemek yedim. Böyle bir şey yaşadınız mı bilmiyorum. Ferahlatıcıydı ama kesinlikle aynı zamanda tuhaf.
+
+00:37:51 - 00:38:53
+Ve burada player var. Yani bu öncelikle pazarlama odaklı bir etkinlikti. Bu yüzden burada hype görüyorsunuz. Ve eğer Farcaster'daysanız Ted'i tanıyabilirsiniz. Ted son değil tabii. O orada bir efsane gibi. Ve bu Attempt'ten Claire Cart ve 100 yıl öncesinden klasik arabaların olduğu eski bir ulaşım müzesini ayırtmışlardı. Mühendislik şefimiz Stan bayıldı. Bazı swag'lar. Bu da Sion iyi bir ortak,
+
+00:38:53 - 00:39:39
+burn banks'i tanıyoruz, oksijen kutuları vardı çünkü Denver'ın rakımı çok yüksek, nefes darlığı çekmeniz durumunda insanların yanlarında oksijen kutuları bulundurmaları öneriliyor ve onları sium olarak etiketlemişti, bu çok komik. Bence bu bir etkinlikte gördüğüm en orijinal swag. Ve Arbitrum partisinde, kripto takım temalı kokteyller vardı, Arbitrum ve Kola, L2 Limonatası,
+
+00:39:39 - 00:40:08
+ve aya doğru katır gibi. Bu, büyük bir ETH etkinliğinin nasıl göründüğünü hiç merak ettiyseniz, mekanın haritasıydı. Yani mekan devasa. Sadece mekanın kendisine gidip etrafta dolaşmak isteseydiniz, muhtemelen bunu yapmak birkaç gününüzü alırdı. Burada bir Horizon ekibi var. Çok ilginç bir ekip ve Base üzerinde ilk L3'lerden birini inşa ediyorlar. Ekibe yakınız.
+
+00:40:08 - 00:40:55
+Onları nasıl destekleyebileceğimizi görmek için çalışıyoruz. Onlarla orada karşılaşmak iyi oldu. Sanırım bunların çoğu... Ah, bunu size söz vermiştim. Bu aslında iris tarayıcısı, World'ün iris tarayıcısı. World uygulaması çok ilginç. Bence ekip çok farklı şeyler yapıyor. Çok büyük bir vizyonları var ve arkasında çok sağlam bir mühendislik ekibi var. Yani World'ü henüz kontrol etmediyseniz, onlara bir göz atmak isteyebilirsiniz. Ama bu, kimlik kanıtı olarak sizin için bir hesap oluşturmak için tarama yapabileceğiniz bir iris tarayıcıydı.
+
+00:40:55 - 00:41:38
+Ve bu mühendislik şefi Stan. İnanılmaz bir nişancılığı var. Komik gerçek, Stan gençken rekabetçi olarak tüfek atardı. Yani inanılmaz bir atıştı. Ve sonunda Denver'da olan hepimizin bir fotoğrafı. Yani Stan, Gorgi, Magnus ve ben. Ve ETH Denver içinden birkaç fotoğraf daha. İşte ETH Denver'daki hacking odasının nasıl görünebileceği.
+
+00:41:38 - 00:42:16
+Bu, sonradan yaptırdığım bir robottu. Ne çizilsin istiyorsun? Ve bu robot sizinle konuşuyor. Sizin bir videosunu çekerken, mekanik koluyla sizinle kripto hakkında konuşurken bir portrenizi çiziyor. Sanırım bu, mekanda en çok ilgi çeken stand kesinlikle. Ve son komik gerçek, Buffalo Bill aslında Denver'da yaşamış bir adamdı. Yani, Denver'da tam bir Buffalo Bill Müzesi vardı.
+
+00:42:16 - 00:43:07
+Ve uçağımızdan önceki son gün, Stan ile birlikte, yarım günlüğüne bir cabrio aldık. Fotoğraflar nerede bakalım. Ve Stan ile ben dağa çıktık ve Buffalo Bill Müzesi'ni kontrol ettik. Sanırım paylaşacaklarım bu kadar. Bu ne kadar kötüydü? Siz bir şey görebildiniz mi yoksa ben sadece... Çok tatlıydınız ve beni bölmediniz ve sadece bulanık görüntüler mi görüyordunuz? Ekran paylaşımın harikaydı. Sadece kameran zaman zaman donuyordu.
+
+00:43:07 - 00:43:35
+Tamam. Bazı kişiler bana neden kameranı durdurmadığını sordu, ama ben zaman zaman görünmesini seviyorum. Yani, o da iyi. Ben sadece rastgele şeyler yaparım. Yani, ama evet, duyduğuma göre çılgınca adamım. Denver yani, kelimelere dökmek zor. Burada farklı dünyalar paylaşıyorsunuz, içerideki kurulum, insanlar, etrafınızdakiler. Bir insanın orada kaç gün geçirdiğini, ne kadar enerji gerektirdiğini hayal etmek gerçekten zor.
+
+00:43:35 - 00:43:57
+Ben daha erken uçtum. Buradaki gerçek askerler Gorgi ve Magnus çünkü onlar Hong Kong'da bir etkinlikteydiler ve sonra Denver'a uçtular ve ertesi gün ETH Denver zaten devam ediyordu. Yani ben yaklaşık bir hafta oradaydım. Sanırım çocuklar Hong Kong'da bir hafta, sonra Denver'da bir hafta geçirdi. Adamım, çok etkilendim çünkü ben sadece Pazar günü Kosta Rika'dan döndüm ve bu hafta benim için gerçekten zor oldu.
+
+00:43:57 - 00:44:40
+Uyuyamadığım geceler oldu ve umarım bugün kendimi yeniden normal hissetmeye başlarım. Ama çılgıncaydı. Gerçekten bilmiyorum neden. Vücudumun bir kısmı tam olarak çalışmıyordu gibi. Yani evet, Hong Kong'dan, zaten çok yorucu olan bir haftalık konferanstan uçan Gorgi ve Magnus'a büyük saygılar. Hong Kong'da kaç kişiyle tanıştıklarını bilmiyorum, ama Consensus da gerçekten büyüktü ve bu devasa konferansa gelmek.
+
+00:44:40 - 00:45:12
+Kendiniz bahsettiniz, 90'dan fazla anlamlı ilişkiniz vardı, evet, bu hafta boyunca anlamlı konuşmalar yapılan insanlarla. Yani bu devasa. Bunu söylüyorum çocuklar, bir BD'nin işinin genel olarak ne kadar çaba gerektirdiğini ve ekibimizin Blocksense'i yeni ekiplere ulaştırmak ve anlaşmalara ulaşmak için ne kadar çaba harcadığını görmeniz için.
+
+00:45:12 - 00:45:45
+Ve bunlar şimdi, çok yakında halka açık olacak gerçekler. Yani birçok isimden bahsedildi ve bunlar zamanla kurulmuş ilişkiler. Yani bu harika iş için teşekkürler çocuklar. Gerçekten Martin, son bir şey eklemek ister misin? Yani, en büyük şey, bu etkinliklere gittiğimizde, her ne kadar ekibi Eylül'den beri tam zamanlı desteklesem de (ekiple zaten Mayıs'ta tanışmıştım bile) bu devasa mekanlara gittiğimizde, tanıdığımız en önemli insanlardan bazılarını tanıyoruz, onlar bizi tanıyor,
+
+00:45:45 - 00:46:29
+bir ekibe tanıtılıyoruz ve sonra başka bir arkadaş aracılığıyla takıldığımız ortaya çıkıyor. Yani, Blocksense alanda tanınan bir varlık haline geliyor, bu devasa etkinliklere gittiğinizde bile ve bu etkileyici çocuklar. Ben primarily BD'yi destekleyen kişiyim. Tabii ki, Gorgi ve Magnus ağırlıklı olarak dahil ama 15 kişilik BD ekibi olan başka oracle'lar var ve aslında birçok stratejik ortakla avantajlı bir konuma geliyoruz.
+
+00:46:29 - 00:47:03
+Her zaman yetişmeye çalıştığınız ve yapılacak milyonlarca şey varmış gibi hissedebilir, ama gerçek şu ki Blocksense gerçekten alanda tanınan bir varlık haline geliyor ve bu, sahip olduğumuz zamana ve burada işleri tam zamanlı iten sahip olduğumuz insan sayısına kıyasla etkileyici. Ve bu yüzden burada dinleyen sizler, sizler de bunun önemli bir parçasısınız.
+
+00:47:03 - 00:47:43
+Bu yüzden Rahil, Crystal ve Pure Gator'ın topluluğu desteklemek için yürüttüğü işlerden dolayı heyecanlıyım çünkü bu ortaklıklarla devam etmeye başladığımızda, sizlerin bunu güçlendirmeniz ve SCA'nın potansiyelini ve etkisini ve bunun ölçeğini anlamanız için iyi bir temel oluşturabiliriz, işte bu gerçekten işleri devasa yapacak.
+
+00:47:43 - 00:48:22
+Yani, heyecanlıyım çünkü uzun zamandır sıkı çalışıyorsunuz, ama şimdi tamamen daha fazla patlamaya yaklaştığımızı görmeye başlıyorsunuz ve zaten alanda tanınıyoruz. Söylemek istediğim diğer şey, Gorgi'nin paylaştığı gibi, size potansiyel alanlardan bahsetti, ama birçok projeden isim vermedik. Yani, ship etmemiz, ortaklıkları yerine oturtmamız gerekiyor.
+
+00:48:22 - 00:48:54
+Ama önümüzdeki aylarda, geçtiğimiz yıl boyunca bir ekip olarak yaptığımız tüm bu çalışmaların meyvelerini toplayacağımız için çok heyecan verici gelişmeler olacak. Yani, sadece çok heyecanlıyım açıkçası, her ne kadar çok şey olsa ve çok baskı varmış gibi hissedilebilse de. Bunun arkasında muazzam bir enerji var ve doğrulandı. Büyük, büyük bir zincirle konuşuyorsunuz ve onlara pazara yaklaşımımızdan ve oracle'larla ne yapmak istediğimizden bahsediyorsunuz ve
+
+00:48:54 - 00:49:31
+iş ortaklıklarından sorumlu ana kişiden evet, bu bir problem, yaklaşımınız çok mantıklı diye duyuyorsunuz, stack'ler, RaaS'lar ve zincirler arasında kolay bir mücadele değil, ama bunu değerlendirmek ve sadece insanlar için sorunları çözmek ve insanlara yardım etmek için iyi konumlandırıldık. Özetle, tüm bunların arkasında çok fazla enerji var. Size teşekkür etmek istiyorum, ama aynı zamanda sizi hazırlamak istiyorum çünkü asıl eğlenceli şeyler daha yeni başlıyor gerçekten.
+
+00:49:31 - 00:50:30
+Yani evet, burada olmaktan ve hep birlikte zaman geçirmekten gerçekten minnettarım. Teşekkürler Martin. Evet, gerçekten BD tarafında, teknik ekip tarafında, tamamen görünür olmayan şeylerde çok iş yapıldı, ama sizin toplulukta yaptığınız iş bize bazen görünür oluyor, bazen oh, bir şey yapıyorum, umarım hissetmiyorsunuzdur, bunları kim görüyor diye hissedebilirsiniz, ama yaptığınız her şeyin filtrelerimizden, lenslerimizden geçtiğini, not edildiğinizi bilmelisiniz.
+
+00:50:30 - 00:50:59
+Yakın zamanda deneyimle bir ödül sistemi uyguladık, ayrıca rollerle, ne kadar aktif olursanız, o kadar tanınırsınız, bu rolleri tırmanabilirsiniz. Yani bu oldukça, bizim görüşümüz bu şekilde. Çok küçük bir toplulukla başladık ve şimdi bu bir yılda neredeyse 10 kat büyüdük ve bu süper sağlam, gerçek insanlardan oluşan bir temel. Burada bizi destekleyen harika insanlar var.
+
+00:50:59 - 00:51:40
+Bu Tnik, Abdullah, Fox parade çocuklar her zaman burada bizimle. Mi, şimdi bize karşı destekliyor versus Dishon, yani bugün burada kaçınız var, siz çocuklar bunu görüyorsunuz, bu sizin işinizin de bir sonucu. Yani bu topluluk sadece sayı olarak değil, yani burada kalite de, Ivan burada, Q precious Smith, bu adam müthişti, yani bu çocuklardan bahsetme şeklim, onları tanıdığım içindir, birlikte çalıştık, ama aynı derecede yeni isimler görmekten heyecan duyuyorum, yani
+
+00:51:40 - 00:52:14
+bana yeniyseniz özür dilerim ama Richard da, bir ay önce falan katıldı, Twitter hesabında verdiğim basit tavsiyeleri takip etti ve ikiye değil on katına çıktı ve destek için bize ulaşan herkes de bizden destek alıyor. Mümkün olduğunca erişilebilir olmaya çalışıyorum, ya da işte diğer kişi. Bize ulaşabileceğiniz bir bilet sistemimiz de var. Umarım bunu hissediyorsunuzdur, gerçekten açığız, ayrıca korsan görüşmeleri sırasında stratejiler tartışıyoruz, çoğu şimdi uygulandı,
+
+00:52:14 - 00:52:57
+yani ve tabii ki tüm önerileriniz çok değerli çünkü işe yarıyor, ne öneriyorsanız görüyorsunuz, engage bot yerinde, çalışıyor, deneyim puanları, yani açıkça işe yarıyor, insanlar daha fazla içerik üretiyor, burada daha fazla katılım oluyor. Yani önerdiğiniz her şey gerçekten harika ve dinlemeye, uygulamaya çalışıyoruz, tabii ki arka planda neler olduğunu bildiğimiz zamanlamayla da.
+
+00:52:57 - 00:53:36
+Ve şimdi söyleyebilirim ki, Blocksense için muhtemelen en iyimser zamanlardan biri, yaptığımız ilerlemelere dayanarak. Topluluk tarafındaki öne çıkanları, mektup kampanyası ve sizin kolektif çabanız sayesinde zaten olduğunu bildiğimiz şeyleri belirtmek istiyorum. Şimdi topluluk, Gary'nin bahsettiği gibi, 10.000'in üzerinde insana büyüdü ve bu harika ve bu sadece bir sayı değil, 10.000 harika arkadaş, sizin gibi daha fazla öğrenmek isteyen
+
+00:53:36 - 00:54:13
+ve topluluğumuz ve işimiz hakkında haberleri yayacak insanlar. Ve topluluk büyüdüğü için, yerel kanallar için daha fazla desteğe ihtiyacımız var ve şimdi yerel AMA'ların da yerini aldığını görmekten çok mutluyuz, bunlar en aktif kişilerden bazıları ve evet, haftalık görevleri tanıttık, bunları takip ederseniz, korsan olacaksınız, korsanlar, sahip olduğumuz en aktif üyeler, iki ayda bir veya aylık oturumlar yapıyoruz, evet, sadece eğleniyoruz, nelerin eksik olduğunu, işleri nasıl geliştirebileceğimizi görüyoruz.
+
+00:54:13 - 00:54:48
+Ayrıca yeni moderatörlerimiz var. Nijerya'dan Paris, Endonezya'dan S ve Çin'den Yolo'ya selam olsun. Sizler yeni insanlar getirmede, aynı zamanda yerel kanallarınızı eğlendirmede harika iş çıkarıyorsunuz. Bu bizim için çok önemli bir adım ve şimdiki hedef, bu kanalların binlerce kişiye ulaşmasını sağlamak ve umarım çok yakında sizler yerel yüz yüze etkinlikler de düzenlemeye başlayabilirsiniz ve bunun için desteğimizi alırsınız.
+
+00:54:48 - 00:55:40
+Bizi destekleyen herkes tanındı. Bunu sadece söyleyebilirim ve evet, bu ay çalışmaları için tanımak istediğimiz kişilerden bazıları Shah, en aktif kişi oldu, bu aktiviteyi bir botla takip ediyoruz, bunu ben uydurmuyorum, bu bilgi nereden çıkıyor, yani Shar ayın en aktif üyesi oldu ve louser rolünü alıyor. Ve sanırım bize nispeten, çok uzun zaman önce değil, katılan diğer kişi, şimdiden harika iş çıkarıyor, bir korsan rolü alıyor. Bunun için tebrikler.
+
+00:55:40 - 00:56:17
+Ve her biriniz, eğer yeni katılıyorsanız, bu şeylerin nasıl işlediğini bilmiyorsanız, sadece sunucuya gidin ve rolleri görün ve işlerin nasıl ilerlediğine bakın. Ayrıca, bu rollere sahip kişilerden, korsanlar gibi, nasıl yaptıklarını tavsiye alabilirsiniz, herkes nasıl yapılacağını biliyor. Yani, herkes katılmaya, rolleri almak, proje hakkında daha fazla öğrenmek için davetlidir. Evet.
+
+00:56:17 - 00:56:59
+Çeşitli rehberler hazırladık, içerik nasıl yazılır, ayrıca moderatörler için topluluğu nasıl destekleyeceklerine dair rehber hazırladık ve sizlerden geri bildirim duymaya açığım, eğer bir şey eksikse, bu şeyler, yeni markayı yayınladığımızda sizin için çok önemli ve yararlı olacak ve belki bazılarınız zaten görmüştür, yeni markayı teşhir etmeye başladık, bu yüzden bunu ortaya çıkarmanın birkaç adımı olacak, onu inşa etmek gibi.
+
+00:56:59 - 00:57:01
+Ama bu, web sitesi ve dokümantasyon ve ayrıca sosyal kanalımız gibi kullandığımız farklı ortamlara getirdiğimiz markanın farklı bölümlerini göstereceğimiz bir dalga gibi olacak. Yani harika bir şey. Aslında burada ekipten insanlar var. Harika işleri için selam olsun, böylece bu yeni markayı uygulayabilelim ve evet, tüm materyallerimizde, şu an giydiğim tişört bile eski olan. Tamam, belki bu tişörtü son görüşünüz. Martin'de de var. Aynı. Yani evet, yani bununla gurur duyuyorum.

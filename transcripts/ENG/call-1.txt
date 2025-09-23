@@ -1,0 +1,348 @@
+
+00:00:01 - 00:01:22
+Saying few words about him and maybe his journey in Blocksense and what he is into. Hey guys my name is Peter  I am the city of the Blocksense and team we started the project I guess at the end of last year but most of the team members joined during the the start of this year and the the spring especially so I'm very interested to share with you all  what we've been  working on and to share our progress yeah great thank you Peter i' would like to give the word to our CEO
+
+
+00:00:42 - 00:02:29
+also zakari hey guys my name is zakari I and the CEO of log science  also kind of the Chief Architect of the project before starting BL sense I used to be the lead developer of one of the e clients the nimus client and prior to this I was kind very active contributor for many years to a programming language called Nim all right so  let me see where will this I'd like to give the word to also demo that is joining us on online so maybe he can himself hi Deo  my name is deo and I am the lead
+
+
+00:01:38 - 00:03:05
+ZK developer of the project prior to that  I worked on  the I was the lead ZK engineer of the Dri project which is  also a project where  a lot of the box and team members have worked on yeah thank you Deon just get our we we're getting our technician that is walking around and trying to make the setup even better I hope you guys enjoyed so after the short presentation of the team and of course you guys going to learn a lot more about you those people in the future but it's good to get to
+
+
+00:02:25 - 00:03:59
+know the feeling of who are the founding fathers of I wrote in my post of vsense there's one more person that I I wanted to hear but I'm not sure whether he's not yeah actually he is with us also and I I would like him to share also a little bit info about him and his journey into BL sense hey George oh hello hello  yes  hi guys I I  I'm the I guess like coo and I do a lot of the a lot of work on like the BD and the marketing side you've seen me around in the Discord on Twitter and  yeah that's
+
+
+00:03:17 - 00:04:39
+that's rough that's like very brief about me  I mean I started this project last year  towards I think around this time actually or maybe like September and  lots of things happened  we yeah but we're just getting started so we we like the guys will tell you about about  what we're doing on the tech side which has been a little bit more invisible and we'll also maybe share some when you you've been seeing kind of what we've been pushing on the marketing side and well we maybe share like some
+
+
+00:03:58 - 00:05:14
+of the back room like dealing that we've had on the byy side yeah thanks everyone for being here actually I'm not sure how many of you are here but all right thank you B thank you George and actually I'll will take the possibility to present myself as well because  many know me from the chat and U yeah to the face on this name it's nice so I'm the community lead of lense and I'm very happy to communicate with most of you all of you that are active in the community we have great
+
+
+00:04:36 - 00:05:56
+contributors and I'm happy to see this also going further we are preparing some awesome U campaigns and  quests coming soon to the community so stay tuned for this and I would like to step with the second part I mean not part but second point of  this call today that we get to wrap up a little bit what we have been doing already and what is the progress till now and  so we can share some some things that  are cooking but are still not maybe life and what things we have achieved so far and what is the
+
+
+00:05:15 - 00:06:55
+current development status maybe I can ask about it  sure  well  our Focus so far has been on  building our smart contracts  specifically  you guys soonwe'll be able to share with you oursmarts for evm based networks  specifically our historical data Feed Store contract  so our key our key Point our key Focus so far has been on making sure that   our  new   New U users on new networks are able tohave a solution for oracles  and   one of the things
+
+
+00:06:05 - 00:07:33
+that also we completed so far in addition to the solity site is the our docentation sit  which will also be  going livesoon and the other key components of our text te is the sequencer and the report on notes  so we we have good progress on those so far and  we have one  upcoming  test net deployment that's   we will  start soon well I mean the key thing about the kind of block and smart contract is that  we are introducing a new architecture in the Oracle space currently the Oracle
+
+
+00:06:48 - 00:07:58
+space is dominated by a model where each data feed is a separate smart contract and each data update is a separate transaction and one of the key Innovations in Blocksense is that we use a single smart contracts holding all of our data feeds and then we can publish thousands of updates with a single transaction in the future  the kind of the data will be verified with zero circuit ensuring that all the data produced by the protocol is gone through the kind of consensus process of the network which ensures that the data
+
+
+00:07:24 - 00:08:40
+is verified that there's no possibility for collusion or bribery but even in this very first version we will have all the kind of interfaces in place the applications that are willing to integrate block sense we have the guarantee that if they adopt their smart our smart contracts now we'll go through all the phases of the evolution of the protocol without ever breaking kind of backwards compatibility so that's the goal for our first release yeah this definitely is something  great to
+
+
+00:08:02 - 00:09:31
+to have in mind for everyone that was ever wondering why block sense is so special and what we are aiming to deliver and  with this in mind I would like to move on to the next step and this is mainly the RO map overview and what is upcoming now and let's look at the our shortterm goals in for the next 3 to six months Zari what do you what you can share with right so I already alluded to this a little bit  but we want to get  our products in kind of the hands of the users as soon as possible  and our long-term goal is 
+
+
+00:08:45 - 00:09:49
+to implement zero circuits covering the so-called sharing Point  volting consensus mechanism which works a little bit like a game  I tend to kind of provide this following short description imagine a game with say a 10,000 participants and kind of the rules of the game are such that a small subset of these participants are selected and they're ask an arbitrary question so this could be say 100 participants and the question could be something like what the current temperature in New York
+
+
+00:09:18 - 00:10:20
+for example and the rules of the game are that you don't get to see the answers of the other participants but if you provide an answer that agrees with the majority majority of other answers you get a reward if your answer disagrees with the majority you get a small penalty so it's not immediately obvious but the best strategy in this game is to always tell the truth because if everybody tell the truth everybody wins and if you try to lie since there are so many possible ways of lying it's
+
+
+00:09:49 - 00:11:06
+very unlikely that you end up in the majority so basically lying is a recipe for losing money and the protocol incentivize the reporting data the concern here is that because this a decentralized protocol we have you have to worry about collusion or kind of bribery somebody trying to steer the protocol in one or another Direction and thanks to our zero knowledge  architecture we're introducing several kind of technical mitigations this kind of attacks the first thing that we do is  this Committee of users who are
+
+
+00:10:28 - 00:11:24
+responsible for providing a particular data point at a particular time they're chosen in a secret fashion basically when you are in one of these committees you only know that you yourself are part of the committee you don't know any other member who is in the same committee and if you're an external Observer you don't know at all who the members of the committee are so basically if you try to collude with if you want to collude with somebody or if you want to try to bribe somebody you
+
+
+00:10:55 - 00:12:04
+just don't know who to Target you have to you offer your bribe to the whole network but the second problem is that  we make it very difficult for anybody to accept a bribe Pro because the only way to share how you're voted in this system is to review a secret key that you're holding which controls your entire stake and not naturally nobody would want to do that but then think about it is it really rational to try to bribe somebody if  they cannot prove to you how they vote in the product
+
+
+00:11:30 - 00:12:43
+because they can always take your brand they can vote whatever way they want and there will be the attacker will have no way to verify whether they have F the orders or not so kind this strong mitigations against collusion and bribery I I think kind of one of the major technical differentiators of L sense what set us apart from other decentralize orle protocols and ultimately this is what is going to secure the block science Network in the long term but to make  kind of the protocol available
+
+
+00:12:06 - 00:13:16
+in the hands of the kind of users and partnering development teams as soon as possible we have adopted a road map where initially we have a deployment of the block sense Network which kind of works in the traditional Pro Authority model which is currently dominating the kind of Oracle industry so  I wouldn't review all the details but basically there will be a nber of reputable kind of blockchain infrastructure companies which will be are be acting as the initial set of operators who are kind of
+
+
+00:12:41 - 00:14:14
+signing all the data published by the block science network with their name so we'll be relying on their reputation to to ensure the Varity of the data and kind the next iteration in our road map would also  en enable Risk Takers from protocols such as iir join the network and become operators and finally once all this ZK Machinery is fully developed and  in place we'll unlock taking the protocol for everyone yeah this is oh great I just  wanted to make sure did we just  did you just lay
+
+
+00:13:27 - 00:14:46
+down the whole vision of the what we what we plan on or this was the short term that's to make sure for everyone well I mean this is probably our old map for say the next 12 to 18 months all right  our longer term Vision kind of imagines a future where the blockchains are much better integrated with the internet itself like sometimes people describe our protocol was the missing  SDK smart contract SDK for accessing the internet and we believe that this communication with the internet should
+
+
+00:14:08 - 00:15:22
+be bidirectional and that for example it should be possible to create a blockchain application that where the user initiate some transaction on the blockchain but the application requires the user to complete some action in the real world or the internet and then the user submits a proof that this has action has taken place now this proof could be either determined by the sharing Point voting mechanism where multiple validators in our protocol ATT test to the fact that some action was created but we also be building a ZK TLS
+
+
+00:14:44 - 00:15:48
+implementation that will allow kind the user to prove interaction with traditional web pages that are more private maybe something that you do with your own account account while you are walked in in a particular traditional website and and this would be all delivered with the privacy of the ZK technology basically be able to prove that you did some interaction without actually revealing and your personal details or the details of the interaction itself so that's our very long-term Vision we want to create this
+
+
+00:15:16 - 00:16:29
+much stronger connection between the blockchain and the internet  but something that I didn't talk thought about our shortterm vision is kind of the another other key differ anator of the block sence protocol  and that's it is the reason why we want to  get this technology in the hands of the users as soon as possible  what I'm talking to here is the fact that with block s anybody can create new oracles basically the way that oracles are created they're programmed by our user base so for
+
+
+00:15:53 - 00:16:53
+example if you're a smart contract developer and you have an idea how to leverage some data from The Real World RO with block sense you can Implement an oracle script by yourself that kind of determines how this data would be obtained from kind of various sources in Internet we can use multiple sources we can take the average of them or process the information in arbitrary way and then once you create this script you register it in our Network and the data will start flowing on the very next
+
+
+00:16:23 - 00:17:26
+day basically the problem that we see right now is that the Oro providers they act as Gatekeepers that limit the possible Innovation  in the application space like you have to wait for somebody to first publish the data on chain and only then you can start building applications around the data that is available while we are kind of turning this around if you have an idea how to leverage date some dat from The Real World you can bring it on chain yourself that's unlocking the maxim possible
+
+
+00:16:56 - 00:18:11
+Innovation we have this really ambition just vision and plan about also longterm but  can you present a little bit  how we  are going through in the technical level what is the novelty here that we Implement and why why we are a project that  comes in the space well as I said kind of one of our key Novelties is this new architecture that allows thousands of updates to be pushed together on chain with a single transaction which significantly cuts the cost of publishing data on chain so when
+
+
+00:17:34 - 00:18:42
+we compare ourselves to the current state-of-the art solution we can measure that the gas required to publish a single data point on chain is kind of 50 times lower with the blockchain protoc with the block sense protocol and this means that you can either decide to push 50 times more data which we think is quite appropriate U because we want to see a lot more can of real world data on chain but the other thing that you can also do is you can use your existing gas budget to publish data more frequently because one of the key
+
+
+00:18:08 - 00:19:29
+problems in the Oracle space right now is that the data is too stale and in the end of the day the end users of all the defi Protocols are suffering from the fact that  the price fees that the defi Protocols are operating upon are lagging behind kind of the exchange rate on sensiz exchanges and stuff like that and this creates inefficiency in the industry which is often exploited by the imv players something that kind of we hope to innovate in this area as well  we think we have a very compelling solution
+
+
+00:18:48 - 00:20:13
+in the category of so-call Oracle extractable value  because when we publish thousands of updates together something that we can do is we can offer the players in the IM industry the possibility to include transactions that go immediately before or immediately after the updates and because the majority of the profits in the IM industry is around kind of having the first mover Advantage after a price update  this means that if you if we apply the same mechanisms that are currently being proposed for ethere itself where
+
+
+00:19:31 - 00:20:48
+kind of EV players are beating against each other for the right for their particular transactions to be included in the block and the logic behind this bidding is that if you your bit is too low you're likely to be kind of beat by another player so this drives all the M players to kind of beat most of their turn most of their profit into a bit so the bit captur say 90 95% this means that U one they submit the bit to the block sense protocol and for their particular transaction to be included with our
+
+
+00:20:17 - 00:21:30
+Updates this means that the protocol can distribute this bit to kind of the defi protocols which are adopting blockchain price feeds and then in turn this protocols can further distribute it to the end users who are interacting with the defi  Solutions so we believe that this would eliminate largely the current kind of inefficiency of the decentralized defi protocols and will make them much more competitive with the sensiz solutions which ultimately is something that we want to see  in the network because the centralized
+
+
+00:20:54 - 00:22:16
+Solutions and they require the user to give up a lot of  custom the over their funds to have kind of strong trust in this institution or could engage in censorship or other  behavior that is not in the interest of the Enders and we want to see the truly decentralized  infrastructure flourishing and being as competitive as possible yeah after hearing all this I'm I'm sure many of the viewers and people that going to even watch it afterwards people from the community are  excited also to know how they can contribute and
+
+
+00:21:35 - 00:22:46
+many times already on the server came this question  when the GitHub rep will be open so people can contribute this is one way of course of contributing to the project and the other the other way is by spreading the news about vense the moment you feel that this is some special project and there's some something that we can bring into the space speaking about it it really helps the community grow and actually it's not only about the nber but creating healthy environment where we can all the very beginning of the
+
+
+00:22:10 - 00:23:17
+saying to use this Discord as a place to grow all together and to see many projects coming together from this communication on the Discord Channel and to build on on top of the technology we're preparing because this is the the advantage that we we see in the technology that that we are building that it's permissionless and you it's unstopable basically you can bring all your ideas on on change so I go back to this question again maybe can answer or zakar  when when if our def friends
+
+
+00:22:45 - 00:24:16
+will be able to contribute the protocol right so I mean we are obviously big Believers in open source like all of us here have contributed to various source  and kind of for me one of the big advantages of Open Source is that it really sets a high quality bar like if you if your work is going to be open for kind of scrunity from everybody you better make sure that it's really high quality right  so from our perspective we will publish  the code of log sense as soon as our updated website is up and and the updated
+
+
+00:23:30 - 00:24:52
+website will feature  docentation of our smart contracts  kind of various guides how to get started with block SS and so on and so forth so we are seeing the code itself as very much complimentary to this docentation like we try to set create a repository to be as well docented as possible with kind of proper readme files and so on and so forth  and this has been a process going on for a while and very soon  this all of this would be published this great definitely so  one of the
+
+
+00:24:11 - 00:25:29
+other  so maybe I can share a bit more information about the overall process so  one of the first things that we'll publish is the  developer docentation  so one of the things that's  one one of the the the focuses at the beginning for the docentation  isguides on how  smart contract developers canuse the  the block sense contracts to  to implementOracle data sources  in their projects so this is going to be one of our  key focuses   going further several
+
+
+00:24:50 - 00:26:18
+months down the line  our next focus is going to be on on the Oracle script functionality which really sets of sets up  sets us apart from  other  Oracle projects  because we believe that   the deploying adding new data sources should be as simple as deploying a smart contract on on ethere and other  smart contract based U blockchains  so  we we we really are eager to see what the community can build  I can share some  technical details  on some of our technology choices so far so  we
+
+
+00:25:34 - 00:26:50
+really believe  in  letting our community pick  the tool chains and the  the languages of their choiceso we have decided to  base the first interation of our protocol on web assembly  one of the key features  one of the Key properties that it has is that   it allows our  user base to  to pick different languages but also ensure deterministic execution of the smart contracts because one of the issues with alternative approaches  for example based on on containers is
+
+
+00:26:12 - 00:27:38
+that  you really don't havegood rep reproducibilityand don't we don't have good  isolation and   isolation features  which when you're talking about     oracles which intend to provide really reliable data  is an issue so we decid to to use a technology which is  deterministic andbut also  allow users to to have a larger variety of languages that they can use to develop their solution but this in contract for example with evm blockchains where  you you really have
+
+
+00:26:55 - 00:28:23
+a a very limited  set of choices is mainly  solity but there's also additional options  and being able to use for example rust  we see as one of the key differentiators allowing our users to  build much more interestingSolutions on top of our protocol thank you Peter for updating us on this it's definitely very interesting choices that  they here I'm very happy to to realize the the freedom that gives to developers to to build on top and  with this said  I'm moving into the
+
+
+00:27:39 - 00:28:50
+step where like what what we prepare because on technical side you although there's not much that has been communicated so far you could hear that there's a solid progress and the plan is really  like ongoing right so that's why also the goal of this call where we can update you a little bit more so you get to know when you hang around in Discord what you're expecting and also when you get to tweet or about block s you have a clear idea  where we hit it to and  that's great to be with us but
+
+
+00:28:15 - 00:29:33
+what about the marketing and the Outreach like our team because I'm also part of this marketing and  we realized we did not  engage so much with the community because we were very early on on discovered by ruis and  this community of Turkish friends which are all awesome and we are just developing on the all the work that has to be done before we even can start with things but now we are getting ready we had new hires as some of you realize on the marketing side that also help this process we also have new B people on the
+
+
+00:28:53 - 00:30:09
+team that are  helping in the process of  starting iting with the projects and see how we can cooperate and in the best possible way and on the marketing side what we are cooking and it's really really almost done it was almost done today it's a campaign that it's an invite campaign so you you get to see as soon as next week sometime next week stay tuned about this it's  basically inviting your friends here and this will give an opportunity for you to get reward in the future with
+
+
+00:29:32 - 00:30:54
+some some awesome things that I don't want to mention now because it's intriguing to stay this way  I wonder if we have I just put this question now if you have some partnership that are on goinging that we can announce I know that recently we have somediscussions with Hardware Hardware accelerators and what's in what's in there for the people whoever miss this announcements well sure I mean  because L sense should be one of the kind of for runners in this CK Revolution and kind of our own team has
+
+
+00:30:13 - 00:31:32
+a history of kind of pushing the envelope when it comes to kind of ZK circuits  we are working with most of the companies which are trying to improve and the available Hardware Solutions or software solutions for generating ZK proofs you are probably referring to the fact that  we recently become part of the kind of cic L Access program  but kind of we have a nber of other partners that we are talking to as well I think the most exciting Partnerships are with protocols that are looking to
+
+
+00:30:53 - 00:32:08
+put blockchains in production  in the near future I wouldn't disclose any details at this point but this is one of the reasons why we adopted this accelerated road map  because it turns out that once you do allow kind of people to create arbitrary data feeds there are project that could really benefit from this  so these are project that are looking forward to use the capabilities of our protocol yeah that's that's why I wanted to bring it up because I think it's interesting for the people to here  I
+
+
+00:31:30 - 00:32:47
+see time is advancing very much and  we have already questions that were asked before the call so if I would just go on and  go on with the questions and then I'll check on the chat whether you guys also had some questions based on the conversation you heard or previously if you had something that you yeah you wanted to to learn about us like what if you did not get the clear answer or whatever so  I'll just go with the first question we receive over Twitter and it goes how did you manage
+
+
+00:32:09 - 00:33:25
+to offer Oracle service at a low price  then than lower price than your competitors did you have to sacrifice anything oh I I think already kind of did go through the most important aspect of this question here our infrastructure our architecture is that we publish a lot of data which is very tightly packed together in a single transaction and that's where the majority of the cost savings coming from  personally I I don't think this comes with any disadvantages it rather comes with more advantages because when
+
+
+00:32:48 - 00:33:57
+you publish the individual updates the separate transactions you have to worry about things like such as inclusion maybe some of your transactions wouldn't have kind of comp sping enough fee to be included in the blocks maybe they will be included out of order kind of things like that while our large transactions are very juicy from the perspective of the can of block producers so they're likely to be included much more quickly and to they will create kind of more predictable  timing and more
+
+
+00:33:22 - 00:34:50
+predictable order of inclusion  the down of the block science protocol probably the most significant out sign is that once the ZK circuits are fully developed and we are mindful of the latency introduced by the kind of Z ZK proving aspect so we're very carefully designing the protocol such that it can spread the zero knowledge proving process as much as possible in a kind of large peer-to-peer Network where most of the work is done in parallel but in the end of the day there are some steps that are kind of difficult to do
+
+
+00:34:06 - 00:35:16
+in parallel and know we are exploring the best possible solutions to get the latency as low as possible and that's where this kind of partnership with Hardware vendors are coming from and we believe that there's something unique about our strategy as well that we are working on because we have a lot lot of compiler expertise within the team as I mentioned I've been working on compilers for many years we have this unique approach where we have develop a custom backand for the Noir compiler one of the leading dsls
+
+
+00:34:41 - 00:36:05
+for zero circuits and we can this allows us to use our high level Noir code but to or write our high level Noir code once but potentially retarget it to different proving systems or different Hardware Solutions as they emerge because the kind of zero knowledge landscape is still very rapidly evolving and I wouldn't be surprised if say in a year from now there's a a new proving system or a new hardware solution that kind give significant advantage in the in the context of the block sense protocol and so if we will
+
+
+00:35:23 - 00:36:52
+be able to take advantage of it by just kind of implementing a for the compiler and then all of our existing code we just run out of the box this is pretty a unique approach I would say and you we will soon publish more information kind of about our Tex stack  I think we've developed some very exciting kind of developer tooling around this like  we'll be publishing a very advanced the bugger for programs  just stay tuned yeah it's great okay let's move on to the second question  I think this
+
+
+00:36:08 - 00:37:27
+one this person got a really really good answer something you have to say there's nothing to hide with block sense  you have a sentence like this anyone can become a data Provider by staking funds and operating an automated Oracle node accordingly can you tell us a little bit more about the system requirements right well another kind of careful consideration in the design of the protocol is that we really tried to because ultimately we see that blog science is not only a data reporting protocol we see it as a compute Network
+
+
+00:36:48 - 00:38:10
+and kind the argent here is rather kind of complex but I'll try to give a quick version it basically when you sell your Computing resources you have to compete with the traditional offerings such as Tech Giants Google Cloud Amazon AWS services and so on and ultimately this kind of puts a limit to how much you can charge for your compute and kind the prevailing optimistic view here is that people have a lot of idle compute power at home in their say all all computers and they will be willing to kind of sell this
+
+
+00:37:28 - 00:38:35
+idle compute power at price points that are lower than the price points of this Tech Giants under the premise that otherwise this compute power will be just wasted if it's you already bought the hardware so if it's idink kind you're missing the opportunity to make some money out of it right but the problem is that you're always kind of have this hard ceiling about how much you can charge because if you charge too much naturally nobody would want to buy a computer from you because every in the end of the day
+
+
+00:38:02 - 00:39:20
+we should expect the buyers in this market to be rational right  but with data reporting it's a somewhat de different story because when you report say a price fees for a lending protocol the comput the computation required to send the price point update is not very high like it will take you several milliseconds maybe you send few kytes can over the network to obtain the data and then upload it on chain but the value that you're creating is not the computation or itself it's the establishment of kind of the
+
+
+00:38:40 - 00:40:17
+truthfulness of this fact that the fact that all the people who are interacting with the defi protocol on chain can have the guarantee that nobody can manipulate the data that  it it is kind of timely published and it's guaranteed to be accurate and nobody can work po get or can of cheat the user somehow and do any sort of manipulations on prot so the premise here is that the consers of the data on chain they should be willing to reward this reporting much higher than the actual cost of the computation
+
+
+00:39:29 - 00:40:49
+itself yeah so this means that kind the users should be have very high return on investments when they join the block sence protocol as data reporters but at some point because this return on this is so high we expect that many people would want to join so at some point can the demand for reporting would be saturated like your note would just wouldn't have so many duties and so it will start idling waiting for the next data reporting duty but from the perspective of kind of all no operators in Block sense what
+
+
+00:40:09 - 00:41:34
+they're really doing is they are giving us kind of their computational resources and asking us okay can you can I use my Compu resources to kind earn as much money as possible right so in the most hassle-free way possible but this naturally kind of gives us the same problem how do we make use of this idle power of C the operators in the blog search Network to earn them some additional profits besides the data reporting and so we open the blog science Network for other compute workload such as know 3D rendering AI
+
+
+00:40:51 - 00:42:10
+training kind of batch processing any kind of traditional compute workloads and the premise here is that if 10% of your time you're doing data reporting with kind of very high profit margin and 90% of your time you're doing kind of pure compute tasks the aggregated profit would be higher than a competitor that is doing 100% compute tasks just because this 10% where where you doing data reporting they earn you a higher profit so they should make the BL sense protocol can highly attractive for
+
+
+00:41:31 - 00:42:44
+anybody willing that is aiming to generate as much profit from their compute infrastructure as possible so to to make this possible we have kind of decoupled the staking from the computational capacity in the blog science protocol if you have hick amount Stakes this doesn't limit you how many computers you you will bring to the protocol you can bring more computers and this would only mean that you'll be given more duties in the protocol more compute tasks more reporting task and so on and so
+
+
+00:42:07 - 00:43:30
+forth  and this also means that the duties they really scale with your computing power like if you connect a computer that is not very powerful say a Raspberry Pi then it would self-regulate itself it would accept a smaller nber of reporting task and computational task just so they would fit in the power of of Raspberry Pi and then if you plug in a tread repper with 6 gpus or something like that again the protocol will automatically adjust your L workloads your duties to take full advantage of  your
+
+
+00:42:49 - 00:44:20
+Hardware  one thing that I cannotto the question about her requirements is  we're actively researching  allowing note operators to   to specify different capabilities that their note  can specifically support and  this will determine the types of  compute jobs that  the the network is going to assign them to so while there is a a strong   Randomness element  because of the need for  collusion resistance  and  the secret voting  we understand that  to  there's like  inherent
+
+
+00:43:34 - 00:44:54
+tradeoff between  for each blockchain Network between   the requirements that  that  we  that the network puts on  note operators and how the the decentralization so  the more requirements  you have naturally  the the network can have   higher performance  typically you hear terms like transactions per second however  the more  requirements you have the less decentralization you have so there's a inherent trade tradeoff between those two things and we believe that by allowing not operators to  to
+
+
+00:44:15 - 00:45:43
+decide for themselves what kind of capabilities they want to  to expose  we can give greater variety to the nber of  to the types of  not operators that that'sthat we can  that that can join the network so  we expect that we have anyone from Hobby note operators to professionalnote as a service companies joining and each of them will have like meaningful  contribution to the the network capacity all right thank you Peter for adding this what I'm hearing here is that 
+
+
+00:44:58 - 00:46:16
+block sense is in every element of the the system there's a lot of toll process here and a lot of optimizations that are  being prepared so we can have this very efficient system last question that was being brought up by Community member on Twitter it's  gos like this I don't quite understand the social reputation thing does it mean that the operator with a higher reputation we always dominate others what do you guys have to say about this well I mean first of all the social reputation  it's not as
+
+
+00:45:37 - 00:46:54
+fully developed as some of our or ideas it's again more of a aspirational goal this think but I don't believe this necessar has to be true like we want the operators who are revealing their identity to be incentivized in some way and I'll provide a short kind of up of how the social reputation works in the first place Bas the premise here is that  we can improve the security of the protocol by leveraging the social reputation on top of the kind of cryptoeconomic security  because right now if you
+
+
+00:46:16 - 00:47:41
+look at the Oracle industry it's running entirely on social reputation right so bunch of companies are stating their names and basically promising say that they wouldn't act act maliciously without having any real kind of monetary skin in the game and to some extent kind of social reputation has value like we are acknowledging this fact and by harnessing it harnessing it we will kind of rise the bar for the possible crypto economic attacks against the protocol because we are the centralized protocol we are vulnerable
+
+
+00:46:58 - 00:48:21
+to the traditional 51% attack M and we use I lay and Native staking to hopefully raise this buyer to a very high level by by Levering so social reputation on top of that the 51% attack will turn into something like maybe 80% or 90% attack and the way this would work is that you of the kind of big stakeholders in Block sense they'll be able to reveal their identity and then the users of the data feeds the actual defi protocols which are kind of consing the data produc by the blog S network they'll be earning something
+
+
+00:47:40 - 00:49:12
+like a that we describe well we can call it credits or points but they can use these credits to kind of delegate their trust in The Operators who have reviewed their identity and this in increases the influence of this these operators in the voting process so if we have a lot of kind of big reputated operators have stake their name in the system and can the user of the system have delegated their trust to them this would make it so that for any malicious attacker you have to overcome the effect of all this kind of social
+
+
+00:48:26 - 00:49:54
+trust p into the players now we don't believe that the public operators have to be incentivized too strongly with kind of financial incentives obviously there should be some Financial incentive to make this to give them reason to kind of join this  Vision but on the other hand like they are already stakers in the block s protocol so they are already very aligned with the success of the protocol so you can almost expect that they will do this altruistically and we wouldn't have to rise a lot of the financial incentives
+
+
+00:49:09 - 00:50:29
+for them so only a very very small premi would suffice but most likely kind of these parameters would be subject to some kind of governance mechanism within the protocol and we adjust them over time so the network can operates in the m most healthy way possible all right maybe a quering question for zakari would it be correct to to smarize  this is a delegated proof of stake  system and how how would you compare this design with a like a delegated proof of stake that other L1 or L2 chains I think it's You could argue that
+
+
+00:49:50 - 00:51:11
+it is similar in the way that there are similar transaction types and so on and so forth but I think we have this very novel kind of idea that the users of the protocol are awarded these kind of credits out of th air that they can use in this social reputation layer of the protocol yeah like in the delegated Pro of Stak you still are still staking funds that you obtain from the market or something like that while here you're gaining this kind of social points by being the user of the so it's slightly different yeah so in in
+
+
+00:50:30 - 00:51:48
+contrast to  not operators being able to delegate stti we have the users which actually have much higher skin in the game because they trust the the DAT yeah this is based on the obvious realization that the users they are the ones who are at risk right like yeah it's important most important for them to  ensure that the protocol is highly secured so that it only makes sense to kind of trust them with this  curation mechanism where they get to decide okay this operator looks fishy or this looks
+
+
+00:51:09 - 00:52:25
+somebody I I could trust and so on so forth so the more data feeds you conse the more so to say risk tokens to yes it's based on vole of transactions but in general yes it's very good I really like how the conversations turn the guys are just having fun discussing things maybe they didn't have time to discuss during the day so  great we have  one more question time is going like really over one hour now and  we have a question from Dad from Alam he put his question in the chat if you guys
+
+
+00:51:47 - 00:53:07
+have a question maybe you can go on and ask  another question here but I for for now go with this one what kind of Protocols are majorly aligned towards when it comes to using block gamy social F Etc well I mean we really see block is a kind of as I mentioned earlier platform for Innovation so my personal dream is that right now here we couldn't even imagine what kind the QR app is going to be that somebody will come up with some really good ide idea how to leverage data from The Real World and it would
+
+
+00:52:29 - 00:53:38
+surprise us so it I wouldn't go and say that there are specific protocols that are most aligned with block sense MH  we consider our platform to be very general purpose like it can address pretty much every existing Oracle use case and something that we didn't have a lot of time to talk to but these Oracle scripts that you create within the blog sence protocol they're truly about about arvary computations for example nothing prevents you from kind of writing an oracle script that will download the
+
+
+00:53:05 - 00:54:27
+weights of the latest AI model and then you can of run inference as part of your orle script and submit the labels the classifications on chain so this is one kind of vertical that we hope to see clever applications of AI in the blockchain space and we try to be Pioneers  we believe that our approach with  the Rob based architecture and the kind of collusion and briber resistance is what really kind of puts us apart from some of the kind of other protocol that are claiming to provide the same
+
+
+00:53:45 - 00:55:09
+capability yeah I guess we can  we can smarize our positioning by saying that currently there's a very long tail of  use cases for  offchain data which are currently underserved by the traditional Oracle providers  so by allowing our users to  take the matters in their own hands so to say by writing Oracle scripts  we really  we to see like a very flishing ecosystem of applications that so far haven't been developed just like we saw the explosion of new applications that weren't imagined before  with
+
+
+00:54:26 - 00:56:01
+ethere and the the the web tree  how to say ecosystem  in general  we we really hope to see  such a level of innovation  that Pro can bring by achieving aim effect bringing program programmability  to the to the Oracle world right well thank you Peter for this  really I call them closing remarks  because this is what we are really up to and I'm so happy to see that we we believe so much in the centralization that actually we build something to empower and this great thing to see what will be the three
+
+
+00:55:14 - 00:56:31
+takeaways from this meeting you guys get to hear a lot about the things that  we've been working on so far and also what is coming so should definitely stay tuned with the our social channels Discord and Twitter to follow up on new announcements also as I mentioned on the community side the upcoming campaigns things that you can get involved with  this is the things that I I have in mind that I see that we went through and actually so much more has been shared in this discussion that I was  expecting and I'm really happy
+
+
+00:55:53 - 00:57:16
+we had the opportunity let's see what we will have to say next time when we get and sit together and till then you can also  stay in contact with us in the social media and ask us any questions also maybe make introductions to protocols that you have connections with or present the project to developers that will be interested to work on blog sense so this is what I have to say and thank you everyone for tuning today joining Us in this very first Community call I'm very happy it's a reality now how how
+
+
+00:56:34 - 00:57:51
+would you say should we make it the regular thing yeah that's my super point this should happen once a month so we'll sit together and have fun like today we'll have  the setup that we have today I'm sure in few calls will will be much more relaxed although I see that even now we are perfect so maybe maybe we can even get to invite some some friends with us and share more of the journey with them yeah definitely yeah thank you thank you guys I also want to thank the team members that  are not with us
+
+
+00:57:12 - 00:57:57
+here some are far far away so they definitely could not join but yeah it's a great adventure to be on the ship called BL BL sense and space space belongs to us I can say stay tuned guys thank thank you all guys for joining us and stay tuned for more updates from us see you everyone
+

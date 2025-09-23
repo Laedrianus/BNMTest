@@ -1,0 +1,287 @@
+00:00:00 - 00:00:34
+Welcome everybody. Uh thanks so much for making time to join us. So this is going to be a fireside chat. So the format's going to be a bit more conversational and what we're going to talk about is recent changes and upcoming direction. So buckle up and let's jump in. Um I'm joined today by Zahari who is going to officially be moving into a new role at BlockSense and Magnus Blocks CEO. Um, so this is a big update for the community. There's leadership changes. The light paper is out as some of you might be on
+
+00:00:34 - 00:01:10
+top of this already. Um, as well as there's a road map update. So, we've collected questions beforehand. Um, I everything that we collected was primarily from the Discord community chat. So, we'll be going through these, but then we'll also take comments and other questions from the chat as long as we have some time to fit these in. So, Zahari, starting with you, I would love for you to share your perspective on the new title, share more about the new title with the community and uh how this
+
+00:01:10 - 00:01:42
+aligns with the plans at BlockSense.
+
+00:01:42 - 00:02:19
+Well, I mean, in a sense, there's a new formal title, but u kind of my day-to-day activities are not changing that much. like um up until now my goal was always to kind of figure out what is the best way to evolve the block sense protocol so we can have a network that can address as many use cases as possible in the future and in the last kind of few months I've been focused on the light paper and basically this this new row uh would allow me to keep this focus as the implementation team is progressing towards implementing the ideas of the light paper like they need a steward u somebody with much more hands-on and would guide them through the kind of journey of implementing the ideas in the light paper and I have a deep technical background so this is the role that I feel most comfortable in and Magnus kind of stepped up to kind of address some of the other needs of the business that I I had to do up until now such as kind of fundraising representing
+
+00:02:19 - 00:02:58
+us uh in front of the world at conferences and so on so forth and also setting strategic decisions for the company as well.
+
+00:02:58 - 00:03:35
+Yeah, it's worth mentioning that it was meeting Zahari that got me into uh it convinced me and it got me excited enough to switch into the space. It's been a baptism by fire uh learning everything about the space, meeting people. It's been very exciting. But Zahari is really a big technical mind and uh I admire his mind. So I'm really excited that uh he is moving into this position because this aligns well with the objectives of the business. Magnus, please introduce yourself in this new role and give us a perspective on the leadership structure, vision, and more about this new chapter sense.
+
+00:03:35 - 00:04:12
+Yeah, definitely. I mean like Zahar said uh not not a lot is changing in terms of the team structure but um I think two things here mainly. So um we with the ambition with the ambition and the vision that it's been set out in the light paper uh we need to hurry very much like hands- on with the engineers uh and hands- on in the role of um kind of specifying the uh the requirements of the network uh as we go forward. So, I'm I'm really happy that he's going to have more time uh on on that because he can add uh a lot of value for for us as a company there and for us as a team. Um at the same time, the complexity of the business is growing. Um and as that grows, we need uh to have the structure in place to uh to have people in the team supported um on on that journey. And so one of the things that uh I'm
+
+00:04:12 - 00:04:43
+working on uh in the new role is to kind of bring bring that structure uh internally externally um you know with talked about the raise the fund raise takes a a lot of bandwidth and a lot of time uh which is time that could be spent building and I'm I'm happy to be able to uh take that take that burden and the kind of burden of uh going around uh to all these uh various conferences around the world and talking to both like protocol and and investors and um understanding kind of the needs of of
+
+00:04:43 - 00:05:20
+the customer firsthand. So I still view a lot of what I'm doing also kind of similar to what I was doing before of uh in terms of um developing the the kind of product strategy through uh talking directly to customers and understanding kind of like the the market. Um, and in a sense like I'm moving more front of house and um, uh, Zahara is moving more into the kitchen. Uh, and uh, we're we're both kind of uh, uh, I think I think both in in both terms kind of leverages our strengths respectively.
+
+00:05:20 - 00:06:02
+Um, so yeah, pretty excited about this uh, this new structure.
+
+00:06:02 - 00:06:36
+Thanks Magnus. Um, I think I'm actually curious to see, can you guys comment how many of you have seen the light paper in the chat be okay? Of course, you're on top of it. No surprises there. So, as people are responding, uh, there's a lot of concepts in this light paper. Uh we're talking about solving the connectivity barrier with the ZK shelling point. We're talking about the throughput barrier with the boundless throughput engine and then positioning block senses. I think the biggest key word is a universal verification layer for the autonomous economy. Before we dive into community questions, Zahari, can you TLDDR the main concepts? So, in case someone hasn't picked up the light paper, uh, this would help as we go through the community questions because I know people have been going through the dock and poking around. So, could you give us a a summary of the main ideas?
+
+00:06:36 - 00:07:14
+I mean, that's a challenging task. Well, I said ideas, but okay. I guess the key ideas is that uh in order for blockchains to be kind of relevant in the real world like they need to be able to very actively communicate with the real world and the answer of the industry so far has been oracles. Uh but oracles in the way they are currently implemented kind of don't meet a lot of the original kind of blockchain ethos. there's still kind of central centralized players which kind of control the flow information. It's not very easy for somebody who has a new and
+
+00:07:14 - 00:07:49
+novel idea or say a new D that leverages some real world data. Uh there's no easy way to bring the data that you need on chain by yourself. You have to find an Oracle partner and usually kind of this is a slow process. is maybe very expensive. You know, there's a lot of politics involved and kind of we want to solve this with a technical solution that basically allows anybody to bring new data on chain um and completely permissionlessly. That's kind of one big innovation. How do you bring data on
+
+00:07:49 - 00:08:27
+chain? Kind of we have a breakthrough ZK sharing coin protocol that actually make this possible. Uh the other kind of very interesting innovation as you said is the something that limits I think blockchain adoptions in the real world is that if we are fair uh the blockchains are not ready to address the needs of the world economy. I'll give you extremely simple example. Imagine anybody in the world getting their salary of the their monthly salary with a blockchain payment. Basically the capacity of the networks in terms of
+
+00:08:27 - 00:09:08
+transaction per second wouldn't be enough to address even this very basic need like we're not talking about spending but just getting once in a month payment right so in order for blockchains to be relevant to kind of meet this uh cyberpunk vision of uh everybody kind of owning their being self- sovereign owning your own crypto and so on so forth we need to address this throughput limitation and that's kind of the other uh major breakthrough of our design kind of I think we are on the forefront of uh
+
+00:09:08 - 00:09:51
+kind of zero architectures uh and our network is designed even in a way to basically compete with the most powerful sensorized systems for transaction management like system that tech giants like Google uh are building such a their spanner system which is u a database sort of engine which spans multiple continents and allows kind of information to be uh adequately synchronized along these instances running on different continents and you could think about blob sense as something that has similar similarly
+
+00:09:51 - 00:10:30
+powerful architecture and has your data processing throughput. So basically any sort of application that you can build at Google scale today, you can potentially do with block science in the future. And I I think that's very exciting.
+
+00:10:30 - 00:11:13
+this is a very point pick up on that Martin because uh maybe this is probably what's most new for uh people in the community hearing about this um that have kind of uh seen us in the light of Oracle primarily a DeFi oracle uh until now and the reality is that what Zahari just laid out is kind of always the master plan. managers hadn't uh published the light paper yet and and the light paper clarifies a lot of how also the Oracle um essentially GTM right strategy fix fits into uh this this wider uh vision of essentially an architecture for autonomous services for the autonomous economy and uh and to be fair Oracle is also a very loaded term because uh when someone thinks of an Oracle they nine times out of 10 think of uh price feeds, right? And really the inception of the term oracle
+
+00:11:13 - 00:11:49
+uh in the early days of Ethereum uh this is this was a much broader more general term that essentially encompasses everything uh that encompasses a system that brings anything from the offchain world onchain. Uh and so that goes way beyond price feeds, it just so happens that price feeds are kind of one of the main applications of oracles today. But because of the limitations that Har is just outlining in terms of both kind of like the throughput and the permissionlessness and um verifiability of those services and like the
+
+00:11:49 - 00:12:25
+centralized setup that oracles have kind of taken uh as a form because of both of those limitations. Uh the wider like more general u applications of oracles have struggled to to become like viable. Uh and so this is where you know I think it's important to recognize that a lot of the use cases that we're talking about here about enabling are are things that are not widespread on chain today. And that's that's what we're trying to achieve. like that that is our mission to achieve is essentally breaking down
+
+00:12:25 - 00:12:57
+this barrier of like what's possible in the web two world and what's possible in the web 3 world which you know the latter of which so far has been constrained to uh um specific use cases that uh that deal with the um that that are possible within the constraints of blockchains today. So just want to add that one.
+
+00:12:57 - 00:13:29
+Thanks Magnus. I think thank you both for this context just so we get everyone on the same page. Now I think we can jump into the community questions. So the first one I have here is in the light paper you mentioned the transition from POA to full ZK consensus with DAO and treasury. How will early community contributions be recognized to TGE? That's obviously a very important question for the community.
+
+00:13:29 - 00:14:05
+Yeah, I mean I can answer that. I think like uh like all projects um you know there's uh um percentages of the network that are allocated to uh different uh players and actors uh who support the network in different ways right there's you know the the kind of operators um there's the early backers um and there's there's the community of course and so uh I you know it's not u really uh we can't really like spill all the beans of of you know what what's planned there. um also for for kind of legal reasons. But um that the intention of having those those allocations is that uh we we uh are able to reward um those people who are along for the ride with us and especially those who kind of believed in us uh at the early stages of of the journey when um you know it was
+
+00:14:05 - 00:14:40
+harder pro probably to to believe right had the conviction that that kind of helped us to help help us grow. Um so I think that like Everyone in BlockSense views that as a very important piece. Um, we obviously uh like put a lot of attention and care into the community because we um see you guys as uh like a real um like driver of uh of our growth um and and and help us to kind of be seen and to to to gain recognition. So, uh, not to mention kind of trying things out, developing stuff, like kind
+
+00:14:40 - 00:15:13
+of playing with the technology, like all of this like the feedback. It's it's all very welcomed and, um, and valuable to us. So, um, yeah, I I hope that kind of answers the question. Uh, but but essentially the the role that the community plays in Block Sensor's story is a is an important role and uh, we want to we want to reward accordingly.
+
+00:15:13 - 00:15:48
+Thanks Magnus. Now the second question is how does moving from POA so back to PIA again to token stake POSOS affect scalability, governance and economic security? I know this is a a bit of a broad question. Um which one of you guys would want to take this one?
+
+00:15:48 - 00:16:29
+Uh I guess I can take this one. Um well of course uh in a POA network uh the security is based entirely on trust and right now the reality is that most of the kind of Oracle operators operate uh on reputation. That's what I want to say. So security is based on reputation. uh when you introduce a proof ofstake component now there is additional skin in the game right it's no longer just reputation uh but also some kind of money at stake that can be lost in the case somebody acts maliciously and the block size network is designed in a way that it is able to leverage both the reputation as a source of uh we derive security from uh the fact that the users of data can designate who are the operators that they trust. So we'll still have this kind of uh large scale operators who are important players in the whole blockchain industry and they act as guardians of the network. But then there
+
+00:16:29 - 00:17:08
+is also stakers who enter the system with their own money and provide additional layer of security. And finally, something that is very unique to our network is that in case the network is under attack, we can basically simone additional capital to protect the network through our future key uh based mechanism. All this is a bit kind of long to explain um but the light paper is going into a great detail uh to kind explain how these mechanisms work. But ultimately this kind of crypto economic security of the network uh we
+
+00:17:08 - 00:17:47
+make explain why uh kind of why this is the case but it could be argued that the entire liquid capital in the world is protecting all the information that is published by the globe science network. Basically somebody tries to manipulate the data they will have to overcome the entire public uh liquid capital in the world.
+
+00:17:47 - 00:18:20
+Yeah, I I like this pitch. I like this proposition and the design. I think uh we've had some conversations uh with really smart technical folks, investors in the space and I know this is a point they uh they really appreciate. Um so one of the things that we've seen also the community do is they would bring some projects to us specifically projects that may need custom scripts perhaps bringing on price data on chain. So if you were to design a custom Oracle script for example real-time weather data what innovative or new features does this support and what apps can it power?
+
+00:18:20 - 00:18:58
+Well, the key here is that kind of we provide the ultimate flexibility. You know, when you design Oracle scripts for the block network, you are basically doing exactly the same as uh kind of developing smart contracts. You have a programming language that you can use an SDK with kind of rich functionality. So, your kind of weather data oracle script is likely to kind of consume multiple data sources. It can do kind of advanced stuff such as processing satellite imagery with kind of GPU accelerated algorithms. Uh we provide a lot of flexibility for the developers to kind of build exactly the kind of data processing pipeline
+
+00:18:58 - 00:19:41
+that uh they have in mind.
+
+00:19:41 - 00:20:19
+So now that we have this custom script and the script can power uh these dabs, how will block sense ensure integrity and prevent manipulation in offchain feeds and how are validators incentivized?
+
+00:20:19 - 00:20:50
+Well, I mean the key to write create a secure oracle script is to leverage multiple independent data sources from the real world. Now kind of we make a strong argument that you cannot kind of fake the result of the Oracle script running within our network. But the script itself can depend on some internet data source which um can basically go rogue and provide kind of invalid or malicious data. And the way to protect against something like this is that you would use multiple independent data sources and you would use algorithms such as um outlier filtering. Basically some one of the sources is claiming something wildly different from the others. You just kind of discard this source. You ignore it. You also do anomaly detection uh algorithms. For example, you may have some kind of uh weather model which
+
+00:20:50 - 00:21:10
+um rules out kind of wildly diffic so for so that realistically models the the real world and if you detect an anomaly you can say okay something is potentially happening here like uh I will postpone publishing updates until kind of this situation is resolved. So again because you get to program how the data processing pipelines behave and operate you can use this kind of sophisticated algorithms which are tailored for each and every use case.
+
+00:21:10 - 00:21:43
+Thanks Sar. Uh what I just did actually in the chat is I shared the light paper link. So it's blogsense.net/resources. /resources slash lightaper. The other reason why I'm sharing it is you're going to actually see our road map section on there as well. And so this is what we'll jump into next which is the road map. Um we've got test net milestones mainet launch and ABS integration uh Q12026 expansion so multi-chain integration um as well as strategic ecosystem partnerships. So Magnus, can you give us a highle overview of the road map before we jump into questions again in case
+
+00:21:43 - 00:22:16
+anyone hasn't uh jumped into the road map ahead of the call?
+
+00:22:16 - 00:22:49
+Yeah, I mean uh so I also want to be clear with the road map like uh some of what is detailed in the light paper is kind of state-of-the-art cutting edge or slightly beyond the cutting edge of um what's being done today. um specifically in the way that these components are being put together. It's never been done before. And so um I want to give the caution that like the road map is uh sort of our best uh guess now as to kind of the timelines that that we will need uh to to implement to implement various things. Um but uh those things can change because there's some R&D involved here like this is um this this is a very complex uh system to build and uh yeah I think sometimes road maps can uh you can be held to a a deadline that was um based on information basically incomplete information because the information is always complete incomplete before you start building uh some things. So uh yeah that's that's
+
+00:22:49 - 00:23:24
+why you know some of the timelines in the road map are intentionally um given with you know sort of uh let's say not um medical grade precision. Uh so but to give the broadstrokes to the road map essentially where we are today we have proof of authority network um we have the ADFS um which is our uh our our mechanism for publishing um basically in a batch way on chain in a very efficient way. Um we have integrations with over 70 EVM networks. Um we're we are working with uh protocols from mainet
+
+00:23:24 - 00:24:00
+integrations on several uh different EVMs. Um we just went live on on Somnia mainet uh yesterday. It's the most recent one. Um and their mainet launched two days ago. So we're we're the first oracle providing the Somi uh to USD the native token to USD uh feed on Somnia and we already have a protocol which is the main lending protocol there um who are who are integrating it on mainet and so things are things are moving in pace in the um kind of proof of authority uh like version of of the network. Um to go
+
+00:24:00 - 00:24:40
+back to the road map like the the next phase the next major milestone uh is going to be the uh ABS integration uh which will allow us to decentralize out the uh the operator set. Um even before that we will be decentralizing the operator set uh slightly with um with some initially chosen node operators some of whom are strategic uh investors from the previous round. Um but the ABS integration will allow us to to bring in more stake into the network essentially and more uh diversity of operators. Um moving forward in uh 2026
+
+00:24:40 - 00:25:16
+next year um we'll be building out the test net uh of the network that is driven by the ZK sharing coin consensus that Zahari outlined at the beginning. um and following successful test net rolling out mainet and TGE um again I don't want to give like very strict deadlines on the TGE because and some of that's you know even not in the project's hands uh to to determine um centralized exchanges uh operate on their own schedules and so it's something of a fool's game to to give
+
+00:25:16 - 00:25:52
+like a specific timeline but um our our kind of best guess for that right now is towards the end of next year. And so along the way, uh we're we're working on some quite interesting new use cases. And so I want to say keep keep your eyes peeled for uh some announcements around application that we're building um that tests out our verifiable AI uh capabilities of the network. Uh and so that's that's something that's uh that we're also working on currently that we're looking to release uh this
+
+00:25:52 - 00:26:22
+year. Uh and that's going to be a kind of phase release. But the first part of that released is is some open- source tooling uh for for working with AI agents. Uh that I think is going to be really interesting to anyone who's kind of experimenting with uh kind of the the latest agentic tools like cloud code and codeex. Uh we've got a a really interesting um I think compelling product that's that's in development as an application now like not the infrastructure but the application layer
+
+00:26:22 - 00:26:52
+um and uh it's something that we're um we're working on kind of adopting internally and kind of want to share with uh uh with everyone uh soon. So yeah, that's that's a little uh sneak preview like keep your eyes peeled for for for that announcement. I think it's going to be quite interesting for you guys.
+
+00:26:52 - 00:27:15
+Yeah, I wasn't sure if Martin was sitting very still or frozen. It looks like he dropped. Can you guys still hear us? Okay. Give us a y. Yes. All right. can hear HGU and I can't hear anything.
+
+00:27:15 - 00:28:02
+All right, I'll try to invite Sta on stage maybe. Need to invite Martin again. Is Martin. Okay, I did invite both Martin and Okay. Hey guys, can you hear me now? Uh, we do. Yeah. Okay. I tried to reconnect and I could see the chat but I could hear you guys. So, sorry about that. Okay. Um, so have you I imagine you guys didn't kick off the community questions here in the road map section, did you? Uh, no, we we didn't yet. Okay, perfect. So, we've been live on 70 networks now. So, what's the next major
+
+00:28:02 - 00:28:37
+milestone, Magnus?
+
+00:28:37 - 00:29:21
+Yeah. So, like like I mentioned earlier, the the mainet deployments, um we're we're working on getting grants from uh from some of the biggest chains that are going to mainet um this month and next month. Um the best place to to stay up to date on uh how that's going is our our Twitter. We'll be kind of hosting the announcements as they come. Um but like I said so the the in tandem the application around verifiable inference. So I mean you might ask like kind of why why are we dipping our toes uh in in AI and um I mean uh you look at how AI is transforming uh pretty much every element of software. Uh it's it's quite shocking. So 10% of the world's population uses chatbt weekly, right? Uh this was a this is an application that went live like 3 years ago, less than 3 years ago. Nothing has ever like grown at at that kind of speed. Um it's outpaced the internet and uh we seen like you know we internally at BlockSense we're uh shifting our engineering culture to be
+
+00:29:21 - 00:29:55
+AI first. We've seen kind of firsthand time the the productivity boost that uh that comes from working with agents. Essentially you have you know uh a further kind of like set of employees or workforce that you can now manage as an engineer. Uh and uh and and we're trying to we're really trying hard to adopt these tools and uh we've also come across some hurdles in in adopting those tools. that they're uh rough around the edges and they're not necessarily um completely uh uh working as you would
+
+00:29:55 - 00:30:29
+want them to for teams today. And uh you know as a result we've been we've kind of been developing some of our own tooling internally and uh and and and and that's what I was alluding to. Um so our our answer to kind of how to how to work with agents uh how to how to work with agents in a coding environment but how how this kind of links back to the to the network. So yeah, 10% of the world is using chat GPT weekly and I don't know how many of them know that like their chats are never deleted. Chat
+
+00:30:29 - 00:31:02
+GPT OpenAI official policy now is they never delete chats that even if you click delete, right? It doesn't do anything by the way. Um and uh you know that's first of all obviously like a a big issue for your privacy but then those chats can also be uh leaked in various ways. One way is that uh in the court of law chats are readily discoverable. Another way is that um most for most of those users the chats are actually being used to train the model and uh they're trained the model with personally identifiable information
+
+00:31:02 - 00:31:39
+sensitive information and we kind of seen this story play out before right uh if you look at the big techs uh from the dot era uh that that are still around today um they their business uh was essentially formed around um gathering as much data on their users as possible and selling that data to third parties and that's what Alphabet and Meta have um have built you know trillion trillion dollar businesses off of and um you see it in the uh in the fines that these companies get. I mean, just this week, uh, Google was
+
+00:31:39 - 00:32:16
+fined 400 million, uh, in a in a class action lawsuit that found that they were collecting user data, uh, even after the users had selected to turn off tracking uh, essentially tracking their every move um, uh, in in Google and kind of using that data for advertising. So um this this comes back to kind of don't be evil which is which used to be Google's tagline the company motto uh which they kind of used to yeah quiet quietly removed that from from the website uh when the fines started
+
+00:32:16 - 00:32:46
+kicking in um and then you know there's don't be evil and then there's can't be evil right and can't be evil is a much more believable claim um than than like oh I promise bro I'm not going to be evil I'm not going to be evil you know, all my kind of economic incentives are are suggesting that I should and we see the same game play out is what I'm trying to say with with AI. And so, uh, the major model foundational model makers have a extremely high incentive to collect data because that's
+
+00:32:46 - 00:33:22
+how their models get better and that's how they can they continue to kind of succeed in the market. And it's a similar sort of conflict between companies and their users. And uh we have uh we have a way to kind of combat that. We have a way to uh provide a a can't be evil system uh that is that is respectful of user privacy and does not um kind of uh even even allow the operators of the hardware to kind of view um the the data that users are transacting in the system. uh and uh this is where you'll see
+
+00:33:22 - 00:33:58
+references to block sense OS in the light paper. We can we can go into that and this is been a kind of a long tangent. You you asked a very simple question um and I gave you a very long answer. Um but this is where Block Sense OS uh comes into play where um essentially we're uh we're able to offer LLM's AI models uh from within the confines of trusted execution environments that are essentially a verifiable and private uh compute environment. Um and that in that way we are we're truly kind of giving this
+
+00:33:58 - 00:34:29
+can't be evil promise. uh when you wrap that up with the uh tooling for for using agents uh it's where like we're we're very excited internally about like the possibilities that that this enables and um how how this kind of unlocks adoption not just for like individuals but also companies that that that deal in sensitive information. Um, and when I say companies, like you see in the white paper, we're talking to both web 3 and web two, right? Our our system is designed to kind of break down that
+
+00:34:29 - 00:35:05
+barrier. Um, and so this this is kind of like software that yeah, look, we're we're um a project that is building crypto, but um the the products that we're building are applicable to uh to kind of the web 2 world um just as much. So that's that's another major milestone that's that's uh in the works and uh I think everyone internally is quite excited to to share more about that once it's ready.
+
+00:35:05 - 00:35:40
+Thanks a lot. Um I know I'm being conscious of time here so I will just jump through a few of the questions here but I think this one's interesting. Now will blockchains expand into data storage and programmability like filecoin walrus B&B green field on storage we saw a lot of attention and a lot of heads turning with walrus you're seeing a lot of chains experimenting or pivoting strategy to that even a bunch of the big players so what are your thoughts on that
+
+00:35:40 - 00:36:19
+we believe in kind of free economy and plality when it comes to storage like um the book sense protocol will be integrated with many different storage protocols. So when Canada data processing pipelines that I described or or simple oracle scripts they need kind of tempor temporary storage or kind of a place where they aggregate a lot of data before they publish something on the target chain. uh we will provide many different options to choose from and these options they can come with with kind of different uh retention policies, different replication policies, different data availability policies and so on so forth. Again that kind of
+
+00:36:19 - 00:36:58
+flexibility of the block sense network is what allows kind of these different mechanisms and services to be seamlessly integrated.
+
+00:36:58 - 00:37:30
+Thank you Zakari. Um, I want to jump into the pivot toward AI and verifiable compute. So, with the project's recent focus shift towards AI, how will verifiable AI be integrated into block sensor services? That was a great question we picked up from the community. Who's going to pick this one up?
+
+00:37:30 - 00:38:08
+I guess I can pick this one. Um, well, verifiable AI I can it is interested in several different contextes. Magnus alluded to earlier. And we believe that a lot of kind of the customers of the blockchain network would be actually kind of traditional businesses or kind of users who are not even realizing that they're dealing with a blockchain. Like that's we have this notion of the invisible blockchain. Like we want to create something that would allow the kind of application builders developers to create products for end users where kind the blockchain fades into the background. that's it's something under
+
+00:38:08 - 00:38:50
+the hood that the end user doesn't even have to know about. Uh so verifiable AI inference would be provided by the operators in the block science network and some of the customers would be using an offchain API like they will be making uh requests to generate say the uh output of a particular AOM and the this output will be signed in such a way that we can verify that the operator who produced the result is held accountable for the accuracy data like if they try to cheat and say serve a cheaper model or
+
+00:38:50 - 00:39:25
+something like this, they can be slashed from the the stake they have in the block sense network. So a lot of the verified inference will be kind of this sort of offchain traditional uh inference APIs for onchain use cases and we are excited we are waiting for the kind of QR app that would make a very compelling uh kind of product out of autonomous autonomous AI agents uh performing actions on chain and kind of when you have an agent making decisions on chain. It's very crucial for uh to have kind of
+
+00:39:25 - 00:40:06
+high level of certainty, high level of security that this agent decisions are authentic that nobody would have manipulated them. I can give a kind of simple examples. For example, imagine a prediction market which is settled by an AI agent instead of kind of human voting. Like in the last year alone, there were so many cases in the UMA protocol where kind of some well manipulated a market and and there's a lot of people who got burnt from kind of situation like this. But imagine if a neutral AI agent is
+
+00:40:06 - 00:40:41
+setting the market based on kind of analysis of published kind of news reports or even video analysis kind of you can go wild here. uh a system like this would be arguably completely neutral because okay the agent may make a mistake but kind of nobody can manipulate the agent like the output of the agent would be kind of what you said of the market. Uh so we are excited about potential AI applications like this and the block science network is one of the few networks where you can have a an autonomous autonomous smart
+
+00:40:41 - 00:41:15
+contract something that is not externally triggered by user transactions but it's kind of self triggered by things like timers or react reacts to events and so on and so forth. So you can you can really do some of these kind of crazy stories like uh a company a Davo operated by AI agent and kind of making autonomous decision and kind of building starting a business that nobody can can really control anymore.
+
+00:41:15 - 00:41:44
+There's also to go back to like the prediction markets use case which I think is very interesting in an application for onchain AI and uh today with protocols like UMA um and how they're used on poly market the size of the prediction market has to be large enough to kind of warrant human intervention right so has to be a big enough event that there's going to be humans that will have that will like reach consensus that this is what the result was and and that puts like a cap on um a floor on uh things that can be bet on in in prediction markets. But uh when you have AI resolving the prediction markets autonomously um then
+
+00:41:44 - 00:42:12
+you potentially that you know the sky's is the limit for things that can that can go into prediction markets and much smaller much more time bound activities like for just a silly example like you're having a land party um uh and you're playing Counter Strike like you could probably spin up a prediction market of like who's going to win that um you know that that match and bet with your friends right like it kind of opens up the the floor of things that can be put on chain in prediction markets. Um
+
+00:42:12 - 00:42:37
+obviously within within you know reason that you know that the agents have to be at a stage where they can reliably arbitrate on on these things. Uh but I think that's just a kind of illustrative example of laser high said we're waiting for the killer application on chain but uh you can imagine you know as these systems get more stable and reliable there's there's a lot of use cases that are not possible today that are made possible by
+
+00:42:37 - 00:42:54
+Thanks, Magnus. No, that's a that's a great point. Uh, and a good point on a land party. Um, I know you're in town just for three days, but next time we need to uh we need to schedule this in the calendar. I know you have two on the other screen there. I I know you computer's over there. I can see a terrorist is waiting. Terrorist. So um another question that we had here under strategic direction and going beyond oracles going into AI was ZK um by the way fun fact if none of you guys knew Zahar's surname starts with a K. So ZK but ZK is the technology not ZK
+
+00:42:54 - 00:43:36
+is the person will ZK remain a core part of the architecture going forward in the context of this AI adaptation.
+
+00:43:36 - 00:44:16
+Well, well, definitely. I mean, uh, Block Science Network is pushing uh, as I said, the state-of-the-art when it comes to how ZK robs are organized and, uh, proven. Um, for us kind of, our road map is very flexible like we see a lot of uh, kind of internal urgency to ship some of the products that are possible with Block Science as a platform. Now a lot of these products they don't kind of depend on the ZK implementation. So we are always kind of thinking of ways okay how can we get the benefits of the platform in the hands of the developers as soon as possible uh under the premise that we will eventually deliver uh kind of full ZK architecture as well. Well, what I'm saying is that uh kind of we really focused on creating value and the ZT architecture is a way for us to ensure this long-term vision of uh breaking the throughput barriers and so on so forth. But there's so many so much more to
+
+00:44:16 - 00:44:51
+block sense and kind of we have to balance this.
+
+00:44:51 - 00:45:24
+Thank you Zakari. That's a great answer. Um, now the most important section, last but not least, like they say, ecosystem and community. So there's a couple of different points there. Community involvement opportunities, the long-term vision for the DAO governance um as well as kind of clarifying the plans um on community engagement in general. So, I'll start with a specific question and then Magnus, I'll open up more broadly for you to chat a bit more about community involvement opportunities. Will there be more NFTs like Pirate Flag NFD and what utility would they have? That was a question that was asked in the community and I'm sure folks want answers.
+
+00:45:24 - 00:46:01
+There's no plan for another NFT at this stage. Um, so like I said earlier, we're looking for ways to, you know, always looking for ways to involve the community, uh, and reward early contributors. Uh, but at this stage, we're we're not planning the, uh, we're not planning to have another NFT campaign. Oh, I mean, in the short term, of course, right? It could happen longer term, but I don't want to say that this is, you know, going to happen and then, you know, we uh we're silent on it for 20 months. So, so what are ways that the community can get involved that are the most impactful right now? You know, test nets, partnerships, feedback. Um, tell us.
+
+00:46:01 - 00:46:30
+Yeah. Uh, so the like I hinted at earlier, there's one really important way um that's going to be coming up that's related to the AI agents. Um, and you know, uh, you'll you'll be hearing from us, don't worry, uh, once once that's uh, coming out. But um I I know that some of you guys are vibe coders. Uh and I've been seeing some of the results of uh vibe coding in in the community chat as well. Um that's really that's really nice to to see like some of the contributions that community members have recently been making. Um and you know the the product that we're working on that that was also talking about earlier is
+
+00:46:30 - 00:47:04
+uh is related to this. So, uh, I I think getting feedback from the community, getting getting you guys to try uh try try the product out um and kind of spread it, share with your friends, that's going to be the like the number one thing, you know, in in the immediate term. Uh, but otherwise, you know, all the things that you already do, right? like um engaging with us on social media, challenging us, asking good questions, forcing us to think about what the answers to some of those questions are, um joining these forums
+
+00:47:04 - 00:47:44
+and and uh talking to us like uh this is all really helpful. And what about an ambassador program? I know, you know, there's been people bringing this up as a question as well.
+
+00:47:44 - 00:48:18
+Yep. Uh, so no plans for an ambassador program at this time, but we'll let you guys know if that changes.
+
+00:48:18 - 00:48:53
+Noted. Um, these are the questions I had collected here. Uh, which is it's beautiful because we have I know I skipped one question earlier on, but I think we're we're good with time. Um, I would be happy to take more questions here for the next five minutes. One other thing that I want to encourage you guys to do is if you have other questions, um, you can leverage the community here or you could literally reach out to us directly as well. There you go, Rakio stepping in chat. Pirates. Yeah, actually, um, I've met a lot of projects in the space. I've met a lot of teams. I just want to say that the work that the pirates are doing and that Raill is doing is just phenomenal. I need to shout out to you guys because
+
+00:48:53 - 00:49:30
+I'm seeing things on the inside at lots of different projects at different stages. It's just part of traveling, connecting with people, um, helping out some arbitrum ecosystem projects now informally and the pirates are killing it. And Raquel, I think you've built up a system and a program that speaks volumes to your achievements with the BlockSense team. So, it it's phenomenal. So, just good job, guys. It's really exciting to see what you're doing and how far you've taken things.
+
+00:49:30 - 00:50:18
+This is a rapidly evolving space. There's a lot of really smart people. It's very competitive. Uh but you guys are making strides here. So, wanted to give you this shout out. So, we have a few more minutes. Uh Mer is saying, can you ask them about reporter node? Merd, do you want to be a bit more specific with your question? And uh you have Zahari and Magnus here to answer. So if you're a bit more specific, uh the floor is going to be yours for them to answer here.
+
+00:50:18 - 00:50:59
+Well, I mean I can answer a little bit like the reporter not science is in development. Uh as Magnus said earlier, initially we we work with several uh kind of carefully chosen partners to run the reporter note. Um but over time kind of we will as we become an ABS this would be the opportunity will be open for kind of more participants and eventually at some point of course our vision is to make it possible for anybody to run a report uh in the kind of fully decentralized network.
+
+00:50:59 - 00:51:36
+Thanks for that, Zahari. Someone saying, "Okay, we got Roel is be stepping into the CEO role tiring, Magnus, and what is it like to work with pirates?" [Music] Uh, no. I mean, it's uh Is it tiring? Yeah, I mean, well, like I'm sure being Rah Hill is tiring. Raill doesn't sleep after all. Uh I still sleep so probably your job is more tiring or hill. Um but no jokes aside uh it's cool. Like honestly uh we're we're like a relatively flat uh organization anyway. So this is not like uh becoming CEO of Walmart or something. And now suddenly you got a separate
+
+00:51:36 - 00:52:10
+office and you got a PA and you know your inbox is a thousand a day. like it's just you know kind of it's slight reshuffleling of responsibilities uh but ultimately like we all we're all pretty close like we all know each other well and uh I think Luxen sometimes like it doesn't feel that much like a like a corporate or a company and uh so in that sense um yeah just uh just like taking on different hats and different jobs at the end of the day. Uh what's it like to work with pirates? I mean, I I think
+
+00:52:10 - 00:52:43
+it's always I've always thought it's cool to be a pirate and marine. Um, and that's that's like the genesis of our of our community name, right? Like uh depends if you want to be that's cool, too. But uh I think the people who are here are kind of uh you know I I I said in an earlier community call like pirates serve an important purpose uh have served an important purpose in history and you know uh the the early uh adventurers uh in the pre like colonial time of Britain were they
+
+00:52:43 - 00:53:21
+were called buccaneers but what they were was pirates and they kind of established new trading outposts and uh and land and uh that's that's what we're doing, right? We're trying to uh we're looking for the new opportunities and uh there's a hedgeimon in town and uh they're sucking up a lot of the the oxygen in the space and uh honest quite honestly um being a gatekeeper and uh that's the purpose of of pirates, right? We get rid of the gatekeeper and we create a new system. So,
+
+00:53:21 - 00:53:58
+that's cool. I love that. I love that story. Uh, if any of you guys don't know, actually go check out Magnus' profile on Twitter. Uh, no escro. It's still no escro, right? Yeah. OS. No escro. Do you want to tell people what what's the story of that handle as I share the link? Sorry. All right. Yeah, I guess this meeting is recorded by the way. Yeah. Yeah. I think it's okay for you to share this. I think it's fine.
+
+00:53:58 - 00:54:34
+Um, yeah. Well, where I first learned about crypto, I was uh still a student at university. Uh, it was 2011 actually, kind of early. Um, and I was really excited by this like prospect of dig digital money that uh was kind of had this like anarchctic bent uh outside of government control. Um, and just want to get my hands on some of it. Uh and so actually funnily enough like you know back then escro systems were not sophisticated as they are today and uh kind of getting your crypto was uh was somewhat fraught of an activity. a lot of things could go wrong. But the way that I ended up uh
+
+00:54:34 - 00:55:10
+getting my hands on my first Bitcoin in 2011 was uh I put some cash, some like pound sterling in an envelope um without a return address and sent it by snail mail to an unknown person and um from there I was kind of like refreshing my Bitcoin wallet every day like has it arrived yet? Did I get scammed? All right, I probably got scammed. Day five, I was like, I definitely like this is an idiot. I don't have money to spend anyway. Why did I do this? I burn him. I think it was day six. Curious man.
+
+00:55:10 - 00:55:44
+The Bitcoin actually landed in my wallet. So that's why I have no escro.
+
+00:55:44 - 00:56:10
+I love that story. Uh it's it's an amazing kind of name origin story, handle origin story. Okay. Uh we're just over time here. I appreciate you guys so much. Um, I see you got a bunch of people. It was great catching up with you guys in the chat as well as the guys were going through the questions. Um, as usual, the next community call is going to be at the end of the month. And I appreciate your guys' time and support. It means a lot and it makes all of this so much more fun and worthwhile. Um, thank you Magnus and Zahari for the time as well and I'll be seeing you guys soon. Take care.
+
+00:56:10 - 00:56:20
+Thank you. And thanks guys for joining. Good to chat. See you next time.
