@@ -48,13 +48,29 @@ async function updateTopAssets() {
     try {
         // GitHub Public API'den commit'leri çek (60/hour rate limit)
         const response = await fetch('https://api.github.com/repos/blocksense-network/safe-singleton-factory/commits?per_page=100');
-        const commits = await response.json();
+        let commitsJson;
+        try {
+            commitsJson = await response.json();
+        } catch (e) {
+            commitsJson = [];
+        }
+        const commits = Array.isArray(commitsJson) ? commitsJson : [];
+
+        // Rate limit veya beklenmeyen cevap durumunda sessiz fallback uygula
+        if (commits.length === 0) {
+            const topAssetsElement = document.getElementById('mostUsedAssets');
+            if (topAssetsElement) {
+                topAssetsElement.textContent = 'BTC, ETH, USDC';
+            }
+            console.log('✅ Top assets updated: BTC, ETH, USDC (fallback)');
+            return;
+        }
         
         // Asset kullanım sayılarını hesapla
         const assetUsage = {};
         
         commits.forEach(commit => {
-            const message = commit.commit.message.toLowerCase();
+            const message = (commit.commit?.message || '').toLowerCase();
             
             // Asset isimlerini tespit et
             const assets = ['btc', 'eth', 'usdc', 'usdt', 'bnb', 'matic', 'avax', 'sol', 'ada', 'dot'];
@@ -96,13 +112,29 @@ async function updateMostRequestedFeeds() {
     try {
         // GitHub Public API'den commit'leri çek (60/hour rate limit)
         const response = await fetch('https://api.github.com/repos/blocksense-network/safe-singleton-factory/commits?per_page=100');
-        const commits = await response.json();
+        let commitsJson;
+        try {
+            commitsJson = await response.json();
+        } catch (e) {
+            commitsJson = [];
+        }
+        const commits = Array.isArray(commitsJson) ? commitsJson : [];
+
+        // Rate limit veya beklenmeyen cevap durumunda sessiz fallback uygula
+        if (commits.length === 0) {
+            const mostRequestedFeedsElement = document.getElementById('mostRequestedFeeds');
+            if (mostRequestedFeedsElement) {
+                mostRequestedFeedsElement.textContent = 'BTC/USD, ETH/USD';
+            }
+            console.log('✅ Most requested feeds updated: BTC/USD, ETH/USD (fallback)');
+            return;
+        }
         
         // Feed kullanım sayılarını hesapla
         const feedUsage = {};
         
         commits.forEach(commit => {
-            const message = commit.commit.message.toLowerCase();
+            const message = (commit.commit?.message || '').toLowerCase();
             
             // Feed isimlerini tespit et
             const feeds = ['btc/usd', 'eth/usd', 'bnb/usd', 'matic/usd', 'avax/usd', 'sol/usd', 'ada/usd', 'dot/usd'];
@@ -165,11 +197,17 @@ async function updateLastCheck() {
     try {
         // GitHub Public API'den son commit'i çek (60/hour rate limit)
         const response = await fetch('https://api.github.com/repos/blocksense-network/safe-singleton-factory/commits?per_page=1');
-        const commits = await response.json();
+        let commitsJson;
+        try {
+            commitsJson = await response.json();
+        } catch (e) {
+            commitsJson = [];
+        }
+        const commits = Array.isArray(commitsJson) ? commitsJson : [];
         
         if (commits.length > 0) {
             const lastCommit = commits[0];
-            const lastCheckTime = new Date(lastCommit.commit.author.date);
+            const lastCheckTime = new Date(lastCommit.commit?.author?.date || Date.now());
             
             // DOM'u güncelle
             const lastCheckElement = document.getElementById('lastCheckTime');
@@ -184,6 +222,12 @@ async function updateLastCheck() {
             }
             
             console.log(`✅ Last check updated: ${lastCheckTime.toLocaleString()}`);
+        } else {
+            const lastCheckElement = document.getElementById('lastCheckTime');
+            if (lastCheckElement) {
+                lastCheckElement.textContent = 'N/A';
+            }
+            console.log('✅ Last check updated: N/A (fallback)');
         }
     } catch (error) {
         console.error('❌ Error updating last check:', error);
