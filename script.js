@@ -541,9 +541,9 @@ function paginateData(data, page, itemsPerPage, container, itemRenderer, paginat
     paginationContainer.appendChild(infoSpan);
     paginationContainer.appendChild(nextBtn);
 
-    const prevPageBtn = document.getElementById('prevPageBtn');
-    const nextPageBtn = document.getElementById('nextPageBtn');
-    if (prevPageBtn) prevPageBtn.addEventListener('click', () => {
+    const prevPageBtnElement = document.getElementById('prevPageBtn');
+    const nextPageBtnElement = document.getElementById('nextPageBtn');
+    if (prevPageBtnElement) prevPageBtnElement.addEventListener('click', () => {
         // Dinamik olarak hangi sayfa fonksiyonunun çağrılacağını belirlemek için
         if (container.id === 'networkList') {
             loadNetworkList(page - 1);
@@ -551,7 +551,7 @@ function paginateData(data, page, itemsPerPage, container, itemRenderer, paginat
             loadFeedList(page - 1);
         }
     });
-    if (nextPageBtn) nextPageBtn.addEventListener('click', () => {
+    if (nextPageBtnElement) nextPageBtnElement.addEventListener('click', () => {
         if (container.id === 'networkList') {
             loadNetworkList(page + 1);
         } else if (container.id === 'feedList') {

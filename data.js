@@ -918,5 +918,7 @@ const MOCK_GITHUB_DATA = {
 };
 
 // Window objesine ata (ecosystem-stats.js için)
-window.networks = NETWORKS;
-window.dataFeeds = DATA_FEEDS;
+if (typeof window !== 'undefined') {
+    window.networks = NETWORKS;
+    window.dataFeeds = DATA_FEEDS;
+}
