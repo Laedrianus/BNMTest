@@ -1,13 +1,15 @@
-name: Update Data Feeds
+name: Update Data Feeds (disabled)
 
 on:
-  schedule:
-    - cron: '0 */6 * * *'  # Her 6 saatte bir
-  workflow_dispatch:  # Manuel çalıştırma
+  workflow_dispatch:
+
+permissions:
+  contents: read
 
 jobs:
   update-data:
     runs-on: ubuntu-latest
+    if: ${{ false }}
     
     steps:
     - name: Checkout repository
@@ -21,20 +23,4 @@ jobs:
     - name: Install dependencies
       run: npm install
     
-    - name: Fetch GitHub data and update data.js
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: |
-        node scripts/update-data-feeds.js
-    
-    - name: Create notification
-      run: |
-        node scripts/create-notification.js
-    
-    - name: Commit changes
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add data.js
-        git commit -m "feat: Auto-update data feeds from GitHub" || exit 0
-        git push
+    # Workflow disabled: update steps and commit removed

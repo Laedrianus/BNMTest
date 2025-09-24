@@ -1,6 +1,10 @@
 const fs = require('fs');
 const path = require('path');
 
+// Otomatik bildirim dosyası oluşturma devre dışı bırakıldı
+console.log('Otomatik bildirim oluşturma devre dışı bırakıldı.');
+process.exit(0);
+
 // Bildirim mesajı oluştur
 function createNotification() {
     const newNetworks = process.env.NEW_NETWORKS ? JSON.parse(process.env.NEW_NETWORKS) : [];
