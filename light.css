@@ -300,6 +300,8 @@ body {
     height: 100%;
     box-sizing: border-box; /* Padding ve border'ı height'a dahil et */
 }
+
+/* (Reverted) Removed detail-view styles and related utilities */
 .section:hover {
     background: var(--section-hover-bg);
     border-color: #90cdf4;

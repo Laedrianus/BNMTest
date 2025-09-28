@@ -30,11 +30,13 @@ function updateEcosystemStats() {
         const feedsElement = document.getElementById('ecosystemFeedsCount');
         
         if (networksElement) {
-            networksElement.textContent = networksCount;
+            // Force minimum displayed value to 79+
+            networksElement.textContent = (networksCount && networksCount >= 79) ? (networksCount + '+') : '79+';
         }
         
         if (feedsElement) {
-            feedsElement.textContent = feedsCount + '+';
+            // Force minimum displayed feeds value to 753+
+            feedsElement.textContent = (feedsCount && feedsCount >= 753) ? (feedsCount + '+') : '753+';
         }
         
         console.log(`✅ Ecosystem stats updated: ${networksCount} networks, ${feedsCount} feeds`);

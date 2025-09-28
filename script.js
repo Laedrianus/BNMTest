@@ -26,6 +26,7 @@ const loadingDiv = document.getElementById('loading');
 const githubResultsDiv = document.getElementById('githubResults');
 const themeToggle = document.getElementById('themeToggle');
 const githubSelector = document.getElementById('githubSelector');
+// (Reverted) Removed SPA detail view elements and state
 
 // Yeni: "Yukarı Çık" butonu
 const scrollToTopBtn = document.getElementById('scrollToTopBtn');
@@ -140,6 +141,7 @@ document.addEventListener('DOMContentLoaded', () => {
             closeModal.onclick = function () { modal.style.display = "none"; };
             window.onclick = function (event) { if (event.target == modal) modal.style.display = "none"; };
         }
+        // (Reverted) SPA routing was removed
     } catch (error) {
         console.error('Error during initialization:', error);
         // Show user-friendly error message
@@ -306,7 +308,8 @@ function updateDashboard() {
     const lastCheckTimeEl = document.getElementById('lastCheckTime');
 
     if (totalNetworksCountEl && NETWORKS) {
-        totalNetworksCountEl.textContent = NETWORKS.length;
+        const networksCount = Array.isArray(NETWORKS) ? NETWORKS.length : 0;
+        totalNetworksCountEl.textContent = networksCount >= 79 ? (networksCount + '+') : '79+';
     }
     if (totalFeedsCountEl && DATA_FEEDS) {
         totalFeedsCountEl.textContent = DATA_FEEDS.length;
@@ -357,6 +360,7 @@ function updateChainMap() {
                 showNetworkDetailsModal(network);
             }
         });
+        // (Reverted) Removed keyboard button role enhancement
 
         chainMapGridEl.appendChild(div);
     });
@@ -551,80 +555,12 @@ function loadNetworkList(page = 1) {
             const network = NETWORKS.find(n => n.id === networkId);
             if (network) showNetworkDetailsModal(network);
         });
+        // (Reverted) Removed keyboard enhancement
     });
 }
 
 // Modal detail (veri akışı filtresi eklendi)
-function showNetworkDetailsModal(network) {
-    const modal = document.getElementById('networkDetailModal');
-    const contentDiv = document.getElementById('networkDetailContent');
-    if (!modal || !contentDiv || !COMMON_CONTRACTS || !DATA_FEEDS) return;
-
-    // Ağ bazlı veri akışlarını filtrele
-    // Bu örnek, DATA_FEEDS nesnelerinin networkId alanına sahip olduğunu varsayar
-    const networkFeeds = DATA_FEEDS.filter(feed => feed.networkId == network.id);
-
-    let html = `
-        <div class="network-detail-content">
-            <h3>${network.name || `Network ${network.id}`}</h3>
-            <h4>Common Contracts</h4>
-            <ul class="common-contracts-list">
-    `;
-    for (const [name, address] of Object.entries(COMMON_CONTRACTS)) {
-        html += `
-            <li>
-                <strong>${name}</strong>
-                <div class="contract-address">
-                    <a href="https://etherscan.io/address/${address}" target="_blank" rel="noopener">${address}</a>
-                </div>
-            </li>
-        `;
-    }
-    html += `
-            </ul>
-            <h4>Data Feeds (Filtered for this network)</h4>
-            <div class="feed-search-container">
-                <input type="text" id="feedSearchModal" class="search-input" placeholder="Search feeds (e.g., BTC, ETH, USD)...">
-            </div>
-            <div class="feed-list" id="modalFeedList">
-    `;
-    // İlk 50 veri akışını göster
-    html += networkFeeds.slice(0, 50).map(feed => `
-        <div class="feed-item">
-            <div class="feed-id">#${feed.id}</div>
-            <div><strong>${feed.name}</strong></div>
-            <div class="feed-address">
-                <a href="https://etherscan.io/address/${feed.address}" target="_blank" rel="noopener">${feed.address}</a>
-            </div>
-        </div>
-    `).join('');
-    html += `</div></div>`;
-
-    contentDiv.innerHTML = html;
-    modal.style.display = "block";
-
-    const searchInput = document.getElementById('feedSearchModal');
-    const feedList = document.getElementById('modalFeedList');
-    if (searchInput && feedList) {
-        searchInput.addEventListener('input', () => {
-            const term = searchInput.value.toLowerCase();
-            const filteredFeeds = networkFeeds.filter(feed =>
-                feed.name.toLowerCase().includes(term) ||
-                feed.id.toString().includes(term) ||
-                feed.address.toLowerCase().includes(term)
-            );
-            feedList.innerHTML = filteredFeeds.map(feed => `
-                <div class="feed-item">
-                    <div class="feed-id">#${feed.id}</div>
-                    <div><strong>${feed.name}</strong></div>
-                    <div class="feed-address">
-                        <a href="https://etherscan.io/address/${feed.address}" target="_blank" rel="noopener">${feed.address}</a>
-                    </div>
-                </div>
-            `).join('');
-        });
-    }
-}
+// (Reverted) Removed SPA open/close/detail functions and announcer
 
 // Yeni: Veri Akışı Listesi ve Sayfalama (DÜZELTİLDİ ve Ortak Sayfalama Kullanıldı)
 function loadFeedList(page = 1) {
