@@ -1,0 +1,104 @@
+00:00:00 - 00:01:27
+Today we’ll be talking with Gogo. Most of you know him. He’s a co‑founder and the COO of Blocksense, moving toward unfolding the full vision of becoming the universal verification layer. Most of you know the management changes: Magnus stepped in as CEO and Zahary is now more focused on development, which speeds things up. Let’s see what happened over the past month and the fairly
+
+00:01:27 - 00:02:36
+ nice developments. There were quite a few partnerships, some mainnet deployments, and we’ve also been deployed on other networks. This is the agenda overview: we’ll look at which events Block(sense) has attended and some that are coming in the next two to three days. We’ll also give community updates—which you’re used to—and it’s important to stay updated on why things are happening and what’s going on in the community. Then
+
+00:02:36 - 00:03:40
+ we’ll open the stage for Q&A. Some people have already asked questions, so I have the list here. But feel free to ask more, and I think he’s going to note them and add them to the list—I’m counting on him. So, let’s get going. First, I’m inviting Yogi to share more about the partnerships we got this month—why they’re important, which projects, what they mean for us, and why we’re celebrating these achievements so much. Go, how are you,
+
+00:03:40 - 00:05:34
+ doing? Please come on stage. >> Hey guys, good to see everyone here. The last few weeks we’ve been focusing on a few chains launching their mainnets very soon—like Monad, Basma, Faros, and a few others like Somnia and Taxa. I think the noteworthy partnership we did is with Naga. Of course, we’re trying to get users on those chains, but the notable partnership is Naga, which is actually
+
+00:05:34 - 00:07:01
+ on Arbitrum and Uni Chain. They’re a lending protocol and a company helping in the Malaysian market, and we’re providing the price feed for the Malaysian stablecoin. That’s live on mainnet—basically our first live deployment. Another noteworthy deployment—which is testnet—is with Spout, an RWA protocol, and
+
+00:07:01 - 00:08:21
+ we did a few other partnerships, especially with “far” protocols. In the next few weeks we’ll continue working on these chains—they’re coming up or recently launched their mainnets—and that’s the plan on the oracles side. We also deployed a few price feeds for Somnia and will deploy another price feed for TX. That’s why I
+
+00:08:21 - 00:09:43
+ mentioned those chains. There are also a few protocols we’re speaking with on Hyperliquid—that’s another big one. From my experience, Monad and Hyperliquid seem to have the most vibrant ecosystems. Anyway, that’s the oracle side. We also have another product we’ve been working on for the last couple of months, and we’ll announce it very soon because the
+
+00:09:43 - 00:10:59
+ prototype is almost complete. I think in the next two weeks we’ll have something to show for people to use. It’s more targeted at developers—it’s not the same audience as the oracle infrastructure product. You know we’ve been building developer tools and
+
+00:10:59 - 00:12:22
+ we have a big partnership with Aztec to develop tools for their Noir programming language—like a debugger and formal verification. Basically, the new product is an extension of that developer tooling work. We’ll show it very soon. Actually today—sorry, tomorrow—we have a big presentation at Token 2049. Magnus will participate in a pitch competition, and then we’ll present
+
+00:12:22 - 00:13:36
+ this new product. After that, we can share a bit more. That’s the other big thing we’ve been working on. >> Pretty cool. I wanted to share an article for those interested in the Spout case: the team thought to use—or were already using—Chainlink but had to switch. There’s a use‑case article you can
+
+00:13:36 - 00:14:57
+ read; I’ll share it in the chat so you can check it out. Another pretty cool one is what we did with Nunchi on Mega E. It’s a pretty cool protocol; kind of like you can bet on yield (a “perps for yield” vibe). Check it out—it’s pretty cool. Others on my list are OpenFi and Aquaflux Pro—if you want to say something about them. And where can people find
+
+00:14:57 - 00:16:04
+ information about Nunchi? Of course there’s a post, but do we have a specific article like the one I just shared, or should we just encourage people to check the protocol? >> Yeah, start there and then check the protocol. It’s on Mega E and quite interesting—especially if you already use things like Hyperliquid. With this one you
+
+00:16:04 - 00:17:24
+ can kind of bet on the yield itself. It’s pretty cool. >> That’s an innovative product, and it’s great we’re on it and working with that team. As you mentioned, we’re moving toward a new product that Magnus will present in Singapore—that’s the next item on my agenda. For those who missed it: Magnus, the current CEO of Blox,
+
+00:17:24 - 00:18:45
+ will be speaking in Singapore at Token 2049 on October 1–2 because Blox is a finalist in the Nexus startup competition—only 10 startups made the finals. Magnus will present the grand vision and how it’s unfolding for Blocksense, and also present this new product under development, as Gi mentioned. Shortly after, it’ll be made public and shared, so for now we’ll keep it that way.
+
+00:18:45 - 00:20:20
+ Another event this month was ETH Sofia. This is home to Blocksense—our HQ is based in Sofia. ETH Sofia connects builders across the region and Blox is always proud to be there and present what we’re doing. In this second edition of ETH Sofia, CTO Peter, along with data feed lead Emu, led an Oracle lifecycle session where they
+
+00:20:20 - 00:21:32
+ explained—using a real‑world use case—what the steps are, what Blocksense is, how you can write oracle scripts and feeds, and how to test things. Many people attended; there was a lot of interest, and it ended with a brainstorming session where developers were asked for more cool use cases—what we should use Blocksense for. I’m happy to hear your
+
+00:21:32 - 00:22:52
+ proposals too—there are many things we can do. At the end of this talk we’ll have a Q&A session where you can add anything you need clarified. Those who offered good ideas on the best use cases for Blocksense were rewarded during the conference. That’s what we can say about this month’s events. Of course, Token 2049 is a huge event; it starts tomorrow,
+
+00:22:52 - 00:24:08
+ and it’s worth mentioning now. Follow for more information about the new product under development. We’re going pretty quickly today—although I had a big list of partnerships and thought we’d talk more. I think this leaves us more time for questions at the end, and there are already a few. I’m happy about that. Also,
+
+00:24:08 - 00:25:21
+ there are some important community updates. Starting with something positive: the reward for the most active member of the month—special recognition for MFRR (Discord handle). This person will be rewarded as the most active person of the month. Thanks to Rahil for tracking stats and seeing how everyone is performing so we can reward top contributors. On the negative side, based on performance, many people
+
+00:25:21 - 00:26:35
+ weren’t happy but lost their Pirate role. Please understand—this is the most valuable role, and some people weren’t active for months; some sent like 15 messages while others did great work. Everyone should be on the same page and fully support the project. Some lost their roles, but there’s nothing to worry about—by simply continuing to participate in Blocksense content creation and activities,
+
+00:26:35 - 00:27:44
+ you’ll quickly regain it. It might not sound great, but many people lost their role due to inactivity—maybe around 50. At the same time, the list of people gaining the role is big—around 15—so I won’t read it, but you see the new folks joining. You already see them—the people who most support content and participate the most on the server.
+
+00:27:44 - 00:28:53
+ That’s what community is about. When you’re the most knowledgeable person in the room, you’re supposed to help others understand what this project is about and how things work, and share on socials. That’s the game and how it works. Along with the message about purging inactive Pirate role holders, there’s a
+
+00:28:53 - 00:30:05
+ teaser I can mention very briefly: a Pirate program is being prepared by Rahil—an upcoming initiative to be announced very soon. Can’t say much more—stay tuned. You might have noticed issues with the Engage bot—those will be addressed very soon, and hopefully by tomorrow all will be back to normal. The issue is known and
+
+00:30:05 - 00:31:33
+ is being worked on. We’re moving quickly; let me see—looks like we’re already at the questions point. You can ask more now. I’ll start reading questions we already received and invite Gary to answer some I’m not able to respond to. Then we’ll move forward with more questions. That’s most of what I have right now. There’s nothing bad about going quick,
+
+00:31:33 - 00:32:45
+ right? Quick and professional. If the work is done, it’s done—no need to brag. You see the results. One really important thing I think I missed because I started quickly: Blocksense is now deployed on over 79 networks—soon reaching 100—and I’m curious to hear your thoughts and proposals on which networks we should reach out to.
+
+00:32:45 - 00:34:01
+ You can write in the chat. Let’s get some proposals going while I pull up the questions and start answering them one by one. There’s a question from Oh—sorry if I don’t read it right. I don’t really know which language it is. “What position do content creators currently have in the project? Is there any event planned for them?” The way you phrase it
+
+00:34:01 - 00:35:27
+ makes it hard to answer, but I’ll share what I know about content creation and how we’re doing it now. We have our own Discord bot that tracks your activity on X/Twitter and on the server. When you write content about Blocksense, mention Blocksense, explain complicated terms to others—your efforts are noticed and rewarded with points. If you’re wondering whether we’ll be on Kaito or a similar platform,
+
+00:35:27 - 00:36:49
+ at this moment we don’t see much benefit in that—we have our own system that directly rewards contributors. It’s the fairest we’ve seen. That’s the first question I managed to answer myself. There’s one from Misha. Hi Misha—don’t know if I see you here, but she’s usually with us. “Will there be another investment round?” I think I know the answer, but I’ll invite Gorgi to say more or just answer yes/no, when, and what—so it’s a bit more interactive.
+
+00:36:49 - 00:38:07
+ >> Sorry, what’s the question? >> The question is, will there be another investment round? >> Yeah, we’re working on that. We’re thinking of starting a new round fairly soon; we’re preparing for one. >> Especially product‑based—we want to get that out and then kick it off.
+
+00:38:07 - 00:39:22
+ That’s important for the community to know where we’re at. Developing the grand idea of Blocksense—we started as an oracle, but the idea has always been to be a universal verification layer, and we’re moving in that direction. That opens more opportunities and, of course, needs support. As Gary mentioned, we’re working on something,
+
+00:39:22 - 00:40:32
+ and it takes time. When the work is done and complete, everyone will know the amounts, investors, and so on. Thanks, Gorgi, for clarifying. There’s a question from Technique—hey, how are you? I see you in the chat; thanks for being here and supportive. Here we go: If Blocksense is a universal verification layer, how will the team keep ZK proofs fast and low cost as integrations scale across multiple platforms?
+
+00:40:32 - 00:41:53
+ I’ll answer, and if I’m off, Gary can correct me. Basically, the system is designed to be efficient while scaling. That’s the benefit of ZK—blockchain technology is developing, and we aim to be extremely efficient, especially compared to competitors. That’s by design from day zero, and calling it a universal verification layer doesn’t change that. You can check the light paper
+
+00:41:53 - 00:43:08
+ for more details on how this will be achieved. That’s how we plan to use ZK. >> I’m not the ZK expert on the team, but the basic idea is: we do a lot of parallelization—generating proofs for many different processes at the same time—thousands or tens of thousands of instances—and then fold them together, aggregating into one proof, recursively. I forget the exact details, but those are
+
+00:43:08 - 00:44:26
+ the two main tricks: parallelize all the different processes (meaning all the different oracles and other services running on the network) and then combine them efficiently in a recursive way into a single proof. Those are described in more detail in the light paper. >> And of course, we use state‑of‑the‑art cryptography—the proof systems. We should also release a small benchmarking project we did to benchmark different proof systems for our use case. I forget which one we chose in the end, but we tested the state‑of‑the‑art systems and picked the best for our use case. If something better comes out in the next months or years, we’ll switch.
+
+00:44:26 - 00:45:40
+ >> Thanks—that’s what I wanted to say: we definitely seek the most efficient solutions. In this highly competitive market, you must be extremely innovative to stay in the game. That’s why we’re doing blockchain and why there’s a need for this. Let’s keep going. We moved quickly through the official first part, and there are lots of questions in chat, which is great. We’re reaching the hour, so we’ll wrap here: thanks for joining—follow developments on socials; the sessions are recorded and posted on YouTube. Subscribe so you don’t miss new videos; roadmaps and many things are explained there, especially in founder meetings. Today marks a year of community calls—this is the 12th edition. Check out the 12 videos to see how we’re advancing. Share with friends who have questions, along with the light paper, website, and docs. Stay tuned on X and Discord and don’t forget YouTube. Thanks again; thanks to the technical guy for recording, Rahil for helping with the agenda and questions, and everyone who answered. Great to see you; looking forward to continued progress. Let’s see with excitement what comes after Magnus at Token 2049—what the news will be, and what’s new. Keep following, stay informed, and let’s keep building. Thank you; and thank you Gary for joining—have a pleasant evening and see you in the next one.

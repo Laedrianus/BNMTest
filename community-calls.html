@@ -638,7 +638,7 @@
         <div class="made-by">
             Made By Laedrianus with love for Blocksense Network
         </div>
-        <div class="app-version">App Version: v1.4.0</div>
+        <div class="app-version">App Version: v1.6.0</div>
     </div>
     
     <button id="themeToggle" class="theme-toggle">
@@ -668,7 +668,8 @@
             "https://www.youtube.com/embed/V_bggpmFq1c",
             "https://www.youtube.com/embed/mKBtSR0oO64",
             "https://www.youtube.com/embed/a3e1oFF_NIo",
-            "https://www.youtube.com/embed/dyPuiiOh7KY"
+            "https://www.youtube.com/embed/dyPuiiOh7KY",
+            "https://www.youtube.com/embed/i1LhPre1c6A?start=150"
         ];
         
         // Fire Side Chat YouTube link
@@ -686,7 +687,8 @@
             "5 May 2025",
             "30 May 2025",
             "2 July 2025",
-            "31 July 2025"
+            "31 July 2025",
+            "5 September 2025"
         ];
         
         // Sayfa yüklendiğinde
@@ -716,7 +718,7 @@
                     this.blur();
                     loadTranscript(callNumber, 'TR');
                 });
-            } else if (callNumber && callNumber >= 1 && callNumber <= 11) {
+            } else if (callNumber && callNumber >= 1 && callNumber <= 12) {
                 const video = document.getElementById('youtubePlayer');
                 video.src = youtubeLinks[callNumber - 1];
                 

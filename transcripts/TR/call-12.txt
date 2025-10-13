@@ -1,0 +1,104 @@
+00:00:00 - 00:01:27
+Bugün Gogo ile konuşacağız. Çoğunuz onu tanıyorsunuz. Blocksense’in kurucu ortağı ve COO’su; Blocksense’in tüm vizyonunu açığa çıkarma yönünde, evrensel doğrulama katmanı olma hedefine ilerliyor. Çoğunuz yönetim seviyesinde olan değişiklikleri biliyorsunuz; Magnus CEO olarak göreve başladı ve Zahary artık geliştirmeye daha fazla odaklanıyor. Böylece tüm süreci hızlandırabilirsiniz ama bakalım bu geçen ay neler oldu ve oldukça
+
+00:01:27 - 00:02:36
+ güzel gelişmeler vardı. Elbette epey ortaklıklar oldu, birkaç mainnet dağıtımı, ayrıca başka ağlara da dağıtıldık. Bu, gündem genel bakışı; blok’un hangi etkinliklere gittiğini göreceğiz ve önümüzdeki iki üç gün içinde yaklaşan bazıları da var. Ayrıca topluluk güncellemeleri vereceğiz; siz buna alışkınsınız ve neden neler oluyor, toplulukta neler oluyor konusunda güncel olmak çok önemli; sonra
+
+00:02:36 - 00:03:40
+ Soru-Cevap için sahneyi açacağız; bazı kişiler şimdiden sorularını sordu, bu yüzden burada bir listem var. Ama siz de soru sormakta özgürsünüz ve sanırım o not alıp listeye ekleyecek. Bunu yapacağına güveniyorum. Ve evet, haydi başlayalım. İlk adım, bu ay elde ettiğimiz ortaklıklar hakkında daha fazla paylaşması için Yogi’yi davet ediyorum; neden önemliler, hangi projeler, bizim için ne anlama geliyor ve neden bu başarıları bu kadar kutluyoruz. Go, nasılsın,
+
+00:03:40 - 00:05:34
+ ne yapıyorsun? Lütfen sahneye gel. >> Selam millet, herkesi burada görmek güzel. Evet, son birkaç haftadır ana ağ lansmanlarını çok yakında yapan birkaç zincire odaklanıyoruz; Monad, Basma, Faros ve Somnia ile Taxa gibi birkaç diğeri. Sanırım dikkate değer olan — elbette bu zincirlere kullanıcı getirmeye çalışıyoruz — ama “dikkat çekici ortaklık” diyebileceğimiz şey Naga ile yaptığımız. Bu aslında
+
+00:05:34 - 00:07:01
+ Arbitrum ve Uni Chain üzerinde. Onlar bir borç verme protokolü ve Malezya pazarında çalışan bir şirkete yardımcı oluyorlar; biz de Malezya stablecoin’i için fiyat akışı sağlıyoruz. Yani bu ana ağda canlı; temelde ilk canlı dağıtımımız. Ve bir diğer dikkate değer dağıtım, testnet dağıtımı; Spout ile. Bir RWA protokolü ve
+
+00:07:01 - 00:08:21
+ özellikle far protokolleriyle birkaç başka ortaklık daha yaptık. Önümüzdeki birkaç hafta içinde çalışmaya devam edeceğiz; temel olarak bu zincirler geliyor ve ya ana ağlarını yapıyorlar ya da yakın zamanda yaptılar ve evet, oracle’lar açısından plan bu. Somnia için de birkaç fiyat akışı dağıttık ve TX için bir başka fiyat akışı daha dağıtacağız. Bu yüzden
+
+00:08:21 - 00:09:43
+ bu zincirlerden bahsettim ve Hyperliquid üzerinde konuştuğumuz birkaç protokol daha var. Bu da benim deneyimime göre diğer büyük olan. Temelde Monad ve Hyperliquid’in gerçekten en canlı ekosistemlere sahip olduğunu görüyorum. Ama her neyse, bu oracle tarafı. Son birkaç aydır üzerinde çalıştığımız başka bir ürünümüz de var ve bunu çok yakında duyuracağız çünkü
+
+00:09:43 - 00:10:59
+ prototip neredeyse tamam. Sanırım önümüzdeki iki hafta içinde gösterebileceğimiz ve insanların kullanabileceği bir şeyimiz olabilir. Daha çok geliştiricilere yönelik. Yani oracle altyapısı ürünümüzle aynı hedef kitle değil. Ama göreceksiniz; bu daha çok geliştiriciler için. Geliştirici araçları yaptığımızı biliyorsunuz ve
+
+00:10:59 - 00:12:22
+ Aztec ile noir programlama dilleri için hata ayıklayıcı ve biçimsel doğrulama gibi çeşitli araçlar geliştirmek üzere büyük bir ortaklığımız var. Yani temelde yeni ürünümüz geliştirici araçları çalışmalarımızın bir uzantısı gibi. Ama evet, çok yakında göstereceğiz. Aslında bugün — pardon, yarın — Token 2049’da etkinlikte büyük bir sunumumuz var. Magnus bir sunum yarışmasına katılacak ve ardından
+
+00:12:22 - 00:13:36
+ bu yeni ürünü sunacağız. Sanırım ondan sonra biraz daha paylaşabiliriz. Ama evet, üzerinde çalıştığımız diğer büyük şey bu. Evet. Evet, oldukça iyi. Spout vakasıyla ilgilenen herkes için bir makale paylaşmak istedim; çocuklar aslında Chainlink kullanmayı düşünüyorlardı ya da zaten kullanıyorlardı ama kullanamadılar, yani geçmek zorunda kaldılar. Bu bir vaka yazısı,
+
+00:13:36 - 00:14:57
+ okuyabileceğiniz. Sohbete burada paylaşacağım; oradan bakabilirsiniz. Evet, bir diğer güzel olan da Mega E’de Nunchi ile yaptığımız şey. Oldukça havalı bir protokol; verim üzerine vadeli bahse benziyor. Göz atabilirsiniz. Oldukça güzel. Evet, listemde olan diğerleri OpenFi ve Aquaflux Pro; bunlar hakkında bir şey söylemek ister misin? Ayrıca insanlar Nunchi hakkında nereden
+
+00:14:57 - 00:16:04
+ bilgi bulabilir? Elbette bir gönderi var, ama bilmiyorum, bunun gibi belirli bir makalemiz var mı, yoksa protokolü kontrol etmelerini mi teşvik edersin? Ne demek istiyorsun? Evet, oradan başlayabilirsiniz ve sonra protokolü inceleyin. Mega E’de ve oldukça ilginç; özellikle zaten başka şeyler için kullanıyorsanız, Hyperliquid gibi. Bununla
+
+00:16:04 - 00:17:24
+ doğrudan verimin kendisine bahse girebilirsiniz. Oldukça güzel. Evet, bu oldukça yenilikçi bir ürün ve çok ilginç; üzerinde olmamız ve bu ekiple çalışıyor olmamız çok havalı. Ve belirttiğin gibi, Singapur’da Magnus’un sunacağı yeni ürün yönüne doğru gidiyoruz; bu da gündemimdeki bir sonraki madde. Sadece maddeleri takip ediyorum ve Blox’un finalist olduğu Nexus
+
+00:17:24 - 00:18:45
+ startup yarışmasında Magnus’un konuşacağını söyleyebiliriz; sadece 10 startup finale kaldı. Magnus orada Blocksense’in büyük vizyonunu ve nasıl şekillendiğini sunacak ve elbette kısa süre önce bahsedilen geliştirme aşamasındaki bu yeni ürünü de tanıtacak. Kısa bir süre sonra burada bulunan herkese duyurulacak; yani bu bilgi kamuya açık hale getirilecek ve paylaşılacak. Sanırım şimdilik böyle tutmak gerek
+
+00:18:45 - 00:20:20
+ bir başka etkinlik de oldu; bu ay gerçekleşen ETH Sofia etkinliği. Burası Blocksense’in evi; merkezlerimiz Sofya’da. ETH Sofia, bölgedeki geliştiricileri birbirine bağlayan bir etkinlik oldu ve Blocksense her zaman burada olmaktan ve yaptıklarımızı sunmaktan gurur duyuyor. Bu ikinci ETH Sofia etkinliğinde, CTO Peter veri akışları lideri Emu ile birlikte bir Oracle yaşam döngüsü oturumu yürüttü; temelde
+
+00:20:20 - 00:21:32
+ gerçek bir kullanım örneği üzerinden geliştiricilere Blocksense’in ne olduğunu, oracle betikleri ve akışlarının nasıl yazılacağını ve ayrıca nasıl test edilebileceğini anlattılar. Bu oturuma birçok kişi katıldı ve kamuoyundan büyük ilgi gördü; bir beyin fırtınasıyla sona erdi. Geliştiricilere daha havalı kullanım alanları soruldu; Blocksense’i ne için kullanmalıyız? Sizin de
+
+00:21:32 - 00:22:52
+ önerilerinizi duymaktan memnun olurum; yapabileceğimiz çok şey var. Ayrıca bu konuşmanın sonunda Soru-Cevap oturumumuz olacak; netlik istediğiniz bir şey varsa ekleyebilirsiniz. Blocksense için en iyi kullanım alanları konusunda iyi öneriler sunan kişilere bu konferans sırasında ödüller verildi. Bu ay gerçekleşen etkinliklerle ilgili söyleyebileceklerimiz bu kadar. Elbette Token 2049 büyük bir etkinlik; yarın başlıyor,
+
+00:22:52 - 00:24:08
+ ama şimdiden bahsetmeye değer ve geliştirilmekte olan yeni ürünle ilgili daha fazla bilgi için takipte kalın. Oldukça hızlı gidiyoruz; aslında ortaklıkların uzun bir listesi vardı ve daha fazla konuşuruz sanmıştım, ama sanırım bu bize sonda sorular için daha fazla zaman bırakacak ve zaten birkaç soru geldi. Bu durumdan oldukça memnunum. Ayrıca
+
+00:24:08 - 00:25:21
+ topluluk tarafında bahsetmeye değer çok önemli şeyler var. Oldukça olumlu bir şeyle başlıyorum. Ayın en aktif üyesi ödülü. Bu, Discord’daki ismi MFRR olan kişinin çabasına özel bir takdir. Bu kişi ayın en aktif kişisi olarak ödüllendirilecek. İstatistikleri takip ettiği ve herkesin nasıl performans gösterdiğini gördüğü için Rahil’e teşekkürler; böylece en çok performans göstereni ödüllendirebiliyoruz. Olumsuz tarafta ise, yani performansa dayalı olarak, pek çok kişi
+
+00:25:21 - 00:26:35
+ bu durumdan memnun değildi ama korsan rolünü kaybetti; ama anlayın arkadaşlar. En değerli rol bu ve aylarca aktif olmayanlar oldu; bazıları 15 mesaj attı, diğerleri gerçekten harika işler yaparken. Herkes aynı sayfada olmalı ve projeyi gerçekten desteklemeli. Bazı insanlar rollerini kaybetti ama endişelenecek bir şey yok; sadece Blocksense’te içerik üretimine ve tüm aktivitelere
+
+00:26:35 - 00:27:44
+ katılmaya devam ederek bu rolü çok hızlı şekilde geri kazanabilirsiniz. Kulağa pek hoş gelmeyebilir ama birçok kişi aslında aktif olmadığı için rolünü kaybetti; belki 50 kişi kadar. Ama aynı zamanda bu rolü alanların listesi de büyük; yaklaşık 15 kişi. Okumayacağım ama yeni gelenleri görüyorsunuz; zaten tanıyorsunuz — içerikleri en çok destekleyen ve sunucuda en çok katılım gösteren
+
+00:27:44 - 00:28:53
+ kişiler. Topluluk dediğimiz şey bu. Odadaki en bilgili kişi olduğunuzda, başkalarının da bu projenin neyle ilgili olduğunu ve işlerin nasıl yürüdüğünü anlamasına yardımcı olmanız gerekir ve sosyal ağlarda paylaşmalısınız. Oyun bu ve böyle çalışıyor. Bu mesajla birlikte, aktif olmayan korsan rol sahiplerinin temizlenmesi hakkında bir
+
+00:28:53 - 00:30:05
+ teaser bilgisi var; çok az şey söyleyebilirim. Rahil tarafından hazırlanan bir korsan programı var; yakında duyurulacak bir girişim. Daha fazlasını söyleyemem ama takipte kalın ve yakında daha fazla bilgi edineceksiniz. Ayrıca Engage bot ile ilgili bazı sorunlar olduğunu fark etmiş olabilirsiniz; bunlar çok yakında ele alınacak ve umarım yarına kadar her şey normale döner. Sorun gayet iyi biliniyor ve
+
+00:30:05 - 00:31:33
+ üzerinde çalışılıyor. Oldukça hızlı ilerliyoruz ve bakayım; sorular noktasına geldim bile, ama siz de şimdi sorular ekleyebilirsiniz. Zaten aldığımız soruları okumaya başlayacağım ve bazılarına cevap vermesi için Gary’yi davet ediyorum; benim cevaplayamadıklarımı o yanıtlayabilir, sonra daha fazla soruyla devam edebiliriz. Yani şu an elimde olanların çoğu bu kadar. Bakalım; hızlı gitmekte
+
+00:31:33 - 00:32:45
+ kötü bir şey yok, değil mi? Yani, hızlı ve profesyonel. İş bittiyse iş bitmiştir. Bazen bununla övünmene gerek yok. Sonuçları görüyorsunuz. Gerçekten önemli bir şeyi atladığımı düşünüyorum; çünkü buna hızlı başladım: Blocksense şimdi 79’dan fazla ağda dağıtıldı. Yakında 100’e ulaşacak. Hangi ağlara ulaşmamız gerektiği ve
+
+00:32:45 - 00:34:01
+ iletişime geçmemiz gerektiği konusundaki düşüncelerinizi ve önerilerinizi duymayı çok merak ediyorum; sohbete yazabilirsiniz. Evet, ben soruları çıkarırken sohbette bazı öneriler oluşturalım; sonra soruları tek tek yanıtlamaya başlarım. Evet, Oh’dan bir soru var, adını doğru okuyamazsam kusura bakma dostum; hangi dilde olduğu veya bir anlam ifade edip etmediği konusunda emin değilim. İçerik oluşturucular şu anda projede hangi konumda? Onlar için planlanan bir etkinlik var mı? Soruyu
+
+00:34:01 - 00:35:27
+ kuruluş şeklin bu soruyu yanıtlamamı zorlaştırıyor ama içerik üretimi hakkında bildiklerimi söyleyeyim ve şu anda nasıl yaptığımızı. Kendi Discord botumuz var ve Twitter’daki tüm etkinliğinizi ve sunucudaki yazdıklarınızı takip ediyor; Blocksense hakkında içerik üretirken, Blocksense’i anarken, karmaşık terimleri başkalarına açıklarken, çabalarınız fark ediliyor ve elbette puanlarla ödüllendiriliyor. Yani Kaito veya benzeri bir platformda olup olmayacağımızı merak ediyorsanız,
+
+00:35:27 - 00:36:49
+ şu anda bundan çok fazla fayda görmüyoruz ve katkıda bulunanları doğrudan ödüllendiren kendi sistemimiz var. Gördüğümüz en adil sistem bu. Böylece ilk soruyu kendim yanıtlamayı başardım. Misha’dan bir soru var. Merhaba Misha. Sanırım buradasın, emin değilim ama normalde her zaman bizimle olur. Başka bir yatırım turu olacak mı? Cevabı bildiğimi düşünüyorum ama belki Gorgi daha fazlasını söylemek ister ya da sadece evet/hayır ve ne zaman, ne kadar gibi yanıtlar; böylece biraz daha etkileşimli olur.
+
+00:36:49 - 00:38:07
+ Ve üzgünüm, soru neydi? >> Soru şu: Başka bir yatırım turu olacak mı? >> Evet, üzerinde çalışıyoruz. Yakında yeni bir tur başlatmayı düşünüyoruz. Bir tur için hazırlık yapıyoruz. >> Özellikle ürün temelli. Temelde onu ortaya çıkarmak istiyoruz ve sonra başlatırız.
+
+00:38:07 - 00:39:22
+ Evet, topluluğun nerede olduğumuzu bilmesi önemli. Ve elbette Blocksense’in büyük fikrini geliştirerek; bir oracle olarak başladık — bu oldukça açıktı — ama bu projenin arkasındaki fikir her zaman evrensel bir doğrulama katmanı olmaktı ve bu yönde ilerliyoruz; bu da daha fazla fırsat sunuyor ve elbette destek gerektiriyor. Gary’nin belirttiği gibi üzerinde çalıştığımız bir şey var
+
+00:39:22 - 00:40:32
+ ve elbette bu zaman alıyor; işler bittiğinde ve tamamlandığında herkes yatırım miktarını, yatırımcıları vs. öğrenecek. Teşekkürler Gorgi, netleştirdiğin için. Technique’den bir soru var; selam, nasılsın? Sohbette görüyorum; burada olduğun ve destek olduğun için teşekkürler. İşte geliyor: Blocksense evrensel bir doğrulama katmanıysa, ekip ZK kanıtlarını çoklu platformlarda entegrasyon arttıkça nasıl hızlı ve düşük maliyetli tutmayı planlıyor?
+
+00:40:32 - 00:41:53
+ İzin verirsen cevaplayayım; yanlış bir şey söylersem belki Gary düzeltebilir. Temelde sistemin tasarımı gerçekten ölçeklenirken verimli olacak şekilde. Ve ZK’nın faydası bu, değil mi? Blockchain teknolojisi gelişirken başarmaya çalıştığımız şey bu; özellikle rakiplerle karşılaştırıldığında son derece verimli olmak. Bu, tasarım itibarıyla
+
+00:41:53 - 00:43:08
+ en baştan böyle; evrensel doğrulama katmanı dememiz hiçbir şeyi değiştirmiyor, tasarım bu şekilde. Light paper’ı inceleyebilirsiniz; nasıl başarılacağına dair daha fazla bilgi bulabilirsiniz. Ama ZK’yı böyle kullanmayı planlıyoruz; söyleyebileceğim bu kadar. Belki G bir şey eklemek ister? Ben ekipte ZK uzmanı değilim ama temel fikir şu: çok fazla paralelleştirme yapıyoruz; yani aynı anda birçok farklı süreç için kanıt üretiyoruz ve sonra
+
+00:43:08 - 00:44:26
+ binlerce, on binlerce farklı örneği bir araya katlayıp tek bir kanıta verimli şekilde birleştiriyoruz; yani özyinelemeli olarak — tam olarak nasıl yaptığımızı unuttum — ama evet, iki ana yöntem bunlar.
+
+00:44:26 - 00:45:40
+ Önce tüm farklı süreçleri paralelleştirmek; bu, ağ üzerinde çalışan tüm farklı oracle’lar ve diğer hizmetlerin tümü anlamına gelir; sonra bunları özyinelemeli bir şekilde tek bir kanıta verimli bir şekilde birleştiririz. Bu iki yöntem light paper’da daha ayrıntılı açıklanıyor; inceleyebilirsiniz. >> Evet ve elbette en güncel kriptografiyi kullanıyoruz; yani kanıt sistemleri. Kullanım durumumuz için tüm farklı kanıt sistemlerini kıyaslamak üzere küçük bir benchmark projesi de yayınlamalıyız. Hangisini seçtiğimizi, hangisinin bizim için en iyi olduğunu unuttum; ama temelde tüm güncel kanıt sistemlerini test ettik ve kullanım durumumuza en uygun olanı kullanıyoruz. Ve elbette, önümüzdeki aylar veya yıllarda daha iyi bir şey çıkarsa, ona geçeriz. Ama evet, güncel kriptografiyi kullanıyoruz.

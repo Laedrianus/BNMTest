@@ -30,13 +30,13 @@ function updateEcosystemStats() {
         const feedsElement = document.getElementById('ecosystemFeedsCount');
         
         if (networksElement) {
-            // Force minimum displayed value to 79+
-            networksElement.textContent = (networksCount && networksCount >= 79) ? (networksCount + '+') : '79+';
+            // Force minimum displayed value to 80+
+            networksElement.textContent = (networksCount && networksCount >= 80) ? (networksCount + '+') : '80+';
         }
         
         if (feedsElement) {
-            // Force minimum displayed feeds value to 753+
-            feedsElement.textContent = (feedsCount && feedsCount >= 753) ? (feedsCount + '+') : '753+';
+            // Force minimum displayed feeds value to 855+
+            feedsElement.textContent = (feedsCount && feedsCount >= 855) ? (feedsCount + '+') : '855+';
         }
         
         console.log(`✅ Ecosystem stats updated: ${networksCount} networks, ${feedsCount} feeds`);

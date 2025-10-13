@@ -198,7 +198,7 @@ function populateNetworkFilter() {
     const sortedNetworks = [...NETWORKS].sort((a, b) => (a.name || `Network ${a.id}`).localeCompare(b.name || `Network ${b.id}`));
     sortedNetworks.forEach(network => {
         const option = document.createElement('option');
-        option.value = network.id;
+        option.value = network.name;
         option.textContent = network.name || `Network ${network.id}`;
         networkFilterSelect.appendChild(option);
     });
@@ -219,8 +219,19 @@ function applyFilters(feeds) {
     }
 
     if (selectedNetworkId) {
-        // Ağ bazlı filtreleme: DATA_FEEDS nesnelerinin networkId alanına sahip olması beklenir
-        filteredFeeds = filteredFeeds.filter(feed => feed.networkId == selectedNetworkId);
+        // Ağ bazlı filtreleme: Tüm ağlar aynı kontrat adreslerini kullanır
+        if (selectedNetworkId === "Superposition Testnet") {
+            // Superposition testnet için özel filtreleme (gerçek deploy edilmiş)
+            filteredFeeds = filteredFeeds.filter(feed => 
+                feed.network === "Superposition Testnet"
+            );
+        } else {
+            // Diğer ağlar için: network alanı olmayan genel feed'leri göster
+            // Bu feed'ler tüm ağlarda aynı adreslerle çalışır (CREATE2/deterministic)
+            filteredFeeds = filteredFeeds.filter(feed => 
+                !feed.network
+            );
+        }
     }
 
     if (selectedPairType) {
@@ -309,7 +320,7 @@ function updateDashboard() {
 
     if (totalNetworksCountEl && NETWORKS) {
         const networksCount = Array.isArray(NETWORKS) ? NETWORKS.length : 0;
-        totalNetworksCountEl.textContent = networksCount >= 79 ? (networksCount + '+') : '79+';
+        totalNetworksCountEl.textContent = networksCount >= 80 ? (networksCount + '+') : '80+';
     }
     if (totalFeedsCountEl && DATA_FEEDS) {
         totalFeedsCountEl.textContent = DATA_FEEDS.length;
@@ -536,7 +547,12 @@ function loadNetworkList(page = 1) {
 
     const itemRenderer = (network) => `
         <div class="network-item" data-network-id="${network.id}">
-            <a href="#">${network.name || `Network ${network.id}`}</a>
+            <div class="network-info">
+                <a href="#" class="network-name">${network.name || `Network ${network.id}`}</a>
+                <button class="contract-details-btn" onclick="showContractDetails(${network.id})" title="View Contract Details">
+                    <i class="fas fa-file-contract"></i> Contracts
+                </button>
+            </div>
         </div>
     `;
 
@@ -595,6 +611,119 @@ function loadFeedList(page = 1) {
 // Yeni: networkViewCounts'u localStorage'a kaydet
 function saveNetworkViewCounts() {
     localStorage.setItem('networkViewCounts', JSON.stringify(networkViewCounts));
+}
+
+// Yeni: Contract Details göster
+function showContractDetails(networkId) {
+    const network = NETWORKS.find(n => n.id === networkId);
+    const contracts = NETWORK_CONTRACTS[networkId] || COMMON_CONTRACTS;
+    
+    if (!network) {
+        alert('Network not found!');
+        return;
+    }
+    
+    // Modal içeriğini oluştur
+    const modalContent = `
+        <div class="contract-details-modal">
+            <div class="modal-header">
+                <h3><i class="fas fa-file-contract"></i> Contract Details - ${network.name}</h3>
+                <span class="close" onclick="closeContractModal()">&times;</span>
+            </div>
+            <div class="modal-body">
+                <div class="contract-grid">
+                    <div class="contract-item">
+                        <h4>UpgradeableProxyADFS</h4>
+                        <div class="contract-address">
+                            <code>${contracts.UpgradeableProxyADFS}</code>
+                            <button class="copy-btn" onclick="copyToClipboard('${contracts.UpgradeableProxyADFS}')">
+                                <i class="fas fa-copy"></i>
+                            </button>
+                        </div>
+                    </div>
+                    <div class="contract-item">
+                        <h4>AggregatedDataFeedStore</h4>
+                        <div class="contract-address">
+                            <code>${contracts.AggregatedDataFeedStore}</code>
+                            <button class="copy-btn" onclick="copyToClipboard('${contracts.AggregatedDataFeedStore}')">
+                                <i class="fas fa-copy"></i>
+                            </button>
+                        </div>
+                    </div>
+                    <div class="contract-item">
+                        <h4>AccessControl</h4>
+                        <div class="contract-address">
+                            <code>${contracts.AccessControl}</code>
+                            <button class="copy-btn" onclick="copyToClipboard('${contracts.AccessControl}')">
+                                <i class="fas fa-copy"></i>
+                            </button>
+                        </div>
+                    </div>
+                    <div class="contract-item">
+                        <h4>CLFeedRegistryAdapter</h4>
+                        <div class="contract-address">
+                            <code>${contracts.CLFeedRegistryAdapter}</code>
+                            <button class="copy-btn" onclick="copyToClipboard('${contracts.CLFeedRegistryAdapter}')">
+                                <i class="fas fa-copy"></i>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                ${networkId === 75 ? '<div class="testnet-notice"><i class="fas fa-info-circle"></i> This is a testnet with real deployed contracts.</div>' : ''}
+            </div>
+        </div>
+    `;
+    
+    // Modal'ı göster
+    const modal = document.getElementById('networkDetailModal');
+    if (modal) {
+        modal.innerHTML = modalContent;
+        modal.style.display = 'block';
+    }
+}
+
+// Modal'ı kapat
+function closeContractModal() {
+    const modal = document.getElementById('networkDetailModal');
+    if (modal) {
+        modal.style.display = 'none';
+    }
+}
+
+// Adres kopyalama
+function copyToClipboard(text) {
+    navigator.clipboard.writeText(text).then(() => {
+        // Toast notification göster
+        showToast('Address copied to clipboard!');
+    }).catch(err => {
+        console.error('Failed to copy: ', err);
+        showToast('Failed to copy address');
+    });
+}
+
+// Toast notification
+function showToast(message) {
+    const toast = document.createElement('div');
+    toast.className = 'toast-notification';
+    toast.textContent = message;
+    toast.style.cssText = `
+        position: fixed;
+        top: 20px;
+        right: 20px;
+        background: #4CAF50;
+        color: white;
+        padding: 12px 20px;
+        border-radius: 5px;
+        z-index: 10000;
+        font-size: 14px;
+        box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    `;
+    
+    document.body.appendChild(toast);
+    
+    setTimeout(() => {
+        toast.remove();
+    }, 3000);
 }
 
 
@@ -1048,7 +1177,7 @@ function initCommunityCalls() {
         "5 September 2025"
     ];
     
-    for (let i = 1; i <= 11; i++) {
+    for (let i = 1; i <= 12; i++) {
         const callItem = document.createElement('a');
         callItem.href = `community-calls.html?call=${i}`;
         callItem.className = 'community-call-item';
@@ -1093,6 +1222,31 @@ document.addEventListener('DOMContentLoaded', function() {
             });
         });
     }
+});
+
+// SAFE: Append Community Call 12 without touching other columns/logic
+document.addEventListener('DOMContentLoaded', function() {
+    try {
+        const communityCallsList = document.getElementById('communityCallsList');
+        if (!communityCallsList) return;
+
+        const items = Array.from(communityCallsList.querySelectorAll('a.community-call-item'));
+        const alreadyHas12 = items.some(a => (a.getAttribute('href') || '').includes('call=12'));
+        if (alreadyHas12) return;
+
+        const call12 = document.createElement('a');
+        call12.href = 'community-calls.html?call=12';
+        call12.className = 'community-call-item';
+        call12.textContent = 'Community Call 12 (5 September 2025)';
+
+        // Insert before Fire Side Chat if present to preserve ordering
+        const fireside = items.find(a => (a.getAttribute('href') || '').includes('call=fireside'));
+        if (fireside && fireside.parentNode === communityCallsList) {
+            communityCallsList.insertBefore(call12, fireside);
+        } else {
+            communityCallsList.appendChild(call12);
+        }
+    } catch (_e) { /* no-op */ }
 });
 
 // Mobile dropdown functionality for quick links
@@ -1148,7 +1302,7 @@ function initCommunityCalls() {
     // Önce mevcut içeriği temizle (yinelenmeyi önlemek için)
     communityCallsList.innerHTML = '';
     
-    for (let i = 1; i <= 11; i++) {
+    for (let i = 1; i <= 12; i++) {
         const callItem = document.createElement('a');
         callItem.href = `community-calls.html?call=${i}`;
         callItem.className = 'community-call-item';

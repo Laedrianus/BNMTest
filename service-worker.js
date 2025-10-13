@@ -1,5 +1,5 @@
 // Service Worker for Blocksense Network Monitor
-const CACHE_NAME = 'blocksense-monitor-v1.4.0';
+const CACHE_NAME = 'blocksense-monitor-v1.4.2';
 const STATIC_ASSETS = [
     '/',
     '/index.html',
@@ -55,55 +55,52 @@ self.addEventListener('activate', (event) => {
 // Fetch event - serve from cache, fallback to network
 self.addEventListener('fetch', (event) => {
     // Skip non-GET requests
-    if (event.request.method !== 'GET') {
-        return;
-    }
+    if (event.request.method !== 'GET') return;
 
     // Skip external requests
-    if (!event.request.url.startsWith(self.location.origin)) {
+    if (!event.request.url.startsWith(self.location.origin)) return;
+
+    const url = new URL(event.request.url);
+    const isHtml = event.request.mode === 'navigate' || url.pathname.endsWith('.html');
+    const isJs = url.pathname.endsWith('.js');
+    const isCss = url.pathname.endsWith('.css');
+
+    // Network-first for HTML/JS/CSS to always show the latest
+    if (isHtml || isJs || isCss) {
+        event.respondWith(
+            fetch(new Request(event.request, { cache: 'no-store' }))
+                .then((networkResponse) => {
+                    // Cache successful responses for offline fallback
+                    if (networkResponse && networkResponse.status === 200) {
+                        const responseClone = networkResponse.clone();
+                        caches.open(CACHE_NAME).then((cache) => cache.put(event.request, responseClone));
+                    }
+                    return networkResponse;
+                })
+                .catch(() => {
+                    // Fallback to cache when offline
+                    return caches.match(event.request).then((cached) => {
+                        if (cached) return cached;
+                        if (isHtml) return caches.match('/index.html');
+                        return new Response('', { status: 503, statusText: 'Service Unavailable' });
+                    });
+                })
+        );
         return;
     }
 
+    // Default: cache-first with network fallback for other assets
     event.respondWith(
         caches.match(event.request)
+            .then((cached) => cached || fetch(event.request))
             .then((response) => {
-                // Return cached version if available
-                if (response) {
-                    console.log('Serving from cache:', event.request.url);
-                    return response;
+                if (response && response.status === 200 && response.type === 'basic') {
+                    const clone = response.clone();
+                    caches.open(CACHE_NAME).then((cache) => cache.put(event.request, clone));
                 }
-
-                // Otherwise, fetch from network
-                console.log('Fetching from network:', event.request.url);
-                return fetch(event.request)
-                    .then((response) => {
-                        // Don't cache non-successful responses
-                        if (!response || response.status !== 200 || response.type !== 'basic') {
-                            return response;
-                        }
-
-                        // Clone the response
-                        const responseToCache = response.clone();
-
-                        // Cache the fetched response
-                        caches.open(CACHE_NAME)
-                            .then((cache) => {
-                                cache.put(event.request, responseToCache);
-                            });
-
-                        return response;
-                    });
+                return response;
             })
-            .catch((error) => {
-                console.error('Fetch failed:', error);
-                
-                // Return offline page for navigation requests
-                if (event.request.mode === 'navigate') {
-                    return caches.match('/index.html');
-                }
-                
-                throw error;
-            })
+            .catch(() => new Response('', { status: 503, statusText: 'Service Unavailable' }))
     );
 });
 

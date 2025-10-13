@@ -1,6 +1,6 @@
 // data.js
 
-// Ağ Listesi (74 ağ)
+// Ağ Listesi (75 ağ)
 const NETWORKS = [
     { id: 1, name: "Ethereum Mainnet" },
     { id: 2, name: "BNB Smart Chain" },
@@ -75,14 +75,15 @@ const NETWORKS = [
     { id: 71, name: "Sonic Blaze" },
     { id: 72, name: "Status Network Sepolia" },
     { id: 73, name: "Superseed Sepolia" },
-    { id: 74, name: "Swellchain Testnet" }
+    { id: 74, name: "Swellchain Testnet" },
+    { id: 75, name: "Superposition Testnet" }
 ];
 
 // Ağlara özel kontrat adresleri (örnek adresler)
 // Gerçek adresler her ağ için farklı olabilir, burada örnek olarak aynı adresleri kullandım
 // Gerçek uygulamada her ağ için doğru adresleri sağlamanız gerekir
 const NETWORK_CONTRACTS = {};
-for (let i = 1; i <= 74; i++) {
+for (let i = 1; i <= 75; i++) {
     NETWORK_CONTRACTS[i] = {
         UpgradeableProxyADFS: "0xADF5aadbe080819209BF641fDf03748bb495c6f3",
         AggregatedDataFeedStore: "0x6bF1BF2765A1644554CB6060d964FA7ce2FBe6eA",
@@ -90,6 +91,47 @@ for (let i = 1; i <= 74; i++) {
         CLFeedRegistryAdapter: "0xfc05C4BC7C9D2F131CA8c3571C3f07c47D92738f"
     };
 }
+
+// Superposition Testnet için özel kontrat adresleri
+NETWORK_CONTRACTS[75] = {
+    UpgradeableProxyADFS: "0x72F88509C53b939a0613c679a0F4768c0444d247",
+    AggregatedDataFeedStore: "0x707bb37B703E4cf7C941bd57E90B16334714f887",
+    AccessControl: "0xF1B62f07bEc1935ADACdeE5d12ccA0E90F9A108B",
+    CLFeedRegistryAdapter: "0xbc31D28980616B818d9A8d9E9Ff26a04f37466FC",
+    // Superposition Testnet Data Feeds
+    dataFeeds: {
+        "BTC/USD": "0x608273492AA2505d851011193fBb78cDFe82520e",
+        "BTC/USDT": "0x4dC7014C496E328381a367a73e74E07c6ba50084",
+        "BTC/USDC": "0x47b6b20d6B3Fc09536D947cf1Dd86A01962a9d0B",
+        "ETH/USD": "0x28E14d790E2Ba01a5023A8347F6A5ed92a7BbbE5",
+        "ETH/BTC": "0x421B644c972852ebED71eCe6ea97c418b7e024CF",
+        "ETH/USDT": "0xDC0B49Fa36cb83E9EB02FF58cA0bf036EcB185ad",
+        "ETH/USDC": "0x3f41C72009804632a57fE64d92850743dd4a82b1",
+        "USDT/USD": "0xdF223C4bb17F2c77cCCb02950805C9CCD332Adcd",
+        "USDT/USDC": "0x62ef5B65503Df0Fdd8a7D0FE3e2210d7B5607BF4",
+        "XRP/USD": "0x66142d2447FB743598D8Fa6759Dfa99698D30321",
+        "XRP/BNB": "0x9f4340F5023c9702A62bCbFbF2B24247dc06f643",
+        "XRP/USDT": "0x777249954b019fD485cBE31299571F810909280f",
+        "XRP/USDC": "0x90caE2e7CbaabD3Dce55fCA1ACEF8f26dFCCa624",
+        "BNB/USD": "0xd31bcC13EfEDa2cDFA7bdD0c23a3a594349b5F6B",
+        "BNB/USDT": "0x07F173B767Fe1e600689dFfa88d2637035C616b3",
+        "BNB/USDC": "0x912197E7B0742dc3b859A4DBeDCe6Cc7CC8D1427",
+        "SOL/USD": "0xF2c4f1003eA3C7682575Ed5553d282d4173aeBa7",
+        "SOL/USDT": "0x2048B3daaA6f31c8836EF26EA1D7EB03c2131E66",
+        "SOL/USDC": "0x7ce6D6Dd7Babf2b6f6e3E239C4AdbD03d64D4a2d",
+        "USDC/USD": "0x8ff0d53B7Ce37e14646E14720699b17f231d48c9",
+        "USDC/BNB": "0x91c782E83707419c3D9A10999c274324D9f657FD",
+        "USDC/USDT": "0xDCf100baB5F052522D17Bcd2B6aC68bE2C5Da448",
+        "ADA/USD": "0x50Ed93a981ac23C5e0faAADB67873388B8103521",
+        "ADA/BNB": "0x3B408B0a441593A72704d89C2208476D97d10957",
+        "ADA/USDT": "0x7548565c875Dbd0E7b9A7eb737EcDD3689049436",
+        "ADA/USDC": "0xe6182717F7e445B788Fc7a1617aB6082fdC5Eb3D",
+        "DOGE/USD": "0x4e5dcd55298fcF6fB45288DE0e8C3D15cadcA4BA",
+        "DOGE/USDT": "0x9428bDE458cB1f9828bB85a4510C628015190579",
+        "DOGE/USDC": "0xb59D6cD01CAA3FD626A57aE122b65F81EbCFE409",
+        "TRX/USD": "0x72f1539623F3c7b753359473248A7914fFa05aF6"
+    }
+};
 
 // Ortak Kontrat Adresleri (Tüm ağlar için aynı varsayılan)
 const COMMON_CONTRACTS = {
@@ -853,7 +895,108 @@ const DATA_FEEDS = [
     { id: 1000008, name: "cbBTC / USD", address: "0x0E720A96E69E97795EF1DA8437fdbf18c469A1df" },
     { id: 2000000, name: "IBIT / USD", address: "0x5A78d63A7BD8740D71450d74aCBDea47fa5dfD58" },
     { id: 2000001, name: "SPY / USD", address: "0x7A8f05b45e100bE2eCB4Fc82F4a04804efC6AE24" },
-    { id: 2000002, name: "LQD / USD", address: "0x55dbC2e2BD9a3165DAe60d586C2701C0B1C61D48" }
+    { id: 2000002, name: "LQD / USD", address: "0x55dbC2e2BD9a3165DAe60d586C2701C0B1C61D48" },
+    // Superposition Testnet Data Feeds
+    { id: 2000003, name: "BTC / USD", address: "0x608273492AA2505d851011193fBb78cDFe82520e", network: "Superposition Testnet" },
+    { id: 2000004, name: "BTC / USDT", address: "0x4dC7014C496E328381a367a73e74E07c6ba50084", network: "Superposition Testnet" },
+    { id: 2000005, name: "BTC / USDC", address: "0x47b6b20d6B3Fc09536D947cf1Dd86A01962a9d0B", network: "Superposition Testnet" },
+    { id: 2000006, name: "ETH / USD", address: "0x28E14d790E2Ba01a5023A8347F6A5ed92a7BbbE5", network: "Superposition Testnet" },
+    { id: 2000007, name: "ETH / BTC", address: "0x421B644c972852ebED71eCe6ea97c418b7e024CF", network: "Superposition Testnet" },
+    { id: 2000008, name: "ETH / USDT", address: "0xDC0B49Fa36cb83E9EB02FF58cA0bf036EcB185ad", network: "Superposition Testnet" },
+    { id: 2000009, name: "ETH / USDC", address: "0x3f41C72009804632a57fE64d92850743dd4a82b1", network: "Superposition Testnet" },
+    { id: 2000010, name: "USDT / USD", address: "0xdF223C4bb17F2c77cCCb02950805C9CCD332Adcd", network: "Superposition Testnet" },
+    { id: 2000011, name: "USDT / USDC", address: "0x62ef5B65503Df0Fdd8a7D0FE3e2210d7B5607BF4", network: "Superposition Testnet" },
+    { id: 2000012, name: "XRP / USD", address: "0x66142d2447FB743598D8Fa6759Dfa99698D30321", network: "Superposition Testnet" },
+    { id: 2000013, name: "XRP / BNB", address: "0x9f4340F5023c9702A62bCbFbF2B24247dc06f643", network: "Superposition Testnet" },
+    { id: 2000014, name: "XRP / USDT", address: "0x777249954b019fD485cBE31299571F810909280f", network: "Superposition Testnet" },
+    { id: 2000015, name: "XRP / USDC", address: "0x90caE2e7CbaabD3Dce55fCA1ACEF8f26dFCCa624", network: "Superposition Testnet" },
+    { id: 2000016, name: "BNB / USD", address: "0xd31bcC13EfEDa2cDFA7bdD0c23a3a594349b5F6B", network: "Superposition Testnet" },
+    { id: 2000017, name: "BNB / USDT", address: "0x07F173B767Fe1e600689dFfa88d2637035C616b3", network: "Superposition Testnet" },
+    { id: 2000018, name: "BNB / USDC", address: "0x912197E7B0742dc3b859A4DBeDCe6Cc7CC8D1427", network: "Superposition Testnet" },
+    { id: 2000019, name: "SOL / USD", address: "0xF2c4f1003eA3C7682575Ed5553d282d4173aeBa7", network: "Superposition Testnet" },
+    { id: 2000020, name: "SOL / USDT", address: "0x2048B3daaA6f31c8836EF26EA1D7EB03c2131E66", network: "Superposition Testnet" },
+    { id: 2000021, name: "SOL / USDC", address: "0x7ce6D6Dd7Babf2b6f6e3E239C4AdbD03d64D4a2d", network: "Superposition Testnet" },
+    { id: 2000022, name: "USDC / USD", address: "0x8ff0d53B7Ce37e14646E14720699b17f231d48c9", network: "Superposition Testnet" },
+    { id: 2000023, name: "USDC / BNB", address: "0x91c782E83707419c3D9A10999c274324D9f657FD", network: "Superposition Testnet" },
+    { id: 2000024, name: "USDC / USDT", address: "0xDCf100baB5F052522D17Bcd2B6aC68bE2C5Da448", network: "Superposition Testnet" },
+    { id: 2000025, name: "ADA / USD", address: "0x50Ed93a981ac23C5e0faAADB67873388B8103521", network: "Superposition Testnet" },
+    { id: 2000026, name: "ADA / BNB", address: "0x3B408B0a441593A72704d89C2208476D97d10957", network: "Superposition Testnet" },
+    { id: 2000027, name: "ADA / USDT", address: "0x7548565c875Dbd0E7b9A7eb737EcDD3689049436", network: "Superposition Testnet" },
+    { id: 2000028, name: "ADA / USDC", address: "0xe6182717F7e445B788Fc7a1617aB6082fdC5Eb3D", network: "Superposition Testnet" },
+    { id: 2000029, name: "DOGE / USD", address: "0x4e5dcd55298fcF6fB45288DE0e8C3D15cadcA4BA", network: "Superposition Testnet" },
+    { id: 2000030, name: "DOGE / USDT", address: "0x9428bDE458cB1f9828bB85a4510C628015190579", network: "Superposition Testnet" },
+    { id: 2000031, name: "DOGE / USDC", address: "0xb59D6cD01CAA3FD626A57aE122b65F81EbCFE409", network: "Superposition Testnet" },
+    { id: 2000032, name: "TRX / USD", address: "0x72f1539623F3c7b753359473248A7914fFa05aF6", network: "Superposition Testnet" },
+    { id: 2000033, name: "TRX / USDT", address: "0x72B31633A346635CC1B99A6b1e2A7C6a1d025b4A", network: "Superposition Testnet" },
+    { id: 2000034, name: "TRX / USDC", address: "0xb852Fb81bd19b4e41C099b1DC0371EDfed69c9E4", network: "Superposition Testnet" },
+    { id: 2000035, name: "wBTC / USD", address: "0xC0C577dDDB9B59442C2Ae55D35f8b61f3a9FC7C4", network: "Superposition Testnet" },
+    { id: 2000036, name: "wBTC / USDT", address: "0x9a23B056Ac86356bfD5242a219ea0Ee4d93eE6E4", network: "Superposition Testnet" },
+    { id: 2000037, name: "wBTC / USDC", address: "0xa0673cEC4745dc5EBeD8DC136C0EB59E4880Dd94", network: "Superposition Testnet" },
+    { id: 2000038, name: "LINK / USD", address: "0x82E7EC4578214f778817eE91B79b2d4908a010a8", network: "Superposition Testnet" },
+    { id: 2000039, name: "LINK / ETH", address: "0x97097E2Cb785E6Fc50655438d92bcc0FAE2599CB", network: "Superposition Testnet" },
+    { id: 2000040, name: "LINK / BNB", address: "0x02D1cd486825b96da6c6F0135Ea0BB7012be80b0", network: "Superposition Testnet" },
+    { id: 2000041, name: "LINK / USDT", address: "0x6d950524a459317411B40B667B3F0A1224DfA008", network: "Superposition Testnet" },
+    { id: 2000042, name: "LINK / USDC", address: "0x648C933aD1D03367097173361945D360a1eb95d9", network: "Superposition Testnet" },
+    { id: 2000043, name: "HBAR / USD", address: "0xc04DBE934E6996b8220a536Af86344738332F3a9", network: "Superposition Testnet" },
+    { id: 2000044, name: "HBAR / USDT", address: "0x02Cc361A07ee9c1185C134bD906ACB767E171D73", network: "Superposition Testnet" },
+    { id: 2000045, name: "HBAR / USDC", address: "0xBd407CE1202941D64c02Fe21eF26348A9d7235d9", network: "Superposition Testnet" },
+    { id: 2000046, name: "USDS / USD", address: "0x35b727ad62E72dc9411bcb45028a09105395a890", network: "Superposition Testnet" },
+    { id: 2000047, name: "USDS / USDT", address: "0xBDb824264b6C32AC4EF985C9BC81B7841C13aD1a", network: "Superposition Testnet" },
+    { id: 2000048, name: "USDS / USDC", address: "0xB1A8E978724fbA8A1005622FB7135A9b0A742Be2", network: "Superposition Testnet" },
+    { id: 2000049, name: "XLM / USD", address: "0x67de58079c47B9A7693270462484add80BBfda49", network: "Superposition Testnet" },
+    { id: 2000050, name: "XLM / USDT", address: "0x17e1b730071AFB158E2312DA88C3E4bF21be6e6B", network: "Superposition Testnet" },
+    { id: 2000051, name: "XLM / USDC", address: "0xB435D59596023D5E4cF50730EB381B914D63b209", network: "Superposition Testnet" },
+    { id: 2000052, name: "AVAX / USD", address: "0xb5F5D7a1E87b393EAeC4dAD1FdfdED0E4E0EBcB9", network: "Superposition Testnet" },
+    { id: 2000053, name: "AVAX / USDT", address: "0x677A58140FD2056757f2c31c8A776766659dc121", network: "Superposition Testnet" },
+    { id: 2000054, name: "AVAX / USDC", address: "0x48eB8c46448754d484f361d366feCFb656934292", network: "Superposition Testnet" },
+    { id: 2000055, name: "SHIB / USD", address: "0xb67d26a9cfe0186ED8005b75D7Ba656EfeB3ed48", network: "Superposition Testnet" },
+    { id: 2000056, name: "SHIB / USDT", address: "0x58f081ed7f6C6a36488cA821E676259a857BE7d5", network: "Superposition Testnet" },
+    { id: 2000057, name: "SHIB / USDC", address: "0x1C9f6dEf6F9f18823a8BbA8D601CE31683DE4Dc7", network: "Superposition Testnet" },
+    { id: 2000058, name: "SUI / USD", address: "0x582bf63ef62B521b384cBF8D87693306d5e9848F", network: "Superposition Testnet" },
+    { id: 2000059, name: "SUI / USDT", address: "0xe50a8e4310CeE85Aa6288cC0e34c1815F43Be006", network: "Superposition Testnet" },
+    { id: 2000060, name: "SUI / USDC", address: "0x55db97E8f65dbFDf15A88bB6DbA92C8150808c87", network: "Superposition Testnet" },
+    { id: 2000061, name: "BCH / BNB", address: "0xEabA33A1fb9c21A3002d37A8ed508Ee1037cb69D", network: "Superposition Testnet" },
+    { id: 2000062, name: "BCH / USD", address: "0xb2a4e0A2C62cfa4E9E8B9789d3Ed0AD932226ff9", network: "Superposition Testnet" },
+    { id: 2000063, name: "BCH / USDT", address: "0x21012830857b4D302164905e0141bBc25E8420a1", network: "Superposition Testnet" },
+    { id: 2000064, name: "BCH / USDC", address: "0xD337e78DFCB84f6cd58045D1fb84B0a41f25f120", network: "Superposition Testnet" },
+    { id: 2000065, name: "LTC / BNB", address: "0x85Bb506f9A2455F76e2Af6039FDCeB1771430A1D", network: "Superposition Testnet" },
+    { id: 2000066, name: "LTC / USD", address: "0xe621A74F0F6FA7678e239AB5C75519B88b4F0F33", network: "Superposition Testnet" },
+    { id: 2000067, name: "LTC / USDT", address: "0xF97aF986FFDA1913358C7cD2ff07B7751004Bc2D", network: "Superposition Testnet" },
+    { id: 2000068, name: "LTC / USDC", address: "0x7D94195e3dFfa64bf0B55423b2Bd4Da6900119Bc", network: "Superposition Testnet" },
+    { id: 2000069, name: "TON / USD", address: "0xbb52978c0127Ed9F2B4442512525f9aaceA84FD7", network: "Superposition Testnet" },
+    { id: 2000070, name: "TON / USDT", address: "0xE84B9413E28EBe3A9FCd3f8605ec562FC8409548", network: "Superposition Testnet" },
+    { id: 2000071, name: "TON / USDC", address: "0x9E35598e58C3a7e8226e71248D0563B81b374a88", network: "Superposition Testnet" },
+    { id: 2000072, name: "OM / USD", address: "0xfF985CaF0b56e67C88fA0A16828828BF16e413d7", network: "Superposition Testnet" },
+    { id: 2000073, name: "OM / USDT", address: "0x2758a1F7716a17c198d785dD0D1bAB2D1daCDC3F", network: "Superposition Testnet" },
+    { id: 2000074, name: "OM / USDC", address: "0x9E0C6695b683d413A28e798b1A06B05766cD0f6c", network: "Superposition Testnet" },
+    { id: 2000075, name: "DOT / USD", address: "0x4C945E0cd87F4da9299D2d71cEc8AB187bd2A7c8", network: "Superposition Testnet" },
+    { id: 2000076, name: "DOT / BNB", address: "0xb6Bd9380D656cE4062844197ddE9040C7EB7333C", network: "Superposition Testnet" },
+    { id: 2000077, name: "DOT / USDT", address: "0x50786d93F1F698D4a7ca046c60D3f4B71500FA9e", network: "Superposition Testnet" },
+    { id: 2000078, name: "DOT / USDC", address: "0x153A4BC03d491F7A4fb8d96D01e55c0dBdB79BA7", network: "Superposition Testnet" },
+    { id: 2000079, name: "USDe / USD", address: "0x1AD821B38B51cebB62fe27Ab02272590Dba84B22", network: "Superposition Testnet" },
+    { id: 2000080, name: "USDE / USD", address: "0x6C706b0eA00797029a4eE5cACb0Cf448148a2272", network: "Superposition Testnet" },
+    { id: 2000081, name: "USDe / USDT", address: "0x47a4d8AADaAe2aa9670F6B15996C9450Ed90B3cA", network: "Superposition Testnet" },
+    { id: 2000082, name: "USDe / USDC", address: "0x9Db991B870bfa8690322f63bD3077543d7F9814e", network: "Superposition Testnet" },
+    { id: 2000083, name: "USDE / USDT", address: "0xaD7ed9b0032B968dF83aAAFe361cce1deCa27b11", network: "Superposition Testnet" },
+    { id: 2000084, name: "USDE / USDC", address: "0xd7298Cd4d480fb3a5307C111E0279463821f6E12", network: "Superposition Testnet" },
+    { id: 2000085, name: "DAI / USD", address: "0xd7EAB71a2B66435aA3f4626b4286741Dfd784bB7", network: "Superposition Testnet" },
+    { id: 2000086, name: "DAI / BNB", address: "0x216A2B7AF9d3781d358E9a13FB1b4C72F2718C7f", network: "Superposition Testnet" },
+    { id: 2000087, name: "DAI / USDT", address: "0x797be793A64cA837AAbC0C63A02e505c7606E9af", network: "Superposition Testnet" },
+    { id: 2000088, name: "DAI / USDC", address: "0xC72f500850Ec284a115d5964Db12E7a4b7DbdCae", network: "Superposition Testnet" },
+    { id: 2000089, name: "HYPE / USD", address: "0xd431AA5d67caA9B22d6be395f5409C50bb2C9881", network: "Superposition Testnet" },
+    { id: 2000090, name: "HYPE / USDT", address: "0x79822bcc5B6f731317ade7e4dC1953b376420285", network: "Superposition Testnet" },
+    { id: 2000091, name: "XMR / USD", address: "0xA47c3bD2247b359954e81B300176520B9f6A7298", network: "Superposition Testnet" },
+    { id: 2000092, name: "XMR / USDT", address: "0x5D620C32a2b3dC6aceD5cC3E7C933e16b34f6BeF", network: "Superposition Testnet" },
+    { id: 2000093, name: "XMR / USDC", address: "0x39396e18272F4b8aFA2D4927772aAA09B674f7E5", network: "Superposition Testnet" },
+    { id: 2000094, name: "UNI / USD", address: "0xD42557e38B1aA7fFB02ae7352556081133da3BB1", network: "Superposition Testnet" },
+    { id: 2000095, name: "UNI / BNB", address: "0x2D1E72Ce9b6D6A0cC5f5892f0BdBbe593072B60C", network: "Superposition Testnet" },
+    { id: 2000096, name: "UNI / ETH", address: "0xe4304616E1B55872f0935b19bFd4Ee4a4B6e2783", network: "Superposition Testnet" },
+    { id: 2000097, name: "UNI / USDT", address: "0xc59bA28199Ab909Da597467bDc2dbdcfFe74BDC5", network: "Superposition Testnet" },
+    { id: 2000098, name: "UNI / USDC", address: "0x12FAAd8e6EaBc80b6aCD5F541ae45C64F71B1CcE", network: "Superposition Testnet" },
+    { id: 2000099, name: "APT / USD", address: "0x30810E710c951e6BE28d326c29f5Ee795016F417", network: "Superposition Testnet" },
+    { id: 2000100, name: "APT / USDT", address: "0x3b129ff701B72758fD9e0Cd22C6Ec019B4D041bc", network: "Superposition Testnet" },
+    { id: 2000101, name: "APT / USDC", address: "0xe5829eF89B9f3527922584470ab997180333f9Ea", network: "Superposition Testnet" },
+    { id: 2000102, name: "NEAR / USD", address: "0xCB2692681E33abC7dccA420d8AF3e508A5882b2b", network: "Superposition Testnet" }
 ];
 
 // GitHub verileri için mock data

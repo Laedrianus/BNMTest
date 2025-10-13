@@ -55,7 +55,7 @@
             <div class="made-by">
                 Made By Laedrianus with love for Blocksense Network
             </div>
-            <div class="app-version">App Version: v1.1.0</div>
+            <div class="app-version">App Version: v1.6.0</div>
         </div>
     </div>
     
@@ -79,6 +79,40 @@
                 document.getElementById('language').textContent = language;
                 
                 document.title = `Monthly Community Call #${callNumber} Transcript (${language}) - BlockSense Network Monitor`;
+                // Load transcript content into the page
+                const transcriptContainer = document.getElementById('transcriptContent');
+                transcriptContainer.innerHTML = `
+                    <div class="loading-spinner" style="text-align:center; padding: 30px;">
+                        <i class="fas fa-spinner fa-spin"></i> Loading transcript...
+                    </div>
+                `;
+
+                const isFireSide = (callNumber === 'fireside');
+                const transcriptPath = isFireSide
+                    ? `transcripts/${language}/fireside.txt`
+                    : `transcripts/${language}/call-${callNumber}.txt`;
+
+                fetch(transcriptPath)
+                    .then(response => {
+                        if (!response.ok) throw new Error('Transcript not found');
+                        return response.text();
+                    })
+                    .then(text => {
+                        transcriptContainer.innerHTML = `
+                            <div class="transcript-content" style="line-height:1.6; font-size:15px;">
+                                ${text.replace(/\n/g, '<br>')}
+                            </div>
+                        `;
+                    })
+                    .catch(err => {
+                        console.error('Transcript loading error:', err);
+                        transcriptContainer.innerHTML = `
+                            <div class="error-message">
+                                <p>Transcript could not be loaded from: ${transcriptPath}</p>
+                                <a href="index.html" class="primary-btn">Back to Main Page</a>
+                            </div>
+                        `;
+                    });
             } else {
                 document.getElementById('transcriptContent').innerHTML = `
                     <div class="error-message">
