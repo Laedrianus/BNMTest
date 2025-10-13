@@ -27,7 +27,7 @@ fi
 
 # Start the server
 echo "🔧 Starting server on port 3000..."
-echo "📱 Admin Panel will be available at: http://localhost:3000/../admin.html?secret=antoncehov1890!?"
+echo "📱 Admin Panel will be available at: http://localhost:3000/../admin.html?secret=YOUR_SECRET_HERE"
 echo "🔗 Backend API will be available at: http://localhost:3000/api/admin/add-call"
 echo ""
 echo "Press Ctrl+C to stop the server"
