@@ -219,12 +219,18 @@ function applyFilters(feeds) {
     }
 
     if (selectedNetworkId) {
-        // Ağ bazlı filtreleme: Etiketlenmiş ağlar için sadece o ağa ait feed'leri göster
-        if (selectedNetworkId === "Superposition Testnet" || selectedNetworkId === "Fluent Testnet") {
-            filteredFeeds = filteredFeeds.filter(feed => feed.network === selectedNetworkId);
+        // Ağ bazlı filtreleme: Tüm ağlar aynı kontrat adreslerini kullanır
+        if (selectedNetworkId === "Superposition Testnet") {
+            // Superposition testnet için özel filtreleme (gerçek deploy edilmiş)
+            filteredFeeds = filteredFeeds.filter(feed => 
+                feed.network === "Superposition Testnet"
+            );
         } else {
             // Diğer ağlar için: network alanı olmayan genel feed'leri göster
-            filteredFeeds = filteredFeeds.filter(feed => !feed.network);
+            // Bu feed'ler tüm ağlarda aynı adreslerle çalışır (CREATE2/deterministic)
+            filteredFeeds = filteredFeeds.filter(feed => 
+                !feed.network
+            );
         }
     }
 
@@ -1168,8 +1174,7 @@ function initCommunityCalls() {
         "30 May 2025",
         "2 July 2025",
         "31 July 2025",
-        "5 September 2025",
-        "Test Date"
+        "5 September 2025"
     ];
     
     for (let i = 1; i <= 12; i++) {
