@@ -659,6 +659,60 @@
         let deletingCallNumber = null;
         let existingCalls = [];
         
+        // API Base URL
+        const API_BASE = 'http://localhost:3000';
+        
+        // Test: Sayfa yüklendiğinde çalışacak
+        document.addEventListener('DOMContentLoaded', function() {
+            console.log('🚀 DOMContentLoaded - Sayfa yüklendi');
+            console.log('🔍 adminForm elementi:', document.getElementById('adminForm'));
+            console.log('🔍 submitBtn elementi:', document.getElementById('submitBtn'));
+            console.log('🔍 API_BASE:', API_BASE);
+            
+            // Event listener'ları burada ekle
+            setupEventListeners();
+        });
+        
+        function setupEventListeners() {
+            console.log('🎯 Event listener\'lar ekleniyor...');
+            
+            // Form submission
+            const adminForm = document.getElementById('adminForm');
+            if (adminForm) {
+                adminForm.addEventListener('submit', async function(e) {
+                    console.log('📝 Form submit event tetiklendi!');
+                    e.preventDefault();
+                    
+                    if (currentMode === 'edit') {
+                        console.log('✏️ Edit mode - handleUpdateCall çağrılıyor');
+                        await handleUpdateCall();
+                    } else {
+                        console.log('➕ Add mode - handleAddCall çağrılıyor');
+                        await handleAddCall();
+                    }
+                });
+                console.log('✅ Form submit listener eklendi');
+            }
+            
+            // Submit button click (backup)
+            const submitBtn = document.getElementById('submitBtn');
+            if (submitBtn) {
+                submitBtn.addEventListener('click', async function(e) {
+                    console.log('🖱️ Submit button click event tetiklendi!');
+                    e.preventDefault();
+                    
+                    if (currentMode === 'edit') {
+                        console.log('✏️ Edit mode - handleUpdateCall çağrılıyor');
+                        await handleUpdateCall();
+                    } else {
+                        console.log('➕ Add mode - handleAddCall çağrılıyor');
+                        await handleAddCall();
+                    }
+                });
+                console.log('✅ Submit button click listener eklendi');
+            }
+        }
+        
         // Mode selection handlers
         document.getElementById('addModeBtn').addEventListener('click', () => switchMode('add'));
         document.getElementById('editModeBtn').addEventListener('click', () => switchMode('edit'));
@@ -704,7 +758,7 @@
         // Load existing calls
         async function loadExistingCalls() {
             try {
-                const response = await fetch('/api/admin/get-calls');
+                const response = await fetch(`${API_BASE}/api/admin/get-calls`);
                 if (response.ok) {
                     existingCalls = await response.json();
                     displayCalls();
@@ -843,7 +897,7 @@
             if (!deletingCallNumber) return;
             
             try {
-                const response = await fetch('/api/admin/delete-call', {
+                const response = await fetch(`${API_BASE}/api/admin/delete-call`, {
                     method: 'POST',
                     headers: {
                         'Content-Type': 'application/json',
@@ -881,16 +935,6 @@
             }, 5000);
         }
         
-        // Form submission
-        document.getElementById('adminForm').addEventListener('submit', async function(e) {
-            e.preventDefault();
-            
-            if (currentMode === 'edit') {
-                await handleUpdateCall();
-            } else {
-                await handleAddCall();
-            }
-        });
         
         // Update button handler
         document.getElementById('updateBtn').addEventListener('click', async function(e) {
@@ -900,6 +944,7 @@
         
         // Handle add call
         async function handleAddCall() {
+            console.log('🚀 handleAddCall başladı');
             const submitBtn = document.getElementById('submitBtn');
             const loadingSpinner = document.getElementById('loadingSpinner');
             
@@ -908,8 +953,13 @@
             loadingSpinner.style.display = 'block';
             
             try {
+                console.log('📝 getFormData çağrılıyor...');
                 const adminData = await getFormData();
+                console.log('✅ Form data alındı:', adminData);
+                
+                console.log('🔄 processAdminRequest çağrılıyor...');
                 const result = await processAdminRequest(adminData);
+                console.log('✅ API response:', result);
                 
                 showStatusMessage('success', 'Call added successfully! All files have been updated and committed to git.');
                 
@@ -918,7 +968,7 @@
                 await loadExistingCalls();
                 
             } catch (error) {
-                console.error('Error:', error);
+                console.error('❌ Error:', error);
                 showStatusMessage('error', `Error: ${error.message}`);
             } finally {
                 submitBtn.disabled = false;
@@ -959,6 +1009,7 @@
         
         // Get form data
         async function getFormData() {
+            console.log('📋 getFormData başladı');
             const form = document.getElementById('adminForm');
             const formData = new FormData(form);
             const callNumber = formData.get('callNumber');
@@ -966,6 +1017,14 @@
             const youtubeLink = formData.get('youtubeLink');
             const englishTranscript = formData.get('englishTranscript');
             const turkishTranscript = formData.get('turkishTranscript');
+            
+            console.log('📝 Form değerleri:', {
+                callNumber,
+                callDate,
+                youtubeLink,
+                englishTranscript: englishTranscript ? englishTranscript.name : 'YOK',
+                turkishTranscript: turkishTranscript ? turkishTranscript.name : 'YOK'
+            });
             
             // Validate inputs
             if (!callNumber || !callDate || !youtubeLink) {
@@ -995,6 +1054,7 @@
             
             // Add transcript data only if files are selected
             if (englishTranscript && englishTranscript.size > 0) {
+                console.log('📄 English transcript okunuyor...');
                 adminData.englishTranscript = {
                     name: englishTranscript.name,
                     content: await readFileAsText(englishTranscript)
@@ -1002,12 +1062,14 @@
             }
             
             if (turkishTranscript && turkishTranscript.size > 0) {
+                console.log('📄 Turkish transcript okunuyor...');
                 adminData.turkishTranscript = {
                     name: turkishTranscript.name,
                     content: await readFileAsText(turkishTranscript)
                 };
             }
             
+            console.log('✅ Final adminData:', adminData);
             return adminData;
         }
         
@@ -1023,8 +1085,11 @@
         
         // Process admin request via backend API
         async function processAdminRequest(data) {
+            console.log('🌐 processAdminRequest başladı, API_BASE:', API_BASE);
+            console.log('📤 Gönderilecek data:', data);
+            
             try {
-                const response = await fetch('/api/admin/add-call', {
+                const response = await fetch(`${API_BASE}/api/admin/add-call`, {
                     method: 'POST',
                     headers: {
                         'Content-Type': 'application/json',
@@ -1032,17 +1097,21 @@
                     body: JSON.stringify(data)
                 });
                 
+                console.log('📡 Response status:', response.status);
+                console.log('📡 Response ok:', response.ok);
+                
                 if (!response.ok) {
                     const errorData = await response.json();
+                    console.error('❌ API Error:', errorData);
                     throw new Error(errorData.message || `HTTP error! status: ${response.status}`);
                 }
                 
                 const result = await response.json();
-                console.log('Admin request successful:', result);
+                console.log('✅ Admin request successful:', result);
                 return result;
                 
             } catch (error) {
-                console.error('Admin API Error:', error);
+                console.error('❌ processAdminRequest Error:', error);
                 throw error;
             }
         }
@@ -1050,7 +1119,7 @@
         // Process update request via backend API
         async function processUpdateRequest(data) {
             try {
-                const response = await fetch('/api/admin/update-call', {
+                const response = await fetch(`${API_BASE}/api/admin/update-call`, {
                     method: 'POST',
                     headers: {
                         'Content-Type': 'application/json',

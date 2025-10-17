@@ -1,0 +1,13 @@
+{
+  "callNumber": 13,
+  "callDate": "Test Date",
+  "youtubeLink": "https://www.youtube.com/embed/test",
+  "englishTranscript": {
+    "name": "test.txt",
+    "content": "test content"
+  },
+  "turkishTranscript": {
+    "name": "test.txt",
+    "content": "test content"
+  }
+}
